@@ -313,3 +313,94 @@ sequenceDiagram
 ---
 
 *Document will be updated as tests complete*
+
+---
+
+## 🔧 CLAWHUB SKILLS ANALYSIS
+
+### instagram-analyzer (Score: TBD)
+
+**How it works:**
+- Uses Playwright browser automation (not API)
+- Simulates human behavior with stealth mode
+- Requires Chromium browser
+
+**Features:**
+- Profile analysis (60+ posts)
+- Reels-focused analytics
+- View-to-follower ratio
+- Engagement rate calculations
+- JSON/CSV export
+- All Reels links extraction
+
+**Output example:**
+```json
+{
+  "metrics": {
+    "views": 125000,
+    "likes": 8542,
+    "comments": 312,
+    "saves": 892,
+    "followers": 125000
+  },
+  "ratios": {
+    "view_to_follower_percent": 100.0,
+    "engagement_rate": 7.8
+  }
+}
+```
+
+**Pros:**
+- FREE
+- Gets saves count (rare)
+- Engagement rates pre-calculated
+
+**Cons:**
+- Needs Chromium
+- May need Instagram login
+- Slower than API
+
+---
+
+### faster-whisper-transcribe (Score: TBD)
+
+**How it works:**
+- Local Faster Whisper models
+- No API calls (privacy-first)
+
+**Models:**
+- tiny: Fastest, lowest accuracy
+- base: Balanced
+- small: Better accuracy
+- medium: High accuracy (needs RAM)
+
+**Pros:**
+- 100% FREE
+- No rate limits
+- Privacy-focused
+
+**Cons:**
+- Needs RAM (especially medium model)
+- Slower than cloud APIs
+- Quality depends on model size
+
+---
+
+## 📊 UPDATED TOOL COMPARISON
+
+### Scraping Options
+
+| Tool | Type | Cost | Quality | Speed | Login Needed |
+|------|------|------|---------|-------|--------------|
+| Instaloader | Python | FREE | High | Medium | Optional |
+| yt-dlp | CLI | FREE | Medium | Fast | No |
+| Apify | API | $2.60/1K | Very High | Fast | No |
+| instagram-analyzer | Playwright | FREE | High | Slow | Maybe |
+
+### Transcription Options
+
+| Tool | Type | Cost | Quality | Speed | Hindi |
+|------|------|------|---------|-------|-------|
+| Groq Whisper | API | FREE | Excellent | Very Fast | ✅ |
+| faster-whisper | Local | FREE | Good-Excellent | Medium | ✅ |
+| OpenAI Whisper | API | $0.006/min | Excellent | Fast | ✅ |
