@@ -1,0 +1,15 @@
+# ContentRadar Dependencies
+
+# Core
+pyyaml>=6.0
+requests>=2.31.0
+
+# AI/ML APIs
+anthropic>=0.40.0
+google-generativeai>=0.8.0
+
+# Media processing (requires system ffmpeg/yt-dlp)
+# Install: sudo apt-get install ffmpeg yt-dlp
+
+# Optional but recommended
+python-dotenv>=1.0.0

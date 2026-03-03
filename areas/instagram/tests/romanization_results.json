@@ -1,0 +1,132 @@
+{
+  "audio_1.mp3": {
+    "method_1_groq_en": {
+      "method": "Groq Whisper (language=en)",
+      "success": true,
+      "transcript": " This Kachori was being sold by Jeeyan Bhai at Jeeyan Kachori Centre. To increase the business, he hired an influencer named Dora Bhai. Dora Bhai gave him this type of reel. As the performance of the reel was good, Jeeyan Bhai asked Dora Bhai to do partnership ads of this type. Hearing this, Dora Bhai thought that doing partnership ads will benefit the business because the business will get the face of the influencer and the audience. But what is the benefit of this? So he went to his friend Ninja Marketing Services. So Ninja Bhai advised him that yes, you should do partnership ads. Because the way business's partnership ads increase sales, similarly Dora Bhai will get data that how much sale is coming from ads and he will know his brand value. Because in industry, most of the top creators' audience is fragmented and that is overpaid and small creators whose audience is niche is underpaid.",
+      "time_seconds": 3.17,
+      "estimated_cost_usd": 8.085126876831056e-06,
+      "complexity": "Low - Single API call",
+      "notes": "Forces Whisper to output in English letters"
+    },
+    "method_2_groq_gemini": {
+      "method": "Groq Hindi + Gemini Romanize",
+      "success": false,
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    "method_3_simple_map": {
+      "method": "Groq Hindi + Simple Char Mapping",
+      "success": true,
+      "transcript_hindi": " इस कचोरी को जियान बाई बेच रहे थे जियान कचोरी सेंटर पे अब बिजनस को बढ़ाने के लिए इनोंने एक इंफ्लुएंजर हायर किया जिसका नाम था डोरा बाई अब डोरा बाई ने कुछ इस टाइप की इनको रील बना के दे दी अब रिल का performance अच्छा आया तो जियान बाई ने डोरा बाई को बोला कि चलो partnership ads करते हैं कुछ इस type की ये सुनके डोरा बाई सोच में पढ़ गए कि partnership ads करने से business का तो फाइदा है क्योंकि business को influencer का face मिल जाएगा audience मिल जाएगी लेकिन इसमें मेरा क्या फाइदा ये गए फिर अपने दोस्त Ninja Marketing Services के पास तो Ninja भाई ने इनको सला दी कि हाँ भाई आपको Partnership Ads करनी चाही क्योंकि जिस तरफ Business का Partnership Ads करके Sales बढ़ता है उसी तरफ Dora भाई को मिलेगा Data कि Ads से Total कितना Sale आ रहा है और इनको अपनी Brand Value पता चलेगी क्योंकि industry में जादा तर top creators की audience fragmented है और वो है overpaid और small creators जिनकी audience niche है वो है underpaid",
+      "transcript_roman": " isa kachaoraee kao jaiyaaana baaaee baecha rahae thae jaiyaaana kachaoraee saemtara pae aba baijanasa kao badha़aanae kae laie inaomnae eka imphalauemjara haaayara kaiyaaa jaisakaaa naaama thaaa daoraaa baaaee aba daoraaa baaaee nae kauchha isa taaaipa kaee inakao raeela banaaa kae dae daee aba raila kaaa performance achachhaaa aayaaa tao jaiyaaana baaaee nae daoraaa baaaee kao baolaaa kai chalao partnership ads karatae haaim kauchha isa type kaee yae saunakae daoraaa baaaee saocha maem padha़ gae kai partnership ads karanae sae business kaaa tao phaaaidaaa haai kayaomkai business kao influencer kaaa face maila jaaaegaaa audience maila jaaaegaee laekaina isamaem maeraaa kayaaa phaaaidaaa yae gae phaira apanae daosata Ninja Marketing Services kae paaasa tao Ninja bhaaaee nae inakao salaaa daee kai haaaँ bhaaaee aapakao Partnership Ads karanaee chaaahaee kayaomkai jaisa tarapha Business kaaa Partnership Ads karakae Sales badha़taaa haai usaee tarapha Dora bhaaaee kao mailaegaaa Data kai Ads sae Total kaitanaaa Sale aa rahaaa haai aura inakao apanaee Brand Value pataaa chalaegaee kayaomkai industry maem jaaadaaa tara top creators kaee audience fragmented haai aura vao haai overpaid aura small creators jainakaee audience niche haai vao haai underpaid",
+      "time_seconds": 1.82,
+      "estimated_cost_usd": 1e-05,
+      "complexity": "Low - Single API call + simple logic",
+      "notes": "Basic character mapping - may not handle context well"
+    }
+  },
+  "audio_2.mp3": {
+    "method_1_groq_en": {
+      "method": "Groq Whisper (language=en)",
+      "success": true,
+      "transcript": " Hey, watch where you're going. Hey, touch me one more time, you're going to find out who I really am. My name is Grant Bean, I am 25 years old, and I think I have what it takes to be the next big thing. Go ahead. I'm not yet. Stop. It's a yes for me. You're going to Hollywood. This has been my dream ever since I was a kid. Wake up. Dude, wake up, we're late. What time is it? It's time to go, I made you breakfast in bed. Oh, hell no. Are those the new breakfast bites? You freaking know it. This guy's an animal before his morning coffee. We're gonna miss the train. Bro, the train's about to leave. I dreamed this. That's your dream? I think so. Then go live your dream. Maybe I will.",
+      "time_seconds": 0.82,
+      "estimated_cost_usd": 1.3785715103149416e-05,
+      "complexity": "Low - Single API call",
+      "notes": "Forces Whisper to output in English letters"
+    },
+    "method_2_groq_gemini": {
+      "method": "Groq Hindi + Gemini Romanize",
+      "success": false,
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    "method_3_simple_map": {
+      "method": "Groq Hindi + Simple Char Mapping",
+      "success": true,
+      "transcript_hindi": " कि हेलो हेलो गुवेश्वर इसे प्रिंट फॉर टाइम यहां फाइड आएंग्रेट रिली है और मैं पर बिनाओं कि एन ट्वीपाइट यहां और उदाहरण है और मैं कहता हूं कि इसे पर अच्छा बात करें जिससे आपको जगत करें सड़ाप टीएस फॉर में विर गोंट आली वॉस बिनकृत नदर सेन किट वेग अप डूब विक आप हैं लेंगे टाइम इसे टाइम यू गो आइन थ्यू ब्रेकफ इस बेड ऑंग्रियल तो यह निवर इस पहले इस फ्रिक नो एड लुट लुट कि इस गाइस एनानिमल बिल्कुल इस मौर्डिंग काफी यह इस ट्रेन पर उपड़ेगा अब इस ट्रेन बात लीजिए आई ड्रीम इस दुर्ज रिम तो अपने गोल दिख रही है विद विल अ",
+      "transcript_roman": " kai haelao haelao gauvaeshavara isae paraimta phaॉra taaaima yahaaam phaaaida aaemgaraeta railaee haai aura maaim para bainaaaom kai ena tavaeepaaaita yahaaam aura udaaaharana haai aura maaim kahataaa haoom kai isae para achachhaaa baaata karaem jaisasae aapakao jagata karaem sada़aapa taeeesa phaॉra maem vaira gaomta aalaee vaॉsa bainakaृta nadara saena kaita vaega apa daooba vaika aapa haaim laemgae taaaima isae taaaima yaoo gao aaina thayaoo baraekapha isa baeda ऑmgaraiyala tao yaha naivara isa pahalae isa pharaika nao eda lauta lauta kai isa gaaaisa enaaanaimala bailakaula isa maauradaimga kaaaphaee yaha isa taraena para upada़egaaa aba isa taraena baaata laeejaie aaee daraeema isa dauraja raima tao apanae gaola daikha rahaee haai vaida vaila a",
+      "time_seconds": 4.28,
+      "estimated_cost_usd": 1e-05,
+      "complexity": "Low - Single API call + simple logic",
+      "notes": "Basic character mapping - may not handle context well"
+    }
+  },
+  "audio_3.mp3": {
+    "method_1_groq_en": {
+      "method": "Groq Whisper (language=en)",
+      "success": true,
+      "transcript": " This is the Pataka that Jeeyan ji is selling at Jeeyan Pataka Centre. To grow the business, he hired Nobita and Sunyo. They published a lot of custom templates and asked them to distribute them among the people. So Nobita ji got her own custom template and Sunyo ji got her own custom template. Nobita ji worked very hard. Outside the school, playground, outside the market, he was aware of everyone that you should buy a Pataka from Jeeyan Pataka Centre. What did Sunyo do? He sat outside of Jihan's shop 100 meters away. And those who were going to buy the same product, he just gave his code that if you give this code, you will get an additional discount. Next month, when Jihan was checking the result of his campaign, more codes were redeemed by Sunyo and less codes by Nobita. So he fired Nobita. After some time, Jihan's business kept falling because he fired the one who was working hard. This teaches us that your focus should be on incrementality rather than attribution. In our case, the sale that Sunyo Ji was doing and the sale that came from him was not going to come anyway. But the sale that Nobita Ji was doing and the sale that came from him was additional sales for Jihan Ji's brand.",
+      "time_seconds": 2.09,
+      "estimated_cost_usd": 1.0802574157714844e-05,
+      "complexity": "Low - Single API call",
+      "notes": "Forces Whisper to output in English letters"
+    },
+    "method_2_groq_gemini": {
+      "method": "Groq Hindi + Gemini Romanize",
+      "success": false,
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    "method_3_simple_map": {
+      "method": "Groq Hindi + Simple Char Mapping",
+      "success": true,
+      "transcript_hindi": " इस पटाके को बेच रहे हैं जियान जी, जियान पटाका सेंटर पे बिजनेस को ग्रो करने के लिए इनोंने हायर किया नोबीता और सुन्यो को इनोंने बहुत सारे कस्टम पेमप्लेट चपाए और बोला के भाई लोगों में बाटो तो नोबिता जी को अपना custom template मिला और सुन्यो जी को अपना custom template नोबिता जी ने बहुत मेहनत की ये school के बाहर, playground के बाहर, market के बाहर सब को aware करते जा रहे थे कि जियान पटाका center से आप पटाका लीजे सुनियो ने क्या किया जियान जी की दुकान के बाहर 100 मेटर के बाहर वो बैठ गए और जो लोग वैसे ही प्रड़क खरीदने वाले थे उनको बस अपना कोड दे दिया कि ये कोड देना तो आपको मिलेगा एडिशनल डिसकाउंट next month जियान जी जब अपना campaign का result check कर रहे थे तो जादा codes सुन्यो जी के redeem हुए और नोबिता के कम codes redeem हुए तो इन्होंने नोबिता को fire कर दिया कुछ time बाद जियान जी का business गिरता गया क्योंकि जो जादा मेहनत कर रहा था उसको तो इन्होंने fire कर दिया इससे हमें ये सीख मिल दिये कि आपका फोकस attribution से ज़्यादा incrementality पे होना चाहिए हमारे case में सुनियो जी जो marketing कर रहे थे और उससे जो sale आया वो तो anywhere आनही वाला था लेकिन नोबिता जी जो marketing कर रहे थे और उससे जो sale आया वो जियान जी की brand के लिए additional sales था",
+      "transcript_roman": " isa pataaakae kao baecha rahae haaim jaiyaaana jaee, jaiyaaana pataaakaaa saemtara pae baijanaesa kao garao karanae kae laie inaomnae haaayara kaiyaaa naobaeetaaa aura saunayao kao inaomnae bahauta saaarae kasatama paemapalaeta chapaaae aura baolaaa kae bhaaaee laogaom maem baaatao tao naobaitaaa jaee kao apanaaa custom template mailaaa aura saunayao jaee kao apanaaa custom template naobaitaaa jaee nae bahauta maehanata kaee yae school kae baaahara, playground kae baaahara, market kae baaahara saba kao aware karatae jaaa rahae thae kai jaiyaaana pataaakaaa center sae aapa pataaakaaa laeejae saunaiyao nae kayaaa kaiyaaa jaiyaaana jaee kaee daukaaana kae baaahara 100 maetara kae baaahara vao baaitha gae aura jao laoga vaaisae haee parada़ka kharaeedanae vaaalae thae unakao basa apanaaa kaoda dae daiyaaa kai yae kaoda daenaaa tao aapakao mailaegaaa edaishanala daisakaaaumta next month jaiyaaana jaee jaba apanaaa campaign kaaa result check kara rahae thae tao jaaadaaa codes saunayao jaee kae redeem haue aura naobaitaaa kae kama codes redeem haue tao inahaomnae naobaitaaa kao fire kara daiyaaa kauchha time baaada jaiyaaana jaee kaaa business gairataaa gayaaa kayaomkai jao jaaadaaa maehanata kara rahaaa thaaa usakao tao inahaomnae fire kara daiyaaa isasae hamaem yae saeekha maila daiyae kai aapakaaa phaokasa attribution sae ja़yaaadaaa incrementality pae haonaaa chaaahaie hamaaarae case maem saunaiyao jaee jao marketing kara rahae thae aura usasae jao sale aayaaa vao tao anywhere aanahaee vaaalaaa thaaa laekaina naobaitaaa jaee jao marketing kara rahae thae aura usasae jao sale aayaaa vao jaiyaaana jaee kaee brand kae laie additional sales thaaa",
+      "time_seconds": 2.69,
+      "estimated_cost_usd": 1e-05,
+      "complexity": "Low - Single API call + simple logic",
+      "notes": "Basic character mapping - may not handle context well"
+    }
+  },
+  "audio_4.mp3": {
+    "method_1_groq_en": {
+      "method": "Groq Whisper (language=en)",
+      "success": true,
+      "transcript": " or water break. Let's go. What are you doing? One dollar lemonade. What are you having? Lemonade on the rock. Coming right up. Thanks. I'll have what he's having. Thanks. Alright, I gotta get back to the wife. Pfft. This lemonade's incredible. What's the secret ingredient? Piss. What's it take to work in a place like this? I don't know, I'd have to run it through corporate. Well, can I get an application? Nah, that's all kind of online. Just give me a shot. Look, it's not gonna work, okay? There's the door. Hey, maybe one day. Taxi. What's this? The best lemonade you'll ever have. So what'd you do with that lemon back there? Yeah, it's the least I could do. You? Here's your stop.",
+      "time_seconds": 0.83,
+      "estimated_cost_usd": 1.6523227691650393e-05,
+      "complexity": "Low - Single API call",
+      "notes": "Forces Whisper to output in English letters"
+    },
+    "method_2_groq_gemini": {
+      "method": "Groq Hindi + Gemini Romanize",
+      "success": false,
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    "method_3_simple_map": {
+      "method": "Groq Hindi + Simple Char Mapping",
+      "success": true,
+      "transcript_hindi": " वाटर प्रेम लेते हैं आप क्या करते हैं लेमिनेट एक डालर क्या आपको लेमिनेट लेते हैं उसके बाद पर लेंगे आपको इस आवश्यकारी निकाल पर जाएगा आपको इस आवश्यकारी निकाल पर जाएगा कि अ इस दिश बस लोग ने जो अब रहा है तो चिप देव लेमन बाग देर यह इसलिए स्टाइड कर दो यू यू जर्स्ट आप",
+      "transcript_roman": " vaaatara paraema laetae haaim aapa kayaaa karatae haaim laemainaeta eka daaalara kayaaa aapakao laemainaeta laetae haaim usakae baaada para laemgae aapakao isa aavashayakaaaraee naikaaala para jaaaegaaa aapakao isa aavashayakaaaraee naikaaala para jaaaegaaa kai a isa daisha basa laoga nae jao aba rahaaa haai tao chaipa daeva laemana baaaga daera yaha isalaie sataaaida kara dao yaoo yaoo jarasata aapa",
+      "time_seconds": 2.0,
+      "estimated_cost_usd": 1e-05,
+      "complexity": "Low - Single API call + simple logic",
+      "notes": "Basic character mapping - may not handle context well"
+    }
+  },
+  "audio_5.mp3": {
+    "method_1_groq_en": {
+      "method": "Groq Whisper (language=en)",
+      "success": true,
+      "transcript": " What? Who are you? I'll be your waiter this evening. What can I get y'all started with? I'll do the soup. And for you, sir? Uh, I'll have what he's having. I'll be right back with those soups. You okay? We were just in your room. What? How did we get here? Oh, I don't know. I made a reservation four months ago. Without talking to me. Can you go five seconds without complaining? I could go ten. You happy now? It was the best ten seconds of my life. Just drop it. And here's that soup. Thanks. Yeah, thanks. Is that DJ Khaled, Ronaldo, Millie Bobby Brown, Drewski, and Mr. Beast in a cheer pyramid? Where? You're acting like a child. I am not. Can we get this guy a kid's menu? Are you joking? Do I look like someone who's joking? Dude, sit down and eat your soup. Wait. What? Jericho, I'm sorry. No, no, no. I'm so cold. How's that? I thought I lost you for a second. Can't get rid of you that easy.",
+      "time_seconds": 1.08,
+      "estimated_cost_usd": 1.9232826232910158e-05,
+      "complexity": "Low - Single API call",
+      "notes": "Forces Whisper to output in English letters"
+    },
+    "method_2_groq_gemini": {
+      "method": "Groq Hindi + Gemini Romanize",
+      "success": false,
+      "error": "404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods."
+    },
+    "method_3_simple_map": {
+      "method": "Groq Hindi + Simple Char Mapping",
+      "success": true,
+      "transcript_hindi": " सुवुच्च मुफ मैं आकर मैं आपकी वेटर नाव यहाँ उननी मैं � McFaul की य webinar पहलि जाएगी सूक मैं की पुरकी अपने से अ sweet वे लॉ � TONizione की चीजा की सूक में आज कर रहा हूँ फोलिस केवल हुआ था हम आप मिनदेर में अपनी लेजा थी seconds without complaining i could go ten you happy now it was the best 10 seconds of my life just drop it and here's that soup thanks yeah thanks is that dj khaled ronaldo millie bobby brown druski and mr beast in a cheer pyramid where यू जो किंग लुट सिट आट एंड लाइक इस गाय किड्स मैं यू जो किंग लुट लुट सिट आट एंड इच यू वेट वह चेरको शॉरी नो नो नो अब कि अजय को अब आप तुझे पर सेख करें यह विदादी",
+      "transcript_roman": " sauvauchacha maupha maaim aakara maaim aapakaee vaetara naaava yahaaaँ unanaee maaim � McFaul kaee ya webinar pahalai jaaaegaee saooka maaim kaee paurakaee apanae sae a sweet vae laॉ � TONizione kaee chaeejaaa kaee saooka maem aaja kara rahaaa haooँ phaolaisa kaevala hauaa thaaa hama aapa mainadaera maem apanaee laejaaa thaee seconds without complaining i could go ten you happy now it was the best 10 seconds of my life just drop it and here's that soup thanks yeah thanks is that dj khaled ronaldo millie bobby brown druski and mr beast in a cheer pyramid where yaoo jao kaimga lauta saita aata emda laaaika isa gaaaya kaidasa maaim yaoo jao kaimga lauta lauta saita aata emda icha yaoo vaeta vaha chaerakao shaॉraee nao nao nao aba kai ajaya kao aba aapa taujhae para saekha karaem yaha vaidaaadaee",
+      "time_seconds": 4.91,
+      "estimated_cost_usd": 1e-05,
+      "complexity": "Low - Single API call + simple logic",
+      "notes": "Basic character mapping - may not handle context well"
+    }
+  }
+}

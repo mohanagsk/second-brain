@@ -1,0 +1,26 @@
+Analyze this Instagram reel transcript and metadata. Provide:
+
+1. HOOK ANALYSIS (first 3 seconds)
+   - What technique is used? (question, challenge, controversy, curiosity gap)
+   - Why does it work?
+   - Rate effectiveness 1-10
+
+2. RETENTION ANALYSIS
+   - What keeps viewers watching?
+   - Identify curiosity loops
+   - Pacing assessment
+
+3. CTA ANALYSIS
+   - What action is requested?
+   - When does it appear?
+   - Effectiveness rating
+
+4. EMOTIONAL TRIGGERS
+   - Primary emotion targeted
+   - How is it triggered?
+
+5. REPLICATION TEMPLATE
+   - Provide a fill-in-the-blank template to recreate this style
+
+6. HYPOTHESIS
+   - Why did this go viral? One sentence hypothesis.

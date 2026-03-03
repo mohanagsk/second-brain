@@ -1,0 +1,21 @@
+creators:
+  - username: divy.kairoth
+    platform: instagram
+  - username: jaykapoor.24
+    platform: instagram
+  - username: vedikabhaia
+    platform: instagram
+
+# Outlier detection thresholds
+thresholds:
+  outlier_multiplier: 3.0  # >3x average engagement
+  major_outlier_multiplier: 10.0  # >10x for alerts
+
+# Scraping settings
+scraping:
+  posts_per_creator: 100
+  
+# Output settings
+output:
+  swipe_files_dir: data/swipe_files
+  reports_dir: data/reports
