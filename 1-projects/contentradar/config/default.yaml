@@ -1,0 +1,19 @@
+# ContentRadar default configuration
+
+scan:
+  youtube:
+    limit: 50
+    threshold: 3.0
+    method: mean        # mean | median
+    window: null        # null = all-time, or 30, 90, 180, 365 (days)
+    sleep_interval: 2
+    max_sleep_interval: 5
+
+output:
+  format: table         # table | json | csv
+  save_raw: true
+  save_outliers: true
+
+paths:
+  raw_data: data/raw
+  outliers: data/outliers

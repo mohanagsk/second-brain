@@ -1,0 +1,725 @@
+all right thank you Jay-Z and big thank
+you to Lenny for putting on this amazing
+conference inviting all his friends
+welcome Lenny's friends all right so
+today uh we're going to talk about
+rituals for great decision- making and
+before we get into decision- making
+we're going to talk about the first word
+rituals so rituals is a topic that I'm
+obsessed with I think people have some
+normal Hobbies I have this weird one I
+like to collect up people's rituals uh
+I'm actually turning into a book it's
+called rituals of great teams and my
+whole inspiration for it started with a
+conversation with this guy Bing Gordon
+and Bing if you don't know him he was
+the chief creative officer at Electronic
+Arts uh he's now a famous investor
+places like Zinga uh Amazon many other
+great companies he and I sat on a board
+together and he kept harassing the CEO
+with this question he said what are your
+golden
+rituals and and none of us really knew
+what he was talking about so he said
+Bing what's a golden ritual and he
+saidwell great companies have a small
+list of golden rituals and they have
+three tests and you quickly rattle them
+off number one they're named number two
+every employee knows them by their first
+Friday and number three they're
+templated and he quickly gave his list
+Amazon has six pagers Google does okrs
+Salesforce does V2 mom and if you want
+to be a great company you have to have a
+great set of golden rituals
+so I got pretty obsessed with this idea
+started collecting up all of these uh
+rituals I could find and putting them
+into a book um by the way if if you'd
+like I'm writing the book in the open uh
+so you can come join what I call the
+Brain Trust uh ritual great teams.com
+and I published about a chapter at a
+time and I'd love your feedback and your
+contributions along the way I got to
+meet lots of interesting people one of
+the most interesting conversations was
+with daresa so dmesh for those of you
+that don't know him he's a founder of
+HubSpot and
+he had this really interesting
+perspective on uh rituals so first off
+you shared a ritual called flash tags
+I'll talk more about that a little bit
+later in the talk but he also made an
+observation that everyone everyone here
+we all build products and for the most
+part we focus on one customer we build
+products for our end customer but we
+actually build two products there's
+another product we build for our
+employees and if you ask people to
+describe that they'll often use a term
+like
+culture but then if you ask them to
+start describing culture they'll
+describe it using the word rituals so
+often times we talk about these rituals
+and they feel like oh that's just the
+way we work that's our operating system
+but actually when we're designing
+rituals we're building a two-way mirror
+of our
+culture so we're going to spend a lot of
+time on decision- making but actually my
+broader ask of all of you is to think
+about what you spend your days on you're
+probably spending most of your time on
+the right hand side of this picture
+designing products for your customers
+think about how you can spend just as
+much time designing the product for your
+teams the rituals that really run how
+your culture
+operates all right that's rituals today
+we're going to talk about a specific
+type of rituals about great decision-
+making and we're going to focus on four
+different uh topics how can we ask the
+right question how we can follow the
+right decision process in the right
+Forum with the right
+stakeholders all right before I get
+started on this I have two big caveats
+so first one is I'm going to give you a
+lot of examples I stuffed as many
+examples in the 25 minutes as I possibly
+could um the examples are meant to be uh
+inspirational if some of them resonate
+with you you should use them exactly as
+is but really my main point of this talk
+isn't to take someone else's rituals
+it's to be inspired to design your own
+and the second big caveat is I'm going
+to show you a lot of examples uh from
+Kota the company from Kota customers and
+so on um while I think Kota is a great
+product for running your rituals in you
+can uh feel free to implement these in
+whatever your toolkit is the main point
+is take control of how your teams run
+their
+rituals all
+right ready for topic number one let's
+talk about asking the right question and
+I want to start this with a story from
+my time at YouTube and we're going to
+talk about a topic called igen questions
+so describe IG questions maybe I'll go
+back in time to 2008 and tell you about
+a uh a situation we had we called this
+topic the Modern Family
+question so as JayZ was saying I joined
+YouTube fairly early on 2008 uh YouTube
+was facing a lot of hard times we were
+losing a lot of money we had grainy
+videos we had a big lawsuit but actually
+if you sat in one of our staff meetings
+any day in 2008 you'd probably hear us
+talking about this thing called a modern
+family
+question the uh so what was the question
+so we would look at every day we'd look
+at our search queries YouTube was then
+and still is now the second biggest
+search engine on the planet we get our
+list of search queries and one of the
+top five queries every week was for
+Modern Family that wasn't that big a
+surprise Modern Family was a number one
+show on TV at the time there was one big
+problem we didn't have Modern Family on
+YouTube and there was a big debate about
+what we should do about it now in the
+meantime abc.com had decided to upload
+every episode of Modern Family online
+available for free and I know that's not
+such a big deal now but in 08 that
+wasn't a very common thing to do
+especially not with the number one show
+on TV and so the team divided up and
+basically half the team said we should
+link out to abc.com we're owned by
+Google do the right thing by the user
+and the other half of the team felt that
+was uh suicide if we did that then
+nobody would ever upload great content
+to YouTube and we absolutely should not
+do that every meeting we'd have the
+discussion wouldn't get a resolution
+we'd roll it over and uh the Modern
+Family question persisted so at some
+point we decided to hold an offsite to
+talk about what we're going to do about
+this and I got asked to go frame the uh
+frame the discussion pull some data try
+to come up with the framework and it was
+really hard because everybody was
+already stuck in their Viewpoint they
+already knew what they
+felt and the night before I ended up
+reading a paper from another team from
+the Google shopping team and they had
+gone and done all this research on why
+people were choosing Amazon over Google
+shopping and what they learned was all
+the users kept telling that
+we know that Google shopping has indexed
+all of Amazon and the rest of the
+internet but I prefer Amazon because it
+feels like a consistent experience
+doesn't have everything but I know how
+the reviews work I know how the pricing
+work I know how the the the shipping
+works so I'm going to pick consistency
+over
+comprehensiveness so I decided that
+rather than talking about Modern Family
+and should we link out sites we decided
+to start this discussion with a
+different topic and said in 10 years
+will the online video market value
+consistent
+or
+comprehensiveness this discussion we got
+through pretty fast took about an hour
+and we came to the conclusion that it
+would be about
+consistency and I think by the way
+looking backwards now this discussion
+was 16 years ago I think we were right
+the online video Market exploded and
+there is no one site that is
+comprehensive consistency definitely one
+but it turned out that by answering this
+question we not only answer the question
+about whether or not we should link out
+sites we answered many other questions
+as well we decided not to take uh third
+party Ed players on YouTube probably one
+of the most famous things was we ended
+up taking back control of our IOS app
+from the Apple team which is probably a
+story for a different talk but this
+whole concept of choosing the right
+question got a name it's called igen
+questions so uh first off the word igen
+question is completely made up but it's
+based off of a math word called igen
+vectors so for those you that remember
+from linear algebra class an igen Vector
+is the most discriminating Vector in a
+multi-dimensional space but if you don't
+remember that don't want to remember
+that doesn't really matter um you can
+just use the word so here's what an IG
+question is is the question that if
+answered first would answer most of the
+other
+questions it's a pretty simple idea I'm
+sure you can picture time you sat down
+to have a discussion you've got 10
+questions in your list and how are they
+ordered they might be ordered by you
+know the whenever it got brought up it
+might be by severity the reason we were
+talking about the Modern Family question
+was we were trying to do deal with
+abc.com and so that's what was at the
+top of the list but actually the right
+question answer might be number six in
+that list and if you answer that
+question you'll end up answering all the
+others as
+well another way to think about this is
+we spend a lot of time trying to get to
+the right answer and I'd encourage you
+to think about how do you get to the
+right
+question if you want to know more about
+this uh I wrote a piece about it on IG
+questions you can go hear more about
+those stories but I'll move on to topic
+number two so you got the right question
+you're ready to make a decision how do
+you form the right decision
+process I had this really fun
+conversation with Colin Brer uh Colin
+was uh former Chief of Staff to Jeff
+Bezos at Amazon he wrote a book called
+working backwards and we ended up
+talking about a famous moment in 2004
+turned out two important things happened
+in 2004 the first one was there was this
+really famous memo that got sent out
+from Jeff Bezos saying no more
+PowerPoints Colin told us the story
+apparently he was the one that drafted
+this memo he hand it to Jeff sent it out
+they didn't think it was going to be
+that big a deal but of course the deal
+that not only changed all of Amazon it
+probably changed every other company my
+guess is everyone here either runs the
+Amazon writeup culture or anti- runs the
+Amazon writeup culture one or the
+other so I said two things happened in
+2004 the other thing that happened in
+2004 was a new product came out called
+rightly rightly was a predecessor to
+Google Docs and all of a sudden we had
+Jeff telling us to do writeups and we
+had a new product that allowed us to
+co-write with each other totally magical
+experience and it had one really
+interesting feature that everybody took
+for granted it had a right-hand rail
+where we could all add
+comments and we could sort of talk with
+each other that
+way so we had a uh event we were talking
+about this process uh with Colin and a
+few other people and one of the folks
+asked this question said felt that it
+feels like the most important decisions
+in our company are jammed into the 100
+pixel panel hanging off the side of a
+Google doc is that really the best we
+can
+do and this led to a really interesting
+conversation about what's wrong with
+that and so we came with a few different
+things first one we said is um you send
+out your doc and what does everybody do
+you watch the avatars at the
+top and the CEO comes in wanders around
+your document and then
+leaves what the hell does that
+mean so we have one problem first
+comments have a you need to actually
+leave them um another problem you get to
+the review and you're ready to go
+through the discussion so what do you do
+you go through them in order the
+comments and the first one says hey you
+made a spelling mistake here second one
+says this I don't like the grammar here
+third one says do you really think it's
+a good idea I think maybe we should
+cancel this project and you kind of work
+through these things in clearly the
+wrong order to have your discussion but
+the most important thing is while you're
+talking and going through all these
+comments there's a slack thread in the
+background
+where people are asking is it are they
+really serious about this we're really
+going to do this this a or or maybe it's
+a great idea but all of that's happening
+outside of this discussion so is there a
+better way um so I'm going to tell you a
+little bit about a ritual we do at Kota
+and if you were to ask a sakota
+employees about our golden ritual they
+would almost certainly tell you about
+this uh we sometimes refer to as two-way
+write-ups sometimes get shortened a Dory
+pulse it's a pretty simple idea you send
+out a writeup um the the driver of the
+meeting will add a done reading button
+different points in the document just to
+make sure you're there and keeping up
+then rather than blurting out questions
+or going through them in comment order
+we add them to a table we vote them up
+and down we call that Dory it's name for
+the fish who ask all the questions but
+the most important part of the ritual is
+this thing in the middle we call Pulse
+and pulse is where we ask everybody to
+go on the record on your view on this
+discussion I'm supportive I'm not
+supportive uh and here's why and we do
+one specific thing is we have a little
+toggle at the top where we hide
+everybody else's uh pulses until
+everybody's done writing it's how we
+remove group
+think so if you asked the code employee
+on the first Friday about our golden
+ritual they would almost certainly tell
+you about this one not because they're
+meeting wonks they'll tell you about
+this one because it's reflective of our
+culture I'll hear them talking to their
+friends and they'll say oh yeah I joined
+this company Koda they have this value
+great ideas can come from anywhere and
+they really mean it I was in this
+meeting and my topic outvoted the CEOs I
+don't know why out voting the CEO is a
+big deal but apparently it's a big deal
+and they'll say got asked my opinion on
+this topic and I actually got to write
+it down in a thoughtful way and it
+wasn't performative and it got
+incorporated into the discussion and
+Koda really means it with this with this
+culture so this is our golden ritual but
+it's reflective of our culture it also
+happens to be one of the most copied
+rituals in the Koda library and so I've
+seen many other ways that people have
+adapted it and I wrote a little piece
+about it um about a year ago called 14
+ways to Dory pulse where I selected the
+variations that we've seen at other
+companies each of which are tuned to
+what their company does so I'll give you
+a few quick examples so at Zoom uh they
+have a decision-making process they call
+root cause reasoning comes right from
+Eric uh rather than Ian questions he's
+very focused on make sure you get to the
+root cause of a question not just to
+proximal problems and they built it into
+their template how do you get to the RCR
+the root cause reasoning at coinbase I
+had an interesting conversation with
+Sergey who was CPO there at the time and
+he saw all the stuff about Dory pulse he
+says that's the opposite of our culture
+we're not doing democracy here we're not
+voting things up and down we we need to
+make it one clear decider and decide
+what we're going to do he said but I
+really like the idea that everybody has
+to write it down and we don't waste a
+bunch of time talking about it and so
+they ended up taking a version of this
+and doing it a little bit differently
+where they took their version of pulse
+and they use Rapid there and they just
+took every person's opinion but they
+clearly indicated who's recommended
+agree perform so on at the bottom is the
+decider and that's the one that really
+matters
+uh one back from YouTube one of the
+problems we had at YouTube was uh we
+would sit down to do our planning we
+called it Big Rock Planning and
+inevitably everybody would ask for
+resources for their project it's a very
+natural thing to do so we started doing
+a different ritual there we called $100
+voting a simple idea everybody you need
+to be pretend you're in charge of
+YouTube and you allocate $100 across all
+the projects and all of a sudden we saw
+people take off their team hat and put
+on their company hat and changed how we
+thought about our
+decision-making uh another one from this
+is from David Singleton at stripe um
+when I asked him about the rituals there
+he said well the secret to Y stripe has
+59s of reliability is a ritual they call
+spin the wheel and it started with a
+operational reviews where they used to
+come in and they would look at all the
+outages for the week and they would say
+uh go through them in order of the you
+know the most severe ones to the least
+severe ones and instead of doing that
+they said everybody prepare but we're
+going to spin a wheel and we're randomly
+going to pick who who whose outage we're
+going to talk about and it was meant to
+send a message that if you really want
+to have 59s of reliability you can't do
+it by just worrying about the big
+problems you have to worry about the
+small ones too and they end up taking
+that same idea and applying it in all
+sorts of other rituals they do at stripe
+spin the
+wheel all right one last one is from
+zapier uh I love zapier rituals I I
+think um Wade and that team I think is
+zappier as the OG distributed uh
+distributed team company uh they did it
+before anybody thought remote teams were
+cool and so they developed a whole set
+of rituals around that one of which was
+something they call silent time so they
+get into a meeting and they have
+everybody write what they're working on
+how they're thinking about something and
+then they're supposed to go read what
+everybody else thinks but what actually
+happens is everybody spends time writing
+and no time reading and so they ended up
+adapting this ritual a little bit
+differently and saying we're going to
+have a very specific phase where
+everybody writes and then we're going to
+take everybody's uh topics and and they
+added a little button there so you could
+mark them red and we're not starting
+until everybody has worked their way
+through their feed of everybody else's
+pulses uh and mark them
+red all right those are a bunch of
+different examples if any of those
+resonate with you that's great but the
+real point is to take your culture and
+your decision process and make sure they
+match what are you trying to get done
+what are you trying to emphasize and
+find the right ones that matches your
+culture all right ready for topic number
+three um so you've got the right
+decision process now we got to put it in
+the right Forum uh lots of great rituals
+I've seen for this um a couple really
+famous ones Pixar runs a ritual called
+Brain Trust you know as a side note
+Pixar's uh uh if you read the book
+creativity Inc they'll talk about a lot
+of their rituals the first 11 movies at
+Pixar were all nominated for Academy
+Awards and they credit it mostly to
+their review process they call Brain
+Trust um another one is from Netflix
+they call their product reviews their
+Gladiator meetings uh they're held in a
+room that's the picture of the room
+there that literally looks like a four
+around Gladiators so lots of different
+ways I've seen people run their decision
+forums but one question I love to ask
+people is how many standing attendees
+are in your decision-mak meeting and as
+we start talking about people will say
+well I have decision making me meeting
+and it's got you know the eight people
+on executive staff so well actually that
+one it's grown it now has 20 people well
+actually the real one where decisions
+get made has 60 standing meeting
+standing
+attendees I have a
+provocative a plea for all of you no
+standing attendees in your
+decision-making meeting and if that
+seems impractical hopefully I'll show
+you one way you can think about
+it so first off what's wrong with uh um
+sing attendees in your decision-making
+meeting well first you start off you
+have all these people there three people
+care about the topic that's being
+discussed but you have to discuss it one
+Topic at a time everyone else is either
+unnecessary or Worse
+disruptive so we had a different idea
+for how to do this we call this Catalyst
+and the core idea is to go from a
+single-threaded meeting to a
+multi-threaded
+meeting here's how it works um at Kota
+we block everyone's calendar from 1 to 2
+P.M every day of the week you're not
+supposed to schedule anything over this
+time we call that
+Catalyst there's a doc you go in and you
+schedule this is the topic I need you
+fill in the stage it's at and you fill
+in who you need and we've outlined the
+roles it's kind of our version of DAC or
+rapid but we use our terms for it for
+example you'll see that it's called
+Brain Trust that's our version of how to
+uh pull forward what we loved about the
+Pixar uh
+culture and then one very uh important
+thing happens uh every one of those
+things generates a unique calendar
+invite on the calendar with just that
+set of people with that topic as the
+title and that may seem like a small
+thing but it end up being the hack that
+really makes this whole thing work
+there's also another step where it goes
+and generates a set of slack
+notifications and these are B meant to
+reinforce behaviors so you'll get a a
+notice saying you're invited for this
+review this is your role and here's a
+principle of what you should remember
+about what that role means
+here you put all those things together
+and you change the process completely we
+used to have the single threaded meeting
+you get through topics one at a time and
+all of a sudden we started paralyzing
+them and I did the math on it we used to
+get through something like five or six
+topics a week we now get through an
+average week we get through 50
+decisions it also has some uh other
+interesting benefits one of which is you
+can use this to get rid of the meeting
+all together maybe we can do it async so
+we added a new little piece of it where
+you get the slack reminder saying you're
+invited to this Catalyst and you can go
+mark it to say it's default async and
+what that means is everybody gets a
+notice saying please fill out your
+Dorian pulse before this time and then
+assuming that all goes well another
+message will go out saying great news
+all the feedbacks been received the
+driver of the meeting has decided uh we
+no longer need the meeting and all of a
+sudden the meeting becomes a forcing
+function instead of an
+obligation so those are a few different
+examples you might take the Pixar Brain
+Trust model or the Netflix Gladiator
+model the coda Catalyst model but the
+key thing is does your decision Forum
+accelerate or decelerate your
+decision-making
+process all right one last one so you've
+got a great forum who do you
+invite and more specifically do you have
+to invite the founder to everything
+so um I'm going to tell you about a
+different ritual and then come back to
+uh this one um so this is a ritual from
+dares I mentioned earlier called flash
+tags and dares as a Founder had this
+observation that whenever he gave
+feedback people would often misinterpret
+it they didn't know sometimes he meant
+it as a small thing sometimes he meant
+it as a big thing and he decided to take
+all his feedback and add a little
+hashtag to it and he published this
+guide of how to interpret his Hashtags
+with a kind of funny analogy about dying
+on a hill he said if I say # FYI it
+means I don't even see a hill and if I
+say # plea it means dying on a hill is
+not on my bucket list but if it were
+this would be a really good candidate
+and he started adding this to try to
+indicate severity of whatever his
+feedback was so first off we took this
+ritual and we started adding it to a
+number of our other uh templates you you
+add feedback you fill out in addition to
+the feedback you add your flashtag of
+how serious uh you feel about it but
+what we noticed was that it Al often
+happen too late and at that point you
+come in and you say # plea and the team
+is already ready to ship and it just
+seems like the feedback is the wrong
+part of the process so our marketing
+team came out with this idea and they
+called proactive flash tags it's a
+pretty simple idea we built a list of
+decisions we're trying to make and we
+added four columns that kind of map to
+those four flash tags says I don't need
+to be involved just let me know the
+decision I'd like to give input or I may
+have strong opinions and the idea is all
+the stakeholders are supposed to come
+and you're supposed to pre- indicate
+where you're likely to be on this topic
+and one of the nice Parts about it is
+the implications are really obvious so
+if I come in and say I don't need to be
+involved that means don't invite me to
+the Catalyst I don't need to hear
+anything about it if I say I may have
+strong opinions that means not only do
+you need to invite me to the Catalyst
+you need to invite me to the Catalyst at
+the beginning of the process so that you
+can hear something about what my strong
+opinions would be and not be surprised
+later
+on now one problem with this is you get
+you need to actually get your
+stakeholders to engage and fill this
+thing out and so the way we handled that
+was we put it everywhere so we took it
+there's a central decision tracker in
+our company Hub but we then linked it
+into basically every other spot the exec
+staff meeting has a list of the upcoming
+decisions where we pause and make sure
+people fill in the ones where they
+haven't indicated every team sync
+meeting has the same thing even down to
+one-on ones where you'd say here's the
+list of upcoming decisions and ones
+where you haven't indicated where you're
+likely to be on the stakeholder list
+it totally changed how we thought about
+who to invite to each of our
+forums so as you think about it uh
+there's lots of different ways to do
+this but it's one thing to have a great
+way to answer ask questions in the
+structured decision-making process in a
+great Forum but if you don't have the
+right people none of it works and so how
+do you find a scalable way to find the
+right decision stakeholders for every
+decision all right so these are the four
+steps so as you think about your
+decision- making process think about all
+four parts of these how are you encourag
+encouraging people to ask the right
+question what is the actual process for
+making decision is it reflective of your
+culture do you have a scalable way for
+your decision Forum to accelerate
+progress instead of decelerating
+progress and how do people figure out
+who the right decision stakeholders are
+for their Pro for their
+problems uh everything I talked about
+here um uh is publish
+codh 2024 um that also has uh links to
+all the different uh rituals if you want
+to take any of those um but it also has
+a link to what I call the rituals Brain
+Trust and I'd love to invite you if
+you're thinking about this topic go join
+that and contribute a ritual or take
+ones from others and help all of the
+community improve their decision-making
+process that's it for today thank you

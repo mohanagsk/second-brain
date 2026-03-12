@@ -1,0 +1,2085 @@
+starting with what is your problem or
+what is your goal I would say this is a
+bigger challenge than most people
+recognize or realize eighty percent of
+the folks that I work with this is their
+biggest problem even at like executive
+levels teams will have gone off for
+several months and they're tackling
+something and they'll come back with
+uncertainty and they'll say like well
+you told me to improve developer
+experience I'm like okay what do you
+mean by this are you talking about inner
+and outer loop are you talking about
+friction are you talking about culture
+but if you're talking about culture this
+is totally different than if you're
+talking about friction in tool chains if
+you're on different pages you're heading
+in completely different directions
+welcome to Lenny's podcast where I
+interview world-class product leaders
+and growth experts to learn from their
+hard-winning experiences building and
+growing today's most successful products
+today my guest is Nicole forsgren this
+is actually my first recording back
+since going on Batley for the past
+couple of months and what an awesome
+episode to get back into the swing of
+things Nicole is the developer
+productivity expert having written the
+award-winning book accelerate and she's
+been the co-author of the state of
+devops report year after year she's
+currently a partner at Microsoft
+research leading developer productivity
+research and strategy and she's helped
+some of the biggest companies in the
+world move faster improve product
+quality and transform their cultures in
+our conversation we get into the weeds
+of how to go about measuring and
+improving your engineering team's
+productivity and experience we talk
+about the Dora framework and the space
+framework and how to actually Implement
+them to understand how your engineering
+team is doing Nicole also shares
+benchmarks for what Elite companies are
+at we talk about why moving faster turns
+out to be one of the best ways to
+improve quality and stability plus
+pitfalls you want to avoid and also a
+preview of a new book that she's working
+on and so much more enjoy this episode
+with Nicole forsgrin after a short word
+from our sponsors
+today's entire episode is brought to you
+by DX a platform for measuring and
+improving developer productivity DX is
+designed by the researchers behind
+Frameworks such as Dora space and devex
+including Nicole forsgren who is my
+guest for this very episode if you've
+tried measuring developer productivity
+you know that there are a lot of basic
+metrics out there and a lot of ways to
+do this wrong and getting that full view
+of productivity is still really hard DX
+tackles this problem by combining
+qualitative and quantitative insights
+based on the very research Nicole and
+her team have done giving you full
+clarity into how your developers are
+doing DX is used by both startups and
+Fortune 500 companies including
+companies like twilio amplitude eBay Rex
+toast Pfizer and Procter Gamble to learn
+more about DX and get a demo of their
+product visit their website at getdx.com
+Lenny that's getdx.com Lenny
+thank you
+Nicole Welcome to the podcast
+thank you so much I'm excited to be here
+I'm excited to have you here I actually
+skipped this question usually with
+guests but I thought it'd be actually
+really valuable to spend a little time
+on your background you have such a
+unique role and unique set of
+experiences could you just talk briefly
+about the things you've been up to in
+your career where you've worked and then
+what you're up to now and what you focus
+on these days sure and I appreciate the
+question because you're right I sort of
+had this like Choose Your Own Adventure
+background so I started as a software
+engineer at IBM I was uh writing
+software for like large Enterprise
+systems which meant I ended up running
+them I was so I was also a sis admin I
+was wrecking the stacking I was I was
+running these really really large labs
+and then I kind of stumbled into this
+seven day March for several years and I
+was like there has to be a better way
+and we're hearing like rumors of it but
+like management was not buying in and so
+I decided to win this battle with data
+and I was like I should go do a PhD me
+and so ended up kind of taking a slight
+pivot into uh PhD and management
+information systems which some people
+are less familiar with but it's
+basically a cross between Tech and
+business and I ended up getting a fairly
+technical PhD so I went to a school I
+went to University of Arizona which has
+a very very technical degree but I liked
+that it crossed with business because
+then I had the ability to make these
+strong business case statements right so
+it was like how is or is the way that we
+develop and deliver software tied to
+outcomes at the individual level right
+can I be more productive can I have
+better work-life balance and the team
+level is the team more productive is the
+team more efficient and the
+organizational level right this is what
+I was really interested in originally do
+I see better Roi do I see better
+efficiency because then I could sell it
+to people right and so that was really
+kind of what I originally went into and
+and I was a professor for a handful of
+years because like if you're doing
+research like traditionally that's
+that's the job in Academia I also had a
+master's in accounting because that
+really helped me make that kind of like
+Financial tie and understanding
+financial statements and then after you
+know a handful of years kind of walked
+away from tenure because Academia was
+not convinced that devops was a thing
+right the devops wasn't real and stayed
+a devops report who we you know I was
+doing with Dora devops research and
+assessment uh in collaboration with just
+humble and Gene Kim and we started that
+work with puppet so shout out to Alana
+Brown for starting that Nigel Karsten
+and the the team there uh we kind of
+pivoted away and you know Chef uh the
+little configuration management startup
+at the time uh hired me and they're like
+we'll give you half time to do research
+and have time to help our engineering
+practices improve that's cool yeah I
+mean they were incredible because like
+what startup is gonna be like yeah do
+research so I was there for a year and a
+half and then left to you know do door
+full time we had it we actually had a
+SAS offering so we continued this data
+devops report just under the Dora banner
+and we had a SAS offering because so
+many large companies were like I want my
+own customized
+measurement reading and report and then
+the joke there you know when we met with
+Gartner they were like you know your
+superpower here was that you tricked
+people into strategy which was not only
+how do I Benchmark that was kind of our
+top of the funnel because everyone wants
+to know how they compare
+but the important thing is what should
+you do next what's the most important
+Next Step so it's how do I measure what
+do I do next
+and that gave me this incredible view
+into
+advising large organizations into this
+transformation journey and then we built
+out this amazing partner Network because
+we weren't actually Consulting we just
+had this SAS piece but then how do you
+act on it we were then acquired by
+Google so I was CEO and co-founder so I
+kind of LED that that acquisition and
+then the integration and building out
+these teams in Google and after that
+point uh I joined GitHub which is you
+know this the largest uh developer
+Network so I had this amazing
+opportunity to do more grounded and
+applied research again I was VP research
+and strategy and uh then I went over to
+MSR where I kind of wear a couple hats
+so right now I have a research lab there
+with an incredible team uh it's the
+developer experience lab where we do a
+bunch of work across productivity
+community and well-being
+and then I also help with Microsoft's
+you know kind of cross company effort to
+improve their developer infrastructure
+so it's like sort of kind of this this
+round effort into like how do I really
+remain engaged in measuring applying
+thinking about this work both in like
+very applied concrete pieces and
+Incredibly forward-looking work with MSR
+amazing and just to clarify MSR this is
+at Microsoft yeah thank you yeah MSR is
+Microsoft research Okay cool so you've
+shared a couple of these terms devops
+developer productivity I'm curious what
+the term you like to use for this area
+you focus on develop productivity
+developer experience devops what's kind
+of the way the best way to think about
+this I really love that you asked this
+question because I think they're very
+related Concepts that people sometimes
+you know conflate but but I see them as
+being different so related but different
+so productivity I think is you know
+basically how much we can get done and
+how much we can do over time
+and I think that's why it's so important
+to have this holistic measure right
+because we can't just brute force it
+right so that's why when my team and I
+and a bunch of my peers study
+productivity we include this community
+effect right because software is a team
+sport we joke right and also why
+well-being is so important right because
+we see that when you do productivity the
+right way we see sustainability we see
+well-being we see reductions in Burnout
+now developer experience is very related
+and very tied to this and it contributes
+to productivity but developer
+experiences like if you think about who
+your users are right developers really
+are you are your users in this software
+engineering in the software development
+piece and so it's you know developer
+experience is sort of like what is it
+like to write software is this a
+friction free process is this a very
+predictable and certain experience right
+can we reduce this uncertainty and
+increase the predictability here to
+contribute to productivity
+and then how does devops fit into that
+just so that we kind of have the mental
+model of these terms people have sort of
+co-opted the terms and some people named
+their tools devops I'm maybe a little
+more old school so uh when I was doing a
+bunch of my devops research it was the
+capabilities and tools and processes
+that we can use to improve our software
+development and delivery end to end so
+that it's faster and it is more reliable
+so devops was kind of this technical
+architectural cultural practices that
+enable us to do this work better so that
+it is yes like more productive we have a
+better developer experience that was
+kind of this like again this very
+holistic picture so what I love about
+this topic is that I've never met a
+founder or a leader who is not thinking
+we need to move faster we need our
+Engineers to be more productive we need
+to get things out the door quicker we
+want Engineers to be happier like nobody
+doesn't want that and so that's why I'm
+excited to dig into a lot of these
+things is that roughly what you find as
+well that nobody's ever like we're good
+we don't need any of this we don't need
+to focus on this area you know what I'll
+say yes and right so
+and it kind of goes back to like why I
+got into this because on the one hand
+you won't say anyone who's saying uh
+like we're we don't really need to go
+faster everything's fine but at the same
+time very often I will come into
+scenarios or I'll find myself in
+scenarios where people are like
+I mean it would be nice if we were going
+faster but do we really need to show me
+the business case what's the ROI or if
+we go too fast we'll have an instability
+right what are our safety measures are
+we going to lose reliability what is
+happening right when I first started
+like ITIL and itsm right the the old
+school kind of change management
+processes
+the common knowledge was that you had to
+have at least a two-week
+wait for change approvals in order to
+get that stability turns out that's not
+right right it was just kind of
+an old wives tale right
+and so we kind of have this weird
+balance of I want to move faster but is
+it worth the investment
+what am I gonna get for it are you sure
+this is the priority or I've been in
+I've been in meetings where it's like oh
+yes absolutely right like this is this
+is a priority but it's the lowest
+priority and I'm like
+right so so then what we want to do is
+we want to have these
+these kind of pointed conversations or
+these kind of like Socratic type
+questions and conversations where it's
+like help me understand more what your
+concerns are are your concerns around
+reliability when you move faster we're
+not just trying to like all the guard
+rails down and Sprint for no purpose of
+sprinting and this is where kind of the
+Dora and devops research program comes
+into play where it's we don't just want
+to move fast and take all guard rails
+down we want to implement good technical
+practices like
+automated testing good architectural
+practices so that when you move fast you
+are also more stable right we want to be
+thinking about improving the developer
+experience so that when we are faster we
+are also Saving Time right and then we
+can highlight a handful of Statistics
+like what is your
+typical time for feature delivery what
+is your typical time to First PR what is
+your typical time to steady state
+productivity what is your typical time
+for code review and PR process and if we
+are to do like back of the napkin math
+what sorts of time are you spending here
+and if we do a rough look at industry
+what are your peers spending here
+and are we losing time right and if we
+could turn this into
+a value calculation
+what does that look like so that we can
+think about
+the priority and the strategy here and
+and I think that's where it becomes
+a more focused conversation
+this is a great segue too something I
+was going to get to a little bit later
+but let's just get into it which is the
+Dora framework and then there's also the
+space framework can you just talk about
+what these two are when you use one
+versus the other and then how that
+essentially helps you measure and then
+improve productivity and and uh and
+developer experience sure sure
+absolutely and I'm so glad you brought
+this up so Dora is it's an entire
+research program now many people when
+they hear Dora now they think of the
+Four Keys or the Dora four or the four
+metrics and I think that's what the
+research program and and the company
+ended up becoming most known for and so
+that was the software delivery
+performance metrics and those are
+there's two speed and two stability
+metrics so the speed metrics are lead
+time so how long does it take to get
+from code committed to code running in
+production deployment frequency how
+often do you deploy code
+and then the stability metrics are mttr
+uh meantime to restore so if something
+happens how long does it take you to
+come back and then change fail rate for
+every change that is pushed you know
+what's the rough percentage of incidents
+or like that require human intervention
+right now the thing that was really
+interesting is when we started measuring
+these we found that they move in tandem
+now like with
+very strong significance right from a
+statistical standpoint now what this
+means is now we say speed and stability
+move together most people only think
+about this from the speed standpoint
+which means when you move faster you are
+more stable
+which means you're you're pushing
+smaller changes more often right so if
+you're pushing all the time it's going
+to be very very small changes which
+means you have a smaller blast radius
+which means when you push you have an
+error in production it's going to be
+easier to debug right uh it's going to
+be much easier to figure all that out uh
+your mean time to restore and mitigate
+it's going to be much faster
+but that also means is the reverse when
+you push changes less frequently you
+will have more unstable systems because
+when you push less frequency you will
+have very very large batch changes which
+means you'll have a very high very large
+blast radius which means when you do
+have a resulting
+bug error you will have to disentangle
+this big you know
+ball of mud right and figure out which
+piece actually caused the error
+figure all of that out
+that ended up being a big surprise right
+because
+refer to my prior comment about I you
+know ITIL and itsm if you're forcing a
+two-week
+pause for change approvals
+you're causing this batching up of
+changes and sometimes people were
+waiting if two weeks is good a month
+must be better or three months must be
+better or six months must be better and
+I mean just think about the merge
+conflicts you're causing right you're
+just causing so many challenges and
+figuring out how to push this code into
+production
+so many people think of those four
+metrics one because we found that speed
+and stability moved together and two
+because we started publishing benchmarks
+on what this looks like for low medium
+high and then Elite performers for many
+times
+this I believe may have been interesting
+uh I'm not sure if it was useful or
+helpful but I think it was interesting
+because it gave people at least
+something to shoot for something to aim
+for I will definitely say what's most
+important is knowing where you are and
+the progress that you're making right it
+doesn't matter if frankly you're a high
+performer or you're an elite performer
+it matters that you know where you are
+and you're making progress right
+you know can you push daily or on demand
+or
+is your only technical capability you
+can push twice a year right just know
+where you are and is it a business
+decision or a technical capability
+that's basically what it comes down to
+I'm gonna jump in real quick just to
+highlight what you're talking what you
+just said which I think is extremely
+important and powerful and people might
+kind of move on too quickly uh I also
+want to ask you what actual benchmarks
+are if you can share those whatever you
+want to share there but before I ask
+that essentially what you're sharing
+right now is just I feel like the 64 000
+question of this episode is just how do
+I move faster as a team and what I'm
+hearing is essentially it's ship smaller
+things is kind of at the core of it and
+also if we're if quality is low you're
+also saying the answer is more
+often ship smaller things is that
+roughly the message yes absolutely it
+ends up being much much safer amazing so
+I think that's an extremely important
+takeaway uh that I think people would I
+don't know that's surprising to me to
+hear that it's uh quality comes from
+Shipping faster and and also to ship
+faster and move help your team move
+faster it's Chip smaller things and and
+just deploy more often yep amazing okay
+great I know we'll talk more about this
+but let me go back to the question I was
+going to ask because yeah okay are you
+are there benchmarks you can share just
+right now that you think would be useful
+to people and they said it was
+interesting and maybe not as useful to
+people as you imagine yeah uh so I will
+admit I I only have the 2019 benchmarks
+top of mind the team at Google has
+continued that work since I left uh it's
+been led by uh Dr Dustin Smith Nathan
+Harvey continues the work so huge shout
+out to that team many others uh
+participate you can go to dora.dev and
+find all of the continued reports
+they've integrated all of this work but
+I will say they've they've remained
+fairly consistent so so really quickly
+I'll share the Elite Performance so
+deployment frequency you can deploy on
+demand
+lead time for changes takes less than a
+day time to restore is less than an hour
+and your change fail rate is between
+zero and fifteen percent amazing okay
+I'm writing these down these are
+extremely valuable and I will mention
+people will say well this is kind of
+like
+a chunk of time right it's not super
+precise
+Precision isn't really super important
+here right like I don't it doesn't
+really matter if you can like if your
+lead time is
+if it's less than a day it's less than a
+day right like that's fine from a
+business
+perspective it doesn't matter if it's
+like
+four hours or like four hours and two
+minutes right
+General categories
+are fine now I will say like the next
+category for lead time for changes by
+the day is if uh lead time is between a
+day and a week and this is for for good
+for hot yeah between Elite and high
+Elite is less than a day and high is
+between a day and a week
+and then it goes between a week and a
+month and between a month and six months
+right so so you can ask people and they
+can tell you right they can kind of
+hunch it
+and this is from it's a committing code
+into the repo and going out into
+production to it to about like ring zero
+so you don't like don't worry if it's
+like oh well now we need to think about
+like the global deploy and like which is
+the final endpoint it's like how long
+does it take to get
+through your deployment pipeline because
+are you going to be surprised do you
+have fast feedback loops how does your
+deployment pipeline work does your
+deployment pipeline work right
+or are you going to commit code
+are you going to wait for that final
+review for about three months
+is something going to happen or break
+and when it comes back to the developer
+because something happened or broke
+because that kind of happens right are
+they going to have to insert themselves
+back in the code re-review all the
+things that happened three months ago
+all so many other things happened
+that's incredibly difficult which to
+your prior question this is how it
+relates to the developer experience if
+something happened less than a day and
+like it's a surprise and it's not great
+but like whatever right something
+happened Downstream and I gotta fix it
+I'm still sitting in my code right in my
+head I've got that mental model I know
+what happened maybe it's not great but
+it's fine
+if it happened three months ago
+and I get interrupted first of all
+interruptions like suck that's not fun
+second of all now I've got a like
+re-remember
+re-read all of this code maybe reload an
+entire new workspace instead of
+libraries and everything because I
+maybe it's a whole quarter ago and like
+we thought we were done
+and I got to do the whole thing all over
+if a listener is working at a startup I
+imagine they're hearing this and they're
+like takes a data ship that we ship all
+day a thousand times a day I imagine
+these benchmarks are more valuable for
+larger companies is there a kind of
+buckets you think about for like here's
+the size of company this is meant for
+and then do you think about anything
+differently for a startup say I don't
+know 10 people if anyone is only
+listening to this I just got the biggest
+smile because we saw no statistical
+significance between small companies and
+large companies the only statistical
+significant statistically significant
+difference was with retail I'll come
+back to that it's so funny because large
+companies would say oh but this isn't
+fair for us we have more complex code
+bases we have so many things to do small
+companies just don't have to deal with
+this small companies would come to me
+and they would say oh but this isn't
+fair large companies have so much money
+they have so many resources they don't
+have to deal with all the things this
+doesn't apply to me
+wow so it's like either way
+and on days when I was feeling real
+snarky I'd be like pick your excuse
+you've got your like drop down now when
+I say retail was a bit of an outlier
+they had a statistically significant
+difference
+their difference was that they were
+actually better why now I can't tell you
+why I can in a research paper we'd have
+a discussion section and this is where
+you like get to guess
+right
+I would surmise and we do this in the
+report that it's probably because retail
+went through the retail apocalypse right
+if you didn't survive like if you
+weren't just killing it you did not
+survive
+so many retail firms just did not make
+it through you had to be at the top of
+your game there was no such that my
+Black Black Friday there's no such thing
+as not having systems that are
+performing incredibly well there's no
+such thing as not being in the cloud
+because if you cannot make it through
+you know
+bursting on demand
+bursting like magic sometimes I joke
+right you're not gonna make it
+and so I suspect if I were to guess
+if you're not already a high performer
+in the retail space
+natural selection got rid of you that is
+really interesting that makes a lot of
+sense
+so I'm looking at these thresholds again
+and I'm thinking from the perspective of
+a Founder who's just like I wish my
+engineering team moved faster
+essentially you're saying if deploy
+times if they deploy more than once a
+day if their deploy frequency is on
+demand or I think it was hourly was kind
+of the other bucket it was that part of
+it yeah and then their meantime their
+fail rate is like less than 10 percent
+and their mean time to recovery is less
+than an hour basically you're doing
+great that's kind of the message of this
+framework at least and if you're not
+doing it through like brute force and
+killing yourself now can I can I jump in
+here because then people are like but
+how do I do this so let's say that like
+you're not in that category and you're
+like
+because this is the next this is the
+piece of criticism I'll get about Dora
+right people are like
+well all you've done is make me feel bad
+you gave me these metrics you've judged
+me now I feel bad and then I'm like
+so there's Dora there I wrote a book
+called accelerate right which is like
+the first four years of the research
+compiled and put together and expanded
+in a few things and I'll joke there's a
+whole rest of the book right
+Dora is best known for the four metrics
+but there's an entire research program
+supporting it so it's not just these
+four metrics what we find is that if you
+improve a set of capabilities I loved
+your question around what is devops
+devops is not a tool chain you buy
+marketing teams label tool chains devops
+because they wanted your money devops is
+a set of capabilities they're technical
+capabilities their architectural
+capabilities their cultural capabilities
+they are lean management practices
+that predict
+speed and stability and then speed
+instability gives you money
+right because like it's your ability to
+create these features that give you
+money so when you work backwards if you
+want money like you get the features
+fast if you want the features fast and
+stable you do the things and the things
+are technical capabilities like
+automated testing
+cicd and cicd is continuous integration
+continuous deployment is that right yes
+um trunk-based development
+using a Version Control System
+right
+so do you have good technical practices
+do you have good architectural practices
+like do you have a Loosely coupled
+system
+are you using the cloud or like if
+you're not in the cloud for whatever
+reason are you using the underlying
+architectural pieces that enable good
+cloud
+to do the cloud right or if you're in
+the cloud and you're not realizing
+benefits is it because you're doing
+Cloud wrong right do you have a good
+culture
+so you know you don't you don't just
+like magically go fast and have
+stability right so working backwards
+which pieces are you struggling at now
+uh you kind of noted down the benchmarks
+if you go to dora.dev the the team at
+Google was lovely we uh we worked really
+closely with the team they're keeping
+this updated you can take a quick check
+there's a button there that says quick
+check you can plug in where you kind of
+think you are like I said you can hunch
+it
+and it'll tell you where you are in the
+benchmarks today
+and what industry you're in and then the
+cool part is it'll say now like you'll
+want to ask yourself
+like where am I struggling but it'll say
+for your performance profile and for the
+industry that you're in statistically
+over the last several years these are
+probably your constraints
+AKA these are probably the things that
+you're struggling in right now right
+like for people in finance who are high
+performers they tend to struggle with
+these four things right whether it's
+like culture or continuous integration
+or
+whatever I love that you're getting
+tactical with how to actually improve
+these already which is the bread and
+butter of this podcast and so we'll link
+to this quick check because there's
+door.dev Quick Check and by the way they
+do not collect your name they do not
+collect your info there is no there's no
+lead any lead gen anything everything's
+just there
+and then there's deep dives into every
+single one of the capabilities
+amazing and also your book talks about
+all these things so people should go
+check out the book obviously it's on
+Amazon search accelerate is that right
+yep okay so we were talking about Dora
+this may be a good time to talk about
+space which I think is a different
+framework you recommend what is that all
+about okay so space is a way to measure
+we say productivity developer
+productivity but it's a little bit more
+than that space is a good way to measure
+any type of complex creative work now
+how do they relate
+let's say you go through the quick check
+it points out like four things and you
+decide you want to improve continuous
+integration and culture right
+well now you're like cool but how am I
+going to actually measure them
+this is where space comes in because
+space helps you figure out space gives
+you a framework to pick the right
+metrics
+now some people are like well space you
+didn't give me the exact metrics people
+love Dora because it's like here's the
+exact four you need
+well space is like when you want to
+measure something that's complex
+creative work maybe like developer
+productivity there's also an example at
+the bottom for Incident Management
+when you have something you want to
+measure it says within your context
+within the metrics you have available to
+you here's how to pick
+that's what space is good for now we
+called it space because it stands for
+the five Dimensions that you want to
+measure so s is satisfaction and
+well-being
+so satisfaction well-being is kind of
+self-explanatory now some people might
+jump in here and say oh well you're just
+you know touchy feeling this actually
+matters because we find that
+satisfaction well-being ends up being
+incredibly highly correlated with all of
+the other dimensions of productivity and
+doing things well and as soon as
+satisfaction well-being things like uh
+sustainability if you're satisfied as
+soon as that starts falling off other
+things start to break so this can be an
+incredibly strong and important signal
+p is performance this is going to be the
+outcome of a process
+so reliability
+within Dora the mttm or change fail rate
+right those are both performance metrics
+and so you pick one to kind of measure
+as performance yep uh a is activity
+anytime you have a count or a number of
+something these we see all the time
+because they're super easy to instrument
+and automate right number of pull
+requests number of check-ins number of
+something that's a
+C is communication collaboration
+this can be how people work and talk
+together it can be meetings it can be
+collaboration it can also be how our
+systems communicate together it can be
+the search ability of a code base
+and then e is efficiency and flow so
+this is going to be the flow through the
+system it can be the time through the
+system if we think about SRE or Incident
+Management can be the number of hops a
+ticket takes until it reaches the right
+person
+now to use space correctly we want to
+use at least three dimensions at a time
+because that helps us balance
+turns out Dora is actually an
+implementation of space so Dora would be
+space four
+mostly that outer loop hmm
+so again once you've found something
+that you want to improve
+find the metrics that make sense to you
+try to have them be in balance or
+intention so you don't like throw
+something out of whack but pick three
+So when you say door is an
+implementation of space one has five
+buckets one has four how does how do you
+actually think about that so space is
+there to help you think about how you
+want to pick metrics right so a lot of
+time I see people so let me half step
+back I used to advise people on how to
+pick metrics right for years people
+would would pull me in to advise on Dora
+or accelerate right they would ask me
+questions but it ended up being metrics
+questions a lot
+how do I pick the right metrics
+to improve what I'm doing right like I
+said they had the Dory numbers
+they would pick their constraints and
+they wanted to improve but how do I
+improve how do I measure this
+how do I show Improvement
+and so we would start thinking really
+critically about which metrics were the
+right metrics to pick
+and I would always say make sure you
+pick balanced metrics make sure you
+picked pick metrics that are intention
+and I could say it but people have a
+hard time wrapping that around their
+heads because they kept picking things
+like number of lines of code never
+picked number of lines of code oh wow
+number of still every month I didn't
+even know about this number of pull
+requests number of commits
+and I was like these are all activity
+metrics and so finally I pulled a few of
+my friends together and I was like
+let's come up with a framework to help
+people think about it and so there are
+five broad categories
+pick three because that will help Force
+you through the mental exercise of what
+could I possibly pick
+you don't need all five right this isn't
+we're not playing bingo we're not
+playing blackout Bingo you don't need
+all of them
+but try to have at least three
+cross different dimensions now one
+example here I was working with a group
+that wanted to improve their pull
+requests very generally they just said
+improved pull requests so they were
+thinking about pinging someone every 15
+minutes and I was like oh this is going
+to be bad
+because we know from other literature
+and research like nursing you'll get
+alert fatigue where people will just
+start tuning out alerts
+either they'll turn them off or they
+will just stop hearing them so like
+number of alerts right they're like
+let's just think about number of alerts
+and I said well but if we think about
+efficiency and flow
+how much time do you have to work
+on your coding
+so those two are balanced
+so we need to protect time to work
+as well as
+code review time right pull request time
+and so sometimes we can think about
+those and then and then we I think we
+added a satisfaction metric are you
+satisfied with the pull request
+process and the selection of the
+reviewer
+how do you go about actually capturing
+and measuring this say satisfaction so
+for satisfaction I would I would
+generally ask right go ahead and ask now
+the ones that you instrument you can
+instrument and pull out of systems all
+the time right go ahead and grab that
+string for a satisfaction metric I would
+only pull that
+like periodically right once every few
+months like a survey to your engineering
+like a survey yep absolutely
+awesome and don't don't discount what
+people say right sometimes I hear
+actually not sometimes a lot of times I
+hear people say oh but people lie
+first of all what is their incentive to
+lie why would they lie about having a
+bad system
+uh because it's bad and they want it
+fixed right
+if it's absolutely a hostile work
+environment they might lie and then tell
+you what's good then you have bigger
+problems right
+also
+do we ever see bad data from our systems
+or incomplete data for my systems
+that's a lie
+but we find ways to deal with it we see
+it we acknowledge it we look for holes
+in our system data
+we try to deal with it right
+that's also a lie so I think there are
+better ways to think about and deal with
+that
+and then try to work with it right
+because then I I wrote a paper with Mick
+Kirsten on this several years ago on how
+data from people and data from systems
+are really important complements because
+we can get certain insights from people
+that we'll never get from systems right
+like let's look at lead time from
+changes for example right from commit to
+deploy
+the speed might be fine but people might
+tell you it's taking absolute heroics
+right it's some ridiculous Rube Goldberg
+machine the system will never tell you
+that
+or you could get data on
+your version control system
+I worked with a company several years
+ago and we found out that there was a
+significant portion code that was just
+not going into any Version Control
+System you're never going to find that
+out from your systems because it's not
+in the systems
+and it was mission critical I can see
+why people come to you asking for advice
+on metrics because you have this
+framework of here's the type of metrics
+you want and then I think and especially
+from engineering team there's going to
+be this like how do I optimize and make
+sure I'm doing the right thing and
+measuring the right things for someone
+that wants to do this and you know an
+hour-long podcast isn't going to give
+them all the answers what do you
+recommend they go read or go do or look
+at to help them figure that out one I I
+hate to be this person uh but I'll point
+to a few of my papers because I will say
+I write things down because I get asked
+them so often and I want to make sure it
+is broadly applicable or like broadly
+available I guess this space paper for
+sure it's at ACM and I think the year we
+published it it was like the most read
+paper
+um at acmq yeah so we tried to make it
+as
+readable as possible so the space paper
+is nice because it outlines this
+framework and it gives examples of
+metrics in every single category and so
+hopefully people can look at this and
+they can say okay here's an example to
+use here right here are some of the
+things that I could possibly use and
+we're seeing that space is being used
+lots and lots of different places
+another good one could be the paper that
+I mentioned with Mick Kirsten and it was
+about we talked about using
+data from people and data from systems
+we used we wrote it up in the devops
+context because I want to say this was
+written in like 2016 or 2017 or
+something but it helps you think through
+what types of data are good in which
+situations right because you will never
+find yourself in a situation when you
+don't want both types of data
+even teams that I've worked with that
+are
+the most advanced they have absolute
+instrumentation in every possible
+scenario
+in the most detailed way
+they will still survey
+their developers at least once a year
+because you can get new insights right
+one book that I love it's
+it's a little dense but it's really
+interesting that I love is how to
+measure anything
+and it's by Hubbard
+and there are parts of it they're like
+real stats heavy but he has this portion
+in the front that's like
+in covering intangibles and it's so it's
+like what what happens when you don't
+have data you have no data you're
+starting from nothing what are good ways
+to hunch
+data
+and I really love that because he he
+covers some really good ground there
+today's entire episode is brought to you
+by DX a platform for measuring and
+improving developer productivity DX is
+designed by the researchers behind
+Frameworks such as Dora space and devex
+including Nicole forsgren who is my
+guest for this very episode if you've
+tried measuring developer productivity
+you know that there are a lot of basic
+metrics out there and a lot of ways to
+do this wrong and getting that full view
+of productivity is still really hard DX
+tackles this problem by combining
+qualitative and quantitative insights
+based on the very research Nicole and
+her team have done giving you full
+clarity into how your developers are
+doing the x is used by both startups and
+Fortune 500 companies including
+companies like twilio amplitude eBay Rex
+toast Pfizer and Procter Gamble to learn
+more about DX and get a demo of their
+product visit their website at getdx.com
+that's getdx.com Lenny
+you also mention Offline that you might
+be working on a book that will answer a
+lot of these questions is that something
+you're up for chatting about yeah
+absolutely so as I mentioned I tend to
+write write things down when I get asked
+questions on it a lot and so this is one
+in particular so we'll be covering you
+know I'm I'm starting to go through and
+I'm covering some of these and I think
+some of the important topics in
+particular are
+you know starting with what is your
+problem or what is your goal and being
+super super crisp on it right like what
+is it that we're
+trying to answer
+and
+I would say this is a bigger challenge
+than most people recognize or realize
+like
+I'm making the setup right like 80 of
+the folks that I work with this this is
+their biggest problem
+even at like executive levels they'll
+they'll ask their team or teams will
+come back with uncertainty and they'll
+say like well you told me to improve
+developer experience
+and like okay great what do you mean by
+that
+and then teams will have gone off for
+several months and they're tackling
+something and they'll come back and
+they'll be like oh well that wasn't what
+I meant I'm like okay what do you mean
+by this are you talking about
+inner and outer loop are you talking
+about friction are you talking about
+culture because sometimes they're
+talking about culture and if you're
+talking about culture this is an
+incredibly valid answer but if you're
+talking about culture this is totally
+different than if you're talking about
+friction in tool chains
+right
+and if you're on different pages you're
+heading in completely different
+directions so like that that's one thing
+we cover which seems obvious but trust
+me it is not and then even like how do
+you we're going to do kind of a rough
+version of like how do you start
+measuring from nothing and also the
+measurement Journey
+right like how do you think about
+the trade-offs between and the
+proportion of measurement between
+subjective data right data from people
+so you have Azure interviews and you
+have surveys and objective data stuff
+you get from systems because when you
+first start off you'll be relying much
+more on data from people because you can
+get it relatively quickly
+but as you kind of transition through
+this measurement Journey
+you'll get more and more data from your
+systems because it's scalable it can be
+engineered you can be doing you know
+much more with it and also you should be
+thinking about you know don't let the
+perfect be the enemy of the good right
+so like how do we think about this very
+very strategically how do we transition
+through this how do we think about what
+each piece of data is for and also like
+lots and lots of examples right so I
+have included like example interview
+scripts how do you select people how do
+you screen people examples survey
+scripts what are some of the analyzes we
+should do and trying to make this
+incredibly accessible so like basically
+anyone can do this so you do not need to
+be a data scientist but if you have one
+on staff like you can hand them some of
+this and just like let them run
+I think this book is going to do
+extremely well uh definitely come back
+on when it is out I think you said maybe
+year-ish kind of time frame yeah
+probably about a year by the time we get
+all the way through if people want to be
+notified when it's out can they sign up
+on your site for a newsletter or
+anything like that is there any way to
+kind of be uh on in the loop as it
+approaches oh yeah absolutely yeah I'll
+add I'll add a link for that also if
+anyone is doing some of this work now if
+they have you know major questions that
+they would love to me to answer if they
+have success stories if they have case
+studies if they have anything that they
+you know would love to be included you
+know I I remember when I wrote
+accelerate before there were a couple
+folks that reached out after and they
+were like oh I wanted to have something
+included now I've looked today I've
+learned right if if there's anything
+that folks would love to you know be you
+know in discussion with me about I I'm
+always eager to chat and nerd out about
+you know devex and especially
+measurement measurement Journeys so
+awesome I usually ask that this this at
+the end and I have more questions but
+while we're here how would people reach
+out to you what's the best way to
+contact you on my website I've got
+info.nicolfe at gmail okay yeah awesome
+okay a few more questions awesome thanks
+what are the most common pitfalls that
+companies run into when they're trying
+to roll out any sort of developer
+experience developer productivity system
+measurements improvements
+I think one I just mentioned right like
+not being
+clear or not understanding what it is
+that they're looking for
+because then you can have you know a
+thousand flowers bloom and everyone's
+kind of running in a different direction
+I think another one is not
+not pursuing this in both a top-down and
+a bottom-up structure right and I think
+that
+can really help Drive success
+and and having
+you know good communication throughout
+is super super important right so
+getting
+your ICS bought in and helping them
+understand that
+this is for them we want to understand
+what they're doing knowing what
+vocabulary they use you know what
+terminology they use is super important
+and then
+chatting with leaders right and
+understanding like what their
+motivations are or helping them
+understand what the motivations could be
+you know this kind of Harkens back to
+one of our earliest Chats on why I even
+got into this and how I see two
+different sides to the conversation on
+like why is devops even a thing why
+should we even ship faster like
+there are so many people that I talk to
+that are super passionate about devex
+right now and they're like how can I
+convince my executive team this is
+important because their developers are
+just completely burning out or they use
+computers and anger every day and so
+it's like how can we have the right
+tools to socialize this to our leaders
+as well right because this should be a
+priority this needs to be a strategic
+piece and how can we help pull together
+the right value points
+to communicate this and to understand
+what their priorities are so that we can
+see how this fits in right you've been
+working in this space for a long time
+probably longer than anyone that has
+ever worked on this area of developer
+experience productivity what have you
+seen change most from the time you
+started working in the space too today
+what kind of progress has been made
+we have these increasingly large complex
+systems right so like 10 or 15 years ago
+like the internet was around but like
+things were really different now almost
+every company has a really large complex
+system right
+we also have a shortage of developers or
+at least a reported perceived shortage
+of Developers
+more companies are technology driven or
+at least they understand they're
+technology driven it's like I understand
+a handful I remember a handful of years
+ago when I met with
+a financial institution whose CTO
+insisted to me that he was not a tech
+company like that that's not real
+anymore that doesn't happen anymore at
+least like very very rarely
+so all of these things come together
+and suddenly many more companies are
+like
+we have to be better at this and that
+was not always the case like five to ten
+years ago I used to have to really
+explain why this was a pressing concern
+and why it would continue to be a
+present concern and now in the last six
+to nine to 12 months we have
+this AI moment happening
+and it just poured gas on top of
+everything because
+now what's important like we've always
+said that like ideas aren't important
+execution is important but now this is
+absolutely true because
+it's not just about
+what it is that you build it's about
+creating absolutely novel incredibly new
+experiences and doing them at a speed
+that no one has seen before
+and the only way to do this
+have this software pipeline
+that is fast and is safe and is stable
+and is reliable
+and that's where we're seeing this
+really interesting
+convergence and
+pressure isn't quite the right word but
+it's really forcing the discussion
+and
+strategy and prioritization right
+I'm glad you touched on AI that was
+actually exactly where I was going to go
+next
+yeah obviously productivity AI
+engineering something that's top of mind
+for a lot of people there's a lot of
+layoffs that have been happening there's
+a lot of talk we don't need as many
+engineers
+actually we had dinner not too long ago
+with few I'd say 10x engineers and those
+are folks that people sometimes say like
+they don't need co-pilot they're not
+going to use any of these tools they're
+already amazing and they were the
+opposite they're like this is making me
+100 more effective and efficient and I
+love it so clearly good things are
+happening there
+I don't know the question is
+specifically but I guess have you seen
+the impact of AI on engineering
+productivity and has that shifted how
+you think about developer experience and
+productivity beyond what you already
+just shared
+absolutely so yes and right I think this
+is a super interesting open question so
+can I answer it just with a whole bunch
+of questions absolutely we're absolutely
+seeing
+an impact and we continue to explore
+this
+so like I have an interesting question
+to see like how it'll change the space
+framework what's open here I think a few
+things will remain right satisfaction is
+still going to be there performance is
+still going to be their activity still
+going to be there
+how you communicate with people and with
+the tool efficiency and flow is still
+going to be there I believe it will
+change and add a dimension like trust or
+reliability right how do I Rely can I
+rely on it well I have an over Reliance
+on it and what we're seeing is that
+probably unsurprisingly
+people really fundamentally shift the
+way they
+work when they work with an AI enabled
+tool like GitHub copilot or like you
+know tab 9 or others because now instead
+of just writing code or like having a
+short like autocomplete you spend more
+time reviewing code than writing code
+right there's this wonderful paper out
+that uses the cups model uh I'll I'll
+share it with you a team at MSR did it
+the fines that you know
+about 50 of your time now is spent
+reviewing versus writing
+but it'll be interesting to see how that
+changes things longitudinally right
+because because other you know some of
+my colleagues also did a paper that
+showed that you know you can do certain
+tasks like build an HTTP server or you
+know 50 faster
+but I don't think that's what
+productivity is about when you're using
+an AI tool frankly right anyone who's
+looking at that and like dear CEOs or
+whoever who are like now I can lay off
+half my Workforce that's not what this
+is about right it's not about taking a
+task and cutting your time in half
+because now what we've enabled is your
+ability to do certain things faster and
+then free up some of your cognitive
+space so that you can do harder things
+with this new
+co-pilot sidecar or something right
+but also because now you're accepting
+text and then reviewing it we've changed
+what your mental model is so we've
+changed the friction model that you
+expect we've changed the cognitive load
+of what you expect we're changing
+Reliance on code so what does this mean
+for Reliance or over Reliance what does
+this mean for learning
+what does this mean for novices versus
+experts
+how do we measure productivity right
+there are a handful of us that are
+having these discussions on what does
+this mean and how do we communicate it
+thoughtfully again we really need to
+have these kind of holistic balanced
+metrics
+because if we
+if it's an oversimplification we really
+risk losing the force for the trees
+right but it's also like super
+interesting and super compelling I think
+how can we think about you know learning
+or like onboarding to new code bases or
+new languages for folks who already know
+computational learning I I think it's
+also very different for folks who are
+just learning programming languages and
+don't already know things like
+computational thinking
+if someone was excited to kind of go
+down this road of we're going to focus
+on developer experience we're going to
+focus on helping our Engineers be more
+productive what are the next step or two
+that they should take in your opinion
+just broadly knowing that you don't know
+any specifics about the say the company
+that's thinking about this right now I
+think if you're like walking away from
+this podcast and you're like you know
+I'm already working on this or I think
+this is a thing that's that's happening
+right I would say just like go check
+your work basically right like has this
+been
+written down is there a clearly defined
+challenge problem something start there
+absolutely right because that is going
+to be the thing that reduces confusion
+the best right absolutely and then see
+if there's any data and data can be very
+Loosely defined right is there any
+signal that is related to
+the problem
+like I'd start there
+and you can do that you can do that in a
+week you can hunt something down sounds
+like something you could do in a day
+yeah well depending depending on
+how scattered Things Are
+are there any companies that you look at
+as good models of they do this really
+well I think Google does this incredibly
+well and and sometimes I hesitate to
+mention Google because they're like you
+know some people like light we can't be
+Global and we aren't really Advanced but
+the thing I love about Google's approach
+is that they've really taken kind of
+this measurement phase approach to
+things right even when they roll it out
+in new places
+um they're very systematic in how they
+measure things they have incredible
+Telemetry and tooling and
+instrumentation and they continue
+to invest time in
+developer experience surveys and they
+triangulate them and one thing that I
+also love being able to point out here
+is if there is ever a disagreement
+between the surveys and the
+instrumentation which is incredibly
+Advanced almost every time every time
+that I've ever heard of the surveys are
+correct and not the instrumentation
+amazing
+I have just a couple more questions
+unrelated to this topic is there
+anything else that you thought you think
+would be useful to share or leave people
+with around this General space I would
+say
+that
+like thinking about what it is you want
+to do
+is always important right like getting
+crisp the ability to communicate clearly
+is always one of the best things uh one
+of I think one of my superpowers and one
+of the things that I've been working
+with my teams on doing and kind of
+teaching them is and one of the things
+that's really leveled up our work in
+general is
+making your work incredibly accessible
+and accessible not necessarily like the
+accessibility definition of the word but
+making it very easy to understand what
+you're doing for your key audiences and
+so
+thinking about
+doing that for anything that you know
+anyone who's listening for all of your
+work
+is super important right so who is it
+that your audience is
+what's their role
+what words resonate with them and then
+always being able to translate your work
+into
+a few sentences or a paragraph or left
+or less
+I love it a lot of the listeners of this
+podcast are product managers and this is
+so core to the work of a PM so I think
+this is perfect speaking really directly
+to a lot of the listeners okay so just a
+couple more questions before this
+podcast asks you a few questions
+including just like what are people
+asking you for advice often around and
+are there any other Frameworks that you
+find really useful and so there's a
+couple things I just want to touch on
+see if there's something interesting
+there
+the first is you have this framework
+that you call the four box framework I'm
+curious what that is and what it's all
+about yes I love this four box framework
+I've used it for years I actually pulled
+it out first when I was a professor and
+I still to this day get LinkedIn
+messages from my students saying that
+it's like the most useful thing they've
+ever used so
+here's what it is I literally pulled
+this out on napkins at bars at
+conferences to this day so here we go
+draw four boxes on
+piece of paper two on the top two on the
+bottom so they'll be kind of aligned
+the first two to the left of them write
+the word words
+and Below them write the word data
+and then between the two on the top draw
+an arrow between them so it'll say words
+box Arrow box right is that making sense
+then on the bottom it'll say data box
+Arrow box
+okay so on the top half
+this is where if you want to think about
+measuring something or testing something
+you have to start with words so
+as an example let's just say I think
+that customer satisfaction gets us more
+money
+or customer satisfaction gets us return
+customer so let's do customer
+satisfaction so the first box you'll put
+customer satisfaction inside the box and
+you'll put return customers in the
+second box
+now always start with words do not start
+with data you always start with words
+and then you'll go around to a couple
+people stakeholders managers others and
+you'll say do you agree with do you
+agree with this is this actually what
+we're doing
+it can turn into a sentence
+and then in the boxes below it this is
+your data how are we going to measure
+customer satisfaction it could be a
+survey and so like this is where you'll
+go and you'll say like what data points
+do we have that could proxy for what
+could be our data points for
+customer satisfaction and this is where
+it gets tricky because you could say
+well customer satisfaction could be
+returned customers but we think it leads
+to return customers so we can't use that
+here
+but return customers or could be so like
+that's where you kind of like roll this
+out
+so house would measure customer
+satisfaction that made this hard on
+myself like a csat score yet csat NPS we
+could say the amount of money that they
+spent
+it's a stretch
+okay now
+return customers let's go to the next
+box
+how are we going to measure return
+customers
+depending on our context let's say that
+this is an online business
+we could say that it's
+returned customers as measured through
+the website
+we could say that it's returned
+customers we could just ask them right
+maybe we have a follow-up survey
+return customers maybe we're going to do
+a stretch here maybe we say it's a
+referral link
+this helps us get super clear on what it
+is we're going to measure now the reason
+I like this is because if some of our
+now this data analysis we'll just do
+correlations here right if we have
+longitudinal over time that's fine you
+can hand this to like a data scientist
+you can hand this to somebody you can
+say what data do we have let's go run
+this if something here falls apart now
+you can point to the
+data boxes
+and we can get mad about the things in
+the data boxes and we can say what's
+wrong is the data poor quality are we
+missing data was this a bad proxy right
+proxy stands in for something else was
+this was this ridiculous right one of
+the things I made up right like it was
+just a bad idea
+instead of
+getting mad at Lenny for his really
+stupid idea or getting mad at Nicole
+because this was a really bad idea we
+can say this was problematic what's
+wrong here or we can go back up to the
+words at the top and we can say
+this is not actually something that is
+probably going to hold or this is not
+something we want to test right now or
+this is something instead and it it
+makes things incredibly clear it helps
+you communicate what it is you want to
+do fairly quickly
+I love it here's my
+check it out it's ugly nice zoom in
+right okay now I will say advanced mode
+you can start with the same four box
+framework and you can say what data do
+we have available
+what do we think the relationships are
+but then you have to go back up to words
+and then say
+for these data points and we think that
+they like represent something and we
+think uh we think this is the
+relationship between them what do they
+represent if I turn this into a sentence
+what do they represent
+and then you want to like double check
+because you know spurious correlation is
+one of my favorite websites instead of
+charts so you'll want to go chat with
+someone interview make sure things are
+actually right
+but the challenge is I will see people
+run
+every correlation they could think of
+but they haven't turned it into a word
+or a sentence that you can communicate
+to someone else they don't do the check
+and and they don't do that before one
+before running the correlations and two
+if it's there right all of our data is
+so interrelated that we quite often will
+find spurious correlations but it can be
+really helpful just to have that laid
+out like even if it's just on a Post-It
+right to say what are the things I
+expect to see what is this actually
+testing what relationship do I suspect
+is there mm-hmm
+amazing there's actually I have a
+newsletter post a guest post on how to
+do a correlation analysis Center
+regression analysis so folks can awesome
+oh that's so great plug and play all
+kinds of makes it easy for you so what
+I'm taking away from this is this is an
+awesome framework especially for
+thinking about a hypothesis you may have
+in this case it's like customer
+satisfaction is going to lead to more
+return customers here's how we're going
+to measure it and then you basically run
+the test and see if it's true and if
+it's not maybe you need to pick
+different metrics maybe you need to pick
+a different conclusion
+and within like the Dora framework we
+would say if we want to improve our
+speed and stability we think improving
+build time would help and then how would
+I measure build time right these are the
+data points I have available to us yep
+to Circle back I love it it's all
+connected
+okay and then last question I asked you
+what advice people often ask you for and
+you said that it's around making
+decisions and I'm curious what advice do
+you give people about making decisions
+yes uh so this one comes up in business
+but also comes up uh personally and
+among my mentees so many times it starts
+with you know being very cursive about
+your objectives and definitions but then
+it comes down to you know really clearly
+defining what your criteria is what's
+important
+and then among that criteria what's most
+important some of my friends know I have
+a decision making spreadsheet
+but I have shared out with a handful of
+friends on you know should you take a
+job where should you move uh what are
+the different things really useful you
+should do it is it's well it's funny
+though because
+what's interesting is many times I will
+like I'll share it with someone and I've
+got a couple that are just funny right
+but walking through the spreadsheet is
+often all you need to do in order to
+know what the decision is and by that I
+mean
+so we walked through the decision I had
+one where I was like where should I move
+next or like what job should I take
+right so when I started Dora I I did
+this uh starting Dora I thought was my
+lowest once I walked through the
+spreadsheet it became my high so what
+you do is you outline like of all of
+your options what do you want to do and
+then you say what are the criteria that
+are important to me
+so if it's for a job is it something
+like uh
+total comp
+cash money
+prestige
+team
+job predictability
+work-life balance
+identify the criteria that are most
+important to you
+now it's really interesting because
+sometimes I will only get that far what
+I'm working with
+someone I'm mentoring or coaching and
+they will say
+I know what my answer is we don't even
+get to the next step
+but just identifying the criteria that
+are important is it now when I was
+thinking about where I wanted to move
+next it was proximity to an airport the
+relative texting the food scene that was
+real high for me uh you know a handful
+of things
+that was important now the next thing I
+do is for each criteria
+what's their relative weight what's
+their importance and I make it add up to
+100 percent
+and then I like this is the easy part
+right like you just put it in a little
+spreadsheet and I then I give everything
+to score and I just multiply it out now
+this is where I'm data informed and I'm
+not data driven there have been times I
+make a decision where you know the whole
+like flip a coin and like
+whatever it's wherever it lands on what
+your reaction is tells you what it
+should actually be there have been times
+where I can multiply it out and then
+I'll actually like fudge the numbers to
+get what I want but it's still slightly
+off
+let's pray your data informed same thing
+in business there are many times where
+you actually run the numbers and it'll
+give you a class or a category of things
+and then you choose
+now
+this is where you know one of my
+favorite quotes I heard somewhere about
+strategy comes into play right and
+that's that the key to having a good
+strategy is knowing what not to do and
+the key to executing a good strategy is
+actually not doing it
+um
+so you can have many options right as a
+leader and as an executive we have many
+options and we only fund some of them
+if you fund everything
+things are going to fail
+so being able to think through and
+identify what your criteria are
+identifying that criteria what's your
+selection criteria what's your
+evaluative criteria ranking them and
+then deciding what the cutoff is
+is important you can't fund everything
+you don't get to pick everything
+amazing I love the spreadsheet idea I've
+made versions of it but it's always uh I
+think like you said a lot of times the
+exercise is just tell you what you
+already think and just gives you like
+yeah all right you're right you probably
+should just do that thing you already
+thought you should do yep
+have you thought about making a public
+template of this spreadsheet even though
+it is simple I bet it would be really
+helpful to people
+I have and this actually might be a good
+forcing function maybe okay awesome so
+if uh if you do it I'll put in the show
+notes it'll probably be near the bottom
+at the end of the episode but that'd be
+awesome perfect is there anything else
+that you want to share before we get to
+a very exciting lightning round uh no I
+think that's it well Welcome to our very
+exciting lightning round I've got six
+questions for you are you ready
+absolutely all right first question what
+are two or three books that you've
+recommended most to other people
+we actually had the perfect segue
+because the book I've recommended
+absolutely the most is called good
+strategy bad strategy by Richard rumelt
+another one is designing your life by uh
+Bill Burnett and Dave Abbott Dave Evans
+uh and the last one is probably Ender's
+Game horses got card um no comment right
+now on uh
+some of his political commentary but I
+used to have extra copies in my office
+when I was a professor and I would just
+hand it out to my students it's a fun
+like just easy nonsense read but
+I absolutely love it such a such a good
+pick haven't read it in a long time and
+are they making a show of that at all
+that'd be that'd be something they made
+a movie and I was afraid I wasn't gonna
+like it so I just didn't read it because
+I didn't want it to ruin the book
+but at least Harrison Ford was in it
+okay I'm not gonna check it out they're
+making a movie of three body problem I
+don't know if you've read that but that
+is I'm really excited it's on my list
+oh man best best sci-fi ever next
+question actually very correlated what
+is a favorite recent movie or TV show
+I've been going through like some real
+just easy fun watches lately uh
+I'm re-watching suits again but Ted
+lasso is a favorite and I just tore
+through never have I ever which is fun
+because John Mcenroe narrates it which
+is hilarious John mcenro the tennis
+player yeah it's a riot yeah it's so
+funny
+I love it next question what's a
+favorite interview question that you
+like to ask people when you're
+interviewing them I love questions that
+I can kind of spin around hard decisions
+that people have had to make and how
+they made them I love hearing their
+thought process
+and I get a little nervous when people
+just like yellow and shoot from the hip
+constantly so what is it you look for
+there that gives you a sense that
+they're someone you may want to hire
+work with I just like hearing if they
+have some sort of process right if they
+have some kind of decision-making
+process if they have criteria if they
+have like how do they do evaluation
+what is a favorite product you've
+recently discovered that you love I have
+a big one and a little one um my big one
+is probably sleep eight so I live in
+Arizona it gets it gets hot here
+sometimes oh he ate sleep or yeah ate
+sleep yeah the other way around
+um yeah so that one's fun because it
+cool it makes the bed cold and also
+gives me some some data which is
+probably like a little bit off but in
+the approximations fund
+um and then Korean face masks they're
+just fun yeah you can get some some
+pretty good ones for like just a couple
+dollars and that's always fun self-care
+first mention of that one of Korean face
+masks right listen everyone get on board
+I just did the uh Tick Tock there's a
+filter now where you could see how you
+look when you age and I'm not happy with
+how it turned out and so I might look
+into this
+I had some basal cell uh cancer on my
+forehead a few years ago and so I am
+much more careful with my skin and you
+can get like one of my favorites is
+cosrx you can get 10 for like 15 so it's
+fun to just like chill at the end of the
+day with a good with a good face mask I
+was gonna ask you for a specific pick
+and so we got one yep amazing
+this next question I ask everyone and
+it's especially appropriate to you but I
+don't know if you'll have an answer but
+something relatively minor you've
+changed in your product development
+process that has had a big impact on
+your team's ability to execute and I
+feel like you have a big perspective on
+this so I'm curious what you have as an
+answer uh I think I alluded to this
+earlier I would say that it's you know
+helping everyone so I've done this
+before but I think it's helping everyone
+to ask who's our audience and how will
+we share this now
+and it's sort of interesting because
+right now I'm wearing two hats
+one is at MSR Microsoft research we need
+very ambitious research right so like
+h2h3 I mean what is H3 the third half uh
+oh Horizon three
+like five to ten years out which right
+now is like who even knows right
+in computers yeah AI has like completely
+upended how we kind of think of Horizons
+and so when we're when we're thinking
+really ambitiously and very very very
+forward looking
+what's our check-in how do we evaluate
+this and then how can we easily
+communicate it to our core audience and
+so here who's our audience and how do we
+bring the far near
+and then for the other hat I'm wearing
+I'm working with octo kind of across all
+of Microsoft to
+take a data informed approach to really
+improve and up level our Central
+developer infrastructure
+and so as we're thinking very very
+tactically what is our long-term vision
+and how do we align with several of our
+broad stakeholders and so there it's
+who's our audience and how do we bring
+the near far
+I love that
+final question what is one tactical
+piece of advice that listeners can do
+this week to help improve their
+developer productivity or developer
+experience and move it in the right
+direction you know if you walk away from
+this podcast right now
+you could take a look at what's
+happening in New York today is it
+written down is it clear do you have any
+existing data and efforts and if not go
+find a handful of developers and ask
+them how they feel about their work
+tools and their work process and what
+the biggest barriers to their
+productivity are
+also pick up a copy of accelerate on
+Amazon or your local retail
+establishment Nicole this was amazing I
+think we're going to help a lot of
+companies move faster have better and
+happier Engineers which is going to
+create infinite value in the world thank
+you so much for being here two final
+questions where can folks find you
+online if they want to reach out and how
+can listeners be useful to you I'm on
+Twitter and Bluesky
+um Nicole FV and my website is
+nicolefe.com and my all my contact
+information is there and as we mentioned
+previously I'm working on a new project
+and a new book digging into exactly
+these ideas right how can we measure
+better how can we improve and what does
+that measurement process look like both
+for kind of one-time really quick you
+know unofficial measurement pieces and
+if we want to do kind of very formal
+longer term measurement pieces so if
+anyone is interested in that or has any
+success stories they'd love to share I
+would love to hear more about it so
+please reach out and share I'd love to
+hear more
+awesome Nicole thank you again for being
+here hey thank you Lenny bye everyone
+thank you so much for listening if you
+found this valuable you can subscribe to
+the show on Apple podcast Spotify or
+your favorite podcast app also please
+consider giving us a rating or leaving a
+review as that really helps other
+listeners find the podcast you can find
+all past episodes or learn more about
+the show at lennyspodcast.com
+see you in the next episode

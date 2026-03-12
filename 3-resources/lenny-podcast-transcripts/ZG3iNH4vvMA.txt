@@ -1,0 +1,2755 @@
+I think historically I've gotten really
+caught in this trap where at any moment
+in reforge it's like ah if I just solve
+this one thing this x problem
+Everything's Gonna Get Easier that might
+be landing like some big higher some
+executive hire or figuring out you know
+some major lever or defining like some
+strategy but the reality is is that the
+opposite is true the more problems you
+solve you just end up taking on bigger
+and bigger problems over time and hoping
+it gets easier is the thing that just
+sets you up for this frustration this
+anxiety this stress and I think
+switching to that mentality of like
+getting rid of that hope and more of
+like if I solve this thing I get to take
+on an even harder thing I think is the
+thing that actually reduces the stress
+today my guest is Brian Balfour Brian is
+the founder and CEO of reforge which is
+by far the best place in the world to
+get in-depth training on growth and
+product and related topics previously
+Brian was VP of growth at HubSpot
+co-founder of three other startups and
+in My Mind Brian is the Sensei of growth
+with Brian on the podcast I wanted to do
+something special so instead of going
+into the typical stuff that he writes
+about and speaks about we instead talked
+through 10 of the biggest and most
+interesting lessons Brian has learned
+from his career and from his life these
+come from a list that he keeps where he
+gathers lessons that he learns over time
+which turns out is over a hundred we
+only have time for 10. there is so much
+gold in this episode and I believe there
+is something for everyone I can't wait
+for you to listen to it and to hear what
+you think with that I bring you Brian
+Balfour after a short word from our
+sponsors
+you fell in love with building products
+for a reason but sometimes the
+day-to-day reality is a little different
+than you imagined instead of dreaming up
+Big Ideas talking to customers and
+crafting a strategy you're drowning in
+spreadsheets and road map updates and
+you're spending your days basically
+putting out fires a better way is
+possible introducing jira product
+Discovery the new prioritization and
+Road mapping tool built for product
+teams by atlassian with jira product
+Discovery you can gather all your
+product ideas and insights in one place
+and prioritize confidently finally
+replacing those endless spreadsheets
+create and share custom product roadmaps
+with any stakeholder in seconds and it's
+all built on jira where your engineering
+team is already working so true
+collaboration is finally possible great
+products are built by great teams not
+just Engineers sales support leadership
+even Greg from Finance anyone that you
+want can contribute ideas feedback and
+insights in jira product Discovery for
+free Nokia catch and it's only ten
+dollars a month for you say goodbye to
+your spreadsheets and the never-ending
+alignment efforts the old way of doing
+product management is over ReDiscover
+what's possible with jira product
+Discovery try for free at atlassian.com
+Lenny that's atlassian.com Lenny
+this episode is brought to you by Coda
+you've heard me talk about how Coda is
+the doc that brings it all together and
+how it can help your team run smoother
+and be more efficient I know this
+firsthand because Coda does that for me
+I use Coda every day to Wrangle my
+newsletter content calendar my interview
+notes for podcasts and to coordinate my
+sponsors more recently I actually wrote
+a whole post on how CODIS product team
+operates and within that post they
+shared a dozen templates that they use
+internally to run their product team
+including managing a roadmap their okr
+process getting internal feedback and
+essentially their whole product
+development process is done within coda
+if your team's work is spread out across
+different documents and spreadsheets and
+a stack of workflow tools that's why you
+need coda coda puts data in one
+centralized location regardless of
+format eliminating roadblocks that can
+slow your team down Coda allows your
+team to operate on the same information
+and collaborate in one place take
+advantage of this special limited time
+offer just for startups sign up today at
+coda.io Lenny and get a thousand dollar
+startup credit on your first statement
+at coda.io Lenny to sign up and get a
+startup credit of one thousand dollars
+coda.io Lenny
+Brian thank you so much for being here
+and welcome to the podcast thanks for
+having me so instead of going deep on
+the typical topics you go into growth
+loops and Frameworks and all that kind
+of stuff what we're going to do is we're
+going to go through 10 of the most
+important interesting unique lessons
+that you've learned from your career
+your work and your job and as we were
+aligning on these topics I learned that
+you keep this notion dock of lessons
+that you learn throughout your work tell
+us about this notion doc I think one of
+the things that I've learned over time
+for me I don't know about you is that
+I just don't tend to remember things
+unless I write them down
+100 and and in enough effort to uh not
+repeat mistakes I basically just started
+keeping this notion DACA that I call
+like Lessons Learned and some of these
+are from things that I've like picked up
+from others as we'll talk about similar
+things that I've learned the hard way
+like myself they're kind of OG Brian
+lessons and some of them from others but
+I've experienced all of them in some way
+shape or form and what I do is I just I
+literally write down a one-liner of what
+the lesson is and then a few sentence
+description and then the way I use this
+is that whenever I'm thinking about a
+big maybe strategic question a reforge
+or something else I kind of returned to
+this to this notion doc and usually it's
+like two or three lessons jump out to me
+as relevant to that specific situation
+and help either unblock me or guide me
+to a better answer or one of those
+pieces and so I I started only doing
+this maybe I'd call it a few years ago
+and I think there is a hundred and some
+buttons in there at this point which so
+we're not only we're gonna only cover
+like maybe 10-ish percent of them today
+but I've found it very useful just as a
+mechanism to
+unblock or ignite some new thoughts when
+when I'm getting when I'm getting stuck
+I love that we have 10 more episodes we
+can do after this uh to go through all
+of them there you go it's also amazing
+that you do two things that people wish
+they did like I imagine everybody wished
+they had a list of all their lessons
+it's like oh I should have been doing
+this and then you actually use them
+which is also the thing most people
+don't do if they have a list like this
+so it's pretty incredible they actually
+find a way to but that's the thing
+that's why you have to keep it light
+that's what I learned because I used to
+you know take when I read books I used
+to take a ton of notes and all that kind
+of stuff but that also just CR it's not
+only creation friction but it it's it
+creates friction in actually using it as
+well because then it's like I gotta sift
+through all of these notes and so so now
+I'm just like well what is what is the
+one liner like what is like the the
+essence of this thing whether it's comes
+from a podcast or a book or a
+conversation I've had like those types
+of things and so that's what I found is
+like it's quick to create quick to
+return to reducing friction maybe that's
+should be the number one growth lesson
+we should talk about but but yeah like
+that's that ends up being the key
+amazing okay well let's just get into it
+what is lesson number one I think the
+first ones we're going to cover are more
+related to startups founder life company
+which I've been in the season as the
+past seven years as founder CEO of
+reforge uh we'll cover some growth ones
+later but one of them that I have just
+felt so strongly with in my entire
+career and what a lot of reforge was
+founded on but I didn't find the words
+for until I was listening to something
+by Frank slootman is just inspect the
+work and not the person
+and what that really means is in the way
+that kind of Frank puts it is
+I just think it's really hard to judge a
+person from a conversation whether
+that's a hiring conversation a
+performance conversation or something
+else like that just like never resonated
+with me and what it's saying instead is
+like actually trying to draw a
+conclusion just from a conversation is
+honestly like kind of you just
+have like all these biases involved and
+instead of trying to just inspect the
+person from the conversation it's like
+how do you go to the work like how do
+you how do you see what their output is
+the things that they've either
+historically created or currently
+created because that's in the work
+environment ultimately the thing that
+shows you what this person is capable of
+like how they approach the work who they
+work with all of these things that are
+much more meaningful signal
+than asking tell me about a tough
+situation you faced in in your career uh
+those types of things and so I've always
+applied this from day one of reforge of
+like uh Even in our hiring combos
+80 to 90 of the decision is based on
+either some type of portfolio or review
+or some what we call a simulation a lot
+of people call them exercises and I get
+a lot of pushback from that internally
+from my team because it's a lot of work
+to come up with these things it creates
+friction in the hiring pipeline like all
+of these types of things but every time
+I've like made an exception on one of
+those things and said okay I'm not doing
+it I have regretted it I have flat out
+regretted it and so I think this is one
+of those things is like when you're
+actually trying to make a decision or so
+much of our work is based around people
+trying to judge a person or come to a
+decision just from a conversation on the
+surface almost always misleads you and
+instead it's really like just how do you
+just go look at the work the actual
+assets and things that they have helped
+create and bring to life in this world
+because I think that tells you so much
+more about the person
+you touched on this is useful for hiring
+but also performance like how they're
+doing at the job right there's always
+just like here's what I've done but you
+look at what they've done it's like I
+don't know yeah well because even you
+know especially as a company grows you
+know there's all sorts of processes to
+put somebody up for a promotion and all
+that kind of stuff and the way a lot of
+those processes are designed as the
+individual that's going up for promotion
+tries to like tell a story about what
+they have accomplished and then the
+managers going you know to Advocate uh
+for them and I think in that process
+there's just too many opportunities to
+either twist what actually happened or
+there's all sorts of biases that end up
+involving and so me as a potential
+decision maker on a yes or no on that
+decision all I have to go off of you
+know being multiple steps away from from
+this person's work is essentially these
+words that are being promoted and how
+how can I actually make an accurate yes
+or no decision on that I can't and it
+works in the reverse Direction and two
+people who are doing amazing work but
+maybe not the best at advocating for
+themselves or maybe have managers that
+aren't doing the best job at advocating
+for themselves end up feeling you know
+disenfranchised and and like forgotten
+and a lot of you know just like a lot of
+bad feelings emerge and that's how you
+lose essentially these really talented
+people so even in processes like that
+it's like how do you surface the
+person's work over the past time period
+so that the ultimate decision maker can
+look at that work kind of go straight to
+the source rather than relying on this
+game a telephone that's happening as
+well and so you know something that
+we've started to try to implement at
+reforge but we're doing it very slowly
+is building in regular processes for
+people to record the work that they've
+accomplished internally kind of keep a
+log of it the things that they've helped
+create and so that when it comes to
+those conversations it's already easily
+packaged and can be surfaced as part of
+part of that process uh so I think this
+works in
+I it works in a bunch of different
+Avenues but it just kind of comes back
+there's so much more you can glean from
+inspecting the actual creations of
+somebody than just like a surface level
+conversation amazing uh just one more
+question before we get to our next
+lesson along that same line you just
+mentioned I've just like how to actually
+do this so you mentioned like exercises
+in the interview I think the extreme of
+that is something linear does which I
+recently learned about where they have a
+work trial where they work with the team
+for like five days one to five days you
+just mentioned keeping track of your
+wins is there anything else you can
+share of just like how you actually
+implement this sort of lesson
+well I don't I think it's not even wins
+it's like a log of what you've helped
+ship and your role in that in that piece
+because even if it's not a win
+right it's possible that you you did
+some really amazing work but there's all
+sorts of other possible circumstances
+for why it ended up not being a win and
+that's kind of that's also what gets
+lost I think a lot in these a lot in
+these processes is that somebody could
+be doing really amazing work but maybe
+it's not an obvious win from the metrics
+or some other perspective however else
+it's being judged and you just you just
+never you never do that um and so I
+think where we started with this the
+question is is how do you make it super
+light weight and I think internally what
+we've been trying is and we've been
+trying to figure this out is it's not
+about you know writing a book about your
+work every couple weeks right it's like
+grabbing a couple screenshots and
+writing down a few bullet points of how
+you participated and create creating and
+shipping this piece I will also say that
+it this also keeps the emphasis on
+things that have shipped to end
+customers which is the ultimate goal of
+most functions you know Finance is a
+little bit different like some of these
+internal functions where their customers
+are the internal employees versus I
+think oh even we even had a pattern of
+this in the past at reforges people put
+a lot of emphasis on creating like the
+awesome internal document and it's like
+look you can create some awesome
+internal document but if you're
+ultimately not any that's not
+translating to shipping something that's
+impacting the customer that's a loss for
+the company and I think once again a lot
+gets gets caught up in these these
+processes of where the Judgment gets
+placed in the place in the wrong places
+the last and not and the quick plug is
+you know reforgeous created this product
+called artifacts which is a place to
+both store and showcase the things
+you've actually created in your work you
+know you can think about it as like a
+portfolio or GitHub for everybody and
+that could be look if you're a manager
+and creating performance review
+processes or career ladders or interview
+simulations all these types of things
+that is work that showcases what you're
+capable of as a leader or manager or you
+might be an individual pm and be
+involved in shipping a feature and and
+so we've created that place to not only
+store and showcase that stuff but for
+folks that are coming along and solving
+a similar problem after you they can use
+those things as ingredients to
+potentially solve you know their problem
+in a in a slightly similar but um
+different way as well similar to like
+open source code on artifacts how do
+people find that you can just go to
+reforge.com and sign up it's right there
+on the on the home page you can also
+just go to artifacts.reforge.com and I
+have a bunch of mine posted up there
+including like the original doc I wrote
+for my hypothesis around reforge seven
+years ago it's like it's an interesting
+Blast from the Past around that to see
+like what I got right what I got wrong
+and some of the lessons we'll talk more
+about today awesome okay and we'll link
+to that in the show notes okay lesson
+one inspect the work not the person what
+is lesson two lesson two tell me what it
+takes to win then tell me the costs and
+I couldn't remember quite where I picked
+this up the language for this up it
+might be from Bezos so somebody out you
+know some listener can probably credit
+for me but a problem that I've
+experienced especially as the my team at
+HubSpot grew or the team at reforge has
+grown is that as the team grows a lot
+more of the initiatives and ideas
+obviously come Bottoms Up from the
+organization but oftentimes by the time
+it would get to me
+the person would have taken an approach
+or all of these filters would have
+gotten put in place they they would be
+thinking well I don't want to I don't
+want to propose something that's going
+to get you know denied or this might
+sound a little bit too wild and I don't
+want that I don't I don't want to be
+like interpreted that way or you know
+somebody else in the organization told
+me that this is going to be a lot of
+hard work right and so by the time it
+gets to the person that is either green
+lighting the project or funding the
+project or making that decision
+it loses the ultimate thing that you
+need to achieve which is in startups you
+basically just have to do whatever it
+takes to win and so the saying is like
+well just tell me that first
+and then we can even if the costs seem
+really high now now we can collaborate
+on what might be a way to approach this
+where the costs aren't so low but I
+don't want my team
+spending time on watered down things
+that aren't going to ultimately help us
+win that's just like a waste of time and
+a waste of resources I would rather be
+having the conversation on well here's
+what I think it's going to take to win
+at this particular item now we can be
+having the conversation of well how do
+we actually go do that that's the
+conversation I want to be having but if
+I've got to be pushing the team of like
+hey like this is too conservative or
+this isn't going to be enough or I don't
+know if it's going to be worth the
+resources I don't want to be pushing the
+team I want the team pushing me and then
+we can start to pair it back to figure
+out how to actually achieve this thing
+this touches on a lesson that comes up a
+lot on this podcast is this idea of
+working backwards from the ideal instead
+of working forwards and incrementally
+getting to something and then just like
+here's the perfect world what would it
+take to get there maybe we'll never get
+there but it's a nice forcing function
+in my 100 or so lessons I have a
+different version of that that one is
+which is yeah like kind of Define the
+ideal end State and then iterate towards
+it that ends up being a little bit
+tricky in teams to implement because
+people can very much attach themselves
+to that ideal end state but the thing is
+you have to revisit that ideal end state
+every so often and revise and update in
+all of the and and iterate on that as
+well
+um because you you identify you define
+this thing you iterate towards it you
+learn some things and you're like um
+that ideal end State isn't quite right
+or I need to push the Horizon out a
+little bit more and so I need to update
+and redefine it
+um but so the the key on those things is
+how do you land that ideal end state to
+align the team teams to iterate towards
+it but not in a way where folks are like
+well the pixels didn't end up like this
+or we said we were going to build this
+exact feature but it you said X but
+we're actually now doing why and it's
+really hard to land that like in between
+of we're not going to do this exact set
+of things and this is about directional
+alignment but we want you to work
+towards making this thing a reality and
+then the second part is just finding the
+time to take the step back to re-update
+that ideal end State I think that's the
+other component of that that there's a
+lot of friction there it's just hard to
+find that time in those types of things
+but I actually think that is a better
+version of yearly planning than what
+most people do with okrs and stuff I
+think most people would be better served
+just working in product visuals saying
+oh how might we want the product or the
+user to experience the product a year
+from now and giving that to the team
+that is way more meaningful I think for
+folks those visuals than a nicely
+formatted set of okrs wow I love that do
+you do you work that way do you try to
+work that way we started working this
+way about I'd say like four or five
+months ago you know we went through a
+few crazy years at reforge where
+everything we were shipping was working
+and we were trying to keep up with all
+of the growth and then of course when
+all the macro stuff hit a year or so ago
+we were kind of in the bullseye of it
+being in the l d space a lot of our
+customers and Tech like all of these
+types of components and I think in that
+crazy period we had taken multiple shots
+at different planning processes and they
+were all disasters
+they were all they were all disasters
+and we had so many smart people around
+the table who had gone through these
+processes before but I think when you're
+in that incredibly fast growing stage or
+you're in the earliest stage where
+you're Landing a bunch of new bets that
+are a bit ambiguous and it's more like
+product marketing fit mode kind of
+closer to that end of the spectrum
+I think you're much better served by
+incredibly light planning processes
+where 90 80 to 90 percent of the assets
+produced are actual like visuals of the
+experience it doesn't have to be product
+visuals either I've started forcing
+teams to you know marketing teams to
+show me what the potential like
+marketing assets might be rather than
+giving me an ocean doc or we do a bunch
+of stuff on like the supply side of our
+Network and I'm like well what is a
+customer facing asset like what might
+how might they experience this because
+we're going to have a way more
+productive conversation
+over that type of asset than a bunch of
+words on an ocean Dock and so we have
+started working uh like this in the past
+six months we found it way more
+effective now how long that can last and
+how long that can scale
+huge question mark right uh you know all
+all of these processes okay there's all
+these kinds of things they've been
+created for a reason in in scale but I
+think where we're at as a company you
+know 75 people still Landing a bunch of
+new product bets trying to iterate ship
+quickly keep the coordination costs down
+low all those types of things we're
+finding this method to be far more
+effective and it doesn't matter if it
+can't scale because you're going to
+change it anyway right like the way I
+thought about planning always just like
+it's like the best idea you have at the
+time let's just do it this way yes org
+and strategy like this is the best idea
+right now we're gonna rethink it anyway
+in six months if things are going well
+especially if they're not going well so
+yeah and that's why you want to get it
+out as fast as possible Right whereas I
+think in a lot of planning processes you
+get those things out really fast
+and then 80 of the process is like
+churning on the last little bits that
+ultimately don't matter in the end right
+and I think that's the piece that feels
+just awful to the to the team and it
+makes these things drag on for a really
+long time it's also what gives people
+really attached to the plan and more
+upset when you ultimately do change
+things like like you're saying so I
+think that's why you need to find
+methods to just get those big chunks out
+incredibly quickly and then move on
+right hey move on start start shipping
+start iterating towards that ideal end
+State because uh that that's gonna
+that's gonna help you update whatever
+that new ideal and state will be in the
+future there's all these bonus lessons
+that are coming up as we're going
+through these lessons but just to close
+the loop on this lesson it was tell me
+what it takes to win and then tell me
+the costs nailed it what is lesson
+number three
+lessons number three is like uh hard one
+that I've I've learned the hard way and
+I'm still like trying to improve that
+myself and this one's very much for
+Founders which is just problems never
+end
+and that's okay here's what I've
+personally experienced and I've talked
+to a lot of Founders about this as well
+where I just I think historically I've
+gotten really caught in this trap where
+at any moment in reforge it's like ah if
+I just solve this one thing this x
+problem
+Everything's Gonna Get Easier that might
+be landing like some big higher some
+executive hire or figuring out you know
+some major lever or defining like some
+strategy
+but the reality is is that the opposite
+is true the more problems you solve you
+just end up taking on bigger and bigger
+problems over time and hoping it gets
+easier is the thing that just sets you
+up for
+this frustration this anxiety distress
+and I think switching to that mentality
+of like getting rid of that hope and
+more of like if I solve this thing I get
+to take on an even harder thing I think
+is the thing that actually reduces the
+stress and so this was a one that I've
+also felt like for many many years but
+had a tough time finding the words for
+and then Ray dalio had this passage in
+one of his books that just like hit the
+bullseye and so his passage which we've
+actually worked into the cultural values
+at reforge is every day there's going to
+be problems some big other small
+sometimes in waves sometimes slowly but
+they're never going to end the more
+successful we are the bigger our
+problems will be and how we react to
+those problems is up to us to achieve
+our goals each individual must be a
+problem-solving machine he calls it the
+problem-solving machine I think there's
+some adaptations in there but I thought
+that like captured it so well and I you
+know when I find myself getting caught
+in this
+oh if I we just saw this one thing life
+will be so much easier I kind of
+returned to this statement not only to
+remind myself that that's not true but
+to try to like switch my framing around
+of how how to think about the problem
+but learning this is like a It's a Grind
+it's it's a hard mentality switch for I
+think a lot of a lot of Founders this
+reminds me a number of things one is
+just I heard someone describe basically
+any leadership job as your professional
+firefighter you're just putting out fire
+solid date it is true it is true because
+like
+those are the things that bubble up
+right the things that are going easy the
+things that are going great do not
+bubble up right uh and and so as a
+result yeah you you end up being like
+this this catcher for for all of the
+problems and I think that's why a lot of
+people end up in these management and
+Leadership roles and then they they just
+hate them they're they're not they're
+not good at them and they're not good at
+them because they don't like it uh
+um both both of those things end up
+being true and a lot of that has just
+been driven by our construct of how
+people think they have what they have to
+do in order to progress in their careers
+is like the only way to progress in my
+career is through management and that
+there's three components of that right
+there's title right like most people
+view that as a higher Social Capital
+thing most people see that's the only
+way that I can get you know higher
+compensation as part of that as well as
+getting more compelling roles in my
+career so this is also something that
+we've recently changed in the past six
+months at reforge which is through a lot
+of the macroeconomic changes we
+massively flatten the org we converted a
+lot of managers back into what we call
+Captain I see roles and Captain I see
+who yeah yeah we call it we have this
+framework called players coaches
+captains and we talk about a little bit
+of the differences and it helps kind of
+distinguish the different type of
+leadership between uh senior IC and a
+manager a manager is more of a coach
+they're kind of coaching from the
+sidelines and I see it's like leading
+from buying being on the playing field
+and those two things are very different
+we kind of put that in place uh we
+changed our entire compensation
+structure so that there is zero
+compensation trade-off whether you just
+want to keep growing as I see and stuff
+there's more of these Captain roles
+internally than there are manager roles
+uh internally we've created the same
+like titles for all of the levels so
+people don't feel like they're making a
+trade-off on you know that external
+signaling Factor we give all the
+Strategic problems to the captain level
+IC roles that managers and coaches are
+purely around hiring coaching
+positioning players on the field
+identifying problems but then handing
+those problems off for others to go
+solve all of these types of things but
+one of those things that's really
+bothered me for a long time is that you
+as you just you end up on this manager
+death cycle where when people think
+that's the only way that they can
+progress or the only way that they don't
+have to make these trade-offs you end up
+with a lot of folks in those roles who
+are neither good of them or don't really
+want to do at them and oh by the way
+you've also taken your star IC players
+off the field in the process of all of
+that and then they go and just repeat
+the cycle right they create meetings and
+processes and all those things because
+that's what managers are supposed to do
+and then they coach their team as like
+that's the way you progress in this
+organ the whole thing repeats itself and
+it ends up being a really big mess and
+so I think a lot of these principles are
+not new especially in software
+engineering I think that's where they've
+been around the longest but um but we've
+we've applied it to every single
+function within the organization and I
+think we'll take further steps in the
+future to even like compensate the
+captain I see roles how higher than the
+managers to essentially really provide a
+counteracting force and people have to
+make a negative trade-off to become a
+manager to make sure that people who end
+up in those roles are the ones who truly
+want to be there and truly do that type
+of work and be like the problem catcher
+uh you know that that type of work as
+part of it I feel like this also just
+like a very common theme now across
+companies I feel like if you haven't
+written about this I think just sharing
+this in depth would be really useful to
+a lot of people because I think a lot of
+startups are trying to think about this
+I I think a lot of folks have really
+come to this realization
+you know through some of these Hard
+Times where a lot of pressure gets put
+on prioritization and budget cuts and
+stuff but I would also say I would go as
+far to say is I think this is where the
+world is headed all of this AI tooling
+is going to give these like super ICS
+these Captain level ICS even more
+leverage in solving problems and their
+creation abilities as part of that and
+so I think in the future what we're
+going to see and I'm not the first one
+to say this there have been others like
+Scott belski and others that have
+written about this which is just I think
+the future is actually companies that
+are they're much smaller teams where you
+know these all these AI tools are giving
+one person a wider set of creation
+abilities and has a result you don't
+need as many people to solve the same
+size problem as you want to and that's
+that's great there's less coordination
+there's less all of the things that
+people end up hating their jobs over
+whether that's you know writing updates
+and you know reviews and like all of
+that type of stuff I think it's a very
+positive thing and as a result we're
+gonna see
+happier people happier companies and
+more creative output as part of it and
+so I don't know it I think this is where
+the future I think the future favors
+these super IC types over those over the
+manager types I'm so curious if that's
+how it ends up playing out like it all
+makes sense that that's where things
+would head if AI gets powerful enough
+but there's also these incentives that
+just drive companies to hire it's like
+oh right we could do more why don't we
+hire more Engineers oh we could build
+this team we could go faster it is so
+hard this is something we've also put in
+our cultural values which is we just uh
+the our second cultural values small
+teams do bigger things and we have some
+guidelines on there of like we only add
+somebody to the project when we feel
+like it's absolutely necessary we know
+what the right next steps are like all
+those types of things but I think if you
+could sum up the last two years is that
+we basically funneled a ton of capital
+and people into things that were kind of
+working but not like fully working and I
+think that's where a lot of companies
+found themselves including reforge we
+funded some of those things and we had
+to we had to unwind them which makes
+sense like as a company you're looking
+for new things that will grow and become
+huge opportunities so I don't think
+there's anything wrong with that right
+it's like we're just gonna plant all
+these seeds we're going to try stuff see
+if anything blows up and then we double
+down so like in a good way yeah yeah so
+I think it's really normal yeah right
+like I think a lot of people dis like
+all these companies investing in all
+these new ideas and and random things
+when like that's really how you you
+build another business line or you find
+and unlock for growth right that's like
+pretty normal totally when we went from
+one product to multi-product at at
+HubSpot we've seeded multiple bets at
+once and only like a couple of them
+ended up making it through the filter
+which ended up being the CRM and the
+sales tool uh as part of that and then
+there was projects we ended up killing
+and unwinding as part of that but the
+key about each of those bets was that we
+seeded each of those Bets with a very
+limited amount of funding in a very
+small team like there was still the
+constraints involved and I think where
+the mistake ends up happening is like
+you kind of have this thing that's
+working but not really and because
+you've got all these other people
+sitting on the sidelines or this cash
+sitting on the sidelines you end up
+piling that stuff in there and when you
+tend to add those things to stuff that
+are only kind of working it gets worse
+it doesn't get better and that ends up
+creating a lot a lot of issues which is
+that a value what is it that you have
+about small teams yeah just small teams
+do bigger things we felt like we needed
+to like things encode this
+um in us to be like a forcing you know
+to be a forcing function for us going
+forward
+all right all these bonus lessons you're
+just full of lessons Brian um okay so
+I'm gonna close the loop on lesson three
+which is problems never end and that's
+okay yes
+all right Lesson Four all right now
+we're getting into the product and
+growth uh lessons this one I actually
+learned at HubSpot which was uh the year
+is made in the first six months
+and where this really comes from is that
+I think especially when you're going
+through planning or thinking about
+growth and Milestones and hitting those
+goals and and looking forward in that
+way is that this is particularly
+relevant as that everybody's probably
+going through yearly planning right now
+he's like I see I've seen a lot of plans
+where
+you realize in the in the first three to
+six months you kind of have a line of
+sight to what the constraints are and
+what you can actually do and the
+limitations of those things and so in
+the first three to six months of a year
+your growth goals end up being kind of
+realistic kind of On Target but then
+you're like oh I've got to hit this
+ambitious Target so I'm gonna build
+you know this inflection point in the
+back half of the year right to like hit
+that to hit that goal the reality is is
+like that's just not how it works to
+make your year it's really about the
+first six months and the things you
+accomplish in those first six months and
+the reason is this for quite a few
+products
+most products this isn't true for all
+products is that the buying cycle or the
+decision window for a lot of customers
+is so long that by the time you get to
+the second half and and you do the
+calculation of like well if we put this
+thing in place and the time it takes to
+impact a customer and then the time it
+takes for that customer to make the
+buying decision you're already into the
+next year right when you when you put
+those things in this is really true for
+SAS right where the buying Windows could
+be
+anything from a few months to up to like
+a year long depending on what type of
+Market that you're you're tackling and
+so if you don't do the things in the
+first six months the options you're left
+with to actually influence the numbers
+in the back six months of the year is
+incredibly small incredibly incredibly
+small now this might be different for
+you know a consumer social product where
+the friction is very low and there is no
+buying things and maybe I can pull some
+levers like paid acquisition or stuff
+that have really short time windows but
+even in those products when those
+products tend to be more influenced by
+things like viral loops and working on
+engagement and retention the amount of
+times it takes to build and ship those
+things and then have it propagate
+through the user base and actually
+impact your numbers ends up being longer
+than most people
+think about when they're thinking
+through the next like the next year and
+so anyways if you want to hit your year
+number it's all about the first six
+months otherwise you're being a little
+bit unrealistic with these very you know
+back weighted second half plans
+something you didn't mention which is
+also just reorgs like you often just
+like rethink everything halfway through
+right it's like oh the world has
+changed and so you're probably not even
+gonna get to that back half the weight
+planned yeah that's fair I think I think
+it's just a human tendency to
+essentially overestimate how fast not
+only how fast you can do something but
+how fast it will take in effect
+especially this becomes even bigger the
+the the larger your customer base
+becomes right because the larger the
+Baseline you're working with the larger
+the number you need on the new thing to
+actually show a meaningful impact and so
+I I think we it's just very easy for for
+us to overestimate those things when
+we're going through that type of forward
+looking thinking
+awesome okay Lesson Four the year is
+made in the first six months
+what is lesson five okay this is
+probably one that I think about the most
+um and comes up the most often not only
+in
+reforge courses but in like investing
+invising which is growth is a system
+between acquisition retention and
+monetization you change one you affect
+them all we've written about this a ton
+you've written about this um to some
+degree but I think people underestimate
+how deep this lesson goes and it's it's
+not just about
+understanding your system which is the
+growth model understanding that if you
+do change one thing you have to change
+the other one but it's also
+understanding like when you have a
+problem in one area sometimes the
+solution is in a different part of the
+system right so a lot of times retention
+problems are created because you're
+acquiring the wrong folks or a lot of
+times monetization issues are stemming
+from engagement problems and so what
+I've often found teams to really do is
+that they they narrow they identify the
+problem which is like hey we might have
+low Revenue retention or low Revenue
+conversion or something like that and
+they go straight to okay trying to work
+on levers within that specific part of
+the system but without taking the step
+back to say well actually what part of
+the system is creating this problem it
+might actually be something within it
+maybe we just have terrible pricing
+Pages or or something of that nature or
+terrible Dunning flows but I think
+oftentimes the actual solution the
+actual lever to move that problem ends
+up being in a different part of the
+system and so this system type of
+thinking is probably the number one
+thing that I think separates
+great folks who work on growth from like
+your average good folks I think the
+average good folks get all of the simple
+levers of like how to reduce friction
+increase reward they might understand
+things around growth Loops all that type
+of stuff but system level thinking is I
+think the thing that separates the great
+from the good even more so in
+Marketplace and network products because
+the System Dynamics are you know amped
+up multiple time degrees Yeah I'm
+curious if there's an example that comes
+to mind either reforge or at HubSpot
+I'll share one from Airbnb that you made
+me think about there was a team at one
+point on Airbnb that was just like
+focused on retention uh guest retention
+they're just like how do we get people
+to travel more and come back to Airbnb
+more and they did all this work all this
+analysis and they just found it's
+related to how good was their trip
+and so it became a thing that they're
+like okay there's not much we can do as
+a retention team we gotta focus on trip
+quality and house quality and that
+actually led to creating a team and
+putting more resources into let's
+improve trip experience which uh was
+mostly around host uh response rate
+reviews things like that and so it's
+just like okay we we should this team
+should not exist we should not have a
+retention team we should work on trip
+experience so examples I think early
+HubSpot sales days you know the the
+renewal figures on like our early pay on
+our early paid product or like only okay
+and I think the team we initially wanted
+to work on well what feature could we
+add to all of these things but when we
+actually went into customer combos what
+we found was that a lot of the people
+that the sales team were selling to
+ended up being either not the Persona
+that we ended up building for or they
+were selling a use case that we hadn't
+actually we actually hadn't designed for
+and that's because look like sales
+people are there they're cranking right
+they're just trying to close close deals
+which he'd write is like that's what
+their role there is for and so at some
+point we had to redesign the incentives
+for the sales team I don't remember
+exactly how it worked but I think we did
+something as drastic at some point as
+saying hey like if you sell this type of
+persona or this type of company you will
+not get comped on it right and that
+immediately changed Behavior right and
+we started selling the right so that was
+an example where engagement and
+retention problems were created up at
+the top uh or up at the top of the
+funnel
+similarly I think an early reforged days
+where we had
+a lot more in-person collaborative
+Dynamics as part of our programs we have
+this application process and we learned
+over time that there were different
+behaviors and mindsets of like coming or
+desires for what somebody wanted out of
+a program that actually created one of
+those compelling like created those
+peer-to-peer
+um compelling experiences right and so
+sometimes people wanted to come into the
+program and all they wanted to do was
+like network with peers right and they
+actually didn't want to engage with the
+content and all and then sometimes we
+have the opposite and they just kind of
+wanted to be on like their own little
+solo journey and not engage and not
+engage in stuff and so over time we
+iterated on that we started to learn
+like what are the right questions to ask
+in order to create this better down
+funnel experience now over time we've
+evolved the programs as covet hit and we
+got rid of the in-person component and
+all of these other changes that rendered
+those lessons you know not relevant in
+today's environment but those are two
+those are like two quick examples that I
+can uh that I can think of off the off
+the top of my head we're now in a place
+where we've started layering on
+marketplaces to reforge and and so this
+system level thinking is coming up more
+and more daily because as you know every
+conversation we have about demand that
+we end up talking about Supply in every
+conversation we end up talking about
+Supply we end up talking about demand
+because that's just how how it works
+good old marketplaces I think just that
+lesson alone is really powerful is just
+how much the people you bring in Impact
+every other metric and how everything
+looks like a story often hears just paid
+users or just innately everything's
+going to be worse basically retention is
+going to be worse people that you're
+driving through like Facebook and Google
+ads and and you just cut that off and
+like wow retention went up wow look at
+us go yeah I mean I think we both
+mentioned it in here but you know we we
+have this concept in in reforge that we
+teach around calling it like good
+friction and I think that you know talk
+I think a lot of people are taught to
+always reduce reduce friction but
+actually oftentimes the right thing to
+do is to add the right amount of
+friction to you know create create those
+experiences and those right engagement
+metrics down funnel is just it's a all
+the incentives internally are not
+aligned to doing that because almost
+every time you add good friction in a
+product in the very short window it's
+like conversion will go down and stuff
+and you have to wait for those down
+funnel things to propagate but people
+love quick wins right people love
+looking at those short-term metric
+boosts and are often you know rewarded
+and applauded for it and so I think
+those types of things are actually hard
+to
+Implement and even advocate for inside
+of organizations and products and I
+think that's why you you tend to see
+these things get you know chipped away
+at over time
+I think an example that is how you
+actually reforge I noticed you turn away
+a lot of people there's tons of
+applications and you've just learned
+here's who is going to have a good time
+and we will reject anyone that even
+though they're so excited about joining
+reforge they're gonna have so many
+people are going to join they're gonna
+you're gonna make all this money but you
+just know they're gonna have a bad time
+they're gonna have bad reviews it's
+going to create bad word of mouth and so
+I think to me that's a really good
+example of that in action yep okay
+lesson five if I can summarize is
+basically that growth is a system
+between acquisition retention
+monetization and basically changing one
+impacts others so think about if you see
+one thing happening here is there
+another part of the system that you may
+want to work on Bingo nailed it all
+right lesson number six lesson six oh uh
+I like this one do the opposite so
+I think uh a story from very early
+reforge days so when when we started to
+reforge the the norm in the education
+space like online that thing that
+everybody was talking about at the time
+was essentially these short form
+self-serve low priced available for
+everybody courses
+and that was like that was the thing you
+know I don't know if you remember the
+term moocs or massively online courses
+right that was that was like that was
+the rage it was like ah this thing is
+gonna like revolutionize our world right
+and there was just so many people going
+after that
+and so when Andrew and I did the first
+growth series we used essentially did
+all the opposite of of that we didn't
+let everybody in
+um it was for a small group of people it
+wasn't purely online we did some stuff
+in person we priced it super high it
+wasn't purely self-served we had like
+these live components we essentially did
+the exact opposite of what's out there
+and so I think for you know if anybody
+was looking at the time it it was just
+it was just very counterintuitive it was
+like who's who's gonna like really
+actually be interested in this but of
+course like the first one that we did it
+just like we had an amazing response on
+the first one and then you know the rest
+is history with reforge and then cohort
+based courses became a thing and and all
+those things but I think the real lesson
+in here is that if you want to gain
+traction around something
+you often should be looking at what
+everybody is doing and then try and the
+purpose of looking at what everybody is
+doing is not to necessarily understand
+those best practices so that you can
+repeat them your goal is to understand
+them so you can ask the question well
+what is the opposite because in every
+kind of major Trend that everybody's
+pointed to there's almost always an
+opportunity on the other side on the
+180. a couple other places this applies
+is that you know like if you're trying
+to figure out a new ad Channel as an
+example new paid acquisition channel one
+of the best things that you can do is
+you can look at what all the other
+advertisers who are advertising to your
+audience are doing like look at their
+creative all that kind of stuff and then
+basically figure out how to do something
+completely opposite completely different
+and that's how you Pro will stand out
+that's how you will get the ctrs and
+that's how you'll get the performance
+but most things have these gravitational
+forces where everything converges right
+there used to be this meme where like
+every SAS product had the same exact uh
+like character design that like slack
+had and I can't remember like I think
+maybe intercom had it like anyways like
+that was like the thing and so you can
+like visually see this but this Dynamic
+I think actually takes place everywhere
+whether it's in a strategy within a
+category a design of a product ad
+creative within a channel a specific
+growth tactic uh as part of it a third
+quick example is that about 10 years ago
+um
+when I probably really started to write
+a bit more on my blog is the The
+Playbook at the time that was really
+developed by uh HubSpot was that you
+would do a lot of high volume short
+content at one point the blah the
+HubSpot team was I think pumping out
+like 10 articles a day it was something
+crazy right and that worked at the time
+because they were like early in the game
+they had the domain authority to to rank
+for each one of those and a lot of
+people followed that Playbook but then I
+and a few others in the space started
+writing really low volume very long
+content and I think as a result it stood
+out and it performed much better among
+the noise and and most of my email
+subscribers probably came from all of
+those early those early things because
+it did stand out and this is a constant
+game because of course like as you
+figure something out and you do the
+opposite of some pieces some other
+people are going to start to copy you
+and then you got to take a step back and
+be like well what is everybody doing and
+how do I how do I flip the the pendulum
+back to how do I flip the pendulum back
+to the other perspective but the major
+lesson here is like if you're trying to
+get Traction in something whether a new
+product a new growth tactic a new
+channel the goal of learning what
+everybody else is doing is not so you
+can mimic them it's actually to figure
+out how you can do the opposite of it
+that that's the ultimate goal of that
+that uh of that behavior I love this one
+I feel like you need to write a book
+Brian I feel like there's so many so
+much depth to each of these lessons that
+we don't have time to cover this makes
+me think about I'm reading Rick rubin's
+book right now the creative act I think
+it's called and he has a similar concept
+of just just like experiment as you're
+making things and just try the opposite
+just like instead of where there's quiet
+add noise when something is blue I don't
+know make it yellow yeah and uh totally
+and I think you could see this now too
+with all the AI stuff is like you see a
+new like gravity everybody's kind of
+trending towards a similar set of things
+and I think the the real winners are
+going to be the ones who kind of look at
+that and be like actually we're gonna
+set that up as a guardrail of what we're
+not going to do I actually thought there
+was an interest I did a LinkedIn post
+about this because I saw LinkedIn doing
+this you know the the Playbook right now
+with AI is oh I'm going to use AI to
+generate a ton of content you know for
+Content marketing the rank in Google and
+all that kind of stuff I thought it was
+actually interesting LinkedIn has this
+new feature
+where they're actually not using AI to
+generate the content they're using it to
+lower the friction to more ugc driven
+content which ends up being a more
+unique and like ranking more highly so
+they actually looked at that and said we
+we could probably generate a ton of
+content using Ai and just use our domain
+authority to like to rank for these
+things but they're like oh actually
+we're going to use AI to to try to
+figure out how to extract more of the
+opposite of what everybody else is doing
+which is actually human generated
+content so you know I thought that was
+like another interesting recent example
+of somebody I've seen doing something
+very clearly distinctly opposite of what
+everybody else is doing what's
+interesting here is it's not like you
+need to do the opposite it's not like
+the opposite will work it's that this is
+just like an interesting area to find
+new opportunities 100 yeah and it makes
+me think about podcasts a little bit
+there's always this feeling like people
+don't have any attention span they want
+short things Tick Tock Clips all these
+things and then there's like Lex
+Friedman who talks for seven hours with
+Biology that's like the number one
+Business book number one technology
+podcast in the world yeah uh I'm not
+hooked on Lex but I'm hooked on acquired
+which is like three to four hours that
+was the other one I was exactly I was
+just gonna say acquired is like they
+release an episode like once a month
+it's very long they don't have any
+guests that's the opposite of what
+usually the devices have guests in each
+other's podcasts release off like all
+these things and they're like the third
+top yeah it works we're kind of
+experimenting with something similar we
+just released a podcast called
+unsolicited feedback we kind of looked
+at it and we were like there's already a
+ton of great interview podcasts you know
+like yours
+I was like we could do another one but
+like what how is that gonna work like
+how is that gonna stand out like what
+how can we do different so we tried to
+figure out we explored areas that would
+be the opposite and so the format of the
+podcast is totally different we do bring
+on a guest but we don't interview them
+we actually bring in like two or three
+product or feature releases from the
+past couple weeks that have been out
+there
+and then we kind of pretend that we are
+like the VP of product at that company
+and we just like analyze it and break it
+down and
+talk about what we like what we don't
+like uh like all the time we give
+unsolicited feedback on it and I don't
+know if it's gonna work yet it's gotten
+some good traction so far and it's been
+a lot of fun to create but it's just
+like another example of you know trying
+to find trying trying to find the white
+space so amazing uh how do people find
+that podcast that's awesome let's make
+sure people know how to find it yeah if
+you just Google unsolicited feedback
+podcast it'll come up you can also go to
+reforge.com podcast slash unsolicited
+feedback as well you'll you can find it
+on our website but we're on Apple
+Spotify all the all the main pieces but
+yeah it's uh we've had some spicy
+episodes so far so hope you all enjoy
+them what's a good one for people to
+start with if they want to dive in ah
+well we just recently we just released
+today one with Elena Verna breaking down
+airtable surprising shift from plg to
+Enterprise so there's definitely some
+hot takes in that one so that that
+that's the most recent one that's a fun
+one but we've covered zoom's product
+strategy we've uh Slack's most recent
+announcement a few others yeah people
+should go check out that episode of
+Christopher Lockett where basically his
+pitch is that the most legendary
+companies always create their own
+category some people agree with that
+some people don't I'm on the disagree
+side of it but yeah yeah that being said
+that that's what HubSpot did right which
+is you know they created they did create
+a category around inbound and the way
+that you get traction around those
+things is you define the opposite and
+you play off of it right so their whole
+messaging was hey everybody's doing
+outbound marketing here's the problem
+there's a better way it's called inbound
+marketing and then they set themselves
+up for that but you have to do that in
+category creation because you have to
+start with the thing that people
+understand and then pivot off of it to
+teach them what the new thing is and
+that that was something that HubSpot did
+amazingly well but even darmesh the
+founder talks a lot about category
+creation he's like look like even though
+we did it it's it rarely the right
+answer to go go do it so I probably
+shift on the other end of the Spectrum
+which is I'm not I'm not sure I think it
+can create a lot of value but I'm not
+sure I agree with the ultimate premise
+so yeah there's many many camps we're
+gonna have we're gonna dig deeper into
+that topic on the podcast coming up
+this episode is brought to you by Wix
+Studio your agency has just landed a
+dream client and you already have big
+ideas for the website but you have the
+tools to bring your ambitious Vision to
+life let me tell you about Wix Studio
+the new platform that lets agencies
+deliver exceptional client sites with
+maximum efficiency how first let's talk
+about Advanced design capabilities with
+Wix Studio you can build unique layouts
+with a revolutionary grid experience and
+watch as elements scale proportionally
+by default no code animations at Sparks
+of delight while adding custom CSS gives
+total design control bring ambitious
+client projects to life with any
+industry with a fully integrated Suite
+of Business Solutions from e-commerce to
+events bookings and more and extend the
+capabilities even further with hundreds
+of apis and Integrations you know what
+else the workflows just makes sense
+there's the built-in AI tools the on
+canvas collaborating a centralized
+workspace the ReUse of assets across
+sites the seamless client Handover and
+that's not all find out more at wix.com
+Studio
+alright lesson seven lesson seven is uh
+use cases not personas so the Trope I
+think is always to talk to your
+customers know your customers and it
+just puts a lot of emphasis on
+understanding the person or category of
+person and then this typically results
+in creating some type of you know
+persona definition and segmentation that
+the team orients around
+but I actually think most of the meat
+that is actionable that helps you define
+not only what to build from a product
+perspective but how your growth motion
+and growth model should work is actually
+defined in the use case uh that you're
+going after and the different uses of
+your product some people kind of relate
+this to jobs to be done we think about
+it a little bit differently internally
+in in reforge which is a use case is
+simply a combination and starts with
+what is the problem that you are trying
+to solve what is the value prop that
+you're trying to create against that
+problem what's the alternative for the
+user and then most importantly why are
+they choosing you over the alternative
+that often goes mixed those components
+once you define them what they extend
+into are the things that actually start
+to help you on the growth side of the
+equation which is once I understand what
+the problem is I can start to ask
+questions well what is the natural
+frequency of my cus of somebody in
+countering that problem that starts to
+Define your retention metrics which then
+starts to Define your activation metrics
+and it kind of works all the way
+Downstream you can also ask the question
+well what is the natural frequency of
+adoption of a solution around this
+problem a lot of people don't think
+about that right especially in SAS tools
+which is
+for most SAS products your persona your
+Target customer it's actually only in
+market for that once every
+Jewish years or so and as a result what
+most people end up focusing on is just
+trying to capture that small sliver of
+those that are in market and they don't
+think about well how do I capture the
+attention and build a relationship with
+folks that aren't in market yet but are
+going to be eventually and that was that
+was hubspot's biggest thing with when
+they developed the whole inbound
+marketing Playbook and content marketing
+is that most people thought of HubSpot
+they just thought of them as a Blog they
+didn't even know that there was a SAS
+tool if you if you asked our audience
+but what that created was the moment
+they were in market for that tool where
+was the first place that they were going
+to go they they were going to go to
+HubSpot and they were like oh I've
+already have a relationship with this
+brand and that ended up like reducing
+quite a bit of friction the reality is
+that most products today are actually
+adopted by multiple personas and that
+leads to trying to solve for multiple
+use cases multiple problems across these
+uh personas and I think that is the way
+more detrimental thing than narrowing in
+on a single use case that might be
+adopted by multiple personas so it's
+kind of like flipping it on its head so
+that's how we Define everything in
+reforge is essentially what are the
+different use cases
+what are the different use cases that
+we're trying to build against and then
+we might go ask the question who has
+those problems who has those use cases
+and most of the time we've actually been
+surprised that there are people in the
+market that have those problems and that
+have those use cases that we would not
+have identified through any sort of
+persona research but we can make those
+people successful we can we can capture
+those people as part of the process so
+the framework you use for this use case
+just to summarize which is really
+interesting I imagine it's kind of like
+this one pager template you use where
+you here's the problem here's the value
+prop that would convince someone to try
+this thing here's the alternatives to
+what we have and here's why they would
+choose us over the Alternatives yeah we
+call it the use case map and this was
+actually developed originally in the our
+retention program with Casey Winters and
+Sean Klaus but it's essentially what you
+describe it's it's essentially a set of
+rows and there's a specific order I
+might get the order slightly wrong uh
+right now ripping off it a lot but it
+starts with you define find the problem
+you then have a simple statement of who
+might have this problem you then say
+well what are their alternatives to
+solve this problem that leads into the
+why why are they going to choose you
+over the alternative
+um it's kind of calling out
+differentiation essentially and then it
+flows into okay well what is the natural
+frequency of this problem which flows
+into all of your retention and
+activation metrics you can also ask what
+is the natural frequency of adoption
+which starts to help you understand more
+around your acquisition metrics what
+percentage how many people might be in
+market for this in the given year and
+what we might need to do to actually
+like sequence and like capture all of
+that value
+um so that that's kind of like how that
+whole thing flows and then then some
+people solve for start to layer on and
+solve multiple use cases over time but
+the biggest thing that we find in
+reforge when we have people go through
+this exercise which is the next thing
+we'll talk about is that they end up
+mapping out like eight different use
+cases and we're like whoa like that
+that's like that's way too much you're
+obviously solving trying to solve for
+too much here
+before we get to the next lesson just to
+keep plugging on some reforg stuff is
+there an artifact or course for people
+to go check out on that specific thread
+I think there will be an artifact on
+this soon if there isn't live today but
+we can get one live but uh this actually
+is so fundamental it's in almost all of
+our growth courses now but the one we go
+deepest on this is is our retention
+engagement program
+awesome okay so lesson number seven use
+cases not personas correct
+awesome what is lesson number eight
+Brian Balfour okay if there's like one
+line that I probably repeat the most in
+a reforge course it's this one which is
+solving for everyone is solving for no
+one I think this extends to everything
+in life and I have a couple interesting
+examples from this so let me let me
+start with like the product in the
+marketing one because I think that's the
+one that of course I I think everybody
+might be nodding is like of course of
+course we can't solve for for everybody
+right but that's that's honestly where a
+lot of product and growth mistakes I
+think come from it's not about being
+specific about who you're solving for
+it's about being specific about who you
+aren't solving for I've found like that
+is the thing that ends up being the one
+that helps being the better guard rail
+for for a team because for some reason
+when all you do is Define who you are
+solving for or what you're solving for
+going back to the use case thing a lot
+of people start to like justify or
+rationalize like a bunch bunch of
+adjacent use cases or a bunch of
+adjacent people and it's kind of like
+well yeah it's like 50 what we're
+solving more but 50 not and so you have
+to you have to like Define you have to
+draw on the lines around it right and so
+there's an actual HBS case study done on
+this from early HubSpot which is early
+HubSpot they kind of built this
+marketing tool they sold it to a bunch
+of people they were having retention
+problems they went and um did all of
+this research and what they found was
+like actually they had ended up selling
+into four use cases that on the surface
+feel very similar but actually in
+reality are very different in the four
+use cases was they had this mid-market
+they call it marketing Mary a VP of
+marketing who was like looking for a
+solution in like an all-in-one marketing
+solution because she didn't want to
+aggregate a bunch of Point solutions
+they had then had this like Enterprise I
+think it was like called Enterprise
+Eddie or something like that Enterprise
+who was looking for a more like
+compliant Marketing Solutions secure
+like all these types of things still
+solving marketing still trying to solve
+inbound marketing Zone the surface
+seemed the same but when you when you
+got down into it's kind of different you
+also had like this very small business
+owner that looked like the SMB customer
+but there's a very big difference
+between an owner of a 20 person come
+company using your product and that
+business actually having a head of
+marketing using the product and their
+their needs and or ended up being very
+different beneath the surface and then
+they had this like technical marketer
+who wanted to get in there and customize
+and all that all that kind of stuff so
+they ended up focusing on that
+mid-marketing marketing Mary Persona and
+use case around all in one
+but the bigger thing that they did was
+they said we are not going to serve
+these three use cases and going back to
+what we talked about they aligned this
+was before my time they aligned all the
+sales comp behind it they aligned the
+success they aligned all of the
+marketing around it and whenever these
+folks came up in the funnel and kind of
+indicated that they were in one of these
+use cases it was like ah you know
+HubSpot is not is not for that but I
+think this is where most teams get
+stretched in where most debate comes
+from is that if you haven't clearly
+defined who you are not solving for you
+can almost always make a case
+or how this person or this use case fits
+the thing that you have defined now the
+thing that I've realized is that this
+actually extends into a bunch of other
+places hiring culture being one of the
+biggest ones and I've seen so many super
+generic culture statements and they end
+up being generic because they are trying
+to accommodate for everybody and so they
+just get watered down watered down
+watered down but culture is really about
+being super opinionated and actually
+acknowledging this is not a place for
+everybody and you've got to encode those
+values that actually say this is a place
+for who as well as for who it's not and
+so this is an artifact that we have live
+you can see you can see ours and so half
+of our values are defining the value but
+actually half of the values Doc is
+saying what does this not mean what are
+anti-patterns you know to these values
+because those are the things that
+actually help us understand more of like
+who is a right fit for the type of
+company that we are trying to build and
+who is not right for those things and
+those things get implemented in hiring
+and in all these other places the last
+piece is I've noticed this actually
+extends to almost all life as well I'll
+give a really strange example this is
+something that I've brought up before
+but not a lot of people know about me is
+that before my life in Tech I was
+actually a wedding planner for a few
+summers in L.A my uncle is a wedding
+planner down in LA and
+um I went and worked with them for a few
+Summers and uh it was actually a
+phenomenal experience I got exposed to
+so many things I probably wouldn't have
+been exposed to otherwise but one of the
+things that like I learned in that
+reflecting on that experience is that
+the most miserable couples in the
+wedding planning process were the ones
+that were trying to solve for everybody
+their fiance both sets of parents the
+friends that annoying Uncle Eddie that
+you might have and that's where all the
+stress of the process came from and and
+the people who tried to accommodate all
+those things are pro the ones that
+didn't have you know their like best
+experience for that was supposed to be
+an amazing and magical day and instead I
+think in that process right like my
+uncle would try to get them to
+essentially say like who's the most
+important group here is is it your
+family is it your parents is that who
+you're trying that's okay if it is like
+there there's nothing wrong with that
+but like let's focus on that or is it
+your friends or is it or is this like
+really an experience for you two and
+because what you design and build around
+the experience that you build around for
+a wedding really really determines and
+then and then when all of these like
+edge things kind of came up you could
+ask the question well like is is this
+really for you or is this for this
+group of people are sort of people that
+you've distinctly said like you know
+what we know they're going to have a say
+but we're specifically not designing
+this experience for them so anyways I
+think this happens also in relationships
+too and work-life balance where people
+are trying to solve for all the things
+friends the career the kid the family
+the spouse the Hobbies like all the
+things and at the end of the day
+everything's a trade-off in work and in
+life and not acknowledging those
+trade-offs and not actually specifically
+saying what you're not solving for I
+think is I know that's where a lot of my
+stress and you know anxiety has probably
+come from
+this one really hits home my wife often
+tells me that I am trying to make too
+many people happy at once and I have
+this people-pleasing tendency and she's
+like you're not gonna make everyone
+happy just don't don't so don't cause
+all these problems by making sure
+everyone's doing well what have you done
+with this have you have you gotten
+better at identifying the the groups to
+be like you know what I'm I'm making
+this trade off and that's okay
+mostly I'm like no I'm not leave me
+alone it's all I don't have this problem
+but uh no there's definitely some of
+that so it's just realizing that that's
+something that I try to do and then like
+okay I don't need everyone to be happy
+it's gonna be okay that's right that's
+that's hard that that random Uncle Eddie
+he will be okay if you don't give him
+what he wants it's okay on the values
+piece I thought I just wanted to double
+click on that because I think it's
+really important something that I
+learned also from this guy Douglas Atkin
+who I worked with at Airbnb that helped
+us Define our values at Airbnb and he
+said exactly the same thing it's really
+important to make it clear who's not a
+fit not being like mean or just like
+exclusionary but just like if this
+doesn't feel right that you shouldn't
+work here this is what we believe
+and so like a lot of values are just
+like Integrity trust like things that
+are true for everyone and so if those
+are your values that's not of any value
+really because everyone's like yeah yeah
+every place yeah I think this also also
+comes down to I think a common topic
+that you probably get asked about too
+like even in all your series about how
+we do product right you just did one on
+linear and there was actually quite a
+bit of Twitter response to it right
+which was like this only works you know
+in you know this methodology but but
+there's actually multiple ways to do
+products product management at Airbnb it
+was you know it was much more designer
+uh from what I understand much more
+designer forward and in some
+organizations it's actually much more
+engineering-led and Engineering for it
+and in other cases it's much more
+product manager for it and there's
+different types of people different
+shapes of people that help you create
+that environment and are successful and
+happy in that in that environment but
+it's it's when you actually haven't
+acknowledged and defined those things is
+like when you bring the people who don't
+fit on the team and then they're trying
+to pull the team in a different
+direction and that creates a ton of
+friction it creates just a ton of
+friction internally and those are just
+frustrating conversations
+yeah that is absolutely true I think
+with the linear post which we'll link to
+just in folks haven't seen that
+something I found so I've done these
+posts on how many different companies
+have done product maybe 10 at this point
+and I think one of the takeaways and I'm
+planning to do a little what have I
+learned across all these companies is
+exactly what you said there's so many
+ways to do it there's the linear
+approach we're not going to hire product
+managers for as long as we can it's
+going to be designers and Engineers
+running the show and there's basically
+every other company where they often did
+hire product managers really early and
+it worked out great
+so I think it really there are many ways
+to do it I think a lot of it depends on
+who your Founders are and whether they
+value and the people you hire and how
+much do they want to do product 100
+based on Founders I think the second
+thing is who your customer who you're
+building for right like that the thing
+in linear's case is that they are
+building a product for themselves
+essentially right right now right that
+product is designed for modern software
+development teams you know who are most
+used by like engineers and designers so
+it makes sense that they have an
+intuitive sense of what the customer
+wants whereas if they're building a
+product for I don't know like call it
+like sales folks right
+the engineers and designers are just are
+probably not connected to that audience
+in the same exact way and as a result
+you need a specific type of way of
+developing product or that specif that
+serves that specific customer but I
+agree with you it a lot of it stems from
+founder but I think also a lot of it
+stems from who and what you're building
+and I think in that case it's not like
+the designer and the engineer couldn't
+do that well it's just that is not going
+to be a fun job like if you're a
+designer that's spending time talking to
+sales people all day and writing
+research briefs and I think it's just
+trds yeah I think it's time too right
+like I think when an engineer and a
+designer are building for another
+engineer and designer they can get to
+those answers get to those scents much
+more quickly right but I think it would
+it could would consume way more time
+um if they're building for a totally
+different audience right that they don't
+really have a lot of experience or
+intuitive sense for and so then at the
+end of the equation you have you're
+right you're like it's not just them
+being unhappy but they're they're
+spending so little time writing code or
+doing the design that ends up being a
+less productive way to get to the to the
+ultimate goal which is building a
+successful product absolutely the other
+thing that I think of because we're
+going down the street of linear because
+yeah I was surprised by the reaction a
+little bit is that in my notion
+deep dive on how notion builds product
+one of the
+interview answers was just like we
+should have hired product managers
+earlier they waited a long time for
+similar reasons we don't need product
+managers and looking back they're like
+ah that was probably not a good idea and
+I think it was a similar situation
+whereas designer LED building for
+themselves so it's it's more of a
+question just like when does it make
+sense there's I just hate that there's
+this like anti-product management it is
+that has come up no product matters yeah
+yeah yeah yeah yeah like everybody's
+looking for like that that data point I
+mean that kind of started with you know
+Brian chesky's words kind of getting
+taken out of yeah out of context and and
+but there there is like a anti-pm sort
+of sentiment at the moment which is just
+a fascinating
+fascinating thing to watch so yeah it's
+fascinating we're actually gonna have
+Brian chesky on the podcast coming up in
+sometime November this is the plan
+so we'll talk about that and I like my
+take there is I just feel like there are
+many bad product managers that just come
+in and slow everything down so I'll take
+over totally yeah and so so I think
+that's where a lot of this comes from
+you ended up working with a bad PM
+that's just like not doesn't help my
+feeling is awesome product managers is
+make everything better they help you do
+the work you want to do and block you
+give you space to do the work you want
+to do like that's often what I find is
+just like great PMS make everything
+better bad PM's create this sense of
+like oh get rid of problems
+yeah
+all right well we got two more lessons
+our penultimate lesson
+Brian Balfour how do we got lesson nine
+find sparring partners not mentors or
+coaches as you can imagine kind of being
+in the l d space I get asked for
+you know referrals to mentors and
+coaches quite a bit and I've had mentors
+and coaches in in my career my imagine
+you have two but when I really look back
+and I think about
+where have I gotten the most value
+meaning you know who has helped me
+progress the most it is ended up not
+being you know one of those mentors or
+coaches it's actually somebody who I
+would Define as a sparring partner right
+and so I think about this in the boxing
+analogy right like a coach once again is
+sort of giving you Direction yelling at
+you on the sidelines
+but a sparring partner is somebody who's
+in the ring with you kind of throwing
+blows back and forth right and the thing
+about that sparring partner is they
+should probably share a common set of
+goals they're probably also trying to
+get better at the thing that you're
+getting better at they are on a similar
+level but maybe have some slightly
+different strengths to you as part of it
+they're not afraid to push and throw
+punches to help you get better which I
+think is often missing sometimes from a
+mentor or coach relationship and you
+know they're playing the same sport
+right so a PM and a PM or you know
+whatever however want to take this
+analogy but the most important thing is
+like they are in the arena with you and
+those I folks when you find those folks
+that have that set of dynamics of the
+right shared set of goals they're not
+afraid to throw punches with you like
+all that kind of stuff they are the ones
+that I've found have pushed me to a much
+deeper level than somebody kind of
+giving me some advice from the outside
+most mentorship programs are extremely
+forced and and not very fluid you also
+tend to not share a common worker goal
+you pay you can pay mentors or coaches
+like buy the hour right they're trying
+to achieve something different in their
+career than the path that you might be
+on even though there's like some like
+similarities and I think oftentimes
+those discussions just end up being
+discussions about
+generalities or like how to get promoted
+or one of those things whereas a
+sparring partner is like I found like
+that person is helping me
+create and ship something better in the
+world which is ultimately I think the
+thing that you're gonna get judged on so
+I've I've solved this in a few different
+ways over time
+at certain moments in my career I had
+you know what I think a lot of people
+would call Mastermind groups where I
+would get people at a similar stage of
+company as me together we would meet
+bi-weekly or monthly and all those types
+of things those I think work for a
+interesting period of time but
+inevitably some people evolve in a
+different direction and so the group
+becomes less and less relevant over time
+to you and so you basically almost
+always have to hit a reset button to
+blow their group up and reassemble it
+and that that can be like a decent
+amount of work oftentimes these end up
+being co-founders relationships you know
+and starting a company there's a lot of
+times your co-founders are a sparring
+partner for you most recently though I I
+been for the past about seven years been
+organizing this yearly trip called uh
+recatalyze to Mexico which is like this
+group of Founders we do it in December
+towards the end of the year where we're
+kind of like reflecting on the year and
+we go spend like five days
+in Mexico not only like getting to know
+each other but inspiring each other with
+like what all of us have been thinking
+about and accomplishing for the rest of
+the year but most importantly is like we
+have these dinner combos that just get
+super brutally honest and deep with each
+other and there's tears there's laughing
+there's yelling there's like all of
+these types of things it's probably the
+most productive uh few days out of my
+entire year at this point and so I think
+there's actually a lot of ways to solve
+this but what I often find is that when
+somebody is like looking when they come
+to me looking for a mentor or a coach
+they are actually better served by
+figuring out how to surround themselves
+with somebody that looks more like a
+sparring partner those folks tend to
+just be the bonds in the relationships
+that really push you for many years
+throughout your career versus
+um some of these other folks this group
+sounds like your own version of the
+besties it is it is Kai it is kind of uh
+it is kind of there are some eccentric
+Personalities in that group for sure so
+are there any folks that you want to
+name us examples of some of your best
+sparring partners or are they better
+kept Anonymous yeah there's a few folks
+two of my form former co-founders from a
+previous company Aaron white who's now
+the CTO a vendor and then Ariel Diaz I
+think those two
+are both like the blend of
+well they think so differently than I do
+that every time I get together with them
+I'm kind of energized because they have
+just completely different perspectives
+or they've been playing around with
+different things
+but on the flip side of that too is like
+they've also given me some of the
+hardest hitting feedback in my career
+maybe not even intentionally but they
+know me so well
+that they like they know how to like
+like get straight to the heart of it
+right whereas a coach often a coach
+often is like kind of poking around the
+surfaces trying to get to know you and
+that takes an incredibly long time
+whereas I think like folks like Ariel
+and Aaron are like they just provide a
+one-liner perspective to me where it's
+just like oh God like I hate that you're
+right right like it's like that type of
+react it's like that type of reaction
+usually when people say something and
+you're angry it's because there's a
+sense of Truth in it and the question is
+is like well what is that truth but
+getting those statements getting that
+feedback is just so hard because
+everybody wants to please everybody uh
+so
+um so like that's kind of it so I I
+think those two and those two have been
+doing that trip with me for the longest
+whereas like other folks have you know
+we get like new blood in there uh Ever
+every every year or two
+hmm is there an example of hard-hitting
+feedback that you can share and second
+theory question is there a way you set
+up those relationships where people know
+they can be really honest with you do
+you just tell them please be brutally
+honest with me or you do it in return
+I'm going to keep the examples to myself
+because we do have what is it like
+Chatham House Rules or whatever for that
+trip which is like we just don't talk
+about
+um what we talk about there I will say
+though if you're going to do something
+like this the key is all about setting
+the tone so like we do have new folks in
+there and we do set an expectation of
+like here are some of like the types of
+things that we're we're going to cover
+and stuff but that first dinner combo
+it's like always myself or a few people
+who have been there before who are the
+first one to open up the conversation or
+answer the dinner question that we might
+have and they just like really set the
+tone for like how open and how deep and
+how hard hitting we're gonna get and
+usually you do two or three of those
+people follow suit and it opens up
+everybody else for the rest of the time
+you have whether it's a meeting or an
+experience like you know like we're like
+we're talking about so some folks on
+that trip have talked about
+they open up with like potential
+divorces or you know shutting a company
+that it's just it's like things that
+you're definitely not gonna get in a
+hello like nice to meet you type of
+conversation it's straight to the point
+it's like hey nice to meet you let me
+tell you about this thing that's going
+disastrous in my life and and then and
+then the other person just tends to
+reciprocate and that opens up that opens
+up the whole that like just opens up the
+whole shebang it opens people up and
+everything kind of flows from there
+sounds like an amazing group Brian I
+don't want this podcast and but we're on
+our very final lesson let me summarize
+lesson nine real quick find sparring
+partners not mentors or coaches
+what is lesson number 10 number 10 we
+chose because I felt like it was a
+barely relevant for the times so I think
+the where we're at in the ecosystem of
+things right now especially among a lot
+of startups is that people have are in
+this process of seeing that look they
+they had some things that were kind of
+working but not working fully and as a
+result they have to layer on some new
+bets they have to figure out some new
+things and this also goes for even like
+fast growing companies as well and the
+principle of the lesson is essentially
+you need to give 2x plus the activation
+energy for things that needs need to
+change the mistake is like a lot of
+times people lean into new things they
+kind of Dibble dabble they they dip
+their toes in it and they take it in
+like super super incrementally along the
+way but let's say you have an existing
+business right or an existing growth
+Channel or something else and and you're
+trying to layer on something new or make
+a change well that existing business
+that existing growth Channel probably
+has some baseline growth rate call it 50
+year-over-year it could be anything well
+for that new thing to actually make a
+meaningful impact and help you drive the
+whole thing forward it has to be growing
+at a multiple of 50 year-over-year in
+order for it to like catch up and
+actually start to show up in the numbers
+start to show up for customers and and
+all of those things so an easy example
+of this is like I've seen a lot of
+businesses where it's been primarily
+driven by paid marketing right and and
+they have like a lot of fast growth
+and at some point of course they're like
+ah we gotta diversify away from this
+it's too risky are rising like all
+all the typical things that that we talk
+about and problems with paid marketing
+and so maybe they try to diversify away
+in their next bet is on SEO well you
+have to inject it with enough activation
+energy for that SEO to be growing at a
+multiple of however whatever rate you're
+growing at paid acquisition for it to to
+grow up and make a meaningful impact and
+actually achieve your ultimate goal
+which is diversify away from this
+channel now the hard part about this is
+kind of going back to our earlier one
+which is like you don't pile all of this
+activation energy on at once because
+that tends to just be too much money too
+many people too many voices in the
+equation around new things
+and instead like you I what I always say
+is like you can you can flow through the
+steps faster when you have like an
+existing baseline or an existing
+business to grow off of you can't skip
+steps on new things so you still have to
+start with that small team getting fit
+on that new thing but you have to be
+very quick to support and continue to
+provide that activation energy and not
+be incredibly incremental as you like
+step into and lean into that and lean
+into that thing but the net result of
+this is like I think a lot of folks
+think these new bets are going to come
+and save them in a much shorter time
+period than they act that actually takes
+them to play out because of this Dynamic
+of like hey you have this inertia of an
+existing machine well guess what like if
+you want the new thing to take in effect
+like its slope on its line has to be a
+much steeper slope than whatever your
+Baseline thing is and I think that's
+just something that people tend to
+Overlook and and something I've
+overlooked historically as well an
+example of this that comes to mine is
+when Airbnb was working on trips it was
+this whole new BET of just like we're
+gonna allow you to do experiences in
+addition to find a home and Brian
+basically focus on that full time for a
+while for like a year that's the thing
+he was focused on we're gonna make this
+thing work and I'm gonna PM this thing
+and make it work and make it awesome and
+when they launched the easy thing to do
+would have been like becomes airbnb.com
+it's like what it is mostly with like
+hey now we have trips what he did
+instead is like the homepage became
+trips plus you could book a home
+and it felt crazy because everyone's
+coming there to book a home that's the
+entire business but his bet was like
+people know that they know they can book
+a home
+they'll find it even though it became
+much harder to like search for homes
+he's like they'll figure it out but we
+need to con we need to people to
+understand we do this also now and the
+best way to do that is just like bam
+this is Airbnb welcome you can book
+experiences you can also book a home
+yeah this is especially prevalent when
+you're going from single to
+multi-product or you're going through
+like a messaging and positioning change
+right because you've probably invested
+in a one type of message or trying to
+tell people what you do for years
+probably right and and just because you
+launch it new right it doesn't it's
+still Gonna Take Years right for people
+to learn what you are the new thing is I
+was catching up with one of the founders
+of HubSpot a while a while back right
+and you know many years later even
+though they have seven different
+products now in their product Suite A
+lot of them still refer to them as like
+marketing automation email marketing
+company and what they're really trying
+to get people to think about them as is
+a platform company starting with your
+CRM but in that crm's I don't know seven
+years old six years old now right but
+there was eight years of investment in
+getting people to know them as a
+marketing company before that right and
+so just overcoming that inertia is yeah
+you've got to do things like what Brian
+did with uh with the trips product to
+really get it to to start to take hold
+yeah that's always the fear people have
+when they're starting start with a wedge
+and just like we're gonna win this one
+thing and expand and just like oh but
+maybe people only think of us for that
+such a fine line I feel like a HubSpot
+also is just a story I want to dig into
+more it feels like there's so much
+to learn from their Journey yeah I
+learned a ton even from my brief time
+there but yeah there's there's that
+company has been through has executed so
+well over a long period of time it's
+just like yeah that so many lessons
+there that I that I took away and and
+I'm sure existed I don't I have
+knowledge of now because I haven't been
+there in some time Brian we got through
+all 10 lessons is there anything else
+you wanted to touch on or share before
+we get to a very exciting lightning
+round I think as we mentioned would love
+folks to you know I have we have
+artifacts on reforged things that I've
+actually created that like our values
+like our original business hypothesis
+Doc and stuff that you can go to reforge
+around on this and so if you want to dig
+deeper into them it's time for that it's
+free and uh and would love for folks to
+check that out with that we've reached
+our very exciting lightning round Brian
+what are two or three books that you've
+recommended most to other people after
+having two kids I get barely any time to
+read a read a full book So my answer to
+this is gonna be my answer to this is
+going to be super old and historic I
+will say that right there are the there
+are these books that feel magical when
+you get them move it free the first time
+I remember when I read uh Ray Dalia's
+PDF before he even became out of the
+book I almost felt like I was like
+falling into a secret hip-hop principles
+I thought it was just like a very
+interesting structured way of thinking I
+don't agree with all of it in there but
+there's I think a lot that I've taken
+away from that of course like Peter
+thiel01 book had that impression on me
+the first time these are all I think
+like old like old recommendations but I
+think the ones that
+get to their root and like incredible
+like first principles thinking and try
+to pack an entire
+life's worth of lessons into a couple
+hundred Pages versus draw one lesson out
+over a couple hundred Pages those are
+those are the books that I've I've
+walked away with the most
+next question what is a favorite recent
+movie or TV show my favorite movies for
+some weird reason are all the movies
+around uh like the great financial
+crisis so
+um why I have no idea but I I love not
+even even the great financial crisis but
+Wolf of Wall Street uh there's one from
+the bank's perspective big short thank
+you big short yeah yeah I don't know why
+but uh I just you know I think part of
+the reason is a lot of those movies are
+about what we were talking about early
+is like a small set of people who did
+the opposite they took counter-intuitive
+bets and for some reason I just like
+like that really appeals to me in terms
+of uh TV shows there's a couple TV shows
+that I feel like capture the pain of
+creating something
+so well that no other I have just not
+found in others the bear episode 7 of
+season two is I think probably one of
+the best episodes of Television period
+that I have I've watched that episode
+specifically multiple times
+is that the one where they're having
+dinner uh no it's where he goes and
+works at uh
+um elenia
+um and he goes through this
+transformation and you can just you you
+see both the pain and the the cousin
+cousin yeah oh God it's so good the
+other one is Halt and Catch Fire if you
+want something specific to the tech
+ecosystem especially the early Seasons I
+think capture the pain of creating
+something new like really well next
+question what is a favorite interview
+question you like to ask candidates ah
+you find I actually don't like as we
+talked earlier I don't like questions I
+just like looking at the work
+um but when I look at the work the
+questions I'm asking are typically
+breaking down how they thought through
+the work what are the steps that they
+went through what questions did they ask
+how did they approach it because then I
+get a sense of how they might approach a
+similar problem internally uh at the org
+and that's the thing I'm trying to gain
+conviction around is that if we give
+this person
+similar shaped problems that they've got
+the approach and process to you know
+potentially solve it I'm not looking for
+them to have the answer if to our
+problems in the interview I just want to
+be confident that there they have they
+have an approach to find the solution
+is there a favorite product that you've
+recently discovered they really like
+either an app or a physical thing
+something you bought at a store I am not
+a things person I don't like buying a
+lot of things but I joke around with
+Adam Fishman is that I basically only
+buy viori clothes at this point they're
+just too comfortable for work work from
+home I'm wearing some right now I've
+literally shorts underwear t-shirt and
+this shirt all everything all fiori and
+I just they just came out with jackets
+and so that's covered as well now I just
+need now I just need them to make
+running recordings or something so yeah
+do they do underwear I think so I I yeah
+I'm pretty sure or they do like boxer
+they also have the shorts with the liner
+in them that's the ultimate life hack
+you just reduce one piece of clothing
+yeah
+amazing yeah I'm wearing very pants
+right now it's my favorite podcasting
+pants
+what's a favorite life motto they like
+to repeat either to yourself that you
+share with friends I I don't have my
+place decked out like yours yet Lenny I
+need to do that but I have multiple of
+these of like the man in the arena
+speech I do think that is the thing that
+you know I keep coming back to and the
+thing that I keep finding the value that
+I resonate with the most and it's even
+what we try to build reforge around is
+like we're trying to build reforge
+around the people that we create
+programs and stuff these are the folks
+that have been in the arena they've
+gotten the Blood Sweat and Tears to talk
+about I just highly respect people who
+you know enter that Arena and and do
+that hard work and those are the folks
+that I've learned the most from and you
+know want to spend my precious hours
+building for and and spending time with
+I think exactly the same way with this
+podcast I try really hard to stick to
+people that are have done the thing and
+when Casey Winters came on the podcast
+after he's just like Lenny make sure you
+stay close to people really doing the
+work and not just pontificators
+what is the most valuable lesson that
+your mom or dad taught you both my
+parents were teachers and so
+I I think probably they did not
+understand my entrepreneurial life at
+all
+um early on yeah I got I got that
+elsewhere but I do think the things that
+I took from my parents were just a lot
+of lessons around
+like how to learn and that you can learn
+anything if if you if you actually want
+to learn it and I think that's probably
+the most valuable thing that they taught
+me was just it was just how to learn and
+and that's you know something I want to
+pass down to to my kids as well
+amazing you mentioned Adam Fishman for
+our final question Uranus podcast Tech
+dads I think it's called startup dads
+yeah startup dad startup dads startup
+debts are willing to it and something
+you shared that I really that's really
+stuck with me as a dad now is one of
+your biggest lessons as a dad is that
+your job as a parent is to bring your
+kids from being fully dependent to fully
+independent could you just share that
+lesson for folks because I thought it
+was really powerful yeah it's like a
+spectrum right so consider your kid at
+you know age zero on one end of the
+spectrum and age 18 on the other end of
+the spectrum right and your I think your
+job as a parent is to move them along
+this spectrum where at age zero
+obviously they're fully dependent you
+are making all the decisions for them
+right and by 18 what you want to do is
+that they are making all the decisions
+for themselves and what that requires is
+I think a gradual process of helping
+them make bigger and bigger decisions
+over their lifespan and you just end up
+being an input into those into those
+decisions that even starts at like an
+early age right where my kids are still
+young right they're four and one and a
+half but the example I give is like I I
+you know I start to see a kid one of my
+kids like playing with some toy that he
+loves really rough and I know he's gonna
+break it and I can do one of two things
+I can either like go and intervene and
+stop right and take the toy away or I
+can like get them to pause and get him
+to think about what might happen if he
+keeps playing with the toy like that and
+then let him do his thing I mean if he
+decides to break it he decides to break
+it and he and he kind of learned and he
+learns that lesson but that you know I
+don't know if that that framework has
+just like really resonated with me
+because I think as we all do we probably
+have people in our lives that
+have a very hard time
+kind of thinking for themselves and
+making the making those decisions and so
+that's kind of what my view is is is
+like I by the time I meet you know like
+I don't want to be deciding the college
+that my kids go to I want to help create
+the environment where they I'm helping
+them get the information they need to
+make those types of decisions and make
+decisions for themselves because I think
+ultimately that's what will hopefully
+set them up for a successful life
+amazing Brian this was everything I
+hoped it would be I am so thankful that
+you made time for this two final
+questions where can folks finding a line
+if they want to reach out and how can
+listeners be useful to you yeah uh you
+can find me in a few places uh my
+website Brian belfort.com I write
+incredibly sporadically so don't expect
+the regular regular very high very high
+very high uh other than that just check
+out reforge.com artifacts I'm pretty
+active within that product as well and
+then unsolicited feedback podcast join
+me and Fareed masavat on a weekly basis
+where we give unsolicited feedback to
+all sorts of products it's a really fun
+it's a really fun environment and other
+than that how they can be helpful for me
+is just you know for folks that are in
+this space that want to be part of a
+development Community you know join
+reforge and listen to the podcast that's
+it amazing now we have 10 more episodes
+we can do to go through the rest of the
+lessons that you collected over your
+life
+V1 is done Brian thank you so much for
+being here this was amazing thanks for
+having me bye everyone
+thank you so much for listening if you
+found this valuable you can subscribe to
+the show on Apple podcast Spotify or
+your favorite podcast app also please
+consider giving us a rating or leaving a
+review as that really helps other
+listeners find the podcast you can find
+all past episodes or learn more about
+the show at lennyspodcast.com
+see you in the next episode

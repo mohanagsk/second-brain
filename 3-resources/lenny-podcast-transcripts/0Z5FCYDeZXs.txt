@@ -1,0 +1,730 @@
+wow I didn't I didn't realize there was
+actually a campfire here this is very
+cozy hello everyone so I'm going to gaze
+into the haze here and ask for some
+audience participation because the title
+of my uh talk is How to Win Friends and
+Influence decisions so first how many of
+you have had to influence decision in
+the last week or tried to influence a
+decision so back in my previous Life as
+a design leader I really thought that
+that my job was to influence you know
+design is about storytelling it's about
+trying to have everyone else see what
+the future is and Influence People
+towards it then I thought you know one
+day if I become a founder and I've got
+my own company I could just tell people
+what to
+do then it turns out I did that and in
+fact I actually have to influence more
+than ever so all of you who think your
+job you're going to get out of the job
+of influencing unfortunately I'm here to
+tell you that is not the
+case but since I have you all here and
+you are an amazing group of very
+talented senior experienced product
+leaders I'm going to ask for your help
+you see I have a prior prioritization
+question and I've got three options for
+what our incredible team here should
+do behind door number one we've got an
+INF for rewrite which the engineers have
+been clamoring for door number two all
+the designers are saying our onboarding
+experience really sucks and so we got to
+we got to redo it and behind door number
+three our CEO has been talking to all of
+their other founder friends and gen AI
+is the thing we got to add a new
+feature so friends how many of you think
+we should do the reite show up
+hands I can tell which of you have an
+engineering background from from this
+okay redesign the onboarding experience
+all right all right how about that
+differentiated gen
+feature we've been inspired by Claire's
+talk from
+before how many of you know that I'm
+about to lead with a fourth slide that
+tells you guys this is really not the
+question
+so yes um you know what it is pretty
+hard to prioritize something like this I
+feel like I'm constantly every single
+week in discussions that sound similar
+to to that and the reality of course is
+it's hard because there's so many
+variables and all sorts of questions and
+things that come into every single
+prioritization decision so we're going
+to put that aside for now what I want to
+talk about in this talk is actually what
+is a good process that we can take that
+gets us from look I have a strong
+opinion because I'm sure many of you
+here probably did have an inkling and in
+all of your influence and prioritization
+decisions you probably do have a strong
+opinion how do we get from that to that
+opinion actually shapes us towards a
+better outcome so this going to be a
+simple foolproof five-step process
+ready so Step
+One is very simple let us draw a circle
+so do it with me now let draw draw a
+circle what do I mean by
+that well I love this story and this
+quote this bet un quote because I think
+it really encapsulates this picture
+which is when it's just me at home with
+my brother it's me against my brother
+but when my cousins come over it's me
+and my brother against the cousins and
+then if the other neighborhood kids come
+on over and they're going to challenge
+us to something it's me my brother and
+my cousins against that
+group what I love about this is it
+illustrates we get to choose where we
+draw the circle do we draw the circle
+around ourselves is it I need to
+convince you that my idea here here is
+the right one or are we going to draw
+the circle more
+broadly now no matter who it is that you
+are disagreeing with and you're on
+totally separate pages with and you're
+trying to convince your company there is
+a circle around you which is hey we all
+work at this company and because we work
+at this company we all care about the
+company winning in fact if the company
+wins we hate our goals we make a lot of
+money Rising tide lifts all boat
+and so there's always a way to draw a
+circle where now it is you and the
+person in the circle against whatever it
+is that is the problem or the goal and
+so the lines that you can use here is
+just always always always start with
+that always start with look what we
+really want is to make sure that we make
+a great product that our customers love
+so now let's talk about the various
+ideas or it is just really important
+that we can achieve our Revenue targets
+because otherwise we're not going to get
+that roundout of funding or whatever
+terrible thing is going to happen so
+let's Orient around how we're going to
+best do that and I think it's so
+important it's not just these lines it's
+the mentality that we have if you go
+into a meeting thinking I need to
+convince this person I'm right you've
+just drawn the circle around
+yourself but if you go in and you say
+okay we're both in the circle together a
+lot of this becomes so much more natural
+and easy
+and the energy I promise you is going to
+be
+different step number two so we drawn in
+the circle step number two assume that
+everyone is seeing the
+truth what do I mean by that so this is
+a story that I think about and I kid you
+not I think about this probably three
+times a week which is the parable of the
+Five Blind Men and the elephant and so
+the story goes there are five Blind Men
+and they saunter into the woods and they
+encounter an elephant for the first time
+and so each of them is like this is our
+opportunity we can really get to know
+this
+elephant so the first man says he goes
+up and touches the elephant he say I
+know what an elephant is the elephant is
+rough and hard like a like a tree tree
+trunk and then the second blind man goes
+up and he touches elephant he's like you
+are totally wrong totally wrong the
+elephant feels like
+leather and third blind man goes and
+like you guys are both ridiculous the
+elephant is like a
+rope I actually forgot what the fourth
+and fifth Blind Men said but I think you
+get the gist of the
+story now all of us who are blessed with
+eyesight we can
+see you know what they're all right they
+are all seeing some version of the
+elephant because the ear is like leather
+and the legs are like a tree trunk and
+the tail is like a rope but it's also
+the case that none of them are
+completely right they all see truth but
+they don't see the whole truth and
+whenever we disagree this is usually
+what is happening we're all seeing some
+version of the truth but it's not put
+together in a way that lets us
+cohesively understand
+it and of course this is pretty obvious
+because a lot of times look we do have
+different experiences we have different
+roles if you ask a designer to evaluate
+a piece of work they go straight to well
+what is the customer going to think is
+it easy to understand does it feel
+aesthetically pleasing if you talk to a
+salesperson about the work they're going
+to go straight into like what does this
+mean for our Revenue targets everyone's
+got a different perspective and it is
+often the product leader job to hold
+these different perspectives and to be
+able to see the truth that is
+encapsulated in each of these different
+disciplines and of course it's not just
+again between product managers or
+product leaders you also see this right
+some team is trying to optimize for
+growth and retention and some other team
+is trying to optimize for revenue and
+they're going to be at odds because
+sometimes the best thing for growth is
+not the best thing for Revenue but
+instead of being like I got to convince
+them I got to convince them that they're
+wrong just acknowledge and put on the
+table the fact that we do see we all see
+truth but we see a a version of it and
+it is our job to acknowledge that and to
+do our best to put these versions of the
+truth together towards the greater good
+and I love just being able to
+acknowledge that in the in the beginning
+of what is likely going to be us
+discussing a different perspective right
+look it really does seem like we see
+things differently and but we all have
+something valuable so let's just put
+that on a table
+or you can also sometimes you know call
+it out in advance hey so you are a
+designer so you more easily can spot
+usability issues while I can more easily
+spot the places in which you know
+usability or pricing are going to come
+into conflict but just acknowledge what
+everyone brings to the table and that
+helps them feel heard and helps them see
+okay now we're now we can now that we've
+realized that we all do see something
+valuable we can more see everyone else's
+perspective so so far we've drawn the
+circle we have acknowledged that
+everyone sees some truth this is where
+the fun part begins step three is let us
+be like detectives and uncover where
+each of us sees the
+truth and I'm going to move straight to
+the lines that you can use because I
+think that these are two very very
+powerful
+questions so now that you and I are both
+Al that we want us to provide a great
+customer experience while hitting our
+Revenue targets what would we have to
+both what would have to be true for us
+to believe that we should do feature a
+or what would have to be true for us to
+generally agree that feature B matters
+more another way of asking the question
+is if I am advocating for a and you know
+it and you are advocating for B is to
+ask a question of hey well if you're
+advocating for B what would convince you
+that a is actually better for the goal
+that we both aligned on in the
+beginning so let's go back to those
+questions we had at the beginning infer
+rewrite why might infer rewrite be
+actually the most important project for
+us to
+tackle
+well if our performance is really
+degraded let's say we have a lot of
+customers and our performance has been
+degrading and we're very concerned that
+if the performance doesn't get better
+our customers are going to churn that
+would be bad both you and I don't want
+churn and customers that would be a
+disaster or let's say we're about to add
+we assume that we're going to do a big
+marketing push we're going to add a
+bunch of new customers and the product
+is so buggy that we're worried that
+we're not going to make a good
+impression and they're not going to
+stick around that would be
+bad or maybe the reason is just simply
+it's so difficult to add new changes to
+our code base that all of our Engineers
+are really upset and morale is horrible
+and they're all going to rage quit on
+us now again these are extreme examples
+but I think that actually talking about
+the extremes is one tactic that brings
+everyone else along because we can
+always agree on the extremes and if we
+can agree on the extremes what we do is
+we start putting the prioritization
+question as something on the table where
+we're on the same side and we're just
+trying to figure out what's the best
+balance right so okay let's agree on
+extremes that would both be bad if these
+things happen we should do the info
+reite but what about redesigning
+onboarding
+well onboarding really matters if we're
+going to add a lot of new users is that
+true are we going to add a lot of new
+users and it would matter if we were
+going to add a lot of new users and we
+somehow knew that our product is
+actually very good the product has
+product Market fit but somehow these new
+users are not understanding how to get
+value out of the product that is where
+onboarding would really matter right and
+again reasonable people will likely you
+know I'm seeing many of you nod like yes
+this is what we can agree on and finally
+what about a gen AI
+feature well if this new technology
+makes it 2x 3x 5x better for us to
+deliver our value prop that would be
+awesome we should do that or if we don't
+do it and we're worried that all our
+customers are going to go to competitor
+because they're they're doing it and we
+should probably prevent that as
+well so in this case again reasonable
+people will
+agree and this brings us very well to
+the next point which is once you have
+these scenarios it's time to turn the
+problem into a data
+question so now that we've established
+like in these extremes yes we can all
+agree we should do that the question
+becomes well are we in this scenario
+and the specific questions that I find
+so powerful are just simply asking well
+how can we know it's really true that
+the degraded performance is going to
+cause a lot of our customers to turn or
+what evidence do we have
+that this new janaa idea is going to be
+really well received in the market or
+how can we quickly get signal on whether
+it is the case that most of our
+Engineers are so fed up with the
+terrible quality of our code base that
+they're about to rage quit and once you
+start asking these questions I'm sure
+you know your your brain is already
+firing all of these different solutions
+oh let's go do a survey or let's go talk
+to our customers oh let's go and and
+check that dashboard let's talk to the
+data scientist and and do an ad hoc
+analysis but once we all start asking
+these questions like what evidence do we
+have we can quickly figure out how to
+get the answer and when I mean data I
+mean it very broadly right data is just
+any information that gives us a little
+bit more context as to the questions
+that we have so could be quantitative
+could be talking to customer success or
+interviewing sales or just getting on a
+call with 10 customers or doing a
+internal survey but all of that is going
+to help us with some of those scenarios
+that we were looking at before
+so back to our examples we said look in
+for reite if the performance is
+degrading and are our customers are
+going to churn well how was our
+performance has it been getting worse
+have we seen that correlate with churn
+and the customer base or have we pulled
+20 customers and said hey how do you
+feel about the performance or how have
+you felt about the bugginess of our of
+our experience as of late right lots and
+lots of ideas for how we could get a
+little bit more evidence again we should
+also by the way if you're a startup
+maybe the fact that you don't have that
+many existing users means it doesn't
+matter that much if they churn because
+you're putting a lot more eggs into
+acquiring the next set of users but all
+of these you know understanding where
+you're turn understanding how many users
+you have like what how many users do you
+expect to add how unhappy are Engineers
+this all give us evidence or data that
+helps us become more clear about whether
+we are in scenario one or two or
+three similarly with
+onboarding good questions to ask are
+like well are we really adding a lot of
+new
+users in the next quarter in the next
+six months and what is the current
+retention and maybe what are what's good
+retention look like for our our app in
+the marketplace something we can ask our
+Venture capist what is the usage of
+these core features and is it true that
+if we manually walk users through the
+product and they get it
+then they use it a ton versus when they
+don't you know through through the
+actual product experience um they don't
+right that makes a real case that
+onboarding is a great
+lever and finally with adding
+differentiated AI you know have we done
+any quick experiments have we prototyped
+things have we used chat GPT to answer a
+bunch of these questions and see if it
+actually dramatically helps us with the
+value prop of what we're trying to do
+have we gone and talked to Smart
+customer custers hey we got five ideas
+do any of these seem like they would
+help you do your work or or uh achieve
+your goals more efficiently and also of
+course there's customer or there's
+market research just looking around
+asking around figuring out what else our
+competitors doing and are we going to
+get left
+behind so lots of really great ways to
+get more insight get more data but I can
+see some of you thinking okay I got to
+move really quickly who has time for all
+that
+and I agree with you because I work in
+data and I can tell you that data will
+never actually give you certainty as
+much as we like to as much as
+uncertainty is
+uncomfortable we won't ever get the
+certainty the best that we can get is
+just a little more evidence a little
+more insight at the end of the day most
+of the decisions including the biggest
+and most important decisions we're going
+to have to make on a leap of faith
+somebody has to make that decision and
+so if you've gotten all the that you can
+get or maybe you can't get that much and
+you just have to move
+on the question you should ask yourself
+is okay maybe you and I still disagree
+right we got all the data we looked at
+the evidence we're on the same page you
+know we drawn the circle but we still
+don't disagree what should we
+do and this is where it's time to move
+the conversation up a level and make it
+a people question who is now the best
+person to make the call usually I find
+it is far easier for people to agree on
+who's the best person to make the call
+than it is on what the specific decision
+might be now again if you're in a large
+orc there already may be naturally a
+chain of escalation and you can follow
+that but you don't always have to follow
+it you know you can also say look you
+and I since we're now in the same Circle
+we we know that this person is really
+deeply invested in the end goal and for
+this particular decision they have the
+best combination of context and skill
+both are important if you're going to
+make a decision on what's the right new
+technical infrastructure do not ask me I
+don't have the experience to make that I
+could have all the context but I'll
+still probably make a bad decision
+whereas um if even if somebody has the
+skill but they just don't they don't
+know they don't have the data they don't
+have the history the context they still
+may not be the best person to make
+thisis so you need both best combination
+of context and
+skill now as a product leader what is so
+powerful about this is that you can
+actually Point towards and nominate the
+person to make the call it doesn't have
+to be the same person that makes every
+decision in fact that would be
+suboptimal because no single person is
+the best at having the right context and
+skill to make every decision so in
+certain cases this is where you can
+nominate hey this decision is a lot more
+about how we can improve um the the
+technical infrastructure so for the
+product I nominate the enge leader or
+this this this particular initiative is
+much more about how we can improve the
+customer experience and I'm going to
+nominate that in this case we should
+just listen to the design leader on on
+this you do not have to be the person
+who makes all the decisions or knows
+what the answer is you have to just make
+sure the best decisions get made and one
+of your biggest lovers is getting better
+at identifying who is the best at making
+which
+decision finally of course you want that
+person person to be clear D and calm
+they don't have a bone to pick they're
+not out for Revenge they're not so
+stressed out about whatever it is going
+on that is the person who is ideally the
+candidate for making the
+call so here are some lines you can use
+I know that founder mode is all the rage
+now so you just pull it out there guys
+we need a found remote this so I
+recommend I make the call it's also okay
+to nominate yourself
+but make it so that everyone feels like
+they can share in the fact that we're
+all doing this again to drive the best
+outcomes for our
+team so let's say you do all this okay
+you do all this you got the data you
+nominate a person and you still feel
+like ah we made the wrong
+call what do you do are we are we done
+by the way all everything I've said so
+far it does not guarantee that you're
+going to get what you want all the
+time but the game is not over because
+I'm a big believer that time eventually
+reveals more and more
+truth so what can happen is we did
+everything but you're you're sure you're
+certain that this was the wrong
+call write that down write down
+document you know if you have a
+documentation culture it will be written
+down but document hey three people
+didn't think we should do this and four
+people did and we nominated X person to
+make decision or you know our our VP as
+and and we made decision X but remember
+who made what call and that way after
+one month or three months or six months
+or a year go back and look at what
+happened did the decision bear
+fruit if yes there's a lot to learn from
+that did the decision not bear fluit
+also a ton to learn from that but I
+think this is so important for us to
+have a practice of in fact what I like
+to do is put a calendar invite for
+myself at these time frames so after we
+make a major call one month later I'll
+say go back and think about that
+decision we made three months later six
+months right you will learn different
+things at different time frames because
+the story is evolving as we live
+life and so when you go back and you
+watch your replays and you go back and
+evaluate what was the outcome of these
+decisions there's many many layers of
+what it is that you learn now the most
+obvious the ones that we end up talking
+the most about as product people are
+well what did we learn about our
+customers and their needs and secondly
+what did we learn about our product and
+the levers you know is pricing a lever
+is onboarding a lever is putting more
+power user features a lever for
+monetization or what whatever it is that
+we're trying to
+drive but I want us to go further as
+well because Beyond those layers there's
+also the layer of hey are we actually
+measuring things in the right way are we
+sure that we know what success looks
+like because metric goals can change and
+it's my experience having worked and and
+looked at you know the history of many
+things that sometimes you think that
+what you have is a growth problem and it
+turns out over time it's a retention
+problem you you know what you learn is
+that retention matters more and once you
+realize retention matters more over time
+you might refine that further retention
+of this particular customer segment
+matters more because they are the ones
+that actually lead the most to our
+ability to monetize and and have like
+great uh monetization retention so how
+what we learn about the way that we
+measure success is a third layer right
+um beyond that we can also learn how do
+we make decisions I love the previous
+talk because it was about that it was it
+was the learning is not necessarily
+about what is the decision but how do we
+come together and do better product
+reviews how do we improve the
+decision-making process should we spend
+more time doing getting evidence or are
+we are we repeating the same
+conversations over and over and we
+actually need to move a little faster
+right so there's a meta layer about how
+we make decisions and then finally and I
+think this is the most underrated what
+did we learn about the quality of each
+person's individual ual
+judgment because at the end of the day
+thinking about influence is thinking
+about the people problem and the people
+Dynamics so
+if your executive is making 10 decisions
+in a row about some Dimension it turns
+out over time he's wrong I hope the
+conclusion that the entire company can
+come to is this person is not to be
+trusted
+on whatever it is that that they're
+making so this and you're not going to
+know this until you keep the score and
+you continually go back and
+reflect and this is very important for
+the self as well right we like to go in
+we're product people we pride ourselves
+on having great judgment about what it
+is with product and there are going to
+be areas where you have biases I have
+biases I guarantee it and we're not
+going to learn about that until we do
+this over and over
+again so to recap we're going to start
+by drawing our Circle
+we assume that we're all seeing parts of
+the truth like the Blind Men and the
+Elephant we're going to try and be like
+detectives and together figure out where
+the truth applies in these extreme
+examples then we're going to see what
+evidence do we have right turn it into a
+data question and if we don't have time
+to gather our data eventually turn it
+into a people question and finally we're
+going to continue to watch our replays
+I want to end on a Zen Buddhist concept
+so this is a character called
+moo and literally it means nothingness
+but in the Buddhist
+tradition it's meant to refer to this
+idea that
+sometimes the true answer the best
+answer is much greater and vaster than
+the question that was originally
+posed it is often the case that the
+question we're asking is too narrow of a
+question in this case we started out
+with prioritizing the info rewrite or
+the onboarding or adding a
+differentiated AI
+feature but if you if you look into the
+future 3 months 6 months a year later
+there actually many many possibilities
+for what a great outcome could look
+like perhaps we realize we need better
+instrumentation and measurement perhaps
+we realize we should do all these it's
+more a matter of sequencing than if we
+should do these things perhaps we
+discover that actually wow once we dug
+into retention we realize we have a
+retention problem and there's in fact 20
+other ideas we have for how to improve
+retention maybe we came up with a better
+process for how we work
+together a story that I think about a
+lot is that back in Facebook's history
+history things were going well they're
+growing growing growing viral social
+network until one day growth
+stopped and what Mark did was task a
+small group of people to go and solve
+the growth problem get us back on track
+so that we can grow
+again and the team came up with a lot of
+ideas hypotheses tested and so
+forth I don't remember what was the idea
+or the lever or the thing that they did
+that started growth again but I can tell
+you the process that they uncovered the
+culture of growth the way that they
+became more data informed the framework
+that they develop that turned out to
+blossom into a an incredible cultural
+set of practices that every single team
+at Facebook adopted and is still a core
+part of what makes Facebook Facebook
+today that is the true gift that is the
+thing the gift that keeps on
+giving so in conclusion you know what
+problems are going to come and go
+there's going to be a decision to make
+today tomorrow next year there's going
+to be tens of thousands of decisions
+that you're going to make and that your
+and your team are be together going to
+make but relationships but the learnings
+the people the wisdom these things are
+forever these things are rare figuring
+out how to do that well and enjoy the
+process with the people that you work
+with that is the truest gift I can think
+of nothing better than waking up every
+morning and just excited to come into
+work and solve problems with people we
+like instead of feeling like it's a
+fight every day I think that is what we
+should be trying to optimize
+for thank you everyone
+[Applause]

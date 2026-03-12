@@ -1,0 +1,1982 @@
+the most important thing in product LED
+sales is that there is a different
+configuration internally
+of collaboration that needs to occur in
+traditional sales World marketing
+creates pipeline for sales sales sells
+product product engages with the paid
+user to drive retention
+in the product LED sales product
+acquires and activates a customer
+and product creates pipeline for sales
+so relationship is not that there is a
+go to market org with marketing and
+sales and product just kind of throws
+features across the fence for them to
+sell the collaboration here is between
+product and sales
+but that means the product has to take
+on accountability over pipeline the
+worst thing that you can do is to say
+I'm going to do product LED growth or
+I'm going to do productless sales and
+I'm gonna do it in marketing
+recipe for disaster you will be failure
+mode within six months because product
+has to take accountability over selling
+of the product itself
+welcome to Lenny's podcast where I
+interview world-class product leaders
+and growth experts to learn from their
+hard-winning experiences building and
+growing today's most successful products
+today my guest is Elena Verna that name
+sounds familiar Elena is a return guest
+and you be the judge but I think this
+episode is even better than the first
+which is a very high bar because that
+first episode continues to be one of the
+most popular of the podcast Elena has
+worked at or advised companies like Miro
+amplitude SurveyMonkey mongodb netlify
+and a dozen others she's also a long
+time instructor and eir at reforge where
+she helped create their experimentation
+monetization growth leadership and their
+soon to be released plg course and in
+this conversation we go incredibly deep
+into the emerging space of product LED
+sales Elena explains what exactly is
+product LED sales outfits together with
+product like growth and sales lead
+growth who and when you should consider
+investing in product life sales how
+product sales changes your approach to
+sales and marketing what sorts of data
+tooling and people you need in place to
+do it well and what common pitfalls you
+need to avoid I've said this before and
+I'll say it again Elena is possibly the
+smartest and most experienced growth
+person in the world especially when it
+comes to B2B and I never get tired of
+learning from her enjoy this episode
+with Elena Verna after a short word from
+our sponsors
+this episode is brought to you by linear
+let's be honest the issue tracker that
+you're using today isn't very helpful
+why is it that it always seems to be
+working against you instead of working
+for you why does it feel like such a
+chore to use well linear is different
+it's incredibly fast beautifully
+designed and it comes with powerful
+workflows that streamline your entire
+product development process from issue
+tracking all the way to managing product
+roadmaps linear is designed for the way
+modern software teams work what users
+love about linear are the powerful
+keyboard shortcuts efficient GitHub
+Integrations cycles that actually create
+progress and built-in project updates to
+keep everyone in sync in short it just
+works linear is the default tool of
+choice among startups and it Powers a
+wide range of large established
+companies such as versel retool and cash
+out see for yourself why product teams
+described using linear as magical visit
+linear dot app slash Lenny to try a
+linear for free with your team and get
+25 off when you upgrade that's linear
+dot app slash Lenny
+this episode is brought to you by Brain
+Trust where the world's most Innovative
+companies go to find Talent fast so that
+they can innovate faster let's be honest
+it's a lot of work to build a company
+and if you want to stay ahead of the
+game you need to be able to hire the
+right Talent quickly and confidently
+Brain Trust is the first decentralized
+talent Network where you can find hire
+and manage high quality contractors in
+engineering design and product for a
+fraction of the cost of agencies Brain
+Trust charges a flat rate of only 10
+percent unlike agency fees of up to 70
+percent so you can make your budget go
+four times further plus they're the only
+Network that takes zero percent of what
+the talent makes so they're able to
+attract and retain the world's best tech
+Talent take it from doordash Airbnb clad
+and hundreds of other high growth
+startups that have shaved their hiring
+process for months to weeks at less than
+a quarter of the cost by hiring through
+Brain Trust network of 20 000 high
+quality vetted candidates ready to work
+whether you're looking to fill in gaps
+upskill your staff or build a team for
+that dream project that finally got
+funded contact Brain Trust and you'll
+get matched with three candidates in
+just 48 Hours visit usebraintrust.com
+Lenny or find them in my show notes for
+today's episode that's usebraintrust.com
+Lenny for when you need talent yesterday
+Elena welcome back to the podcast thank
+you for having me back I thought I would
+be the first returning guest I'm a
+little bit upset that I'm been beat by
+Casey so you should explain yourself
+from now on okay here's the explanation
+you're the first that we rebooked back
+and then this one just kind of got
+pushed a little bit in case he had a
+slot earlier so technically you were the
+first scheduled return guest
+all right all right I'll accept that
+okay
+so I guess I'll just say I'm really
+excited to have you back your episode
+that we did maybe a year ago is one
+still one of the most popular episodes
+of all time I still see people tweeting
+about it and sharing it and so I am
+really excited to have you back and have
+a take two
+I'm excited to be back let's Dive In
+before we get into the content when we
+met last time you were interim head of
+growth at amplitude
+what are you what are you up to now
+what's what's happened in the past year
+I just wrapped up interim gig at
+amplitude uh in February so it's just
+been a couple of months uh since then
+I'm passively exploring if I'm gonna
+take another interim position but
+between interim rules I always take
+about six to eight months a break
+because interim rules are very intense
+because there's so many deliverables
+that are loaded in in the first year
+that you're working at the company so
+I'm just advising I have incredible
+companies that I started advising such
+as virio and Sanity clockwise and I'm
+building up my next level of Frameworks
+that I'm gonna dive into potentially new
+interim position to prototype
+if people are listening to this and
+they're like how do I get to work with
+Elena should people reach out to you are
+you booked up what do you suggest
+take down an opportunity to have a great
+conversation and to learn about the
+business and to see how I can be helpful
+but I'm not proactively sourcing clients
+but that doesn't mean that I don't have
+availability to schedule something in
+the future awesome so if it's amazing
+enough you're open to it absolutely
+always great okay here we go you always
+have to be open to New Opportunities yes
+I love that I feel the same way fomo
+fomo kicks in anyway as you know we're
+going to be devoting this entire podcast
+to just one topic which is product LED
+sales which is this go to market motion
+that seems to have emerged over the past
+year maybe a bit longer and just feels
+like there's this increasing amount of
+interest and also this increasing amount
+of confusion around what it is how to
+approach it who it's right for and so
+we're going to spend the next hour
+diving really deep into product LED
+sales
+let's go for it let's do it okay so
+let's just start with a bigger picture
+kind of question of just how do you
+define product like sales what is
+product sales especially when it comes
+to what is it versus product like growth
+great question so let's start with
+product LED growth I always talked about
+it a little bit in our first episode but
+let's revisit the topic product LED
+growth is all about products ability to
+self-serve activate
+self-serve engage and convert that usage
+to a monetization opportunity so you
+bring people you get them to an aha
+moment into the Habit loops and then you
+able to extract value back out of them
+extraction of the value can be direct
+where you actually capturing revenue
+from them or it can be indirect where
+they're participating in your growth
+model via virality or user generated
+content and bring additional business
+through the doors but let's talk about
+direct queries to capture that value
+there is self-serve monetization so I'm
+using product self-serve I go to the
+pricing page I find the plan that best
+suits me on pictures that I want to
+unlock or usage that I want to unlock
+and I buy it however that's not the only
+way to monetize that usage you can
+monetize that usage with sales 2. why
+self-serve monetization has a cap of
+about ten thousand dollars that's just
+how much we're able to process on the
+credit cards before they start getting
+flagged and declined by the Banks and so
+much we as a consumers and prosumers are
+even willing to put on our credit card
+because not all credit cards have limits
+of over 10 20 30 40 000 so self-serve
+monetization is very much a prosumer use
+case where an individual is trying to
+solve the problem on their own product
+let sales converts the usage that you've
+generated via self-serve into a sales
+opportunity and it attaches A
+salesperson to close a much larger
+contract which can be fifteen twenty a
+hundred thousand dollars in order to
+bring an Enterprise level solution to a
+company that has already been using it
+in the self-serve manner
+amazing would you say that product like
+growth has always been in a sense
+product sales because sales was involved
+and there's has been kind of like way of
+describing it or is this a new trend and
+way of approaching product like growth
+so prod lab growth uh has actually
+started more on individual use case so
+an individual has a problem they have a
+job to be done they come into the
+product and they solve it and that was
+product LED growth in a nutshell for a
+lot of the B2B companies however if
+you're going to attach a salesperson
+there is nobody in the company that is
+going to pay 10 15 20 000 for one
+individual to solve their problem so
+productless sales assumes that there is
+a
+migration from an individual use case
+that you acquired an end user with and
+an escalation into an Enterprise level
+solution that solves Enterprise level
+problems let me break it down and let me
+use for example amplitude as an example
+so amplitude individual what does
+individual wanted with amplitude I need
+data at my fingertips to make better
+decisions for my product so I'm going to
+put in amplitude SDK into my product and
+it gives me behavioral data to help me
+build my pillar better
+what is the company level solution well
+it's more self-servability of the data
+it's democratization of data it's
+enhanced insights in a more data-driven
+culture that's what companies solving
+for individual is not solving for
+data-driven culture individual is just
+solving for Data Insights for them
+companies solving for data-driven
+culture so in product LED growth you can
+just have an individual be very happy
+with their solution for their job to be
+done however for product let sales
+assumes is that there is an escalator to
+an Enterprise level solution and
+Enterprise tool escalator is
+valuable to attach sales resources too
+because products fundamentally do a
+really bad job at communicating
+Enterprise level value prop they're very
+good at showing you as a user what you
+can do they're very terrible at showing
+what organization actually can benefit
+out of the solution so sales can tell
+that story sales can bridge that Gap and
+then you can increase the perceived
+value in order to
+bridge the gap to that fifteen thousand
+dollar twenty hundred thousand dollar
+contract so I would say self-serve
+monetization is very much an individual
+use case versus product let's sales is
+turning that individual use case and
+self-serve usage into a sales Pipeline
+with Enterprise level value I really
+like that way of thinking about it
+basically product like growth has a
+ceiling you're only going to get so high
+in terms of spend you can only explain
+things so much to a potential user and
+then sales comes in and solves a lot of
+those problems and product life sales is
+essentially this I think you even have
+this visualization now that I'm thinking
+about this bridge right yeah this bridge
+between the two and so in this world of
+product LED sales does sales as a
+function outbound sales continue to
+exist
+one and then two is it radically
+different in this world of product LED
+sales
+yeah so to understand how sales should
+be applied in the situation you need to
+understand end users motivation ability
+and permission simple organization so
+for example if the user end user is very
+motivated they have full sense of
+ability to solve the problem and they
+have all of the permission from
+organization or maybe not even
+permission maybe forgiveness from
+organization to go and explore and bring
+in a new solution then it can be a very
+much organic motion up that escalator
+however that's not always the case
+a lot of times end users Miss permission
+of solving Enterprise level problems
+there's lots of stakeholders there's a
+committee that has to make a decision it
+impacts departments outside of their
+purview and maybe they're even
+lackability to do it maybe they can do
+their little job to be done but not the
+entire Enterprise level integration so
+in my amplitude example yeah I can drop
+an SDK in my product area but how do I
+convince entire product to adopt
+amplitude and put an SDK on every single
+interaction across the entire app such
+as different level problem statements
+and this is where productlet sales is
+either can be as truly organic motion
+where people raise their hands they
+submit sales forms and there's already
+I need and desire and understanding of
+it or end user might hit friction points
+and product let's sales has to bridge
+those friction points by either
+attracting the right decision makers to
+the process so they can find an
+Enterprise buyer out there they can
+understand Who's the champion and what
+their capabilities and what their
+permission levels are and they can
+create a committee for the decision so
+there is they almost slap a Band-Aid on
+the problem of people not wanting not be
+able to and not wanting to necessarily
+resolve the problem on their own and
+they can be very powerful with that as
+well as marketing because we cannot
+forget about marketing where they can
+educate of how to help people bridge
+that Gap and how to sell things
+internally
+you mentioned this idea of Enterprise
+level problems it might help if you give
+an example or two of what those might be
+and then also just what are companies
+examples of companies that are doing
+Enterprise or product list sales well
+just to kind of give people a mental
+model as you're talking about some of
+this stuff
+sure so let's go through a couple of
+them let's go through Miro Miro is an
+online whiteboarding platform what is
+individual problem that people come to
+Miro to solve they have a workshop they
+need to facilitate maybe they need a
+board to just do brain writing in and
+they use Miro for individual jobs to be
+done however what Nero is designed for
+is the team level problem so I come in
+and I bring you in and we collaborate
+together so now there's two three four
+people involved but even that is still
+on the project level it's on the team
+level nobody's gonna pay a hundred
+thousand dollars to solve a team level
+small problem that is solving what is
+the Enterprise level problem it's
+increased Innovation it's increased
+productivity across the entire team
+because now we have this new outlet in
+which we can collaborate now can Miro
+very clearly show increase in
+productivity across the organization by
+using the product no can sale sell the
+story yes so Miro take you from an
+individual user to a team step and then
+sales Bridges the Gap to an Enterprise
+let's give another example of figma in
+figma I come in as a designer and I just
+need a better way to capture feedback
+from my stakeholders a more scalable way
+to capture it so I can iterate on the
+Perfect Design what is it at the team
+level now there is a team that can
+collaborate with me more openly I can
+capture more feedback from more
+stakeholders faster and get the project
+done sooner what is it on the Enterprise
+level well on Enterprise level are
+designs that just better fit the
+business needs they have faster
+turnaround time and our product is
+performing better that's an Enterprise
+level value prop and again we're I think
+in the product development space gotten
+a little bit lazy of actually showcasing
+that Enterprise Value in product so we
+rely on Excellence of sales team to tell
+that story I do hope that changes by the
+way in the future then we put more
+pressure on the products to take it all
+the way up the escalator so we don't
+have to be
+hundred percent dependent on the sales
+team going and showcasing that story and
+the product can really Empower that
+escalator from the starting point till
+the end on its own I want to dig into
+that for sure I know that's something
+you just shared on LinkedIn recently and
+I thought that was a really interesting
+topic but before we get there let's talk
+about this bridge a little bit more so
+people might be listening to this that
+are maybe a product like growth company
+and they may feel like hey wait we're
+already doing this we have this product
+like growth motion we have a sales team
+they figure out who to talk to
+what exactly is in that bridge that
+makes product life sales so interesting
+I imagine it's like helping you identify
+who to go after helping people go
+further and further and escalator
+themselves how do you think about that
+that bridge between product and sales
+let's talk about how product-led growth
+companies
+start with product-led sales
+it usually starts by an organic demand
+from a user base they reach out to them
+through support channels by just pinging
+people who work at the company saying
+hey I want to purchase this for my
+entire company that's an organic pool
+that you start feeling from product LED
+growth model into Enterprise sales world
+and by the way you should never hire any
+salespeople until you feel that pool
+because if nobody's asking to purchase
+then you cannot just hire an SDR and
+make a purchase happen so you need to
+see those hand raisers you need to see
+those people demanding an Enterprise
+level adoption then you hire starts
+hiring salespeople to actually suffice
+that demand and that's great and you're
+starting to do sales and surfacing
+really addressing organic Demand with a
+new product
+but that organic demand very quickly
+dries up if you rely on hand raisers on
+of your Champions if you rely on having
+Enterprise buyers in your user base that
+are asking to just sign on the dotted
+line then you have a very limited
+ceiling for your growth because what
+majority of the usage transforms to be
+is to have product qualification that
+there is a meaningful sales conversation
+that could occur based on the signals
+within usage
+but the buyer is missing
+ninety percent of product LED sales is
+converting the usage
+into an opportunity by finding a buyer
+outside by finding the decision maker
+outside this is where marketing and
+sales are so crucial in the process
+connecting that decision maker to the
+usage and then driving an opportunity
+through sales funnel all the way to
+closed one deal so it's great when you
+start having sales team and you
+surfacing this organic demand that's
+beautiful and power to you just it
+doesn't last very long just because end
+user fundamentally does not equal
+Enterprise buyer and that organic demand
+ends up plateauing varies shortly
+because you cannot just make Enterprise
+buyers happen from your users
+if a Founder is listening to this right
+now and they're like okay so I have
+maybe a product like growth component or
+self-serve maybe I have a sales team
+maybe I don't what's a sign that your
+product is a fit for investing in
+product sales essentially every product
+like growth oriented companies should be
+eventually investing in this area or is
+there certain companies that like no you
+don't need to worry about it just stay
+product like growth forever or just stay
+sales like growth forever to have
+product list sales
+means you're going up Market
+period that means you going for contract
+values that are probably over your sales
+floor so the minimum that the sales is
+willing to engage in close which is
+traditionally around fifteen thousand
+dollars if you go in for contract values
+of fifteen thousand dollars that means
+you're probably trying to close a
+hundred two hundred thousand dollar
+contracts as well
+who can handle a hundred two hundred
+thousand dollar contract it's not going
+to be a small startup it's not going to
+be an SM beam it's probably going to be
+higher end of more of a mid-market
+segment so 200 employees plus more
+likely it's going to be towards the
+Enterprise segment of a thousand
+employees plus so if you are not ready
+to go up Market I would say keep it easy
+on the product let's sales because sales
+means quotas sales means large contract
+values sales means you are going up
+Market whether you like it or not and
+some products they should stay in the
+prosumer individual space maybe they're
+geared towards contractors or
+Freelancers or squarely towards startups
+those personas are not interested in
+talking to sales in the first place they
+have much lower
+bearing of the how much they're willing
+to spend so their price sensitivity is
+much higher they prefer to do all
+self-serve in the first place so it's
+really needs to be conscious about what
+that will do to your go to market motion
+because it definitely skews it and pulls
+it up got it so what I'm hearing is that
+if you're starting as a self-serve
+oriented product and you're starting to
+maybe hire your first sales person
+is the approach start approaching it
+from product like sales Motion versus
+now we're going to add the sales
+independent team that's kind of doing
+their own thing right so there's two
+ways to get to product LED sales first
+the wave is that we talked about I
+started product LED Growth Company I
+really started with this individual use
+case and I'm escalating to a company
+level value problem this is what I need
+product Lab sales for on the other side
+I might start as a top-down sales
+traditional organization so I have
+product that I only sell through sales
+those are usually anchored at larger
+segments in the first place in order to
+build the top-down sales engine you're
+most likely going after Enterprise
+segment of a thousand plus employees or
+maybe upper mid Market of 500 employees
+plus and the reason to go into product
+let's sales is either your existing
+top-down motion is not working because
+customers need to see value before they
+sign the contract so they want to see
+that usage in at least the first signs
+of perceived value before they sign on
+the dotted line or you're going down
+Market
+and your fixed cost of sale that you
+have from the traditional sales motion
+does not scale it stays fairly constant
+yet your contract values are starting to
+drop as you're going down market so you
+want to create a lot more Automation in
+the selling process to remove as many as
+possible humans out of it so you can
+approach it for both ways adding PLS on
+top of product lead growth or adding PLS
+on top of existing sales lead growth for
+plg you're going up Market by adding PLS
+for SLG or sales lead growth by adding
+PLS you're going down Market awesome and
+we're going to talk about how to
+actually build this infrastructure and
+what's required but it reminds me one of
+the biggest takeaways from our first
+podcast and something I've quoted many
+times now is your bet that every sales
+lead Growth Company needs to add a
+product-led growth element otherwise
+they'll be disrupted by someone that
+does is that still your perspective
+absolutely now I think there's different
+stages of what does it mean to add
+product LED growth elements I think
+every sales LED company should be
+putting pressure on product to assist
+with the sales process that does not
+mean that there is product-led growth
+but there is a product assist in the
+existing sales lead motion that can
+materialize into product-led growth if
+you can truly solve for self-serve
+activation self-serve engagement and
+have product be able to sell itself
+because the biggest difference here that
+starts to come in and that is so
+apparent in every single company is that
+in b2beam unfortunately we've let go of
+the products having accountability over
+monetization model we've gotten into the
+spiral of product just builds a product
+and it throws it over the fence to
+marketing and sales it's to sell and
+marketing and sales have done an
+incredible job over the last couple of
+Decades of coming up with these stories
+and elaborate playbooks of how to
+attract Enterprise buyers and how to
+sell them this product and product
+literally only obsesses after contract
+is closed and there's usage that starts
+with serialized after contract close so
+we've alleviated our product management
+in B2B from monetization ownership
+so when the SLG company actually goes
+into product assisted tactics or
+product-led growth the biggest pain
+point is actually educating product team
+on how can you get product to sell
+itself which is all about monetization
+awareness monetization friction of
+conversion to get into the paid plan and
+then having actual correct value metrics
+that are understood self-served by the
+customer so it's a
+I mean yes I agree with you every single
+I agree with myself I should say that
+it's every single sales company should
+at least add some product assisted
+tactics but I would even take it further
+that every sales LED company should
+start educating and putting pressure on
+the product to own monetization
+components of the business let's pull on
+that thread a little bit more what does
+that actually look like does the head of
+product for that or the header product
+or specific
+group PMS let's say have Revenue goals
+and responsible for p l and things like
+that or what does that generally look
+like when they start to own Revenue so
+there's two ways that you can own
+Revenue
+Revenue stream number one will be your
+self-serve Revenue
+and if there's self-serve Revenue that
+means product is selling literally
+itself
+so yes there has to be somebody in
+product that has self-serve Revenue
+Target now a lot of times it doesn't
+fall in the core product managers a lot
+of times it falls on the growth team
+and that's because core product
+management is really focused on feature
+developerability
+and just that incremental expansion of
+the core use case and growth product
+management owns the product distribution
+strategy and then the plg case it would
+be a true self-serve monetization model
+now when it comes to PLS you don't own
+Revenue Target in my opinion but what
+you do own is the pipeline that was
+created by product that you have a
+handshake with sales team over so what
+that materializes in is product
+qualified accounts and it's actually a
+product threshold of Engagement that
+differs from activation and it differs
+from core engagement it's what
+volume velocity feature breadth or
+behavioral signals that account is
+throwing that says hey right now is the
+time to engage with sales and that is
+the bridge to monetization that product
+team should own as even on the core team
+in order to drive healthy predictable
+and sustainable pipeline to sales okay
+so that's a really important topic
+there's this concept you just describe
+product qualified account it might be a
+good time to define a couple other
+acronyms and kind of compare them so
+there's pqa there's pql product
+qualified lead there's marketing
+qualified lead can you just maybe
+describe this Suite of acronyms and then
+I want to follow up on the pqa because
+that seems really important I'll start
+with pqa just because we just know we
+just breezed over it pqa is product
+qualified account it's on account level
+it's aggregation of multiple users that
+are using the account it might be on the
+overall Logo level so let's say you've
+attracted a company so you qualify pqa
+across the entire company usage or it
+might be on a specific team or workspace
+level depending on what is the better
+predictor for you and who the sales team
+is going to be engaging with so product
+qualification is very much product
+metrics it's the volume of use it's the
+velocity change so for example yesterday
+I've been adding one user per day and
+then today I've added 15 users to
+account that's a velocity change that
+you need to pay attention to well there
+is a feature usage that can be highly
+correlative to Enterprise interest that
+product should be driving towards
+every single account reaching in order
+to qualify them for sales conversation
+now within a pqa there may or may not be
+pql so pql is a product qualified lead
+lead assumes there is a person in the
+account that I can go and sell to now
+leads are those buyers they're those
+decision makers in the account and if
+you have a smaller segment so for
+example you and More in small businesses
+or lower end of mid-market segment you
+may very have pqls in there because user
+is maybe equals buyer and user can make
+those buyer decisions however the more
+you move up the market the more end user
+is many steps separated from the buyer
+so you might have very healthy usage and
+you might have a pqa that is off the
+charts but you don't have a pql in it so
+if you just stick your sales against
+that account you're gonna have a very
+terrible situation a very terrible user
+Journey where users are likewise sales
+talking to me I have no decision making
+power in my organization I love the
+product but please leave me alone and
+this is where you get a bunch of cold
+outbound and I put big quotations on
+outbound emails that are just not
+getting returned so you need to very
+clearly understand who's your buying
+Persona and are they in your user base
+and if they are you have a pql have some
+go for it but if they're not go find it
+out there and this is where mql concept
+really comes in into play because then
+marketing has to still qualify a lead
+to bring it and connect it to pqa so pqa
+can have a pql
+as a user already in the user base or
+you might need an mql with marketing or
+sales bringing that lead over and
+connecting them with the usage
+amazing so we're going to share a link
+you have this awesome visual that shows
+kind of like the funnel of pqas and pqls
+funneling into sales along with
+marketing qualified leads basically
+there's a kind of instead of one path to
+sales knowing who to talk to now there's
+two product is funneling you people that
+are qualified and then marketing
+following you people that are qualified
+and there is a third path there might be
+a marketing funneling people that have
+no usage whatsoever and that is a true
+top-down lead so you have three buckets
+of lead attribution that is coming in I
+have usage and one of the users is my
+lead I have usage I have no lead in the
+account marketing is bringing me the
+lead but I have to leverage that usage
+against that lead or I have a lead
+coming through there is no usage I have
+to sell the entire thing still to them
+so there's no contacts that I can use of
+existing usage and those three channels
+are super important to identify they all
+have very different conversion rates
+they all have different playbooks so how
+you close them and honestly they require
+often different sales team to go after
+them because it's a very different sales
+enablement
+you remind me of uh you have so many
+hilarious memes that you share on
+LinkedIn by the way everyone listening
+should go follow Elena on LinkedIn And
+subscribe to our newsletter because it's
+hilarious and also informative it's a
+it's a magical combination one of my
+favorite memes of yours is The Shining
+one that we just kind of touched on
+where someone's just like using a
+product for five minutes and then hey do
+you wanna it's a sales guy just reaches
+out with like the ax hey do you want to
+chat so that actually it's painfully
+true that's one of my most highly
+engaged memes that I've that I've put
+out there I have also one of the urinals
+where
+A salesperson comes on would you like to
+chat about our Enterprise plan like 10
+urinals and he's like right next years
+yeah exactly so uh the piece here that a
+lot of companies Miss unfortunately is
+that they
+Jam product LED sales into a traditional
+top down sales Playbook
+now what does that mean in traditional
+top-down sales book an mql that you have
+or a lead that you gather already is in
+consideration cycles for your Enterprise
+level offering
+however in product lead sales a new user
+that signs up they now work close to
+Enterprise level consideration they're
+just trying to complete an individual
+job to be done they're not solving a
+problem for their their
+company so if you can imagine it as like
+a very large funnel you start with just
+users looking for problem solve then you
+transition to awareness consideration
+and intent channels for Team level
+problem and then you escalate for
+awareness consideration and intent
+channels for Enterprise level problem
+top down
+sales process goes after the bottom of
+that funnel where there is already an
+intent to solve company level problem
+versus at the very top is where product
+lab growth starts on individual level
+problems it's a different timeline so if
+you go after individual user that just
+signs up for the account and you reach
+out to them 10 minutes later after sign
+up asking what's your budget and are you
+ready to buy
+it's a it's a complete mismatch of where
+they are in their consideration Journey
+so you cannot consider a new product
+sign up an mql in the traditional sense
+they're just not there yet they have a
+fraction of the Enterprise problem that
+they're solving and they're not ready to
+buy
+and it's especially annoying because
+there's so many SAS products now and
+everyone is coming for you especially if
+you're at an awesome company that
+they're trying to sell so gotta be yeah
+I mean anytime I even started I remember
+I started at amplitude when I started a
+year ago it's like my inbox was just
+filled
+but like now you're doing this now
+you're doing this bye bye bye I mean
+it's I don't know it's I I can't even I
+can't even notice anything in that
+outbound unless somebody reaches out to
+me with something authentic that is
+already usage based it's ignore
+and it's going to get worse with GPT
+oriented uh cold outbound emails
+absolutely
+this episode is brought to you by
+rose.com the world runs on spreadsheets
+you probably have a tab open with a
+spreadsheet right now but the
+spreadsheet product you're using today
+was designed decades ago and it shows
+they live in silos away from your
+business data they weren't made to be
+used on a phone and if you want to do
+even the simplest automation you have to
+figure out complex scripts that are
+nightmare to maintain Rose is different
+it combines a modern spreadsheet editor
+data Integrations with apis and your
+business tools and a slick sharing
+experience that turns any spreadsheet
+into a beautiful interactive website
+that you'll be proud to share if you're
+writing a report on a growth experiment
+you can use rows to do your analysis on
+data straight from bigquery or snowflake
+if you're deep diving on marketing you
+can import reports straight from Google
+analytics Facebook ads or Twitter or if
+you're working with sales you can
+natively plug stripe Salesforce or
+HubSpot directly into rows and when
+you're done you can share your work as a
+beautiful spreadsheet that's easy to
+read and embed charts tables and
+calculators into notion Confluence or
+anywhere on the web I've already moved
+some of my favorite spreadsheet
+templates to Rose go to rose.com Lenny
+to check them out that's rose.com Lenny
+okay so let's shift to actually how do
+you actually do this how do you actually
+build a system of product LED sales and
+I feel like there's maybe three buckets
+there's what data do you need what
+infrastructure systems do you need in
+place and then what are the people you
+need in place and how do you resource it
+so maybe let's start with the data what
+what sort of data do you need in order
+to do this well there's different levels
+of scale on how you should be attacking
+this problem first of all it starts with
+just top-down intuition
+what are the signals that you're seeing
+around the accounts that
+are highly correlative to sales being
+very excited about this hand raiser or
+about the sales form submit out of the
+usage and you just start with that it's
+as simple as that how many others are
+exhibiting those signals when you have
+very low lead volume still you don't
+want to get too complicated with it at
+the beginning you want to be very
+transparent you want to just understand
+what sales are seeing what they get
+excited about and feed them as many
+accounts that fit that model the one
+thing is not to do is just to start
+sending every single user to sales
+because that's the fastest way for sales
+to say this product channel is garbage
+and I don't ever want to see a lead from
+it again because they have such low
+close rates and they're quoted their
+salary depends on their ability to close
+that they just start disregarding this
+as a meaningful Channel now the second
+escalation to it is okay now you'll know
+intuition but now let's actually look at
+the reality of who is hand raising in
+the product so you look at the signal of
+who looks like a hand raiser smells like
+a hand razor acts like a hand razor but
+is not hand raising and that's a maybe
+very simple regression model it might be
+just a simple histogram analysis that
+you do of what differentiates people
+that are hand raising from people that
+are not hand raising and who else
+fits in into criteria and looks like a
+hand raiser based on those differences
+and that should be your first pqa model
+it should be very simple it should just
+be if you can run a linear regression
+against some of the top coefficients
+that you that you notice so you know
+which has the biggest weight to
+predictability and you go with that the
+main piece here is to involve sales very
+early on so you're partnering with them
+you're not just dumping it on them and
+that you have a very strong feedback
+Cycles from sales or whether what you've
+identified is correct or not correct
+because pqa definitions should not be
+static they're constantly evolving so
+just because it's right right now that
+does not mean it's going to be right
+next quarter so you have to have a lot
+of rituals with sales team to gather
+that feedback one thing I'll mention is
+amplitude and mixpanel both have a
+regression tool that help you identify
+correlations and and uh and causal kind
+of connections between metrics so maybe
+shout out there I think it's called
+Compass yep and then uh and then mixed
+panels I think is called signal yep I
+honestly to be fair most of the time
+I've done it manually at first because
+it requires so much
+um understanding of the data and if the
+data is correct and if I'm even seeing
+because you don't want to throw in too
+many co-related uh variables into the
+model because then you have issues of
+those variables like describing
+themselves so to speak and even if
+they're firing there might not be actual
+predictive so it's
+partnership with analytics team and its
+partnership with the intuition from the
+sales team and then you can start
+throwing it into a regression model and
+start to automate and think about
+scaling it which there is a lot of PLS
+platforms that are coming up and finding
+the product Market fit at the moment
+they can do that for you but I don't
+know if I would start there right from
+the beginning unless you actually
+understand the data because buying a
+platform will not bridge the gap for you
+understanding what actually matters in
+your data buying a platform or using a
+third-party solution will help you scale
+your efforts once you hit the first I
+would say datum sales fit that you can
+then scale and this increase
+distribution of data sales fit wow
+that's a new new term there we go I have
+not heard that before data sales fit I
+love it so you're saying basically start
+manually to make sure you fully
+understand what's going on that's my
+take yeah I I just I I don't I don't I
+have a hard time scaling something that
+I don't fully understand because data
+can tell you lies and you can just fit
+any story that you want into data and
+you can really understand it and how it
+fits and what you are observing and that
+it makes sense before you go and start
+using automation on it cool okay and
+then just one last question on what you
+were just talking about which is finding
+correlations and causal relationships
+between usage and users and
+understanding who to send to sales what
+are some common metrics and attributes
+that you've found that are indicative of
+they should go to sales so one of the
+most important things is to create
+network effects within the company
+within a team which each additional team
+member added to an account benefits from
+everybody else this does not mean you
+have to have platform Network effects so
+you're not trying to be LinkedIn you're
+not trying to be Instagram there was a
+platform network network effects what
+you are trying to create is the value of
+each additional user into account what
+that means I'm going to go through
+slight deviation here is that they're
+not should not be only
+pulling mechanism where I pull you into
+my account there also should be pushing
+mechanism any new sign up that happens
+from the company that already has an
+account in my system should be presented
+with an option to join that account not
+just create a brand new account what you
+don't want to create is hundreds of
+Rogue individual accounts that don't
+know about each other we as humans we
+are creatures of
+Community where creatures of would like
+to be surrounded by people to be
+validated by people and at least you
+want to create that herd mentality
+inside of the company and push and pull
+people into the account so one of the
+biggest pqas is number of users in the
+company using your product by the way
+the magic number is usually seven the
+more time you have seven or more users
+in the company and there's like some
+some weird parallel here to seven
+friends at Facebook and seven connection
+collections at LinkedIn but seven I've
+seen very often as a check mark hey
+there's enough value here distributed
+across multiple people inside the
+company that there might be an
+Enterprise conversation to be had the
+second most important is usually some
+sort of volume threshold so for example
+for amplitude it's number of events that
+you're sending through which means that
+you are really starting to tackle your
+entire application with analytics as
+opposed to just a small portion or with
+Miro it was number of boards that you
+have in the account with figma I think
+it's number of revisions that you have
+on any given design and the last one I
+would say is velocity velocity is the
+trickiest one just because we don't have
+a very easy way to measure velocity in
+our transactional data but it's actually
+one of the most powerful one that
+triggers the right timing for the in for
+the the involvement because the change
+in velocity either in number of users
+being added or events being sent or
+storage that is being utilized is
+usually a fantastic predictor amazing
+okay so kind of like the simplest model
+to tell you there's a peaky way is
+number of users usage and velocity yep
+amazing and users by the way can be
+either usage of velocity metric too it's
+just like if you're gonna do anything
+just look at whichever accounts have
+most users it's like a 80 20 rule for 20
+of the efforts you're probably going to
+get 80 of the value
+love it okay so I took this off track
+and you're talking about what data you
+may need in places or anything else
+along those lines I would say that it's
+very important to under identify
+behavioral signals as well and I'll give
+an example
+at Mira we had a very strong behavioral
+signal that if there is an admin switch
+in the account
+some sort of evaluation is happening
+so admin transfer new admin being
+assigned that should be ding ding ding
+all of the Bells Are Ringing that you
+should maybe reach out to that person
+and see what's going on the other one
+that is fascinating is your terms of use
+Pages your privacy and policy nobody
+cares about it unless they're
+considering Enterprise deal if you see
+anybody from account land on your terms
+of use Pages reach out to that person
+more likely than not you have a buyer on
+the hook and you can assist them in
+increasing their perceived value wow
+that is so interesting
+that's the kind of stuff you only learn
+having done it many many times yes but
+those signals by the way Universal we
+looked at it at mongodb it was very much
+true so these things of when you
+wouldn't product constitutes evaluation
+process
+and what are the Enterprise buyers are
+looking for I wouldn't say by the way
+like watching a webinar or landing on an
+Enterprise landing pages of good
+behavioral signal because it might be
+annoying that I just like on accident
+landed on a landing page and now I'm
+being spammed by an outdown SDR sequence
+but it's a more meaningful actions that
+are deeper within engagement user
+Journey are incredible predictors you
+talked about again about this idea of
+spamming from sales and it made me think
+about like I don't even know if I want
+to ask this but is there have you seen
+downside to sales just continuing to
+hammer you as a potential user like does
+that actually hurt like I don't want to
+know almost because I feel like the
+answer is no but what do you think I
+think you have to look at the channel
+Effectiveness you have only
+so many channels to communicate with a
+customer email is obvious uh you can
+communicate with them in app you can
+have some sort of chatbot maybe you can
+deploy some sort of paid marketing maybe
+social or retargeting display ads but
+those are very expensive to to utilize
+so stepping back and thinking when it's
+the right time to reach out how can I
+grab their attention and if you highly
+saturated the channel that you are is
+your primary for reaching out to the
+user they're not going to react even if
+it's more of a right time for them to
+react so will it hurt you I don't think
+you'll notice it right away but over
+time I think people become blind to
+channel communication if it's not
+applicable to them because fool me once
+shame on you like find like you tricked
+me to opening this email fool me twice
+at shame on me and I'll be a lot more
+frugal of which emails I open or which
+notifications I react to so I think that
+you have to put user Journey first and
+you have to really think about the
+timing that it's right for user and pqa
+all it is is the right time to engage
+with a customer and then go hit them
+hard over all of the channels of
+communication but then also know that
+accounts go in and out out of pqa so
+today I might be in the pqa next week I
+might not be so you need to Sunset the
+efforts if you didn't get in touch with
+the customer and wait for the next pqa
+moment it will happen if your product is
+holding that goal and is accountable for
+getting more and more accounts to reach
+a threshold for pqa well that's really
+interesting I'm also happy to hear that
+answer great okay so let's continue down
+this track of what what it takes to
+implement a product called sales motion
+just talked about the data component
+what about just systems and
+infrastructure and tooling what do you
+recommend there as a start I approach
+the subject always as an evolution not a
+revolution so start with your existing
+systems as much as possible I would say
+the biggest mistakes to avoid if your
+sales team is very heavily embedded in
+the sales force don't try to have them
+switch to a different solution it's just
+not gonna work you need to try to figure
+out how to embed what you need the data
+in the Salesforce not get them to use
+some other third-party tool and then I
+wouldn't jump into any big commitments
+until I really prove out viability of
+product-led sales motion before
+automating any of it so I'm more of this
+kind of Wizard of Oz it as fast as much
+as possible to get the initial traction
+so then we can validate that there is
+investment to be had in scaling it and
+there's a business value in it and the
+tools you're using at that point is like
+Google Sheets or is there something else
+involved and it's Google Sheets it's
+your Luca Tableau dashboards it's your
+amplitude charts and reports it can be
+widgets within Salesforce or etls that
+you pipe through HubSpot marketos into
+Salesforce or it can be CRM Solutions or
+plg specifically that you literally
+deliver in Excel sheets to sales team to
+Prototype at different Outreach
+Have you shared any of this kind of like
+MVP product like sales stack that you
+recommend and if not I think you should
+because that seems pretty useful yeah I
+think I definitely should all right I
+have my idea for an Xbox
+got anything out of this chat we've got
+that
+okay in terms of people so you're
+talking about data we talked about
+tooling infrastructure what do you
+suggest in terms of people and resources
+to invest in this area as a start and
+then also as you evolve
+for PLS
+the people that you need is product
+managers that will be able to get
+account to pqa stage
+you will need sales people that will
+understand which usage rigored pqa and
+how to apply that information to find a
+buyer and to enable a buyer to convert
+them to an opportunity you need
+marketing
+to educate both the end user or
+Enterprise buyer
+on why the value of this Enterprise
+solution is going to make sense to you
+and you need analytics team you need a
+data analyst that will continuously dig
+in the data to find correlative signals
+that you can test causation in
+those are the four people that you need
+product
+analytics marketing cell I should say
+engineering too obviously but I kind of
+bundling them together with product
+now
+it's an evolution not a revolution so if
+you're starting from sales let growth
+I would highly suggest of you going to a
+sales team and asking for somebody to
+run a pilot with you so don't just throw
+these leads into the top down sales
+process and assume that everything is
+gonna be just fine
+attached to yourself a pilot AE so
+account executive or an SDR and see how
+that works so you kind of separate
+yourself from the mothership of the
+sales engine and you actually prototype
+this separately in a little bit of a
+vacuum not under pressure of them
+top-down quota relief and if you're in a
+product LED Growth Company then I would
+suggest do your own sales it's kind of
+like a founder-led growth so like think
+about it like hey you need to close
+maybe first couple of deals you sell
+first so you truly understand what's
+happening I would not get first hand
+raisers and say oh we can close it
+unless we have a salesperson no just
+have somebody on support to do it have
+somebody on finance do it you do it I've
+been on chat myself plenty of times
+trying to close the deals just to
+understand what's the sales process for
+the customers looks like and then you
+can figure out who to actually hire and
+who to actually scale but for PLS that
+starts in plg you actually just start
+with more of blend of an SDR and AE
+together because you don't need two
+separations so the same person can both
+outbound to a customer and close them at
+the same time and then you can go into
+specialization of the role so start
+small start Nimble prove it out scale
+along the way but half marketing and
+analytics support you the entire Journey
+that is really simple what I'm hearing
+is you don't need to hire someone new
+necessarily you have the resources most
+likely and then it's just how do you
+allot some time of this team to start
+investing in violating yeah I'd say I'd
+say It's My Philosophy is that I want to
+have an Roi for a new hire before
+putting a job wreck out there and to
+create an Roi I need to prove it out of
+what potential can there be myself first
+so I can almost like fund this higher
+with the revenue that we can generate
+out of this channel originally but
+obviously
+that includes a lot of individual
+contributor work that you have to do in
+the area potentially that is not
+comfortable but that's the fastest way
+to grow in your career so
+they think that's a necessary step for
+successful execution you want to hear a
+crazy stat about product-led growth and
+not hiring sales
+sure okay great uh
+I was chatting with the founder of
+notion for the series I'm working on and
+notion didn't hire the first salesperson
+until they were past 10 million error
+I believe that Miro did not hire their
+first salesperson until they were like
+five or seven million in ARR they were
+literally closing the contracts through
+support team and it was just fine same
+with notion it was their customer
+success and support team yeah medicine
+product like growth right there yeah
+I love it amazing Okay so
+we've talked about data tooling people
+is there anything else that you find is
+really important to being successful
+with rolling out a product LED sales
+Bridge motion
+the most important thing in product LED
+sales is that there is a different
+configuration internally
+of collaboration that needs to occur in
+traditional sales World marketing
+creates pipeline for sales sales sells
+product product engages with the paid
+user to drive retention
+in the product lead sales product
+acquires and activates a customer
+and product creates pipeline for sales
+so relationship is not that there is a
+go to market org with marketing and
+sales and product just kind of throws
+features across the fence for them to
+sell the collaboration here is between
+product and sales
+but that means the product has to take
+on accountability over pipeline the
+worst thing that you can do is to say
+I'm going to do product LED growth or
+I'm going to do productless sales and
+I'm gonna do it in marketing
+recipe for disaster you will be failure
+mode within six months because product
+has to take accountability over selling
+of the product itself and that is not to
+be
+taken lightly because so many product
+teams are deeply deeply uncomfortable
+with owning monetization targets now I'm
+not saying that products should just be
+gold on Revenue because that's a very
+short term short outcome past
+performance there has to be a very clear
+designation until long-term goals and
+long-term objectives and revenue
+ownership and by Revenue ownership I
+don't mean that individual product
+manager also should have a revenue
+Target on their back what I mean is that
+the product leadership should be
+accountable for the revenue Target but
+the product people should be responsible
+for more of kpis
+free to pay conversion rate package mix
+pqa maybe even pqls but those are all of
+the kpis into Revenue so the piece to me
+that is of utmost importance is to keep
+product accountable the queue cannot
+start this product like sales motion and
+marketing and sales and think that you
+can continue with the same configuration
+inside the company and still succeed
+product has to have a seat at the table
+and product has to feel accountable and
+responsible for it and when you say
+accountable what does that actually look
+like is it like their okrs have certain
+goals around here's how many pqas you're
+driving is it a number like what does
+accountable mean in this I think so
+um every product has some sort of goals
+and they definitely should have goals on
+keeping healthy engaged user base they
+should definitely have goals in terms of
+maybe feature utilization or customer
+satisfaction but what I'm saying is to
+have also some sort of monetization
+goals what that is for each company I
+think differs depending on their level
+of comfort and their love and how close
+they are to revenue capture mechanism
+but let's say at Miro our head of growth
+product how to self-serve Revenue
+Target on her back she drove it she had
+Revenue goal that she had to hit in
+product and she shared marketing because
+I ran Marketing in that in that company
+we shared a pipeline goal creation
+because pipeline cannot be created
+without marketing too marketing will
+need to educate marketing will need to
+find the buyer marketing will need to do
+accounts based Marketing in order to
+attract the buyer and connect it with
+the usage so product and marketing now
+pull together to create the pipeline and
+give it to Sales but product can no
+longer sit in this island as a feature
+Factory it's a it only works but the top
+down sales organizations which as I said
+I think are going to be heavily
+disrupted over the next 10 years with
+value first product like growth this is
+another hilarious meme that you shared
+on your LinkedIn so another reminder go
+check out Elena's LinkedIn with this
+hilarious meme of product teams being
+presented hey you're going to own some
+Revenue targets and they're like oh no
+yeah exactly it's actually super
+interesting because a lot of growth
+leaders shy away from revenue targets
+acquisition targets sure retention
+Target engagement Target sure but
+monetary Target oh no how can I possibly
+own a revenue Target I think we all in
+Tech and I specifically point a finger
+at my industry in B2B industry just got
+a little bit complacent with Revenue
+ownership from product side and I I I do
+think it's catastrophic for us in the
+long term if we don't fix it
+I love it I want to do a whole podcast
+in Your Meme strategy and your your
+parodies that you put out but we'll stay
+on track here
+in terms of the revenue Target what is
+that goal like is it just in this
+quarter x million dollars of Revenue is
+it a growth rate from you quarter
+recorder how do you find people actually
+Define that Revenue Target
+right so uh there's there's different
+targets that you would have for
+self-serve Revenue versus product LED
+sales revenue so for self-serve Revenue
+your kpi should absolutely be free to
+paid conversion rates or trial to pay
+conversion rate it's the package makes
+it's the average revenue per user or our
+pool it may be retention rates first
+term retention rate second term
+retention rate in order for you to
+sustain the healthy Revenue that's what
+outputs self-serve Revenue those should
+be the pieces do I do I have a problem
+in friction and acquiring new paid user
+in maximizing their value or in
+retaining that paid user those are the
+three inputs that go into self-serve ARR
+Target and you should just understand
+where the biggest opportunity for your
+team to focus on driving it in any of
+those cases most of the time free to pay
+conversion is the biggest focus of Any
+Given team just because we want to
+better convert and inflow into our user
+base assuming we have good product
+Market fits so we have a solid retention
+happening in free to paid conversion
+there's three pillars that you
+constantly I need to work on and one
+pillar dominates them all it's
+monetization awareness
+simple as that if you have a freemium
+product I guarantee you 75 of your
+customers in freemium product are not
+aware of what you're selling
+so only focusing on monetization
+awareness can give you incredible output
+on driving monetization and it's really
+its products ability to communicate via
+feature walls via usage walls via trials
+or what the value of the paid offering
+is
+and I see I've heard stories from slack
+of just showing message limits messaging
+and how big of an improvement on
+conversion rate it had I've had it
+firsthand at Survey Monkey where just
+adding consistent
+UI across all of the paid triggers that
+were that Amazon gold color and making
+sure that each user has been able to see
+at least three of them there's a rule of
+three that goes into advertising that we
+need to see things three times in order
+to remember them that drove monetization
+awareness and conversion rate up but
+that's basically consumes 80 of your
+work the second one is just conversion
+rate optimization so your pricing page
+optimization your checkout page
+optimization your currencies that you
+offer the payment methods that you offer
+to make sure that there is as low
+friction as possible in order to
+actually pay and then the last one is is
+what you're selling do people want to
+buy this is where you actually go after
+monetization model change which features
+are in each plan what are the price
+points in each plan how does the upgrade
+path look like do you have add-on
+strategy do you have just pay to paid
+monetization plan strategy and that one
+is like the last one that you should
+cross because it involves a lot of
+cross-functional effort in this decision
+making but free to page conversion
+upsell potential and retention that's
+for self-serve AR
+for product list sales what products
+should own into speak QA but who defines
+pqa that's the big question and who
+iterates on pqa and then how do you
+actually get people to get to the pqa
+stage and just like product often will
+own engagement metric or maybe even
+activation Target
+your own pqi Target so that just becomes
+one of the goals and depending on where
+the biggest
+effort that needs to be it can be an
+activation can be engagement like pppqa
+but more and more I see product LED
+especially mature companies needing to
+focus their product teams on pqa yet
+they don't have a clear definition
+because sales kind of goes wrong and
+does their own thing and product fails
+to deliver predictable pipeline to sales
+which pushes sales into a top-down
+motion prematurely and a pqh argue would
+be like 1 000 pqas this quarter is that
+the way yeah yeah so uh you usually
+actually look at it almost from
+conversion rate so you look at okay how
+many how many teams do I have in my ICP
+so ideal customer profile segment that
+are active that's my denominator and how
+many of those themes are reaching pqi
+Target this month so it's like a
+conversion rate to pqa out of engaged
+ICP teams one thing that I love that you
+touched on is this awareness of
+monetization yeah people knowing that
+you have more features and that you may
+get access to more if you pay how do you
+track that is it just like people seeing
+it per account or per user like what
+percentage I've seen one of these
+upsells or seen them three times I try
+kids fairly simple two ways one
+qualitatively I just run surveys against
+people say do you know what we're
+selling it's shocking how many just have
+no idea what's in our paid plans you
+know like we have a major issue here or
+I just track pricing page views per
+activated account so how many of the
+activated accounts landed on the pricing
+page at least once because that's at
+least a level of exposure that they hit
+some sort of trigger that pulled them to
+explore pricing page one of the things
+that I just want to give a hint to
+anybody who's listening from a sales
+top-down companies one issue you might
+have is that when your product is
+developing functionality especially paid
+functionality
+they just design review it and ship it
+for paid plans only
+so if I'm in the free plan or in the
+lower tier plan I don't even see it I
+don't even know that existence because
+it doesn't exist in the app because it
+was never designed for me to even see it
+so just doing one small change of
+pushing your design reviews
+to review functionality from every
+single state of the customer free state
+lower paid State and Target state that
+this functionality is actually unlocked
+can do all of the difference in the
+world because then you'll actually
+understand how that pink functionality
+is being exposed to a free user so them
+to become aware in self-serve manner of
+its existence I love love love all these
+little tactical little insights and tips
+so thanks for sharing all these little
+little things that end up being the most
+useful to people
+just a few more questions that and then
+I'll let you go one is around pitfalls
+what have you found are the most common
+pitfalls that startups run into as
+they're trying to invest in product LED
+sales you've touched on a few but what
+comes to mind when I ask you that let's
+just go through some summary that we've
+mentioned already throughout our
+conversation don't treat PLS as a
+traditional top-down sales process every
+single user does not equal it's an
+opportunity for you to co-chase after
+you need to understand the right
+triggers and usage they can help you
+automate qualification process so it's
+almost automating some of the SDR
+efforts to say when is the right time
+for my sales for my human that I'm
+paying a lot of money to intervene into
+this account and add value because sales
+interaction has to add value to user
+Journey not be disruptive or create
+additional friction because I've seen so
+many even people posting of like why am
+I getting a phone call 10 minutes later
+it's annoying I'm gonna stop using the
+product because of it because they feel
+misunderstood for that profile your
+customers understand whether you have
+buyers whether you have users and
+they're in your ICP segment no
+disinformation of friends so you can
+serve a best experience possible number
+two hold your product accountable this
+cannot be just executed through
+marketing and sales product has to have
+a seat at the table and product and
+sales relationship has to be one of the
+closest ones in this motion and that's
+really hard to change especially in the
+traditional top down sales company where
+marketing and sales have closer
+relationship so try to create new
+rituals try to create the new ways of
+communication between the teams for them
+to be aligned behind the same goals
+number three
+don't leave marketing out of the
+equation majority of your usage will not
+have a buyer in it you will need
+marketing your Enterprise marketing your
+account based marketing to go and find
+and Hunt that buyer and to bring them
+and connect them with usage so lean on
+your marketing team just because you're
+doing product LED growth and product LED
+sales does not mean you don't need
+marketing and strong product marketer I
+can do wonders here in helping you with
+messaging with Outreach and sales
+enablement materials and number three
+don't
+weight on data and efficacy too long you
+might be using your intuition at the
+beginning very well but start thinking
+about how you will need to scale your
+data issues because productless sales is
+all about leveraging usage for pipeline
+creation so you need to be able to
+measure that usage understand that usage
+track it and evolve it
+amazing
+two more things one is you shared before
+we started chatting that you have some
+benchmarks around some of these metrics
+that you mentioned of just what is good
+so that people can understand what their
+goals might be what can you share there
+yes so in terms of benchmarks first of
+all it's time to get from Individual
+usage when that user comes in to have a
+single job to be done to creating an
+Enterprise level contract it does not
+happen in hours it does not happen in
+days it doesn't even happen in months of
+usage so couple of benchmarks for you
+all across netlify Miro or amplitude
+which are all of the companies I've
+worked at it was 12 months plus of usage
+that had to happen before sales
+contracts can be created on sustainable
+way now that's not an all-encompassing
+rule you will have very high intent
+buyers coming in sometimes and you'll be
+able to close them within a week but on
+average it takes a year of usage to
+escalate the problem from individual
+to a company level
+solution it takes time be patient so
+this is not the problem of get more
+signups this quarter and close more
+pipeline in the same quarter this is you
+building for long-term growth and you're
+closing contracts and the sign ups that
+happened really last year in the best
+case scenario number two is don't
+confuse user and buyer please please
+please profile your users upon sign up
+do not skip those onboarding questions
+no they do not detract for your
+onboarding completion rates and people
+that do drop off in the profiling stage
+they were low intent anyways they were
+never going to be activating if one
+extra question deterred them from
+completing
+um from continuing with your product so
+profile you people know who you're
+talking to it's more important than
+couple percentage drop off that will
+never gonna activate in the first place
+so um no no no die user please because
+all of us are tired of receiving leaving
+outbound that is not relevant to us and
+then the third one is conversion so
+conversion rates here actually stand
+from the true plg companies so freemium
+conversion rate is usually around five
+percent trial conversions are more
+closer to 10 to 15 percent but your
+contract values start to go up so it's
+not so much that you're increasing
+conversion rate because a lot of those
+companies will still go through
+self-serve monetization flow before they
+become your sales pipeline Prospect so
+conversion rates stay the same but your
+contract values and your lifetime value
+of the customer is what starts to it
+increasingly uh go up and that you can
+influx into creating a smile Revenue
+curve
+incredible the question you had about
+profiling your user I was going to ask
+what questions to ask I'm guessing maybe
+a better approach is just go to Miro or
+amplitude and just go through the sign
+and flow and see what they're asking
+yeah I would give some couple parameters
+in place number one limited to maybe
+three to four screens because otherwise
+it starts to feel too long uh make sure
+they only ask information that you're
+either gonna use in the data
+segmentation that then you can escalate
+to personalization and messaging but at
+least that you're gonna use on data
+segmentation and experiment with the how
+deep of an information that you can ask
+you should always be able to ask about
+company size about the department which
+customers coming from about their
+seniority on the team and about their
+use case those four questions the
+uniform everybody's used to answering
+them the rest
+um like phone number or like some bit
+maybe like if you need to know the
+address or so so on those experiments
+how much you actually want to make them
+required questions versus optional so
+but please please please experiment on
+your onboarding questionnaires all of
+you
+closing question
+everyone started with sales sales LED
+growth and then product LED growth
+emerged and now there's this bridge
+between the two of sales LED growth
+feels like there's always this new way
+of grow growing a business and
+approaching go to market is there
+something Beyond product sales what's
+next if anything
+well I wonder how much uh rise in AI is
+going to automate some of those sales
+conversations so it's not going to be
+truly product LED growth because it's
+not like just the products that's going
+to sell itself but what if on the other
+side of that chat or other side of the
+email or even a zoom call because they
+can do a deep fake of anybody it's going
+to be AI selling to you and giving you
+very deep and personalized answers I am
+curious to see how that's gonna evolve
+because the plethora of information that
+AI can Surface to you in a very
+personalized manner in matter of seconds
+is far stronger than any human or even
+content management system can do at the
+moment
+do you want to coin an acronym right now
+for what that might be
+have to be AI sales
+it's a mouthful
+Elena this was everything I was hoping
+would be I imagine this episode will be
+even more popular than your first one
+thank you so much for making time and
+getting into such detail in all the
+things we talked about two final
+questions where can folks finding online
+if they want to reach out and learn more
+and how can listeners be useful to you
+I'm on LinkedIn a lot but I have started
+my own sub Stacks so please subscribe to
+my newsletter if you can do more short
+content on LinkedIn and longer form
+explanations in my sub stack not to
+compete with your Landing newsletter but
+plenty of reason for everyone I I
+recommend yours within sub stack and
+we're going to link to it and definitely
+there's like no reason not to subscribe
+if you're listening to this podcast it's
+only only upside well thank you uh we're
+also creating plg course with reforge
+that is going to go into very Nitty
+Gritty details of everything that I'm
+talking about to help you operationalize
+these Concepts it's launching in Fall
+2013. so uh do check that out and other
+than that I'm a really big believer in
+democratizing knowledge so we don't have
+to all make the same mistakes over and
+over again so the biggest way that you
+can help me is just share your insights
+share your knowledge and share your
+learning so we can all grow so much
+faster together well you're one of the
+best at doing that and thank you again
+for doing this thank you for having me
+learning bye everyone
+thank you so much for listening if you
+found this valuable you can subscribe to
+the show on Apple podcast Spotify or
+your favorite podcast app also please
+consider giving us a rating or leaving a
+review as that really helps other
+listeners find the podcast you can find
+all past episodes or learn more about
+the show at lennyspodcast.com
+see you in the next episode

@@ -1,0 +1,51 @@
+{
+  "description": "Daily sector rotation for business idea research. One sector per day at 6 PM IST.",
+  "sectors": [
+    "Legal Tech & Regulatory Compliance",
+    "Healthcare & HealthTech (India B2B)",
+    "Logistics & Supply Chain",
+    "Real Estate & PropTech",
+    "HR & Recruitment Tech",
+    "Education & EdTech (B2B)",
+    "Agriculture & AgriTech",
+    "FinTech & Payments Infrastructure",
+    "Manufacturing & Industrial IoT",
+    "Retail & E-commerce Ops",
+    "Construction & Infrastructure",
+    "Insurance & InsurTech",
+    "Food & Restaurant Tech",
+    "Travel & Hospitality",
+    "Accounting & Tax Tech",
+    "Cybersecurity & Data Privacy",
+    "Media & Creator Economy Tools",
+    "Energy & CleanTech",
+    "Automotive & EV Infrastructure",
+    "Government & GovTech",
+    "D2C Brand Operations",
+    "Pharma & Drug Discovery",
+    "Textile & Fashion Tech",
+    "Sports & Fitness Tech",
+    "Mental Health & Wellness",
+    "Wedding & Events Tech",
+    "Pet Care & Animal Tech",
+    "Space & Drone Technology",
+    "Waste Management & Circular Economy",
+    "Legal Services for Creators & Freelancers"
+  ],
+  "lastCompleted": {
+    "date": "2026-02-12",
+    "sector": "Manufacturing & Industrial IoT",
+    "index": 8
+  },
+  "history": [
+    { "date": "2026-02-05", "sector": "Legal Tech & Regulatory Compliance", "index": 0 },
+    { "date": "2026-02-05", "sector": "Healthcare & HealthTech (India B2B)", "index": 1 },
+    { "date": "2026-02-06", "sector": "Logistics & Supply Chain", "index": 2 },
+    { "date": "2026-02-07", "sector": "Real Estate & PropTech", "index": 3 },
+    { "date": "2026-02-08", "sector": "HR & Recruitment Tech", "index": 4 },
+    { "date": "2026-02-09", "sector": "Education & EdTech (B2B)", "index": 5 },
+    { "date": "2026-02-10", "sector": "Agriculture & AgriTech", "index": 6 },
+    { "date": "2026-02-11", "sector": "FinTech & Payments Infrastructure", "index": 7 },
+    { "date": "2026-02-12", "sector": "Manufacturing & Industrial IoT", "index": 8 }
+  ]
+}

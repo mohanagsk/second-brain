@@ -1,0 +1,2015 @@
+I think one of the biggest
+misconceptions around jobs to be done is
+this notion that it's pain and gain as
+opposed to context and outcome when you
+hear somebody's story and it seems
+irrational like we'll have people go oh
+my God that's an anomaly that doesn't
+happen but what what you realize is that
+the the context makes the irrational
+rational so the moment you hear a story
+and you go I can't believe that nine
+times out of 10 it's because you don't
+have the rest of the story and so part
+of it is being able to understand the
+rest of that context that would drive me
+to say like why would somebody cut their
+arm off well if they're in this
+situation and this and this and this
+like there's nobody would say they want
+to cut their arm off but in certain
+situations you'll do it and so that's
+what we're trying to do is find where
+will people change
+Behavior welcome to Lenny's podcast
+where I interview world-class product
+leaders and growth experts to learn from
+their hardwind experiences building and
+growing today's most successful products
+today my guest is Bob mea Bob is the
+co-creator of the jobs to beone
+framework alongside Kay Christensen and
+as you'll hear at the top of our
+conversation is maybe the most
+anticipated guest I've had on based on
+the LinkedIn response Bob has started
+eight companies and is currently the
+co-founder and CEO of the rewire group
+and currently spends his time helping
+companies of all sizes unlock hidden
+insights and create successful products
+and services in our conversation we get
+deep into all aspects of the jobs to be
+done framework what is it how to apply
+to your product when it's not a good fit
+how to interview customers to get
+accurate insights into their struggles
+plus examples of how jobs to be done
+works for 0 to1 products and a ton more
+thank you to everyone who suggested Ed
+questions and topics for our
+conversation enjoy my chat with Bob mea
+after a short word from our
+sponsors this episode is brought to you
+by sidebar are you looking to land your
+next big career move or start your own
+thing one of the most effective ways to
+create a big leap in your career and
+something that worked really well for me
+a few years ago is to create a personal
+board of directors a trusted peer group
+where you can discuss challenges you're
+having get career advice and just kind
+of gut check how you're thinking about
+your work your career and your life this
+has been a big trajectory changer for me
+but it's hard to build this trusted
+group with sidebar senior leaders are
+matched with highly vetted private
+supportive peer groups to lean on for
+unbiased opinions diverse perspectives
+and raw feedback everyone has their own
+zone of Genius so together we're better
+prepared to navigate professional
+pitfalls leading to more responsibility
+faster promotions and bigger impact
+Guided by worldclass programming and
+facilitation sidebar enables you to get
+focused tactical feedback at every step
+of your journey if you're a listener of
+this podcast you're likely already
+driven and committed to growth a sidebar
+personal board of directors is the
+missing piece to catalyze that Journey
+why spent a decade finding your people
+when you can meet them at sidebar today
+jump the growing weight list of
+thousands of leaders from Top tech
+companies by visiting sidebar. c/ Lenny
+to learn more that's sidebar. comom
+Lenny this episode is brought to you by
+merge every product manager knows how
+slow product development can get when
+developers have to build and maintain
+Integrations with other platforms Mer's
+unified API can fully remove this
+blocker from your road map with one API
+your team can add over 1880 HR
+accounting ATS ticketing CRM file
+storage and marketing automation
+Integrations into your product you can
+get your first integration into
+production in a matter of days and save
+countless weeks building custom ations
+letting you get back to building your
+core product merges integration speed up
+the product development process for
+customers like ramp dra and many other
+fast growing and established companies
+allowing them to test their features at
+scale without having to worry about a
+never-ending Integrations road map save
+your engineers countless hours hit your
+growth targets and expedite your sales
+cycle by making integration offerings
+your competitive Advantage with merge
+visit merge. d/ Lenny to get started and
+integrate up to three customers for free
+free Bob thank you so much for being
+here welcome to the podcast thanks L
+excited to be here big fan ah I'm a big
+fan of yours I wasn't even super
+familiar with you before we started
+organizing this Podcast chat and then as
+you saw I posted on LinkedIn what
+questions people had for you and around
+jobs to be done in general and I've
+never seen so many comments and
+questions and so much passion for guests
+I had on I think there there's really
+over absolutely there's I don't know 130
+questions comments and comments and like
+folks like Jason freed founder of 37
+signals and Dez from intercom came out
+and just like I am excited for this
+episode so we got I've worked with all
+of them they're great great people and
+fun to work with I just had no idea
+there's so much passion for jobs to be
+done I have a million questions for you
+A lot of them coming from the audience
+some for me so I'm excited to dig into a
+lot of this stuff all right let's dive
+in okay so I thought it'd be just to
+start with the very Basics briefly just
+what is the simplest way to understand
+the jobs to be done framework I think
+the easiest way to think about it is
+that that I'm an engineer I've basically
+uh electrical basically have been
+building product for almost 30 years and
+one of the lies I was told growing up
+was build it and they will come right
+and so we always thought think about it
+from a technological how do I build this
+thing and all right who who wants this
+product and what I realized very early
+in my career is that didn't that really
+didn't make it didn't work I couldn't
+make it work and so jobs that be done is
+this whole premise is that people hire
+products right they don't buy them they
+hire them to make progress in their life
+and if we can take a step back and look
+at it we see it in a very different
+light to realize like at some point
+they're in some context and there's some
+outcome they want and if we can
+understand that we start to realize that
+different things compete right simple
+example is think of Snickers and Milky
+Way right they're both candy bars
+they're both fought in the in the
+checkout aisle you know they're both
+both made almost with the same
+ingredients one has peenuts one doesn't
+but and and if you start to compare the
+products and like do a competitive
+Benchmark you know you start to get to
+one's a little softer one's a little
+harder one's one's got a few more
+calories one's got less calories but
+when you talk to people about when the
+when's the last time they ate a Snickers
+right and when times the last time they
+ate a Milky Way you start to realize
+that Snickers typically is a case where
+they're they're theyve missed the last
+meal they've got a lot of work to do
+they're running out of energy and they
+want to basically get to back to the
+tasks as fast as possible and so you
+start to realize that Snickers you know
+is is about almost like a meal
+replacement right and it's about the the
+the stomach is growling and things like
+that and you start to realize that if if
+they didn't have a Snickers it competes
+with a protein drink it competes with
+with you know a Red Bull a coffee right
+but a Milky Way typically is eaten after
+an emotional experience could be
+positive could be negative it's usually
+eaten alone right and it's taking time
+to regroup after this emotional thing
+and you start to realize that it
+competes with things like you know a
+glass of wine a brownie and to be honest
+a run and so you start to realize that
+jobs helps you see the true competitive
+set from what we call the demand side of
+the world as opposed to the competitive
+set from the supply side of the world
+which is the technology or the
+underlying business model by how which
+we're we're making it and so it allows
+you to actually see what customers
+really want as opposed to trying to
+figure out how do we sell things to
+people to maybe follow up on this
+example a bit how often do you find
+these jobs emerge after they've
+developed a product like in this case I
+guess of Snickers or Milky Way how often
+is it just like they see this problem
+and actually apply this approach with
+even accidentally what's interesting is
+that at least for me the thing is what I
+learned was that supply and demand are
+not as connected as everybody thinks
+most people think they create a product
+and that creates demand but the real
+thing that if you start to study
+causality is that a struggling moment
+causes demand and you start to realize
+that in some cases that struggling
+moment exists and can exist for a long
+time and nobody solved it so one of the
+companies I helped was uh Southern New
+Hampshire University and Paula blank and
+one of the things in 2010 we we found
+basically these anomalies these people
+who were going to school but not
+actually coming to class and watching
+everything online and it was like 50 or
+60 of them and the anomalies basically
+and they're paying full price they
+didn't want to come it was it was very
+for Paul it was kind of like why are
+they doing this and when we went to
+study them we realized that they
+actually had a very different job than a
+typical 18 to 24 year old because when
+they were a little bit older typically
+they they had either already had a
+degree or they basically had tried to go
+to college and it didn't work and it was
+about basically time now that they had
+responsibility to do something new and
+so you know they didn't actually build
+the product at all and as they started
+to look and say how many people want to
+go back to school but can't they started
+to realize it's not a thousand people
+it's not 10,000 people they have over
+200,000 students they're one of the
+largest universities in the world and so
+it it starts all of this starts with a
+struggling moment not with a product and
+so that's what we mean when we're
+customer Centric is that we're studying
+the struggling moments they have and
+that people like intercom and base camp
+they look at struggling moments and that
+that becomes their road map so they
+don't actually because again think about
+a road map I'm literally trying to tell
+you what I'm going to build in the next
+24 months for example but like none of
+us saw chat GPT coming and so all of a
+sudden I have to go undo the road M but
+if I talk about the struggling moments
+that I'm trying to go after all of a
+sudden I realize that the road map is
+now when I get to that struggling moment
+there's multiple ways I can solve it so
+instead of just talking about features
+it's typically talking about features
+for the first 90 to 120 days but after
+that we just talk about struggling
+moments because that's the seed for real
+Innovation and basically where new
+products come from to unpack the
+framework a little bit more if you were
+to come to a founder and tell them hey
+you should be paying attention to
+struggling moments I feel like all of
+them will say yeah we know that like we
+do that we look for pain and we try to
+solve it so what I'm curious there maybe
+it's just what does the what is maybe
+the right way to do it but it's it's not
+just the pain most see what we were
+taught in business school was pain and
+gain but the reality is it's the context
+it's the fact that I didn't eat eat
+lunch before the fact that I still have
+a lot of work to do the fact that I have
+this podcast going on it's it's not that
+I'm in pain but it's the context that
+makes me value this in the moment that
+much more than than something else and
+so part of this is it's not just about
+you know Pain and Gain it's about
+context and outcomes right and so when
+you frame it that way it becomes a
+vector a vector of progress or a vector
+of intention of what they're trying to
+do and once we frame that then we can
+actually wrap technology around it and
+the crazy part is that I was always told
+or taught if I build the best products
+it will sell better and what I've
+learned is that actually a kickass half
+is better than a half-ass hole and
+that's what Jason talks about but the
+reality like if you look at QuickBooks
+QuickBook is half the half the features
+and double the price and you start to
+realize that at some point in time it's
+about meeting customers where they are
+not trying to wow them and not trying to
+convince them they convince themselves
+to make the progress I'd like to
+understand this Vector piece more
+because that feels really important so
+you're saying that it's not just there's
+a paino solve that what you're saying is
+what's even more important is this
+context around that paino and things
+that preced it yeah so so so if if this
+is so the first thing is we don't ask we
+don't talk to people who just want to
+for people listening on the podcast uh
+Bob pulled up a a drawing so you should
+try to check out the YouTube video of
+this to see what he's doing so there's
+some product a is the old product and
+there's some product B which is the new
+product and ultimately people don't
+randomly do anything and so the real
+heart of the method of jobs be done is
+understanding the causation of what
+pushes people to say today the day I got
+to do something different
+and the push or the context they in has
+nothing to do with the new product it's
+the only reason why they would leave the
+old product and if there's no push they
+can't even see your product because
+we're creatures of habit right and so as
+soon as I have a push I call that F1
+Force One right and I have some idea of
+what's
+possible then I create something called
+F2 which is basically the pull to a new
+outcome a new a new state a new thing
+right and so at some point time it's
+like I have to be in this situation and
+I have to want this outcome right but
+here's the other part is that there's
+this waterline that there's these other
+forces and there's two other forces
+every time I show somebody something new
+it actually creates
+anxiety right anxiety of the new yeah
+and I call this
+F3 right and then the other thing is I
+have to get them to leave old thing so I
+call this habit of the
+present and what you start to realize
+and I call that F4 and is if F1 and F2
+are not greater than F3 and F4 they're
+not going to move they're not going to
+do
+anything and so ultimately what's what
+we're doing is we're framing the market
+as a system of behavior and most people
+say if I just add more features create
+more pull people will buy it's not true
+more features create actually anxiety
+can it do all those things and what you
+start to realize is if I reduce friction
+which is the bottom part I actually
+don't have to do do anything with a
+product I just have to make easier so
+for example one of the things I did is I
+built houses and one of the frictional
+points that people had in in building
+and moving was the fact of moving to the
+house was basically packing all their
+stuff up and going somewhere and so I
+would literally sell them a condo they'd
+go from a 3,000 foot home to a 1500 foot
+condo and they'd cancel six weeks later
+because they didn't know how to get rid
+of all their stuff which is a which is a
+frictional point so what did I do I
+actually in raised the price of the
+condo included moving in two years of
+storage
+in the you know in is part of the deal
+with the condo because it's the
+frictional coefficient and I increase
+sales over 30% I love that so what this
+is is it's really about focusing on the
+customer it's about understanding the
+causation behind it and then using
+design thinking to actually start to
+realize how do we actually enable people
+to make progress we don't need to sell
+them we need to enable them to buy and
+so I wrote a book called demands Side
+sales that that basically took the
+premise of like stop to sell people and
+just help them make progress help them
+buy and so the whole the whole book is
+instead of trying to base the sales
+process on how we want to sell we need
+to actually design the sales process on
+how they want to buy and it seems like
+it's the same thing but they're actually
+really really different things is there
+an example that can make this even more
+real of a company or product so one of
+the companies I work with a lot uh
+lately is a company called autobooks
+they're based here in Detroit and they
+basically do uh they they help Banks
+basically do uh invoicing through uh
+let's say Apple pay and so instead of
+having to use square or PayPal you
+literally can use your bank now to do
+these things and so there's two things
+they have to sell small business on it
+but they also have to sell banks on it
+and when we started talking about it
+they they talked about why do banks want
+it the first thing we did is we found
+out there's three really different
+reasons why Bank want Banks want them
+but the thing is is that the where the
+process looked at is they would talk
+about the struggling moment they talk
+about what was going on and then
+everything was about getting him to a
+demo and once we got him to a demo we
+had to close them well it turns out that
+there's the the that the buying process
+is literally has different phases in it
+there's a first thought there's
+something called passive looking where
+they're problem aware and solution
+unaware and they have to learn a bunch
+of things and then there's active
+looking where they're both problem and
+solution aware and they're trying to
+figure it out and frame a solution and
+and then there's deciding which is about
+making tradeoffs and so what we end up
+doing is is when I started to talk to
+the the team about it what they started
+realized is I said where are where is
+the customer in their timeline of buying
+and they looked at me like huh I said no
+no you you have a timeline of how you
+want to sell to them and after the demo
+you try to close but what if they're
+actually imp passive looking and want a
+demo to learn more it's very different
+than if I'm trying to close and so what
+we end up doing is breaking the demo
+apart asking people where they were in
+their buying process and by doing that
+we actually then found out a way in
+which to give them three different demos
+one about telling stories and giving
+them the the background about the
+problem another one about showing them
+all the Alternatives and then the last
+one is about basically giving them
+choices between ways to move forward
+right and you'd think that it would take
+the make the sales process longer it
+actually made the sales process almost
+half and it 4X basically
+conversion because now we meet them
+where they are as opposed to where we
+want them to
+be and is that something you find
+generally in the sales process there's
+these three phases that everyone goes
+through and you got to think about them
+individually
+yeah you there's actually uh I I call
+them six phases first thought passiv
+looking active looking deciding first
+use and then ongoing use how do we build
+the new habit and so if we don't
+actually study that part of how do
+people transform themselves through a
+struggling moment we don't know what
+they want like if I talk to people who
+want to buy a house they tell me they
+want granite and hardwood and they'll
+make everything these things they want
+but when you actually talk to people who
+bought a house they actually made a lot
+of trade-offs and so for example
+everybody I would survey before Bing
+house I had 93% say they wanted an
+energy star compliant house it cost 30
+grand to make an energy star compliant
+at the time and the reality is is like
+nobody bought it they all bought the
+finished basement and so there's the
+difference between what they say they
+want and what they want and so the
+method itself is not based on
+traditional research or market research
+asking people what it is it's actually
+based on criminal and intelligence
+interrogation about telling me the story
+about how you decided today's the day I
+bought a house or today's the day I I
+bought a you know I went back to school
+it's not random and if it's not random
+then we need to actually find it and and
+that to me is one of the bigger
+differences most people build their
+sales process on probability and and
+like if I get so many leads in I'll
+convert so many to here so many but the
+ultimate thing is how many people are
+really ready for your product they have
+to actually be ready for it and that's
+what jobs to be done is really about is
+understanding where they are what's
+causing it and how do they make the
+tradeoffs so let's follow that thread of
+interviewing and talking to your
+potential customers and customers to
+understand the jobs to be done what is
+the actual process you you recommend the
+first thing we do is is is we frame a
+question and and I the way I think about
+it is most people so uh the one thing to
+know about me is uh I I've been building
+things for over 30 years I've worked on
+3500 different products and services
+across many many Industries but I I've
+had three closee head brain injuries
+before I was seven years old and I can't
+read right and so one of the things for
+me is that I could not understand the
+research that I would get from marketing
+around basically they'd say hey I need
+something that's uh easy fast and fun
+and cheap and i' be like okay what does
+any of that mean what is fast how fast
+is fast and what's not fast and you
+start to un undo all those things and so
+the first thing we do is we start to
+frame like let's just talk about what
+causes people to say today's the day
+they want to go on vacation or today's
+the day they want a new set of Windows
+and you start to frame around that and
+then you go find people who recently
+purchased and say what in the world
+happened that says today's the day I
+need new
+windows and you start to realize that
+there's pushes and there's pulls and
+there's anxieties and there's habits and
+so the first thing we do is we try to
+extract the story from the the customer
+right and it doesn't have to be my
+product it could be somebody else's
+product it doesn't if if I haven't built
+it yet right it's literally like what
+are people going to fire when they hire
+me so when we get the stories though
+then we start to the stories are going
+to get us the pushes the pulls the
+anxieties and the habits the trade-offs
+and what we call the higher and fire
+criteria and then what we do is we
+instead of trying to look for themes
+across all of them we actually do
+something instead of segmenting them we
+cluster them we find the pathways
+because what you start to realize is
+it's not one reason why people do it
+it's sets of reasons and those sets
+actually work together so the pushes
+work with the polls so when they have
+these pushes they want these polls and
+when they don't have these pushes they
+don't want those pulls and so when you
+start to see the patterns and you start
+to pull it out you start to realize that
+most most companies or most products are
+hired to do three four five different
+jobs and they're in conflict with each
+other one person wants to go faster and
+one person wants to go uh be more
+thorough and so all of a sudden being
+more thorough means it's slower so if I
+say we're thorough the people who want
+to fast say I I don't want this because
+it's too slow so how do you frame those
+things out and understand where the
+conflicts are behind it and think about
+different products from it I mean that's
+what intercom did right intercom
+realized that people hired it for four
+very very different reasons and then
+instead of building for different
+products they literally took their
+product and turned off the features that
+were not relevant to the pathway that
+people wanted to take so for a choir
+they didn't need a whole bunch of these
+other features and so they actually
+framed it around basically how do we
+help people convert and that that job
+actually competed with HubSpot there's
+another one where it was about help me
+with support and that one competed with
+zenes and so they actually re they
+changed the pricing model to basically
+match who the competition was and to
+match the progress that people were
+trying to make because zenes was too
+much and too hard and and HubSpot felt
+like it was it was an overkill for where
+people were we basically figured out how
+to actually position ourselves as a good
+Next Step between HubSpot and nothing or
+between nothing and HubSpot and that's
+how they've grown to be be over valued
+over two billion I have a followup
+question but did you say that you can't
+read and write yeah I can't read and
+write so so I can so the thing is is is
+I cannot read the words that I write and
+I cannot read like so if somebody reads
+it to me I can actually uh play back so
+I'll listen to audio but the fact is is
+the way I was taught to read is to so
+the when I look at a paragraph I see the
+spaces between the words first and then
+I usually see the the left hand edge of
+the word so the last three letters and
+so my mom taught me to look at the five
+largest words on the Page by circling
+the longest words on the page and then I
+would study those and translate those
+and then figure out kind of what those
+five words would have in common because
+for me the the part that's broken in my
+brain is that I can't look up things
+fast enough so by the time I try to look
+at a word figure out what it is get the
+definition I've literally forgotten
+every word before
+it
+damn how are you writing books it's a
+gift I'm telling you it's a gift this is
+what this is what it's a gift I'd never
+wish upon my children but to be honest
+it's given me abilities to see patterns
+in so many different ways because I can
+remember the first five words in the
+first paragraph and the last five words
+in the last paragraph So I turn through
+a book three or four times and I have as
+good a comprehension as everybody
+else this is insane how are you how is
+how are you writing books uh it's really
+simple I have a company called scribe
+media and what we do is we frame first
+thing we do is we look for what are the
+struggling moments the book is going to
+address what struggling moments do
+people have
+we then look at what are the competitive
+books wrapped around it I then basically
+outline what progress looks like we then
+take each chapter and Define it as a
+system and what we have to do in each
+chapter to help them make the progress
+along the way and then they we just talk
+and we talked we have 10 two-hour
+sessions they get recorded and then
+somebody basically takes so if you
+listen or read any of my books it's
+sounds like me talking because it is wow
+and so I can get a book out in three and
+a half four months that's incredible and
+so now I so I'm a teacher I'm a adjunct
+lecturer at the Kellog school at
+Northwestern and then I I guest lecture
+on the east coast and kind of uh
+different Business Schools and then I
+help Tech Stars in white combinator so
+I'm really moving myself into kind of
+being into I feel it's time to pass on
+I've had some amazing uh mentors who
+helped me and again I was told to be a
+baggage handler a construction worker
+when I graduated high school and my mom
+thought I could do more and so I met
+these people who poured their knowledge
+into me to enable me to do all this
+stuff so now I'm trying to pay it
+forward as much as I can so that's one
+of the reasons why I do as many podcasts
+as I can so again I appreciate you
+having me yeah this is uh this is a
+great opportunity to pass it on and so
+I'm very yes yes happy we're doing that
+I had no idea about any of this about
+you so thank you for sharing that it's
+been fun like I like I pinched myself
+the other part is I don't know how I got
+here one of the things things that I've
+been doing is I've been studying people
+for the last 10 years around why they
+switch from one company to another to
+literally understand the jobs of jobs
+because employees actually hire
+companies more than companies hire
+employees and so you start to realize
+the struggling moment is why don't we
+have enough people and otherwise like I
+want to leave but I don't know how to
+leave and so I've been I'm in the midst
+of writing a book around that right now
+with Michael Horn and uh Ethan Bernstein
+is there an Insight from that work that
+you can share about why people leave
+jobs or join jobs so the number one one
+thing that I would say is almost
+everybody when you ask them about how
+they got their La their the job they're
+in the number one phrase you get is it
+was so lucky I was so lucky just
+happened to fall in my lap and then when
+you actually unpack the story that luck
+had nothing to do with it right it's
+it's they were prepped they were ready
+there was pushes there were pulls there
+was anxieties they were able do and you
+start to realize like and and the funny
+part is that if I talked to somebody
+who's been you know through three or
+four kind of switches they all say yep
+I've had that job yep I've had that job
+yep I've had that and so there's frames
+around basically understanding what
+progress are you really trying to make
+now is it do I need balance am I not
+challenged enough and you start to frame
+it and when you frame it you start to
+realize I'm willing to actually take
+less money to be around smarter people
+because I want to be a Founder later and
+so you start to realize that all of
+these things where where we think we
+have to pay more money over 50% of the
+people who got new jobs didn't get more
+money it's a lie
+yeah it's about it's about progress It's
+about what do they want to learn what
+skills do they want to get what at some
+point is about money but it's not always
+about money and the other interesting
+part is when you talk about money we
+talked about this notion of
+unpacking we'll say well why do you need
+more money it's like well I have larger
+obligations or I want more money because
+I want more respect and so what you
+realize is in the hiring and firing
+criteria they talk about money but money
+actually has a bigger effect that than
+just money it's about respect or it's
+about you know responsibility or it's
+about you know their their no their
+metric of progress there's a whole bunch
+of things but it's like it's not just
+money that's the interesting part yeah
+I've definitely done that myself there's
+a status component your job yep I want I
+want the title right happens all the
+time I want to come back to the uh
+discussion we were just having around
+interviewing people to understand the
+jobs to be done and a bunch of people on
+LinkedIn were trying to understand just
+like tactically what they need to get
+right in order to get accurate jobs so I
+guess there may there just like a couple
+tactics you recommend for how to
+interview people let let me give you
+three tips one is what the first tip I'd
+tell you is go read uh never split the
+difference by Chris Boss like I started
+to write a book around basically
+techniques that I learned back in the
+80s and 90s around this and he his book
+is amazing around it like how to mirror
+like the whole notion of getting to know
+like I play things back incorrectly
+because they're going to say no I'm
+going to say all right fix it and then
+they'll talk more the moment they
+somebody says yes there's nothing more
+to say and so there's a bunch of
+techniques you have to learn to
+basically get them talking the second is
+you you I only talk to people who have
+already tried to make the
+progress right so so for example you
+know people talk about like well you
+can't apply this to something that's new
+like we don't it doesn't exist so I work
+with a company that that was a I'll say
+a fairly large social media company and
+and it's at some point in time they
+found people kind of transacting on
+their platform but they didn't know
+anything about it and they had built
+anything and what they end up doing is
+we end up going and studying eBay and
+Etsy and what caused somebody to say
+today's a day I'm going to set up an
+eBay store or sell something on
+Craigslist and out of that we found all
+the jobs of what people both sellers
+were doing and buyers were doing and and
+and now it's I think it's almost a three
+billion dollar Marketplace that didn't
+exist and they they they learned about
+it all from the
+competitors sounds like Facebook
+Marketplace
+maybe um no com I didn't say that how
+many interviews do you recommend people
+do to get to a confident that's a that's
+a great controversial question the P the
+interesting part is from a causal
+mechanism perspective and from a from a
+set theory perspective meaning the sets
+of pushes pulls anxieties and habits it
+starts to repeat around seven or eight
+and I usually do 10 no more than 12 and
+I would rather do two rounds of 12
+interview then do 24 interviews I had
+some really interesting mentors one of
+them was Dr Deming who's the father of
+lean and Quality Systems and like that
+and so he would always push me to
+basically how to do things faster and
+smaller and so that's where a lot of it
+came and you just realize that people
+will say oh we have to do something
+statistically significant well you do if
+you're doing it randomly but if you
+actually understand the the the range of
+your market and you know that 50% of it
+is above 30 years old and 50% is below
+30 years old I can actually sample in a
+way that makes me get a good
+representation without having to
+actually do 50 interviews and so that's
+we use something called designed
+experiments to help with that I love the
+concrete numbers and so along those
+lines when you're actually like asking
+questions of people do you have any best
+practices and ways of phrasing a
+question to get a response you can trust
+in a lot of cases you have to look at it
+from multiple perspectives and so this
+is where so the other the other tip I
+have is to not have a discussion guide
+it drives people crazy because everybody
+wants to ask the same set of questions
+but the problem happens is when you ask
+the same set of questions you actually
+don't follow the ones that actually have
+the most meaningful information in it
+right and so what happens is is what I
+say is I use the framework of pushes
+pulls anxieties and habits and say what
+caused them to do this and everything
+else is just a conversation of trying to
+understand their story and so part of
+this is is being able to ask the
+questions around why but you can't ask
+why why why why why it's like tell me
+more about that give me an example you
+know and in a lot of cases when when
+when they run out of I usually get them
+to what I call the edge of language
+where they have no more language and
+what I do is I literally then bracket it
+so was it more about this or more about
+that and I know it's neither one of
+those and it forces them to talk more
+right it's always trying to get them to
+know because the moment I get to so when
+I play it back so you did this and this
+and this and this it's like no that
+wasn't it and the people who are working
+with like you know that's not the right
+answer I'm like I know but they're going
+to elaborate on why it's not that those
+thing and so it's it's literally being
+able to reveal kind of that the causal
+mechanisms of why people do what they
+do this episode is brought to you by EPO
+EPO is a Next Generation AB testing
+platform built by airb alums from Modern
+growth teams companies like DraftKings
+zapier clickup twitch and Cameo rely on
+EPO to power their experiments wherever
+you work running experiments is
+increasing essential but there are no
+commercial tools that integrate with a
+modern grow team stack this leads to
+waste of time building internal tools or
+trying to run your own experiments
+through a clunky marketing tool when I
+was at Airbnb one of the things that I
+loved most about working there was our
+experimentation platform where I was
+able to slice and dice data by device
+types country user stage EPO does all
+that and more delivering results quickly
+avoiding annoying prolonged analytic
+cycles and helping you easily get to the
+root cause of any issue you discover EPO
+lets you go Beyond basic clickthrough
+metrics and instead use your Northstar
+metrics like activation retention
+subscription and payments EPO supports
+test on the front end on the back end
+email marketing even machine learning
+claims check at EPO
+ato.com that's geo.com and 10x your
+experiment
+velocity when I think about jobs to be
+done I've never like fully implemented
+any sort of structured framework but I
+find that it's been really useful in my
+newsletter work and my podcast work just
+thinking about what is the job my
+newsletter is doing for people for me
+it's helping people get better at the
+craft of building and growing products
+and I just think of it there's these
+buckets of jobs to be done and then
+there's this like formal let's just do
+it for real I guess one do you find that
+to be true there's like the very simple
+and there's the more official so what I
+would say is I find a lot of Founders
+especially really successful Founders
+like I'd say Jason's one of Jason
+Freed's one of those where where he he
+intuitively understood this like he
+actually thinks this way but didn't have
+Lang wrapped around it right so so I
+think that it's a very useful framework
+I think the the danger you run into is
+that when you what look at the customer
+through the product so if I look at the
+customer through the Snickers bar then I
+think of Milky Way as a competitor but
+if I look at the if I look at the
+customer and say why did they pick that
+thing then I realize that a protein
+shake and a and an apple and a sandwich
+are the competitors not Milky Way got it
+so say someone wanted to start going in
+this direction of job to be done what is
+the simplest I don't know first version
+lightweight approach to starting to
+think this way so there's two things if
+if I have a product you know go find 10
+people who recently bought your product
+but what I want you to do is go talk to
+them not about the product but about why
+they bought the product what was going
+on what were they hoping for what were
+they worried about what did they have to
+give up how did they convince somebody
+else just to just listen to The Story
+start with just getting the story
+because there's three three levels of
+information we have to get or three
+sources of energy that I talk about so
+think about is there's got to be energy
+in the system for us to do something and
+there's what I call functional energy
+which is usually time space effort
+knowledge right there's emotional energy
+which is how I feel I want to feel
+better I feel frustrated I feel
+overlooked there's there's there's
+emotional aspects to it and then there's
+social aspects how I want others to
+perceive me or how others perceive me oh
+my boss is going to fire me because I he
+doesn't think I'm doing this fast enough
+and I feel inadequate so part of his
+understanding kind of the emotional
+social and functional components that
+are part of that energy source got it
+the second part is is if it's an
+established product has been there a
+while I'd actually go and talk to people
+who churned because in churn what's
+interesting is when somebody leaves your
+product they're still making
+progress we think it's bad for us which
+it probably is but in their mind it's
+like yeah this was too hard and
+complicated or you know what it didn't
+do enough for us it allows you to
+actually understand the struggling
+moment they had because again they were
+using your product and something
+happened and and some context changed
+and now they struggle with it and now
+they got to go find something else
+nobody wants to change so that makes
+this actually the easiest thing to look
+at is tell me why people changed we just
+seem to literally not want to go deep
+enough and we use the lazy word of
+random and probability as pseudo for
+knowledge and it's not knowledge it's
+literally just if context is the same if
+outcomes is the same then I can do it
+but like if I listen to football stats
+you know third down right in in
+preseason is very different than third
+down in
+playoffs right and so giving me a stat
+about how their third down conversion is
+across the whole season makes no sense
+to me because the context is
+different you brought up this point that
+people often and say they really hate
+something and it comes across that
+they're ready to switch and we'll use
+something that you've built that's
+better but they don't because of that
+friction you mentioned what do you look
+for that might tell you that they're
+really actually going to use it for real
+and it's that serious the very first
+thing I would say is I never trust
+anybody telling me things they're going
+to do yeah because they can't assure it
+and they it usually never happens it's
+just it's it's it's it's my experience
+that says that and so the the is I need
+to talk to people who did something and
+tried and though they might have failed
+what made them try so the phrase I have
+is uh bitching ain't switching just
+because people about something
+doesn't mean they're going to do
+anything about
+it right this is where like a base camp
+we learned the fact that everybody said
+oh if you had Gan charts God you you
+know I'm Gonna Leave You if you don't
+put Gan charts in or resource allocation
+and as much as they all say they want it
+they're not leaving because of it and if
+you follow this is the other part if you
+follow your best users they'll take you
+up to this world that then actually
+destroys the lower end of the world of
+why people are there and so if Bas Camp
+would have added all those things one of
+the reasons why people join base camp is
+because it's so dang simple and if I
+start to add all these things that make
+it more complicated it doesn't work and
+so in those conversations is there
+something you find that just this is a
+sign they're actually really serious or
+do you just like I'm not going to listen
+to anything they're saying in this case
+until we actually build it and they are
+using it so for example in the first
+five minutes of an interview
+they're going to tell you I bought a new
+car because I got a deal on it and it
+was you know it was a car I've been
+dreaming about forever and like they
+have all these things and then when you
+start to get to it it's like no the old
+car had 280,000 miles on it you had
+three large bills in the last four
+months the fact is it's making a sound
+and you've got a long trip coming up
+like that's why you're getting a car
+you're not getting the car because the
+deal and so this is where you so there's
+these I called the the layers of
+language and the very first layer is
+called the paum layer where people just
+like how was your day I was good right
+but nobody knows what that means and if
+you ask one farther question well what
+was good about it they're like H and
+then you get to the next layer the next
+layer is usually the fantasy nightmare
+layer oh it was so good because of this
+or oh my God it was so bad because they
+exaggerate to one degree or a next and
+then what you want to do is actually
+then pull it back to like what actually
+happened this where you got to be more
+of an investigator and an interrogator
+and and the way I would describe it is
+it's criminal and intelligence
+interrogation that feels like therapy
+because most people don't actually know
+why they bought because they only think
+about the time they wrote the check
+swiped the card but the reality is like
+I did an interview with somebody who
+bought a coat rack right $137 coat rack
+it took them 18 months to buy
+it and in their mind they bought it they
+bought they say they bought it in a week
+but the reality is is like the debate
+about getting it and why they couldn't
+get it was happening for over 18
+months so this is where you you can't
+believe what they say you have to you
+have to do your investigation to get
+there and what does that phrase use
+again for that Vector of progress uh the
+intention it's the context that they're
+in and the outcome so here's the thing
+is that most people talk about you want
+to get to this outcome and people value
+this outcome but value is not just the
+outcome value also has where you start
+so if I start here and I end here I'm
+going to Value it this much but if I
+start down here right gotta get there
+start down here and I go up here I value
+that much more and so part of it is is
+value is actually part of where they're
+starting from and where they want to go
+and most people say if I just get them
+up here they're really going to love it
+but some people say like I just want to
+get here and so you're overshooting it
+and they want to they they actually want
+to price discount because you're giving
+them more than they want so I'm going to
+go in a different direction the most
+liked comment on
+LinkedIn asking people what questions to
+ask he was by shiram Krishna who's
+actually on this podcast in the past
+yeah yeah yeah yeah I I remember seeing
+it I remember hearing it like and I was
+this one of by the way I think it's one
+of the reasons why I reached out because
+I'm like okay I need we need we need to
+clarify this a okay great so you saw his
+rant he's not not what you'd say a fan
+of jobs to be done no and so so here's
+the question you wanted to ask is there
+a case of a startup or modern technology
+company or any company that was using J
+jobs to be done to launch a product from
+zero to one that has had broad adoption
+that's a challenge in in inside the
+company or brought adoption that the
+product that we've developed had brought
+adoption the latter yeah the product has
+done really well I I I already told you
+an example I can't say it but you can
+right it's it's the thing is so for
+example autobooks is another one that
+did this right they start to realize
+that the fact is is like you need to
+study the struggling moments and it
+helps you determine what not to
+build right too many times we just keep
+adding more and more things to the
+product and so it it in large
+organizations it's very difficult
+because at some point the the dominant
+market research is is about hypothesis
+testing right I'm going to go build a
+hypothesis and go basically then go
+build a research project to prove or
+disprove that
+hypotheses but the reality is is jobs
+we've done research is hypothesis
+building research I don't
+know that's part of the point is like we
+really don't know we think we know but
+Dr taguchi would always tell me there's
+way more unknown than there is known and
+never forget
+it and so again what what causes people
+to buy Windows is is not what we think
+it is and so you start to realize that I
+think drer said it best he goes what
+what businesses think they're selling is
+not what customers are
+buying and to be honest he said that
+1953 and it's still true today like I I
+just did interviews today where they
+like oh people are buying for this
+reason and we did we did uh what 11 12
+interviews and you started realiz like
+nope that's not why they're buying and
+they're like shocked awesome okay so you
+didn't say it but maybe Facebook
+Marketplace so if you like auto books
+would be one you're trying from zero to
+one from nothing right brand new product
+is is kind of the the question there yep
+so so at Tech Stars we basically make
+sure that everybody does but they come
+in they usually don't have a product to
+start with and at least in the Chicago
+uh and and San Francisco offic we do we
+basically have do jobs in the very very
+beginning of that and we have companies
+like neutrient and Havoc shield and
+there's a whole bunch of them that are
+out there that are that that are growing
+and and and going down that pathway and
+so to me it's it's it's very very useful
+especially in the zero to one space but
+the notion is you have to real the way
+that I frame it is what will people stop
+using when your product comes
+out and that's who you want to go
+interview so for the marketplace thing
+it was like Hey I want him to stop using
+Craigslist I want him to stop using eBay
+I want him to stop using Etsy if that's
+the case what are they doing and how do
+I do it better than that so I can
+understand there are really no new
+jobs right it's just the fact is they we
+get better at them and so the higher
+fire criteria get better but the context
+and outcome most jobs I could look back
+10 years in the job existed and I can
+look ahead 20 years and and the job's
+going to exist it's just the the nature
+of how the technology delivers on it is
+what gets better awesome and it sounds
+like intercom and base camp also are
+very early jobs to be done at
+very early yep so I think with shiram
+something that I read between the lines
+is he worked at Twitter for many years
+and I think Twitter attempted a job to
+be done framework and I don't know if it
+went well and I think it just caused a
+lot of people to think this is a
+terrible framework so this is where I
+think there's there's different flavors
+of it and what I would say is that that
+one one flavor is really what I call
+very supply side driven where it takes
+the underlying technology and then looks
+at it and says all right what else can
+we do where can we be better where are
+where are things that are important but
+we're not satisfying on them and being
+able to prioritize and so there's a very
+systematic approach that's hundreds of
+steps and very very uh prescriptive in
+nature the the method that I have and
+that I've been using mostly because I've
+been in the startup world and uh and
+doing new to the world type stuff is
+it's very very qualitative organic and
+and it's a combination of a process
+practice and and uh skills so every
+company actually has its own own
+Innovation process based on who they
+have who they're serving the underlying
+technology and so to have in my opinion
+to have a very predictive uh one process
+that fits across everybody I I think
+there are there are principles but I
+don't think there's one process so
+that's where I think I think that's what
+they used at Twitter the other thing is
+is that I think you know Jack was Jack
+was actually a big fan and he worked
+with Clay on a couple of things but I I
+don't think they worked on the method
+part of it they worked on the thinking
+part of it and so it was more about so
+one of the most dangerous things you can
+do is sit in a room and and and
+hypothesize what the jobs are because I
+will guarantee you you're 100% wrong and
+so this was this is what happens by the
+way being this is The Gift of Dyslexia
+is I'm not an a student and so most a
+students don't start until they know the
+answer most most D students start
+because they don't know the
+answer and so you start to realize we're
+very very different why you're very
+differently to do that and so I always
+say that the a students have a have a
+have a disadvantage against the D
+students in in entrepreneurship because
+we just go start and we learn rate that
+and there we don't have to hypothesize
+everything first because we actually
+don't know how to do that so your advice
+there is essentially people often get
+jobs to be done wrong because they just
+sit around and think about the jobs to
+be done and aren't actually doing the
+work to interview and understand they
+think more about the outcomes and they
+think about what's the best outcomes we
+can get for people and what you start to
+realize is that there are trade-offs
+people make and ultimately there's some
+irrational piece some irrational
+component that makes everything twist
+around like the irrational component is
+like why in the world do people eat
+Snickers when they're hungry it's a
+candy
+bar well it turns out when you bite it
+it's masticates into a ball and it sits
+in your stomach and it absorbs the acid
+that's causing you to say hey I got to
+eat something and so part of it is the
+role of the peanuts and the role of the
+nougat is actually to masticate it
+together the caramel should be sticking
+it together versus in a Milky Way the
+melting temperature of the caramel is so
+light that you take a bite it Li it's
+liquid you drink it down you you you you
+swallow like it's a drink it has nothing
+to do with food and so you start to
+realize that it's it's connecting the
+experiences to the outcome to the
+context and outcome it's connecting the
+supply side with the demand side but it
+starts with the demand side first
+struggling moments and opportunities all
+exist before there's a product making me
+hungry I I bought I I brought it I
+bought a couple but I didn't I didn't
+use them but I bought a couple and you
+start to I mean you go deep into it you
+start to realize that this is the crazy
+part everybody thinks they compete but
+like if you literally go back to a
+moment when you picked up a Snickers bar
+like you were not thinking about a Milky
+Way you weren't thinking of like half
+the candy aisle you're thinking of like
+I want a sandwich or do I want Snickers
+like half the reason why they pick
+Snickers is it's 300 calories I can eat
+it in three bites it's done it's not
+messy and I can keep working it's
+mainlining food I don't know if I've
+ever had a Milky Way To be honest so
+that's right I don't need that Comfort
+that's the funny part is you go to you
+go to the tech tech all the big Tech
+hubs in in San Francisco and you know
+the Snickers are all empty and the Milky
+Ways are all full yeah I get that you
+mentioned that there's two different
+approaches or many different approaches
+to the jobs to be done framework and
+this is a question someone actually
+asked that
+maybe a framework by someone named Tony
+olick and then there's your approach and
+then maybe Klay Christensen maybe has an
+approach so can you just help clarify so
+clay clay and I collaborated on on it so
+I I was lucky enough to have Clay as a
+mentor for uh 27 years I met with him
+once a quarter for 27 years and at some
+point I shared with them kind of the
+hack of how we kind of like how I was
+thinking about this and what I was doing
+and at some point he said we need to
+turn into a theory uh to me it was more
+like my workaround because I couldn't
+read and write let me go talk to some
+people I'll figur it out and ultimately
+we turned it into a method so like if
+you look at competing against luck it
+was written with taty Hall and Karen
+Dylan and uh Dave Duncan but I was I I
+helped on that book uh for 16 months
+some of the clients in there are my
+clients I think in com is in that one so
+clay and I are aligned in that clay was
+more about turning into a theory and I
+would say I'm more about having it be a
+method so his is like a a thinking
+framework and a philosophy and a
+strategic kind of frame frame where our
+mind is very tactical about how do we
+get it and then what do we do with it Ox
+comes from a very different perspective
+and and again I think it's very valuable
+but it comes from the notion of like
+functions and it's more like what can
+our product do what jobs can our product
+do as opposed to the way I look at it is
+you know basically only people have jobs
+products don't have jobs people have
+jobs organizations don't have jobs
+people in organizations have job because
+that's the irrational part
+and so fundamentally there's that two
+different views of how do we look at it
+but but ultimately I would say Clay's
+approach and my Approach are derived
+from the same data set where all Wix is
+derived from a different data set a
+different set of
+experiences super interesting I had no
+idea about this and your senses in the
+case of Twitter for example maybe it was
+closer to Clay's just like think about
+it approach I think that's right I think
+that's right and and and again I think I
+think oix is very valuable especially in
+some companies where there's lots of
+risk there's regulation there's lots of
+lots of moving Parts very complicated
+systems but at the same time it's so
+many step you have to have a very
+disciplined organization to follow it if
+someone wanted to start actually
+following through on this which book
+would you recommend they start with to
+help them understand how to apply your
+approach I would have them read demands
+Side sales and it's it basically is
+starting from the theory of why do
+people buy and how do we actually
+understand how to flip the lens from
+trying to sell people things to help
+them buy and ultimately it has the
+entire method around it kind of framed
+for product and for Founders awesome is
+job to be done ever not the right
+framework for people to figure out what
+to build so so couple couple places one
+is when there's no choice or there's no
+real choice so so what's interesting is
+think about why do you know more about
+your car insurance than your health
+insurance right and most of it is
+because your health insurance is given
+to you by your employer and you only
+utilize it when you're sick but the car
+insurance you have to pay for it so you
+have to sit down and decide what are the
+different trade-offs you're going to
+make where when you do it for the
+employer it's good better best and it
+literally is like where am I my life
+have I been sick you know there's some
+basic things but there's no real Choice
+there and so you start to realize where
+there's no real choice or where people
+want to make the choice obvious it it
+doesn't work you have to be able to
+accept how people see you as opposed to
+how you want to be
+seen so when companies will come to us
+and say all right I want you to find
+these jobs for us like nope I can't do
+it because it doesn't
+work I can tell you what the demand side
+is asking for and then we can see how
+your product fits to it and what you
+have to modify to it but if I try to
+make the jobs help you build the case to
+make the jobs what you think they are it
+doesn't work in those cases there's a
+different framework you recommend or is
+just like you don't really have a lot of
+options in a lot of cases um to me
+there's I'd do some ethnography I'd
+literally figure out kind of where
+there's frictional points in the system
+I might I might do some uh some
+prototyping around kind of different
+Alternatives but typically it's more
+about what I would call the little H or
+how do they use for example the health
+insurance as opposed to why do they buy
+the health insurance the the other the
+other example I could use is chewing gum
+if I talk to people about buying a pack
+of chewing gum most people can't
+remember at all when they bought a pack
+of chewing gum even if it was in the
+last week like uh I think so but if I
+ask them when they chewed gum they can
+tell me about when they chewed gum and
+ultimately that will then imply when
+they buy gum if you go to something
+that's just too like it doesn't register
+it's so deep of a habit that they don't
+really know what they're doing you'll
+never going to be able to get that
+information out of it's It's again the
+the habitual stuff is very hard to see
+the job it's the only when people change
+do you see the it's like the ice you can
+reveal the entire Iceberg but if I've
+been using tide for 20 years and I ask
+you why do you hire tide you just make
+it up you have no idea why use tide but
+if you switch from tide to gain or gain
+to tide you can tell me that story very
+detailed there's a reader who has the
+really interesting question Maria Delano
+is her name she's wondering with a
+framework this well known you're bound
+to get people misinterpreting it and
+repeating inaccurate information about
+the framework and she's curious what
+misconceptions most frustrate you that
+you just hear again and again about jobs
+to be done the first thing I want to say
+is I actually you know in in doing it
+I've I've explicitly made it very
+accessible because the moment you make
+it too copywritten too patented too
+whatever people just move by it so part
+of it was being able to make it in the
+public domain so people could have
+conversation and try it and do different
+things with it what I would say is
+there's enough people that have used it
+and have worked with it and have had
+great success with it that at some point
+in time most of the people who are
+trying it and not using it well it's
+it's obvious and so it' be like how do
+you double down into it I think one of
+the biggest misconceptions around jobs
+to be done is this notion that it's pain
+and gain as opposed to context and
+outcome and that it's uh I think one of
+the other ones is it's purely about the
+outcome and not just about the context
+and outcome together and again I think
+the the biggest mistakes I've seen made
+is because they do it in a conference
+room when they don't go talk to people
+they don't actually find the
+contradictions they don't find the the
+uh the irrational Parts what's really
+interesting is when you hear somebody's
+story and it seems irrational like we
+have people go oh my God that's an
+anomaly that doesn't happen but what
+what you realize is that the the context
+makes the irrational rational so the
+moment you hear a story and you go I
+can't believe that nine times out of 10
+it's because you don't have the rest of
+the story and so part of it is being
+able to understand the rest of that
+context that would drive somebody say
+like like why would somebody cut their
+arm off well if they're in this
+situation and this and this and this
+like there's nobody who would say they
+want to cut their arm off but in certain
+situations you'll do it and so that's
+what we're trying to do is find where is
+where do where will people change
+Behavior most people are studying the
+momentum of where people are and where
+like what the momentum of of the
+direction but the reality is like what
+we're trying to do is study what causes
+people to change their Direction and
+that's where Innovation happens
+Innovation happens when people
+change what convinced you to spend your
+time in life working on jobs to be done
+and helping people implement this
+framework and what keeps pull pulling
+you back that's a great question
+so I think I started out is I just love
+to build things my mom would take me
+uh basically we have have something
+around here called big trash day is
+where they throw out the dishwasher and
+they throw out the you know the the old
+uh uh Mini Bike and all these different
+things and my mom would basically say
+anything that we could fit in the trunk
+we could bring home so I've been
+building things my whole life because
+I've been just always fascinated with
+how things work so the that's the first
+thing the second part is I love to help
+people one of the things I realized is
+like I can't build products for myself
+um and I've done seven startups but I've
+I realized that I have to build for
+others and so to me building for others
+is is was where I started in product and
+then I realized that I'm a method
+Builder and that I really help people
+innovate and so my my I exist to help
+make the abstract concrete and so that
+phrase has helped lead me to becoming
+now a teacher and a professor and write
+like writing books is something I never
+wanted to do because I hated books clay
+convinced me that I had to learn how to
+speak and I had to write books and I
+like so here's here's a really good one
+is that this is uh this is in
+1990 so one of the things that happened
+was uh when my my youngest kid moved out
+and went uh basically moved out of the
+house I had I had my notebooks from
+almost 30 years of every every project
+on everything I worked on any company
+and this is from one of my mentors Dr
+taguchi he said this in 1990 when I was
+living in Cologne Germany he said write
+a
+book right and so I I opened this like
+30 years later I'm like oh dang it I
+gotta write a book because he told me to
+so it's just one of those things where
+where I realize like I I really like
+helping people I like methods I'm very
+curious sometimes uh annoyingly C
+curious but it's that that's kind of the
+the tri of things that I'm really that I
+love to do amazing Bob is there anything
+else you wanted to share or touch on or
+make sure we cover before we get to our
+very exciting lightning round there's
+three three big things to take away one
+is struggling moments is the key and if
+you if you can't see it's struggling
+moments that people take action on and
+what I would say is they're every where
+they are freaking everywhere in our
+lives and and there's only certain
+context when all of a sudden we realize
+we have to do something about it so
+study struggling moments because at some
+point that's where we need the
+Innovation the most this second thing is
+think about the progress people are
+trying to make what is their standard
+not your standard what is that context
+what is that outcome and the last thing
+is is the way i' phrase it is choose
+what to suck at figure out the the
+tradeoffs that you need to make and make
+sure that your trade-offs map the
+trade-offs of the customer because nine
+times out of 10 most products that fail
+is because they made a tradeoff that
+that the customer didn't agree with
+awesome well with that we've reached our
+very exciting lightning round I've got
+six questions for you are you ready yeah
+I'm ready always ready for these perfect
+what are two or three books that you've
+recommended most to other people Shape
+Up by Ryan Singer it's phenomenal the
+other book I would say is end of average
+by Todd Rose I listen listen to it every
+single year I get something out of it
+every single year I've been listening to
+it for probably eight or 10 years I
+literally called Todd I've become
+friends with Todd we interact on a
+regular basis he's it's it's an amazing
+book what is a favorite recent movie or
+TV show I love big bang I watch it every
+like people would say that I'm Sheldon I
+think I'm more Leonard but I I can see
+there's days that i' I I've come across
+as Sheldon I don't mean to be Sheldon
+but I like uh Oppenheimer I think uh any
+of the science type I'm not really a
+science fiction person but it's more
+it's more about kind of um I'll say uh
+historic documentaries as I love them
+all because they they help me understand
+the science what is a favorite interview
+question you like to ask when you're
+interviewing people what are the top
+three things you struggle with in your
+business today that if you could solve
+would fundamentally change the business
+love it what is a favorite product
+recently discovered that you just really
+like I recently purchased a massage
+chair and it's one of those things where
+I've been getting massages for a while
+and as I get older and I'm working out
+more I've lost almost 100 pounds and so
+I'm to the point where I'm I'm working
+out more and I'm God nobody told me well
+I'm gonna be cold all the time I'm sore
+all the time and I'm hungry all the time
+and so it's like okay I need a way in
+which this so I would get a massage
+every two weeks or so and now I can get
+a massage in 20 minutes on demand and
+it's pretty pretty free amazing man my
+wife has wanted one of these and this
+might be good oh I I I will tell you
+it's like it's a lifechanger it's one of
+those things where I could do like we'll
+do interviews and I can I can go do an
+interview in a debrief pop it and do it
+and like I'm fresh as I can be like I
+it's it's it's kind of it's it's better
+than an app is there a brand you want to
+throw out that you found to be Kyoto is
+the one that I have I I got it from
+Costco it's it's fabulous okay we will
+be looking into that what is something
+relatively minor you've changed in how a
+company has implemented jobs to be done
+that has had a big impact on their
+ability to do it well there's two two
+one is the is intercom so the way that
+intercom really took off and why why it
+did so well is it it actually it was Dez
+trainer and Owen mccave who were the two
+Founders they actually studied uh they
+came to one of my workshops in the
+beginning but they studied it and they
+tried to do it and then then we talked
+about it but then they brought Matt
+Hodges and Paul Adams and Sean Townson
+and and the the the executive team and
+they did the interviews and when they
+did the interviews they understood what
+to do and it literally all went downhill
+from there and they knew how to ask the
+questions how to do the interviews it
+was kind of amazing and they like Paul
+Adams and and and uh Matt H's first day
+at intercom was in my office in
+Detroit so that that to me is is is one
+of the key the other is is to find a
+place in a large organization where
+where a group is struggling they can't
+deliver product they can't move fast
+enough they they they they keep getting
+the wrong insights they say it's going
+to be this big it's not and literally
+focusing on a very small area and giving
+them a little space to demonstrate the
+use of it and then it will spread and
+with a case study or two and so most
+companies they'll if they start small
+case studies and sharing it with people
+both when it works and not works or
+starting with the top
+two more questions one is someone asked
+me to ask you a the dining room table
+story does that ring any sort of bell
+yeah so one of the so one of the things
+I did is I built houses so before I
+built houses I was running a a venture
+capital private Equity Firm we had about
+100 million I was doing 25 transactions
+and just traveling too much I had four
+children and so my wife and I kind of
+had the
+conversation that I wound it down and I
+said what am I going to do I'm gonna uh
+I'm gonna I wanted to try to find a
+business I could work in and be part of
+and be own part of so I joined a
+building company uh here in Detroit and
+we end up building a thousand homes here
+in Detroit I had 14 sites and one of the
+things we did is we built for downsizers
+like your parents and one of the things
+they constantly told us was look we're
+downsizing we're not having that we're
+not having the holidays we're done with
+that like like I don't want a dining
+room table so we can't even have people
+over if we're going to do it we're going
+to go somewhere else like like I don't
+want the dining room table and so we
+made a it's a two-bedroom two and a half
+bath first floor laundry G kitchen kind
+of amazing condo but what we realized is
+people if they didn't know where the
+dining room table was going to go they
+weren going to move and so it wasn't and
+it turns out that the dining table was
+the emotional bank account for their
+entire Liv and so if they if if you
+weren't going to take it or your sister
+wasn't going to take it or your brother
+wasn't going to take it the reality is
+they weren't not going to give it to
+Goodwill it was not going to go in the
+basement but it would might go into the
+storage unit but for the most part
+people would literally stay where they
+are until they knew where the dining
+table's going to go so I did the
+opposite of what they told me to do
+which is I built a place to put the
+dining room table you could never eat at
+it it was never big enough to actually
+pull the chairs out of it but it was
+still a symbolic of what it was and they
+would use it for uh puzzles and that
+kind of stuff but I sacrificed the
+second bedroom suite to basically add
+that and it increased sales
+22% so this is a case where you learn
+again that that irrational contradiction
+that says they said this but you did
+that that doesn't make any sense that's
+what jobs helps you with those kinds of
+really important small but subtle and
+important
+insights last question you showed me
+this very cool camera setup you have and
+one of the views Was Your Heroes on the
+wall yeah yeah yeah can you show that
+and share who those so this is this is
+so uh I don't like at the end of the
+night I have this philosophy that I have
+the energy in your body and your brain
+literally you need to use every ounce of
+it every day because you wake up the
+next day with a full bank account and
+you can't really save it so every night
+I paint and so these are paintings of my
+mentors and they're above me but uh Dr
+Deming clay uh Dr taguchi and Dr Willie
+Moore I wrote about them in a book
+called learning to build and and the
+five skills that they taught me to
+enable me to kind of work on so many
+different things in different areas and
+so Deming I met when I was 18 he took me
+to Japan I worked for Ford and Ford uh
+and I was responsible on the front lines
+to help reduce product development cycle
+time at Ford from
+uh 72 months to 36 months so that's
+where I learned a lot of tools and
+methods and things like that from Toyota
+and then I learned Dr taguchi's method
+which is amazing around designed
+experiments Dr Willie Moore was my first
+boss at Ford and she was a PhD in
+particle physics and she taught me
+empathetic perspective of how to see
+things and uh frame things and really uh
+amazing amazing individual and then the
+last one was Klay Christensen which is I
+just walked in his office and he had a
+sign outside his office basically saying
+uh anomalies wanted and I walked in and
+I said look I'm an anomaly I don't
+really know if you want anomalies but I
+am and we sat down and started talking
+and ultimately I asked him you know
+what's your research and how can I help
+and he had been there maybe about a year
+and it was one of those things where he
+got kind of like somber and like it was
+almost like I had a tear and I was like
+what what's going on he goes I've been
+here a year and everybody's asked me for
+things but nobody's ever asked to help
+me you're the first person and so that
+was the beginning of the relationship
+and I had uh four hours a quarter for 27
+years with clay with No Agenda which is
+kind of
+amazing that's incredible what a
+beautiful way to wrap up our chat Bob my
+job to be done for this interview us to
+help people understand jobs to be done I
+think we accomplished our goal as much
+as we can in one hour two final
+questions working folks find you online
+if they want to reach out and maybe ask
+you a question yeah LinkedIn is probably
+the best place and I post most of the
+stuff there and then I have I have
+several different companies but uh one
+is called the rewired group and uh I've
+had that for about 14 years and that's
+where that's a design consultancy agency
+around helping people build and launch
+products and we do everything from
+Fortune 100 to not for-profits to
+startups and different ways and then I
+have something called laser Ventures
+where we actually work uh and uh we we
+we work for equity and we also put money
+into Investments as well and that's
+called laser Ventures with Andrew Glazer
+am we have a podcast called the circuit
+breaker which is uh it's more or less
+you know all these different concepts in
+20 minute format of me and my partner
+just kind of riffing around you know
+what is empathetic perspective or what
+are the forces of progress or just small
+little things that basically help people
+kind of learn along the way and it's
+just long enough for a commute or a walk
+or something like that last question how
+can listeners be useful to you to be
+honest I I was so excited for this
+podcast like I was excited one because
+I'm a fan but two is is to to to see
+your post and then get all those
+responses I think I said like boy I
+think we need more than an hour this is
+this is this amazing and so to be honest
+posting questions asking questions
+letting letting the community kind of
+interact and it what was so interesting
+is it was people who had questions but
+then there were people like Dez and and
+Jason who reached out and said oh this
+this will be awesome you'll love this
+all those kind of things so to me just
+keep being a community and and what I
+would say is as this is posted just put
+more questions up there and the the the
+hard part for me is actually answering
+questions in a written form and so my
+request would be is that that if we can
+figure out a format so I can answer them
+more in a conversation where we like
+almost like a list of things where there
+might be a followup of some sort but if
+you're if your if your you know
+listeners could literally help me by uh
+help me by being more articulate that
+would be great okay let's figure out if
+we can do some way of doing that that
+would be amazing that would be great Bob
+again thank you so much for being here
+thanks thanks for having me bye
+everyone thank you so much for listening
+if you found this valuable you can
+subscribe to the show on Apple podcast
+Spotify or your favorite podcast app
+also please consider giving us a rating
+or leaving a review as that really helps
+other listeners find the podcast you can
+find all past episodes or learn more
+about the show at Lenny podcast.com see
+you in the next episode

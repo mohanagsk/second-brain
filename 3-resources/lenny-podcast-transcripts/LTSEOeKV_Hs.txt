@@ -1,0 +1,1728 @@
+I often say
+to find your audience's cultural
+erogenous zones
+so what it means is people have things
+that they either care about or don't and
+you're not going to change that
+so
+it's a huge lift to try to change
+someone's world view or their passions
+it's a light lift to take the thing you
+want to talk about and just shape it
+into to fit into their worldview or
+their passions there's not always a fit
+there's going to be people who are just
+not your natural audience and you should
+know that and not waste your time
+but if you're a natural audience cares
+about X and you're offering why then
+it's your job to create sort of the API
+right or to create the bridge from X to
+Y it's not with messaging it's not build
+it and they will come it is so hard and
+you'd have to be
+super humanly gifted to the extent that
+I can't recall seeing in my entire life
+where you create a message and a story
+so powerful that someone who didn't care
+at all before suddenly makes that their
+passion it's so much easier to take what
+they're passionate about and understand
+it and then convince them that if they
+care about that then they should care
+about your thing because of this
+connection
+welcome to Lenny's podcast where I
+interview world-class product leaders
+and growth experts to learn from their
+hard-won experiences building and
+growing today's most successful products
+today my guest is Lulu Missouri I met
+Lulu while she was head of comms at sub
+stack where she was Infamous for taking
+big risks in bold stands and as a result
+creating a lot of attention for sub
+stack and other companies she's
+represented Lulu is definitely the most
+Innovative and interesting comps person
+I've worked with she's currently
+Executive Vice President of corporate
+Affairs and chief Communications officer
+at activation blizzard and she writes
+what I'd say is the best newsletter on
+PR income strategy newsletter called
+Black in our conversation we get
+tactical about how to make your ideas
+spread cultural erogenous zones the
+growing importance of going direct
+versus relying on traditional media the
+importance of taking risks in your comms
+and much more Lulu is so insightful I
+could have continued to explore the
+subject for hours enjoy this episode
+with Lulu Missouri after a short word
+from our sponsors
+this episode is brought to you by
+assembly AI if you're looking to build
+AI powered features in your audio and
+video products then you need to know
+about assembly AI which makes it easy to
+transcribe and understand speech at
+scale what I love about assembly AI is
+you can use their simple API to access
+the latest AI breakthroughs from Top
+tier research labs they recently
+launched conformer 1 the largest trained
+speech recognition model on the market
+which achieves state-of-the-art accuracy
+all of assembly ai's models which are
+accessed through their API are
+production ready so many PMS I know are
+considering or already building with AI
+and assembly AI is the fastest way to
+build with AI for audio use cases now is
+the time to check out assembly AI with
+their new conformer 1 model available
+today which makes it even easier to
+bring the highest accuracy transcription
+to your customers just like Spotify call
+rail and writer due for theirs visit
+assemblyai.com Lenny to try their AP AI
+for free and start testing their models
+with their no code playground that's
+assemblyai.com Lenny
+this episode is brought to you by
+public.com we want to tell you about
+their new treasury accounts which earn a
+4.8 yield on your cash that is higher
+than a high yield savings account while
+still being backed by the full faith and
+credit of the US government treasure
+yields are at a 15-year high but buying
+U.S treasuries is super complicated if
+you go to a bank or navigate an ancient
+Government website or at least that was
+the case now you can move your cash into
+US Treasury with the flexibility of a
+bank account you can access your cash
+whenever you want even before your
+treasury bills hit maturity there are no
+hold periods no settlement days just a
+safe place to park your cash and earn a
+reliable yield public will automatically
+reinvest your treasury bills at maturity
+so you don't have to do anything to
+continue growing your yield and you can
+manage your treasuries alongside stocks
+ETFs crypto and any alternative assets
+do all your investing in one place and
+earn 4.8 percent a higher yield than a
+high yield savings account only with a
+treasury account at public.com Lenny
+[Music]
+Lulu welcome to the podcast thank you
+Lenny great to be here I am really
+excited to chat all things comms and PR
+I've never met a founder or product
+leader who doesn't want to get better at
+spreading ideas and getting their
+product out there and you're very good
+at this we're going to talk about some
+of the things you've done in the space
+but just to start maybe just broadly I'm
+curious to hear just like what have you
+learned about what helps an idea spread
+so there's a few ways to make the idea
+spread the overall principle is you have
+to make it memorable and you have to
+make people want to say it of their own
+volition and so what doesn't make them
+want to say it is doing a favor for a
+corporation what does the make them want
+to say it is they want to bring joy to
+somebody else they want to make somebody
+laugh they want to appear interesting or
+they want to project some part of their
+identity and so a few things that you
+can do with an idea to make it spread
+better you can make it into a joke so
+you can turn it into a line that people
+will repeat
+you can use an analogy you can take
+something and just say it over and over
+move fast and break things don't be evil
+build something people want you can
+create a mental image that is very
+colorful so I have a mental image for
+people that I use a lot which is put the
+pill in some cheese and we can talk
+about it later it's about how to craft a
+story that will that will stick but when
+I say put the pill in cheese people tend
+to remember that and it's more easily
+repeatable and then the last thing is
+use a story use an anecdote instead of
+using adjectives because adjectives are
+so subjective they're meaningless to
+people so if you give them a story
+that's something they can repeat over
+the dinner table
+do you have any examples of the of the
+Frameworks you just shared so you talked
+about maybe having an analogy or putting
+the pill in the cheese which I think is
+referring to when you feed a dog a pill
+yeah you want to hide the pill and the
+cheese is there any stories or examples
+that come to mind of this in action
+either some you've done or other
+companies you've seen one example not
+for the better is binders of women you
+remember when Mitt Romney said binders
+of women and it just absolutely caught
+on like wildfire and it's because you
+could picture the binder it's a
+hilarious mental image you make lots of
+jokes about it it's a very specific
+unusual phrasing that is very repeatable
+and it's so it lends itself so much to
+meaning so it's not something that they
+wanted to have happen which is I guess a
+word of caution this can backfire on you
+as well but that's an example I
+mentioned move fast and break things
+software is eating the world it's time
+to build those are these short phrases
+that take normal words and put them in
+an unusual order and then especially if
+you repeat them a few times they're they
+just come very sticky these things sound
+really smart and wise after the fact
+do you have any advice on just how to
+come like so we're talking about coming
+up with a cool phrase that'll spread of
+how to do that I don't know what have
+you seen work for like coming up with
+move fast and break things
+how would a Founder approach that you
+want to make it something that a second
+grader could understand like you want to
+minimize the cognitive burden on the
+recipient so it should be something
+where they're not having to expend any
+extra energy understanding the thing
+where it immediately paints a picture or
+if you were to make a joke it has to be
+a joke that they immediately get or it's
+a very widely understood reference you
+don't want it to be this inside joke
+with yourself that other people might
+get if you explain it to them
+so
+if you were to boil down the essence of
+let's say your company or your mission
+get it to one sentence and then turn it
+into a sentence that you could explain
+to a second grader and then cleanse it
+of all cliches and common parlance and
+if you can then turn that into an
+analogy or if you can make it into
+something that has imagery then you're
+probably 80 90 of the way there
+so you've definitely done this on
+Twitter it might be fun just to share a
+tweet or something of yours that has
+done this that has spread like crazy and
+notice that you delete your old tweets
+which I think is really smart yeah I
+should probably do that so I couldn't
+find any examples but I remember as
+being like holy [ __ ] it's got a
+bazillion views uh is there an example
+that comes to mind that you could share
+just here's something you put out that
+just went crazy
+I actually have a negative example too
+um I think it's useful to share
+my
+mistakes or missteps in addition to what
+went right because there's more mistakes
+and missteps than than what goes right
+you know
+um in general you try a bunch of things
+every once in a while they succeed but I
+think it's useful
+to think about what didn't land and so
+one of mine was when you might remember
+this because this was the sub stack era
+when we were taking a lot of incoming
+for not censoring enough and we took a
+stand that we want to encourage free
+expression I was actually on maternity
+leave so I was a little bit out of the
+loop but I wanted to jump in there and
+support the cause and so I did a thread
+about why we're standing by this
+principle even when it's hard and the
+threat was pretty well received it
+traveled a lot I think it was 30
+something thousand likes among people
+that we cared about like people who
+write on the internet uh and then there
+was one tweet in the thread where
+I said
+something like doing this isn't
+doing this isn't pleasant but neither
+for that matter is the sea
+completely esoteric reference it was
+fresh in my mind because it was from a
+New Yorker book review where in that
+context it was like Poetic and evocative
+and beautiful and I did the thing you're
+not supposed to do which is take an
+inside joke with yourself and release it
+into the world and that one tweet was
+sort of a dud in the middle of the
+thread where you could see the likes
+drop off precipitously and people were
+like what are you talking about and then
+afterwards I looked at it with fresh
+eyes well yeah this makes no sense
+whatsoever out of context and also I'm
+not in New York you know book reviewer
+so that was a good don't but the fact
+that it was such a colorful metaphor
+actually caught people's attention
+in in an accidental way like I didn't
+mean for it to
+um
+yeah I guess that's that's a don't does
+that sort of what's an example yeah
+that'll work and we'll go through other
+examples but yeah there's a good segue
+to something I was going to say for
+later but it may be a good time to chat
+about is just something that you're big
+on is this concept of taking risks as a
+comms person that you I think you have
+the sense that comps people are just
+very conservative and there's a big
+opportunity to go to a little out there
+in this case you didn't maybe didn't
+work out other times you have and it has
+you just talk about that kind of
+philosophy you have around taking risks
+I think if you're a startup your enemy
+is the status quo
+and when you don't take risks when you
+minimize Risk by doing nothing like the
+best way to minimize risk is to do
+nothing you're letting the status quo
+win so you're letting your greatest
+enemy and rival and threat to your
+business
+win by default because you're not even
+going to try to compete and so I always
+encourage people to try to make mistakes
+of commission rather than Omission
+because if you make a mistake of
+commission you can observe it you can
+learn from it you know right away that
+it's happened you can move really
+quickly and adapt and become better
+whereas if you make mistakes of omission
+you're letting status quo win you're not
+observing you're not learning and you're
+maybe not even noticing opportunities
+slip by so the example that I use
+again an analogy to make it more
+memorable my analogy for this is if
+you're investing money in the market
+versus if you're just sitting in cash if
+you're sitting in cash you won't lose
+your money
+and it feels safe but over time the
+world moves and the market grows and
+everybody else is getting richer and
+you're getting poorer in real terms
+whereas if you make an investment it'll
+go up and down there will be some
+volatility
+not just going to go up every day but
+over the long run you'll be much much
+better off is there an example of
+something you did that we took at risk
+and it worked out or you saw someone
+else do this really well the stand for
+free speech thread would be a risk that
+worked out it was a risk because it was
+a topic that
+a lot of people were already mad about
+which will happen with every topic that
+matters
+it felt a little risky for me because I
+was on leave I wasn't really in the
+middle of things I was kind of addled
+already so I I had at least one thing in
+there that was kind of nonsensical
+uh so there was the execution risk of
+would I be able to do this well there
+was also the risk of you poke your head
+up and
+make a thing where there wasn't a thing
+and if that were to go wrong and
+embarrass the company or if that had
+made Chris or Hamish or jiraj upset that
+would have been upsetting to me and
+obviously a failure of my job so that
+was a risk that I took and we took and
+they were supportive and it did work out
+because the the people who
+were most likely to write on substat
+generally appreciate that stance
+I actually have one more free landing
+when you asked about what are things
+that help stick in people's memory
+there was the kind of fail example of
+the C analogy I think a useful example
+that works is I often say
+to find your audience's cultural
+erogenous zones
+and it is
+something that you immediately know what
+I'm talking about if I say like know
+your audience is cultural erogenous
+sounds you know what it means it's a
+shorthand that everybody understands
+it's not an inside joke with myself and
+it's something that is unusual enough
+raising that you're going to repeat it
+and hopefully remember it
+so there's one for you you told me about
+that framework and I I want I definitely
+wanted to share more about it like what
+does that mean and is there something
+that you've seen someone do that's just
+like wow they really nail this
+erogenous Zone approach yeah it really
+they really got it in the garage just
+Bullseye
+so what it means is people have things
+that they either care about or don't and
+you're not going to change that
+so
+it's a huge lift to try to change
+someone's world view or their passions
+it's a light lift to take the thing you
+want to talk about and just shape it
+into to fit into their world view or
+their passions there's not always a fit
+there's going to be people who are just
+not your natural audience and you should
+know that and not waste your time
+but if you're a natural audience cares
+about X and you're offering why then
+it's your job to create sort of the API
+right or to create the bridge from X to
+Y it's not with messaging it's not build
+it and they will come it is so sorry and
+you'd have to be
+super humanly gifted to the extent that
+I can't recall seeing in my entire life
+where you create a message and a story
+so powerful that someone who didn't care
+at all before suddenly makes that their
+passion it's so much easier to take what
+they're passionate about and understand
+it and then convince them that if they
+care about that then they should care
+about your thing because of this
+connection
+this makes me think about any other
+tweets that I think went crazy which is
+where you share the things you're muting
+on Twitter where it's like the threads
+thimble and the pointing down thing and
+and it feels like that's exactly that
+where people are just like Yep this is
+yeah yeah it is that I have an example
+for you Lenny um the one that my mind
+goes to
+is when Kamala Harris was running for
+Senate
+it doesn't you know put aside what
+anyone thinks of Kamala Harris as a
+politician or if you agree with her
+politics doesn't matter when she was
+signing for Senate she had this example
+where not enough people care about K-12
+education it's not a sexy topic and only
+like moms care about it whereas people
+cared a lot and still do about National
+Defense National Security
+and so she said the way to get their
+attention is you go to people who care
+about National Security and you tell
+them did you know that in order to
+enlist for the Army you have to have a
+10th grade reading level because below
+that if you if you can't read at that
+level you're not going to be able to
+read the Army Field Manual
+and so if you care about the future of
+National Defense and being able to
+maintain a standing army you need to
+care about middle grade reading
+standards so that's a perfect example
+and in fact it stuck with me such that
+many years later I'm still repeating it
+to you
+hmm
+something else that I think what you
+teach helps with is
+underdogs kind of coming up against
+incumbent companies giving them a chance
+to stand out like substack I think is a
+good example where you just like helped
+Elevate substack on the world stage in a
+lot of ways what have you found works
+best for Underdog startups in companies
+trying to get attention
+first you have to acknowledge that
+you're the underdog and you're not going
+to use the GE Playbook from the 1980s or
+whatever so acknowledging that means
+knowing that you're not going to play
+the game that requires you to have more
+resources
+more in deeper relationships and
+institutional backings and to be able to
+draft off of the current narrative so
+all of those things that are going to be
+not in your favor if you're a startup
+for example
+by definition you're trying to disrupt
+something you're trying to do something
+differently right you're fighting the
+status quo and if that's the case then
+you can't rely on
+maybe the government maybe mainstream
+media to support what you're doing and
+so you should assume that you want to go
+with an approach that doesn't require a
+lot of money or people that doesn't
+require that institutional backing and
+those those relationships that means
+building your own distribution
+which you can do starting from day one
+you can start doing that before you even
+have the company it means taking your
+your story and winning hearts and Minds
+number one by making it a story that you
+shape to fit people's cultural zones of
+your audience and number two by finding
+the centers of gravity in society like
+the influencers that are going to help
+spread it for you because you're not
+gonna
+on day one call up the New York Times
+and get them to print the story that you
+want them to so you need to figure out
+who are the influencers and the way to
+do that
+I'll cut off the rabbit hole after this
+because you can just go deeper and
+deeper but the way to do that is in
+concentric circles there's a general who
+said if there's a problem I look for it
+in concentric circles going back to my
+own desk
+if you want to spread something you go
+out in concentric circles starting from
+your own desk so you need to get first
+really clear with yourself about what
+your message is and just get really
+crisp with it
+this is hard to do because you know too
+much so out of the Thousand facts in
+your head you're gonna have to pick just
+between one and three
+and then the next circle is going to be
+your co-founders your Executives your
+employees you go to your investors you
+go to your power users and you go out
+from there and it has to be in that
+sequence but once you get the sequence
+right and you identify who the people
+are and you know who your audience is
+and then you're able to hone in on what
+their cultural erogenous zones are then
+you're able to craft the message have
+the the delivery mechanisms and then
+know your Target and then you're off but
+you just need to do that exercise up
+front so you don't have a lot of wasted
+motion I really like this concentric
+Circle framework I haven't heard this
+before is there just to make it a little
+more real is there something that you
+could share something that comes to mind
+that kind of illustrates that well you
+and I have talked a lot about sub Stacks
+so I'm speaking out of term now that I'm
+not you know I don't have the employee
+badge
+but something that I thought the suspect
+Founders have always done so well is
+propagate product updates out in
+concentric circles so there's a lot of
+things where you're going to know about
+it like you Lenny will know about it
+more than a new writer who just joined
+because you're sort of a power user of
+the product and
+they would want you we then now they
+would want to make sure that you love
+the thing and that you feel unborn that
+you feel maybe even a little bit
+invested in the thing like you've been
+telling people about recommendations for
+nearly a year no one asked you to do
+that we didn't pay you to do that you've
+done it because you were brought on
+board early and it was it something that
+the company made sure that you liked and
+then you became the next circle out that
+spread it to your next circle out it's
+interesting because I didn't think of it
+as an intentional uh strategy to get
+news out and it feels like there's a
+Synergy with just talking to your power
+users getting feedback from your power
+users leads to this interesting second
+order effect where they also wanna they
+feel like they're on the inside of
+something they want to share it maybe
+talk about it and tell friends about
+like hey these sub Stack's working this
+cool thing yeah yeah it's kind of a cool
+uh yeah well early on Lenny you asked
+about how do you get a message to spread
+and I said you give people incentives to
+want to spread it so your incentive was
+you like helping others you know you
+like paying it forward and helping other
+writers and podcasters and you genuinely
+enjoy the thing and I think there's some
+value to your own project that you get
+to show social proof that a lot of
+people like this thing and it's growing
+and that's what you got if it had been
+like hey Lenny can you do us a favor and
+tweet this thing you might have done it
+but you would have done it once and
+stopped and it wouldn't have been
+something that you organically keep uh
+keep doing
+to make this even more real I'm trying
+to uh help people understand this
+concentric Circle idea so first up stack
+as an example what would be like the few
+layers of the concentric circle like on
+the middle would be maybe the power
+riders what would be like the next
+couple layers if the employees at the
+middle almost always and then it is
+depending on the company
+um so here it would be that the power
+writers it's used a lot of the original
+writers Bill Bishop comes up a lot he's
+like sub stacker number one he's always
+really meaningful and then it's like
+fast growing writers it is writer
+influencers there are certain members of
+the media that cover media and writing
+and so they matter a lot and then
+investors uh are in there just to keep
+close to the fold but if you're a
+different kind of company that might be
+employees bored
+institutional investors government and
+Regulators then users just depending on
+how much power each group has to
+influence your future and the weight and
+the reason I say go out in concentric
+circles as opposed to just hit each of
+these groups kind of haphazardly is
+that's your way to control the message
+because each circle is going to assume
+that the Inner Circle knows better than
+them and they're going to follow the
+lead of the Inner Circle so an example
+is if you and I have a company
+Lenny and Lulu this is like a DTC uh
+that's a great name yeah it is yeah yeah
+we should do it we should do this if we
+had a company
+and we were trying to put out
+a message to the world that our new
+thing works it's really revolutionary
+like our genes are the best genes
+if employees are not saying that that
+people are going to look at employees
+and say well they would know they're
+closer to this than we are so if they're
+not excited then why would we be excited
+and so that undermines everything that
+we're trying to do you can't skip a
+circle is my point super interesting and
+I imagine the closer they are to the
+employees the more time you spend with
+them and the more like innately they're
+closer and also their
+perspective and what they share is more
+powerful because they're closer to
+what's happening and if it goes wrong
+the more damage they can do if they so
+on the Spectrum it's if they
+are not totally on board and they're not
+an affected messenger versus they're
+just lukewarm and they're not really
+sure they believe it all the way to they
+actively fell off the bandwagon and uh
+you lost them and now they're out there
+like proactively contradicting
+everything you say or even trying to
+destroy the company that can happen
+right if it's an early
+employee for example feels disgruntled
+which is easy to do and it's easy to do
+through a comms mistake if you sell them
+on one thing and here's a vision and now
+either that's changed or you
+miscommunicated it they feel like
+there's a bait and switch they're gonna
+be really mad and now you've created
+someone who is incredibly credible
+and has the same social and Professional
+Circle as you and is trying to ruin you
+that's such a good point
+for someone that's trying to do this
+maybe internally they're like oh cool we
+got to create these circles for our
+startup what do you recommend they do do
+they like make a list of like here's our
+Inner Circle here's maybe the next
+circle of people yeah you take out your
+one-page Google doc I feel like most
+cons problems can be solved with a
+one-page Google lock say you go to your
+one-page Google doc and you take your
+audiences you list them probably stop at
+like five or six because past that it's
+like
+way way first world problem like you
+you'll have more than enough work to win
+over the five or six inner circles and
+then you have to rank them and you rank
+them by how much they're able to
+influence your success and how much
+credibility other groups assign them so
+then you have like your inner to Outer
+circles and then for each of them you
+would think about what do they care
+about that's their cultural erogenous
+sounds
+and where do they reside intellectually
+so do they listen to podcasts if so
+which ones do they go to in-person
+conferences are they getting all of
+their news from Reddit if so which
+subreddits are they on Hacker News and
+once you map that out then again you
+have the people you're trying to reach
+the ideas and messages that resonate the
+most with them and then the ways to
+actually reach them this is uh it's
+becoming like a real template we can we
+can start using yeah in the bucket of
+erogenous zones what are some examples
+of rajinisms for people in this context
+we've talked about the the
+pre-expression stand from last year
+a lot of people care about
+First Amendment protecting press
+freedoms and pre-expression
+not a lot of people care that a
+journalist said something mean about
+self-stack
+and so there were a few times when we
+did have to push back
+publicly against a journalist saying
+something
+mean and unfair or untrue about substock
+so obviously
+my and our ulterior motives is to
+vindicate the company and show people
+that this isn't true but if we had just
+done that nobody would have cared or
+maybe a few diehards would have cared
+there are people who care deeply about
+substack but not as many people and not
+as deeply as the people who care about
+their ability to express themselves
+freely or their right to build their own
+media platform without too many controls
+the way you described it earlier came
+back to me as you were talking which is
+this idea that lights people up like
+what lights people up within this list
+of people that you're making so that's
+uh that's really interesting okay so the
+idea is create this list of people
+across circles further and further away
+from your employees think about what
+lights them up what are their original
+zones intellectually and then think
+about where they spend their time
+intellectually what are they listening
+to what are they reading yeah that's it
+amazing it's not super cool it's not
+easy you know it's hard you have to make
+very difficult tactical decisions every
+day when you're doing that but it is
+simple yeah it seems pretty easy okay
+this is great another framework that we
+haven't talked about yet you have this
+kind of math formula for how idea spread
+is that ring a bell yeah
+okay let's get into that yeah I think
+it's useful to try to bring as much
+discipline as possible to comms because
+you're really just measuring Vibes and
+it's hard you know world of okrs and
+data and metrics it's hard to know if
+you're doing the right thing with cons
+and so I think whenever you're able to
+establish a framework as useful so this
+one is kind of a mathematical formula of
+comms for a purpose it assumes that you
+have a business goal
+and as a business goal not
+Communications goal it's not like get
+this many Impressions or go viral or
+blah it is you know we're going to grow
+our Revenue by X or we're going to make
+this kind of penetration into this user
+base when you have your business goal
+you're going to need certain people to
+do certain things for that goal to come
+true so for example you're going to need
+this type of person in this quantity to
+buy these sneakers in order for you to
+meet your Revenue goal
+so now you know who the people are and
+the action they need to take
+the next step is what do they need to
+believe
+in order to take that action
+so they need to believe that
+their feet are not comfortable now and
+that it's possible for their feet to be
+more comfortable and that'll have a
+positive effect on their life and that
+this new sneaker technology is real
+so they need to believe these things
+then it's where do they reside
+intellectually like how do you deliver
+that message to them and that's the who
+do they listen to which accounts do they
+follow which podcast do they or what
+what trips do they take
+um what newspapers Etc
+and when you have that then you
+had the equation of we need to deliver
+this message to these people through
+these mediums in order to get them to do
+this thing you know with this call to
+action and that way you know that you're
+at least pushing forward uh and getting
+something done with your comms as
+opposed to just saying words into The
+Ether
+I think you had something like there's
+like pressure and force and areas that
+part of this or is that a different
+framework different framework
+oh okay cool oh yeah okay okay
+let's talk about this stuff more
+Frameworks Lenny I love it this is what
+this podcast is all about okay let's do
+it this is a useful one for uh early
+stage startups especially where anybody
+who's just trying to be lean and
+efficient which is anyone who's an
+underdog like we talked about earlier
+um that if you decrease
+the surface area
+then with the same amount of force you
+can apply more pressure
+so the amount of pressure is the force
+is divided by the surface area this this
+is through a basic equation from physics
+but it's also true of communications
+which is
+if you decrease the surface area and
+don't try to appeal to everybody with
+everything and you're targeting exactly
+who you're talking to and you are
+sharpening your message to a point to
+get them in the bullseye of the cultural
+Rising Zone
+then you're able to with the same amount
+of effort or expense or time you're able
+to make more of an impact you're able to
+apply more pressure so I think of it as
+there's a Continuum between you can
+either hyper Target so that the extreme
+of the Continuum is you are becoming the
+life partner of one person that's like
+the ultra hyper targeting
+and then the other end of the spectrum
+is you're appealing to everybody you're
+appealing to a larger number of people
+but with a weaker message in a weaker
+way so you could say like world peace is
+good nobody disagrees with that
+practically but also it doesn't stick
+and it's not meaningful to them so you
+have to choose where you're going to be
+along that Continuum and for most
+startups I would choose towards the
+fewer people end of it where you choose
+who's going to be your die hards and
+then you Foster them and create really
+deep meaningful relationships with them
+and the way to do that is to decrease
+the surface area and apply more pressure
+it feels like you did that with sub
+stack where it was focused on like
+people writing online or or yeah I guess
+tell me is that how you thought about it
+sub stack of let's here's our little
+focused area and we'll focus Target
+message to that that was the goal and
+that's actually why I started spending
+time on Twitter it was a very
+self-loathing exercise like Hamish
+doesn't
+like the Twitter model nor do I we would
+talk about this a lot and I always felt
+a little bit Fringe being on there and
+then and before I worked at substack I
+had a sleepy account of a couple hundred
+followers that
+didn't do very much
+and I realized that the people that
+we're trying to speak to are heavy
+Twitter users whether it's media people
+or online writers and so I decided I'm
+gonna spend some time and try to
+build an audience and then that audience
+became leverage For Better or Worse like
+I don't think we should measure people
+by their Twitter following but the fact
+is that if you have more than
+journalists and writers take you a bit
+more seriously and so if I was gonna
+try to carry a message on behalf of the
+company I felt like it would be more
+effective if I had more people yeah and
+it worked
+this episode is brought to you by vanta
+helping you streamline your security
+compliance to accelerate growth if your
+business stores any data in the cloud
+then you've likely been asked or you're
+going to be asked about your sock 2
+compliance sock 2 is a way to prove your
+company is taking proper security
+measures to protect customer data and
+builds trust with customers and partners
+especially those with serious security
+requirements also if you want to sell to
+the Enterprise proving security is
+essential sock 2 can either open the
+door for bigger and better deals or it
+can put your business on hold if you
+don't have a sock 2 there's a good
+chance you won't even get a seat at the
+table beginning a sock to your Port can
+be a huge burden especially for startups
+it's time consuming tedious and
+expensive enter vanta over 3 000 fast
+growing companies use vanta to automate
+up to 90 of the work involved with sock
+2. Banta can get you ready for security
+audits in weeks instead of months less
+than a third of the time time that it
+usually takes for a limited time Lenny's
+podcast listeners get one thousand
+dollars off vanza just go to vanta.com
+Lenny that's
+v-a-n-t-a.com Lenny to learn more and to
+claim your discount get started today
+going back to this formula pressure
+equals force divided by area basically
+to increase the effectiveness of your
+message you can either increase the
+force and what is in this context force
+is it like the amount of messaging or is
+it like the success of your message it's
+the amount of effort you put in
+it's how much you're spending on this
+campaign or
+you have a limited amount of hours in
+the day and dollars in the bank and so
+anytime you're doing something with
+thumbs you're either paying the dollars
+or you're paying the time sometimes
+you're drawing down on credibility too
+you know you have a certain amount of
+credibility and you there are times when
+you just have to say please trust me you
+can spend that more efficiently if you
+focus so instead of if you just take a
+simple ad campaign instead of spending a
+million dollars to reach a million
+people maybe you spend a hundred dollars
+to reach the hundred most important
+people and focus that message exactly to
+them so that when they see your ad
+they're actually going to click on it
+and they're actually going to forward it
+and that's a much better return and then
+you might end up with a million dollars
+worth of return because those people
+were so passionate that they then became
+their own Messengers without you even
+having to be involved anymore
+this is a really great framework again
+is your advice that for the smaller you
+are
+just basically reduce the area yes and
+the larger you are you increase that
+over time yes if you're just starting
+out get
+10 die hards and just spend all your
+time you can't start out and try to win
+over the general public you start out by
+creating a tiny not the best analogies
+what I can think of right now a tiny
+Monopoly so you carve out and it's the
+same like succeeding on sub stack or
+succeeding on you know creating anything
+on the internet right you choose what is
+going to be your tiny corner of the
+internet that you are going to just
+dominate entirely
+and the smaller it is the more you can
+dominate it and then these people that
+are in it become your True Believers
+your your die hards and they'll expand
+it out to the next Circle and then you
+go from there but if you try
+to win over everybody at the same time
+it's for you know food coloring in the
+ocean kind of thing as opposed to food
+coloring in a cup is there an example
+that comes to mind if someone that did
+this really well I don't know I know
+it's hard to think of just an example
+off top of your head but does anything
+come to mind biology did this really
+well with his book the network state
+that book was super successful he didn't
+do a lot of the traditional book Tour
+New York Times done you know he went his
+own route and I think that was really
+smart if you're gonna
+put it in the setting of this framework
+it's he created his own distribution
+channels he didn't try to compete with
+like the roster of harpercollins on
+their turf and when he created his own
+distribution channels he focuses on who
+are the die hards and the true fans and
+these are people that he Fosters he goes
+on podcasts that reach these people he
+said he doesn't deviate from messaging
+to try to appeal to everybody there are
+people who just will never like that guy
+and he is totally fine with it so he's
+not watering down who he is to appeal to
+people who will never like him which
+it's tempting for companies to do you
+hate when people are mad at you so you
+try to appeal to them and then your true
+fans lose their passion because the
+thing that made you so special has now
+gone milk toast so biology Fosters his
+true fans and then when the book
+launched they propelled him to the top
+of the Amazon list because they were out
+there evangelizing proselytizing you
+probably saw all these tweets about his
+book he didn't pay anybody as far as I
+know he didn't pay anybody to do that he
+just shared it with the people and they
+wanted to show that they were into this
+that's a great example I know that
+Founders often worry focusing too
+narrowly limits their market and it's
+never going to grow into anything large
+in your experience do you find that
+that's just often not true that there's
+often a much bigger opportunity than
+they think and or is that just a good
+way to start and then you expand from
+there it's both I mean the denominator
+if you're writing online or doing
+something online the denominator is the
+size of the internet you don't need to
+capture 80 of it if you capture point
+zero one percent of it that is a great
+business and then you can go from there
+like once you've won that then you can
+decide to go from there and you know the
+world is a big place so now that
+everything is digital the denominator is
+so large that I wouldn't worry too much
+about the numerator
+but it is also true that if you start
+off trying to appeal to too many people
+you have to water down your stuff so
+much that you'll never stand out and
+you've written about this Lenny right
+with how to how to be viral how to be
+noticed and one of the things is be
+remarkable and you can't be remarkable
+if you're trying to appeal to so many
+people that you have to become the
+average of five you know 500 000
+people's tastes this is a good way to
+think about I think when something's not
+working when you're you know you're
+trying to get a bunch of attention for
+your product and it's not no one cares
+feels like this is one reason is just
+you're going too wide right yeah I think
+that's probably the most common reason
+um
+is there maybe just thinking about
+diagnosing why your comms may not be
+working this may be too big of a
+question but just like what other
+explanations could there be for why no
+one cares about what you're trying to
+put out you're doing it as a corporation
+instead of a person this is another
+Super common mistake it's like you're
+you're letting yourself speak like a
+faceless Corporation because it feels
+like that's what you should do now like
+okay now you're a real company and now
+you got to do real company stuff that
+means you have to issue dick freeze on
+behalf of the C Corp and you don't and
+it doesn't work because people don't
+trust institutions people don't like
+corporations or at least are not
+passionate about them people care about
+people entrusted like people and so
+there's a sense of wanting to cosplay an
+executive
+and it doesn't it doesn't work it
+doesn't resonate a good example of this
+would be Ryan Peterson at plexport
+his company even after it got huge he
+never became the generic corporate chief
+he always was a person and there are
+people many many people who became
+interested in flexport because Ryan's an
+interesting guy and it's not like they
+had a passion for uh Logistics and
+freight and shipping but he's doing it
+something interesting and then he became
+the human gateway drug for people to
+become interested in his company
+yeah absolutely he uh he had that crazy
+viral tweet about the uh the ports and
+that's a really good example yeah man I
+was going to go in a different direction
+but maybe we go to this idea of going
+direct yeah you're a big fan and biology
+is a really big fan of this too speaking
+of him of just this the importance of
+going direct so maybe just talk about
+what does that mean and why is that
+important these days well biology is
+more go direct than me like he thinks um
+soft in this area because I think that
+there's still a place for engaging with
+media and that it's just another tool
+he's for just like straight up go direct
+undistilled but I think that
+for everybody a hundred percent of the
+time you want going direct to be a part
+of what you're doing whether it's all
+you're doing whether you're doing
+something else you can't not have a
+direct Channel
+so what that actually looks like and
+people say this all the time go direct
+what does that actually look like to go
+direct it means that the founder or
+executive or some very senior person
+has to be speaking
+from themselves first person maybe first
+person plural and speaking in a human
+voice authentically you see them make
+mistakes you see them be vulnerable and
+they have to become an ambassador to the
+community if you don't have that then
+you don't have a direct Channel even if
+you have a Twitter or a sub stack or
+whatever it's not direct if it's not
+connected to a person because if the
+other side of it is a corporation
+there's no direct connection and then
+the second thing is start building your
+own audience as soon as possible you can
+do this alongside
+engaging with the media or doing
+traditional things
+to the point of focusing your energy and
+decreasing the surface area for startups
+I would not recommend trying to do an
+Instagram a Twitter LinkedIn YouTube and
+tick tock I would choose
+the thing that that person is the best
+at
+so if your spokesman is going to be your
+CEO which is a good default
+they're going to have a dominant
+communication style where they're the
+best
+uh at being themselves and that's
+important because if somebody else is
+post writing all their stuff it shows so
+some CEOs are better at writing long
+form some CEOs are better at doing
+videos some do better with audio or
+podcasts somewhere better with short
+form like the way that Elon Musk
+communicates on Twitter he's like
+born to do Twitter I guess like you
+can't picture him
+writing long thoughtful blog posts is
+not a thing that he does whereas
+um Brian Armstrong or Hamish or Chris
+they write great blog posts that are
+sincere and effective and that's better
+than them just trying to do it only
+through tweets so pick the thing that
+your spokesperson is the best at and
+then invest everything into that channel
+and then build it up to a decent amount
+and then expand outward because if you
+try to do if you try to build six or
+seven channels at once you're just not
+going to get anywhere I think that's a
+such an important point I feel like me
+choosing a newsletter was actually a
+really good choice it's like I'm not a
+as much as you may not believe this I
+just like I'm not a performer person I
+just want to hide behind the computer
+and just like type stuff and the
+newsletters especially during covet I
+was like I just sit at home and share
+stuff and get it and think about it
+where it's like hello everyone and it
+took me a while to get to this point of
+like oh I can maybe do a podcast because
+I've built up a little more confidence
+that this is useful so I so agree with
+that and that's what I tell a lot of
+people just like pick the platform that
+is most natural to you maybe you like
+talking maybe you like perform maybe
+maybe you just want to sit and type and
+that's a good point too Lenny because it
+changes
+over time right like just because you
+pick one thing doesn't mean that you're
+stuck with only that forever like over
+time you might choose different things
+and I've seen Founders become a lot more
+comfortable in front of the camera for
+example once they've done a few reps and
+the other reason to to know that you can
+just change it over time is otherwise it
+feels like a deterrent to getting
+started sometimes there's paralysis of I
+don't know which thing to choose and so
+I'm either going to do a bunch of them
+or none of them like go with your gut
+pick one and you're not wet to that
+forever you can always change it down
+the road do you think every founder
+needs to be on Twitter I get this a lot
+from Founders do I need to be on Twitter
+I hate Twitter what's your take no I
+think a lot of Founders do if they are
+super Mission driven for example that's
+one way that you're gonna find other
+people that resonate with your mission
+and that you're gonna make the case for
+the mission if you're Mission driven
+there's also a good chance that you're
+doing something that some people love
+and some people hate and so you're gonna
+need to be out there fighting the fight
+in a way I don't mean in a pugilistic
+antagonistic way but you have to defend
+your thing and so I think it's important
+if you're Mission driven I also think
+it's important if your Charisma is a big
+part of recruiting for the company there
+are some companies where the founders
+Charisma is a big part of why people
+want to go work there right so like
+Palmer lucky and Andrew he is magnetic
+to a lot of Engineers and they want to
+go work with that guy specifically
+whereas there are companies where people
+want to go work for the company and it's
+less important that the founder is vocal
+what's interesting I found recently is I
+get more traffic to my newsletter from
+LinkedIn and Twitter is that something
+you think about at all like going to
+LinkedIn instead of Twitter feels so
+wrong to say but what's your take there
+yes if you are
+career related LinkedIn will be a lot
+better one it's better because it's not
+such a cesspool where anything
+immediately becomes controversial and
+people fight over it in the mentions two
+because LinkedIn is really underutilized
+and Founders should know this PM should
+know this LinkedIn is super
+underutilized because it gets a ton of
+eyeballs in time
+but most of the content sucks like 95 of
+the content this is not scientific
+you might estimate
+95 of the content is people
+congratulating each other on work
+anniversaries or people saying I'm so
+proud of my team for this thing they did
+it's not actually interesting and then
+people react out of a sense of
+friendship and affection or support
+right but actually genuinely interesting
+and useful content on LinkedIn is very
+rare so the ratio of your
+competitive set
+of interesting content versus how much
+time and attention people spend on there
+is excellent that is really good advice
+I'm gonna throw a fishing line into the
+pool of examples he talked about people
+doing this well uh going direct apology
+talk about Ryan Peterson and uh Elon
+obviously is there anyone else that's
+just like here check out what they're
+doing and could be a good model to learn
+from I think it's um
+really interesting to see what Mike
+Solana is doing with pirate wise here's
+an example of why it clearly makes sense
+to have the founder be very active on
+Twitter because he is his own recruiter
+and spokesperson
+so I think the makeup industry actually
+is at the Forefront of of this the
+makeup industry is smarter than all of
+us in how they use social media and
+influencers because they caught on very
+early on that people don't buy makeup to
+subscribe to makeup brands that they do
+it because a certain celebrity or
+influencer or Kardashian
+has this nice looking eyelid and they
+want their eyelid to look that way
+and so going back years before the rest
+of us were talking about going direct
+there are makeup companies that would
+spend zero dollars on marketing and
+minimal efforts on press and pour all of
+it you know decreasing the surface area
+pour all of it into fostering a small
+roster of influencers and having them
+spread the message and so I think watch
+makeup companies watch consumer
+companies they're doing it right they
+speak with a human voice they speak
+through human beings and and they're
+fast like if there's a trend the same
+day they will have hopped on the train
+you know within an hour they're on the
+trend as opposed to
+other Industries or more traditional
+companies that take a few days and they
+routed through approvals and then the
+opportunity is done what are some makeup
+companies for people to check out to see
+what they're doing so NYX NYX uh it's a
+division of L'Oreal
+NYX is one of the makeup companies that
+has
+as far as I know zero dollars spent on
+marketing and all of their dollars and
+all of their effort spent on paying
+influencers and they really out punch
+their weight in terms of using humans to
+deliver a message that contains a call
+to action and then selling out product
+and the product will be like
+a normal black eyeliner it's the most
+fungible thing you could possibly
+imagine and that one eyeliner will be
+sold out at CVS's across the country for
+a couple weeks because they did
+something right with their social media
+using a person
+just a couple more questions around this
+going direct concept I don't know if you
+actually uh talked about why that's
+important because I think we talk about
+this a lot and I think people may not
+recognize why people find this so
+important these days what's kind of the
+motivation behind that with baljian and
+other Founders there's two reasons it's
+important there's the offense and the
+defense of it
+the defense of it is
+going back to having the underdog the
+Insurgency mentality if you're trying to
+do something different that goes against
+the grain people are going to attack you
+not everyone's going to like it and the
+point is that not everyone should like
+it but you need a way to stand up for
+yourself because you don't have the big
+institutions and power structures that
+are going to do that work for you
+because you're going against the brain
+so if you're going to stand up for
+yourself there's only one way to do it
+which is you do it and so building the
+audience and the channels and you have
+to Prime the market by which I mean like
+if you're a public company you're
+priming the market by getting them used
+to how you convey information to them if
+you're a small startup or a Founder
+you're priming the market by making your
+audience aware of how you normally
+communicate so that when you do
+something it's not weird like if you
+never post and then suddenly you start
+posting people are going to think you're
+having a crisis or something like what
+is going on they're going to try to read
+into it so you have to already have the
+Cadence and the relationship
+set up so that when you need to draw on
+them if you're under attack then you can
+that's the defense of it the offense of
+it is
+if you're doing something new and if
+you're Mission driven and if what you're
+doing is truly unique and Innovative no
+one else will be able to tell that as
+well as you media the most
+friendly sympathetic reporter on Earth
+could not tell that as well as you
+because they don't understand it as well
+as you and so the onus just falls on you
+to do it
+if someone listening is like yep okay I
+fully agree time to do this what do you
+suggests as a next step to starting to
+kind of build an audience going direct
+broadly
+step one would be assessing what are you
+good at and what do you enjoy so that's
+where you decide do I like long form
+writing or do I enjoy podcasting or what
+are my mediums
+step two is setting up your account on
+those channels so if you enjoy long form
+writing then you're gonna have to choose
+do you do a sub stack do you do a media
+or whatever else there's a objectively
+right answer on that one but you know if
+you if you are doing
+short videos you're going to choose or
+you got to invest in Instagram or you
+got to invest in Tick Tock you set that
+up and then you start building your
+audience and when you start if you're
+actually starting from zero get some
+pipeline of talent ready so no no sorry
+not pipeline of talent pipeline of
+content get it ready it's the same way
+as if you're launching a sub stack if
+you're launching a sub stack you want to
+get like a week or two of posts ready to
+go so that out the gate you can build a
+lot of momentum with uh different social
+networks it actually helps the algorithm
+if you come out the gate strong and are
+really regular so Tick Tock for example
+if you're starting at Tic Tac with zero
+followers you want to get a week or two
+of solid data just in the pipeline so
+you can hit it hit it because the
+algorithm favors you right as you're
+starting out because they want you to
+keep going so you want to ride that as
+much as possible so that's step two is
+just get yourself ready for launch don't
+do one post and wait like get a bunch of
+posts ready and then boom boom boom and
+then 3 three is to have an ongoing
+um
+content strategy you know who you're
+going to reach you know what they care
+about so you have to plan out here's the
+Cadence with which I'm going to talk to
+them here's how I'm going to do
+community management and respond to
+people and here are the ways where I'm
+going to do announcements and you get
+into a Cadence because it's the same as
+growing a newsletter the regularity and
+the consistency is a big part of growing
+and so it's the same with audience a
+mistake that people make I think is just
+every once in a while trying to go viral
+as opposed to just being consistent and
+then you know some posts do better than
+others organically but that's the way to
+do it
+I don't live that uh I'm not a good
+example I because I'm so sort of
+self-loathing about being on Twitter I
+will go away for one or two weeks and do
+nothing and then I'll come in with a
+bunch of posts in one day it's not a
+best practice it's not the way you're
+supposed to do it ideally you're just
+there
+every day saying something and then it
+builds over time I'm actually an example
+of
+trying to focus on consistent non-viral
+content and it it's worked out it has
+worked out it's interesting it's worked
+out it's worked out so far but it's
+interesting to see how different people
+act and how it's like I'm trying to go
+viral every tweet every post and yeah
+that is hard yeah and it's also just
+like people can tell you're just trying
+to like
+create some viral thing and no one cares
+yeah and it's obvious when you're just
+trying to go viral for the sake of it
+and you don't have a real message it's
+like the the post the um when people
+screenshot the iPhone you know six digit
+security code and they say best feature
+Apple's ever built you know a few people
+did that and now I've seen it probably
+dozens of times and it doesn't even help
+to get you followers because that's not
+something where people say only this
+person could uniquely give me this kind
+of content in the future like if you're
+gonna get followers with a one-off joke
+it has to be an incredibly hilarious
+one-off joke where they say this person
+is gonna keep entertaining me but with
+these kind of viral baits I don't think
+it's even that effective and also what I
+find is something does go viral whatever
+the term correct term is and then you
+like life goes on like nothing's gonna
+significantly like that's just one thing
+yeah and then you have to do it again
+and again that's that's where people
+don't realize like oh it went viral I'm
+done my life is good now no nothing's
+gonna really change just often and you
+have to do it again and again yeah I
+think that's true one thing that I've
+noticed about your audience Lenny is
+that it's a good
+it's the Right audience like it's the
+people who find Value in what you do and
+they're in the right place and there's a
+match
+sometimes in the effort to just gain
+followers for the sake of it or go viral
+for the sake of it you end up with a
+mismatch of the audience you had this
+viral hamster tweet and now they're all
+here expecting hamster content and
+they're not engaging with you you're not
+bringing value to them it's just making
+the number go up which is not that
+meaningful
+so one example of this is
+there's all these threads about how to
+just grow on Twitter for no reason just
+grow for the sake of growing and it's a
+lot of generic advice of like make sure
+that you bullet point out the 10 things
+but it's always kind of pablum of make
+sure that you value your relationships
+and make time for yourself and things
+that are not enriching people's lives
+they get a lot of likes that are kind of
+low value likes from random people about
+the internet
+but I don't think that they're deepening
+a relationship with a meaningful
+audience and I don't think that they're
+really capturing the respect and
+admiration of their peers so I think
+it's just important to consider what
+trade-offs people make in their efforts
+to grow well with that we've reached our
+very exciting lightning round I've got
+five questions for you are you ready
+ready first question great what are two
+or three books you've recommended most
+to other people I recommend Gates of
+Fire it comes off the Marine
+commandant's reading list it's on there
+perennially it is about the Battle of
+Thermopylae it's the 300 Spartans but
+it's the whole back story and if you get
+into it it's about leadership it's about
+courage but it's about creativity and
+it's really well written so that's one
+that I recommend a lot what's a favorite
+recent movie or TV show I've been
+watching The Last of Us like everybody
+on Earth I've been watching it both for
+entertainment and for work because it's
+really interesting to see how the show
+drives sales of the video games and how
+you can use that to kind of make the
+whole of the sales greater than the sum
+of its parts so I'm watching that really
+carefully interesting
+uh we're gonna we have a drinking game
+now every time someone says Last of Us
+that's a new thing yeah because it's
+starting to come up a lot yeah so
+everyone enjoy your drink
+favorite interview question you like to
+ask I like to ask people what they've
+been reading too it's a good way to get
+good book recommendations it's always a
+good it's also a good way to see where
+their heads at when they're not working
+favorite SAS products that you use day
+to day and bonus points for something
+that is new or interesting that you've
+recently discovered I don't know that
+this is newer novel because I use notion
+for almost everything and I really like
+the new AI that they filled into it I
+also have been using Lex which is uh
+Nathan bashas's startup where it's like
+the AI writing editor that you've
+probably seen
+trying to think if there's anything that
+I use that other people don't I don't
+think I'm terribly original in that
+sense I do I use a lot of Microsoft
+Excel which I think is controversial
+that is wow that's cool but I get it
+that's when you know you're serious
+doing serious work
+yeah exactly final question best tip for
+someone trying to get attention for
+their product takeaway tip best takeaway
+tip
+give it away for free to the right
+people
+if you can choose the people who are
+gonna love it like if you look at the
+Venn diagram of people who are going to
+be obsessed with this product and people
+who have a large following among the
+other people that you want to get to
+whoever falls into that sliver of the
+Venn diagram shower them with free
+product
+amazing Lulu I think this conversation
+is going to lead to a lot more people
+doing direct taking risks and ideas
+spreading thank you for being here two
+final questions working folks finding
+online if they want to learn learn more
+and reach out and how can listeners be
+useful to you
+people can find me at getflac.com that's
+where I write down my ideas hopefully
+more frequently in the future than in
+the past but that's where they can find
+some of this stuff if they're interested
+how can uh listeners be helpful to me is
+to give me feedback I'm learning on the
+job I don't think that there's anyone
+alive who's an expert in communicating
+in this crazy environment that we have
+now I think we're all crossing the river
+by feeling the stones and so your
+listeners have gone through this in many
+different ways and I hope that if they
+have new ideas of feedback or objections
+that they'll email me through that
+website or on Twitter and let me know
+what they think amazing it's getflac.com
+we'll link to it in the show notes thank
+you lulu thank you for being here and
+sharing your wisdom with us thank you
+Lenny appreciate it
+thank you so much for listening if you
+found this valuable you can subscribe to
+the show on Apple podcast Spotify or
+your favorite podcast app also please
+consider giving us a rating or leaving a
+review as that really helps other
+listeners find the podcast you can find
+all past episodes or learn more about
+the show at lennyspodcast.com
+see you in the next episode

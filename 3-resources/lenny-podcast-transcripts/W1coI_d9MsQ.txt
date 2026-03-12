@@ -1,0 +1,656 @@
+hello Lenny
+con I'm Mika I'm a product lead at figma
+and the founding PM for figma slides and
+I'm Yuki and I lead the product team at
+figma and today we are so excited to be
+chatting with you about how to do the
+product review right by actually doing
+it a little bit wrong specifically we're
+super excited to take you behind the
+scenes and give you both the icpm as
+well as the CPO perspective as folks go
+ahead and navigate this favorite
+ritual all right so I want to set a
+little bit of background and context on
+product reviews it's part of back going
+through a brief history on product
+reviews right and presentations began as
+oral Traditions next uh okay uh so over
+time they became digital and as part of
+that uh visual aids like slides and
+projectors came
+next next next
+next
+next and scene that that was an act
+don't worry I saw some people in the
+audience get real uncomfortable for a
+second uh but it was all inspired by my
+own experience and one of my first ever
+product reviews with Travis uh when I
+was back at
+Uber and as you might imagine these
+reviews were quite intense and you can
+get a sense of the vibes from that photo
+that someone had the audacity to take uh
+during such one such review um and in my
+very first review with him he just kind
+of took over and the product review just
+basically became me flipping through the
+deck for him from one side to the next
+at one point he just said I'll just read
+it myself
+and I was kind of his remote control and
+needless to say I didn't feel this was a
+particularly successful product review
+and sure Travis probably got what he
+needed but I felt like I lost control of
+the narrative and I had trouble
+directing him to the areas where I
+needed him to pay
+attention and in talking to a bunch of
+PMs and being on the other side as well
+I've come to realize that there are lot
+of product reviews that feel this way
+where they feel somewhat broken in some
+way and Mika and I believe that this may
+be because PMS are often given advice
+about how to run product reviews that
+sound right in theory but in practice
+are very
+wrong most PM things that product
+reviews are for making decisions that
+there are this forum where you need to
+choose between radical Choice a and
+radical Choice B the only time that you
+could possibly get a green light to move
+something forward well we disagree with
+this we actually think that the most
+important outcome that can come out of
+her product review is not just making a
+decision but building trust and winning
+over your key stakeholders and today we
+are so excited to walk you through a
+little bit about why the things that you
+have probably been coached to do or are
+coaching your team to do ever since they
+started out as a PM might actually be
+wrong and why some of the things that
+have traditionally been considered taboo
+might actually lead you down a path to
+success and so let's start by taking the
+typical half an hour product
+review I mean the typical 25 minute
+product
+review now at figma we use product
+reviews in the form of slide decks most
+of the time so that's going to be a lot
+of what we're talking about here but we
+really believe that the takeaways are
+applicable to any forum and any
+conversation be it walking through a
+deck or even an informal conversation
+huddled over a computer or in the
+hallway so a few minutes into a review
+normally the PM is setting the
+context when I gave my first product
+review at figma I started screen sharing
+and was immediately surprised to get a
+ping from Dylan does anyone have the
+link so as I started kicking off the
+conversation talking about why we were
+so excited about voting in fig jam and
+why we believed that this bet was really
+the one taking I kind of paused because
+when I was looking through the file what
+I saw was Dylan scrolling all the way to
+the end of the deck totally ignoring
+what I was saying and so hopefully most
+of you are familiar with Google
+translate today we're going to be
+walking you through something new exact
+Translate
+and we're going to be translating exec
+speak into
+English and over time I came to learn
+that when Dylan was actually asking me
+does anyone have the link this was code
+for what's the actual
+recommendation now having set some
+context maybe a few minutes later the PM
+often checks in with their attendees and
+one common thing you might do is say hey
+I've been spending a lot of time talking
+I'm going to going to pause now and I
+want to see if we're aligned in an
+agreement on the problems the goals the
+principles right something you hear a
+lot and often that's met with this
+really awkward silence right all the
+time exactly and the silence can mean a
+lot of things many of you in the
+audience have probably been there as
+reviewers you're likely tuned out
+because the initial context didn't seem
+all that important or more likely if
+you're like me you're probably
+multitasking doing slack on the side
+um or often it's just really too early
+to be able to say or aine because I'm
+just wondering is this a trap because
+we're not entirely sure what it means to
+agree at this point in the in the review
+it could sound like great framing but
+still lead to the wrong recommendations
+so instead of abstractly agreeing I kind
+of want to cheat I want to cheat and
+look ahead to see if I agree with the
+final recommendation before saying we
+agree at this stage of the
+review and so why does this awkwardness
+happen in a meeting well we think it's
+because PMS are told that they should be
+spending some time really setting up
+these great setup slides making sure
+everyone has all the background and
+context uh before uh before entering the
+uh before entering their review and so
+uh one of the things you know people are
+often told is well build up context
+right and so what ends up happening is
+you know we see templates like this
+you'll see an agenda and it'll say okay
+here's the background the problems we're
+trying to solve the goals the principles
+and then the solutions and the
+recommendation right seems like a really
+good template but the problem of course
+is that the spicy proposal is often
+buried at the very end so you spend all
+this time in the meeting building up
+context that most people are kind of
+tuning out right or they don't know
+exactly how to react to or kind of
+mildly agreeing to and it's only the
+last few minutes that you get to the
+good stuff right you get these
+interesting reactions whether good or
+bad and it's also possible of course
+that the framing and problems and goals
+are themselves spicy but it's hard to
+discern that before you actually know
+the
+recommendation and so that's why we
+think that this advice is wrong or often
+misunderstood and so as much as it feels
+wrong from a storytelling perspective in
+a review we really believe you should
+start with the punchline not to build up
+context and all the suspense but rather
+go quickly to the part that feels
+controversial the thing that will cause
+everyone to pay P attention and actually
+engage in the conversation and so in
+other words instead of this gradual
+buildup towards the interesting part of
+the content starting as early as
+possible with the stuff that motivates
+everyone to pay attention that might
+mean you get a violent reaction but
+that's a good thing so how do you
+actually do that so this is the bird's
+eye view of one of the uh figma slides
+Vision
+de and the spicy stuff or the bits that
+are good and interesting are the yellow
+and pink SL these are the ones that go
+into key Concepts as well as the great
+product thinking and thinking around
+differentiation so one of the things
+that I like to do is think of it as a
+stack right and say okay when do you
+actually get to the good stuff is it
+within the first 20% of the deck or the
+first five minutes of a review that's a
+gut check I like to do and I like I to I
+like to ask my PMS to do it and this
+sounds really simple but you'd be
+surprised how many decks actually are
+far more topheavy with the context in
+the background which ends up up setting
+this meeting up for
+failure there are other subtle ways to
+do this as well uh take for example this
+typical title card right uh that grounds
+you in where you are in the deck it
+might say something like audience or
+maybe more dramatically who is our
+audience right but it's so much nicer if
+they can just cut to the Chase and again
+get to the punchline because people
+don't like having to guess and having
+title cards with a point of view means
+that people pay attention up front and
+if you're like me right and you get
+distracted you can quickly scan and
+glean the important parts and
+immediately engage in the
+discussion and sometimes though you
+don't know what's spicy you don't know
+where you should be spending the time
+having the discussion and so one ritual
+that we like to do in figma is actually
+have what we call this alignment widget
+where we solicit uh everyone's uh
+opinions and see where the misalignment
+might be so that a PM is spending the
+time honing in on the areas where
+there's the most disconnect so that we
+can discuss
+spare so that's our first tip which is
+to tell your PMS not to spend so much
+time building up context because you're
+going to bore everyone because even
+though it's the right thing to do
+actually a lot of people just don't even
+care so rather tell your PMS to get to
+the punch line first to get the violent
+reactions
+early the next thing that PMS often try
+and do is to cover all their bases when
+they're pulling together a deck or a
+dock they're thinking about how can they
+ensure that that each section is chalk
+full of new information but at the end
+of the day if you're saying everything
+chances are what everyone else is
+hearing is kind of nothing and so we
+think that rather than covering all your
+bases what you should actually be
+coaching PMS to do is to make a meme and
+go internally viral within the company
+so let's talk a little bit about what
+this looks
+like the original figma slides Vision
+deck had two
+memes the first was in the title
+itself we used to refer to this product
+as flies internally and in the initial
+Zoom meeting where we pitched this
+product it was really important to me
+that we didn't give it a generic name
+like figma slides figma decks or
+presentations but rather in order to
+create a ground swell for this Bottoms
+Up initiative in order to but an
+entirely net new product on our road map
+it was really important to me that
+someone across the company regardless of
+if they were a very tenur engineer or a
+new hire on their first day of work
+heard this term and immediately wanted
+to learn
+more the term took off like wildfire
+within the company the animation sync
+became the flan animation sync the
+layout work stream became the Fout work
+stream and when folks would hop onto
+zoom on a Friday afternoon they would
+promptly wish everyone a Happy fly
+day my own mom got irrationally attached
+to the name flies and when it came time
+to name this product when we were
+actually going to Market she was
+insistent that I please don't give up on
+figma
+flies when we actually went to Market in
+June Twitter blew up and even though we
+went to Market with a pretty normal
+product this almost emotional and
+irrational
+attachment that folks felt to this very
+quirky word meant that Twitter was
+blowing up there were thousands of
+impressions of people who were stoked to
+try this product because of this like
+kind of cooky name and so as you're
+thinking about how to build a meme and
+go internally viral with your idea think
+about how you can create an internal
+brand and something that folks can
+really latch on
+to the second meme was actually a stat
+specifically
+that over 3.5 million people had made
+slide de and figma design over the last
+year now this is a stat that ensured
+that we weren't only investing in this
+product because we had some interesting
+product ideas but that there was a real
+pain point a real user need here that
+was currently being unsolved there were
+millions of folks going through acrobats
+to hack a product that was not purpose
+built for slide slide slides in order to
+do so and so it was this meme that gave
+us internal traction and that made folks
+kind of excited about taking a bet in
+this space and stats and data can work
+wonders and what I would encourage all
+the PMS in the room to do is not just
+think about what are the top five or 10
+stats that folks need to remember but
+what is that one thing that will tip
+your executive over the
+edge and so when we went to Market and
+when we announced figma slides this was
+also the stat that got thousands of
+designers in the audience to raise their
+hands as someone who had gone through
+this pain point and nearly everyone was
+shocked to realize that it was so
+prolific around them as
+well and so next time you're thinking
+about how to cover all your bases go
+ahead and make a
+meme all right so at some point later in
+the meeting let's say 17 minutes in
+someone will ask a question that's
+unexpected
+and despite the PM asking that they like
+to field all questions at the end of
+course people like me chime in anyway
+and ask a question that about something
+I'm wondering
+about and a classic PM response is to
+acknowledge the great question and then
+the ab absence of a immediate answer to
+say they'll Circle back right you'll
+take an action item and here too there's
+some pretty subtle ways that trust can
+get degraded right while it's nice to be
+told that it's a great question it can
+always be disappointing to hear that
+maybe it's the first time you you've
+thought about this very basic
+question or often people promise to
+Circle back at a later time frame right
+and as an exec my immediate thought is
+to want that answer faster right waiting
+a week to get an answer feels extremely
+slow and
+frustrating and so the advice here is
+instead of always just circling back and
+following up later which is probably
+what a lot of PMS do tell your PMS that
+they should be unafraid to at least
+share their gut
+and so often you know we live in a world
+where uh people don't have the perfect
+information uh and therefore they don't
+share their assumptions during a meeting
+right and so we end up waiting until a
+week after only to find out that we had
+very different assumptions in mind and
+now you burned a week and you're back to
+square one so if instead during the
+meeting you at least shared a rough idea
+of your thinking even if it's imperfect
+you can get a rough sense of where
+everyone is at whether people are on the
+same page and knowing that early
+uh is helpful because you can
+immediately get to the bottom of the
+misalignment versus waiting a week now
+when I was at Uber our chief product
+officer at the time Jeff Holden called
+this cutting out the weight space he
+view the executive job to remove all
+this arbitrary amounts of time that
+people had to wait for others to make
+progress and now I know that often it's
+really hard to coax and answer like that
+out of of people sometimes right A P
+might want to first run an experiment a
+study or Sprint before giving an answer
+and Jeff had a trick uh which I really
+like where he posed it more as a thought
+experiment he'd tell us to fast forward
+to that day when the experiment is over
+when that Sprint is done and he asked
+what we thought we'd see at that point
+and I like that framing a lot because it
+kind of lowers the stakes we all know
+we're guessing and uh it created much
+more of a safe space to share some rough
+thinking as part of that knowing and get
+us align much faster so in short instead
+of telling your PMS to Circle back take
+that action item if they're unsure
+encourage them to share their gut even
+if the thinking is rough to save
+everyone so much time and ultimately
+build alignment much
+faster now as a PM gets towards the end
+of their
+presentation and only has a few minutes
+on the clock a common tactic that folks
+employ is to only talk about the really
+positive things
+only talk about all the reasons that
+this would be an exciting
+investment why this outdoes all the
+others and more but chances are if
+you're trying to go ahead and only talk
+about the good things you might actually
+have an executive who either asks you or
+in their head is thinking what are the
+downsides and in exec speak they're
+actually wondering if you've thought
+about this deeply or worse are you
+hiding
+something the trust kind of
+breaks and so while it's really
+important to treat these forums as a
+place where you're making a big bold
+pitch perhaps even more important is to
+treat your idea with a little bit of
+skepticism so the official slides Vision
+pitch which happened in Feb of last year
+was actually preceded by two other
+product review like
+forums the first was maker week which is
+our internal hackathon at figma this was
+the Forum where I initially tried to get
+byy and for the
+idea I worked with the team walked
+around the New York office and convinced
+a bunch of designers and Engineers to
+work on this idea and we hacked together
+a prototype in just one
+week we actually structured the demo
+just like a product review where the a
+audence was the entire company and what
+was so amazing was that the chat
+absolutely blew up there were folks from
+around the company like Dylan who had
+previously expressed skepticism about
+this idea who were so stoked in the
+moment and I thought that by creating
+this totally hype presentation by
+creating an entirely net new product in
+just a few days we had done it we had
+gone ahead and created by and to go
+ahead with the idea I was shocked
+afterwards when I asked if we had the
+green light and was promptly met with a
+no and that a zoom pitch doesn't really
+do it in terms of getting the buy and
+you need to move something
+forward and so you know recalculated
+readjusted and moved into a more formal
+product review setting where we reviewed
+the competitive landscape we talked
+about why and how figma should win in
+the story Stelling space how we were
+excited to build a tool that had the
+visual control of figma and the
+interactive storytelling mechanisms of
+fig jam and how no other player in the
+market satisfied all the core needs and
+as you can see flies had all these green
+boxes and in my mind I was like okay
+someone's going to look at this chart
+and be like obviously we must make this
+investment but at the end of the day
+this was kind of stacking the cards and
+even though there were good ideas in
+this deck
+the answer to do we have a green light
+was still kind of a
+no and so that moves us to the official
+Vision pitch which we've been talking
+through today and in this Vision pitch
+it was not just a big bold bit pitch but
+also an area where we treated the deck
+with a little bit of
+skepticism where we took the time to go
+out and spend weeks talking to users
+understanding their pain points and and
+a few tactical things that we did in
+this deck was that I basically
+structured it such that every pain point
+was immediately followed by a solution
+and then a proof Point showing why this
+hypothesis that we had was either a
+great idea or maybe a not so great one
+the second thing was for areas where we
+were pretty skeptical about which path
+to go down it's actually to your benefit
+to be really honest about this and so
+for example one of the most kind of
+tedious trying questions for figma
+slides was thinking about how we would
+build a tool that allowed both
+non-designers and designers to have
+their preferred toolkit and we laid out
+all these different
+variations the last thing we did was
+akin to what Yuki was talking about
+earlier which was basically preempt the
+spice and make sure that you actually do
+have the answers for all the spicy
+questions that might be in your
+executive's heads and prove that you've
+done the work and the homework in order
+to have an answer there
+and so big bold pitches are super
+important but so is a healthy dose of
+skepticism all right so today we covered
+all the things that you might be told as
+a PM or even leaders in the room have
+been telling their PMS about how to
+approach reviews and all these on the
+surface are absolutely the right thing
+to do but in practice so much of this
+advice can be misapplied and sometimes
+what seems wrong is actually more
+effective and I think it comes down to
+the fact that in a review all the
+stakeholders are ultimately human beings
+who have short attention spans who get
+easily distracted are context switching
+and need to be guided along and who are
+ultimately emotional creatures who are
+swayed by how the review makes them feel
+and so the best PMS know this the best
+PMS take advantage of this and that's
+not all to say that we should we
+shouldn't focus on making decisions we
+absolutely should but really winning
+trust is what allows you to make
+decision faster in the long
+R now let's talk about the biggest myth
+of
+all as a PM you probably feel like this
+product review is Monumental like it is
+this holy secret Forum that is your only
+chance to move a decision forward or get
+the outcome you need as a product leader
+you're probably coaching your PMS as to
+how to make the most of those 30 minutes
+for me despite the positive feedback and
+hints of internal traction that
+materialized immediately after the
+vision pitch I was still fixated on that
+green light on this like somewhat
+semantic thing and I reached out to Yuki
+right after the presentation asking if
+this was a quote unquote formal green
+light the reality is that the stuff that
+happens outside of the product
+review the days the weeks the months you
+spend building your product product with
+your team those matter so much
+more and so the question really is can
+you use that product review to buy
+yourself the trust to do the thing that
+matters the most which is to
+build and something that most people
+don't know is that at the beginning of
+this year we have three company
+priorities and fides was not one of them
+following Mika's review we were really
+excited about the work um and about the
+vision but we weren't sure that now is
+the right time to to launch a new
+product given that we had all these
+other
+priorities and so Mika knew this and so
+what she tried to do was just make it
+more real for everyone to go from a cool
+idea that a few people were exploring to
+an actual new product that we were
+willing to put the company behind and so
+one opportunity she found was for our
+sales kickoff which is kind of our
+internal conference for sales and
+marketing and our biggest internal event
+of the year what if the keynote used
+flights and needless to say the idea to
+have Kino in a completely uned product
+was not to it liking but we pushed
+through anyway and the product was
+barely ready and there were a lot of
+bugs leading up to it um but the day of
+was perfect a perfect run and here this
+Chris our CTO and I delivering uh the
+resulting presentation apparently I
+always wear blue sweaters on
+stage and at the very end of the
+presentation we had this huge reveal
+where the deck we had been presenting in
+was made in flies all along
+and so while the initial product review
+bought the trust to explore the idea
+further getting the product to a point
+where it could actually be used in this
+way brought the trust to bring it to
+Market ultimately five months later at
+config fides did launch as the hero
+number four at the event and folks loved
+it and so next time we were thinking
+about how to move an idea forward
+remember that it's the trust that will
+carry you all the way not just the
+decisions last but not least if the only
+thing you were impressed by today was
+these slick animations that you are
+looking to integrate into your next
+product review we have gone ahead and
+published The Deck on figma community
+it's open sourced at this link so you
+can go ahead and remix it take it to
+your liking and build your own tips for
+how to how to do the product review
+right thank you so much for listening
+thank you all

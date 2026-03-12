@@ -1,0 +1,3591 @@
+here's the mistake that 99% of Founders
+and sales reps make we're not really
+selling in B2B we're solving problems
+our job as sales reps in SAS is to not
+sell a used car okay we are selling a
+Tesla Model 3 Performance it has
+competition I might not need it this
+week okay but it's pretty darn good let
+me help you get you into that model 3
+Performance today and I've even got a
+special discount for the end of this
+month and let me just help you and I've
+spent four calls answering all your
+questions and I've explained to you all
+the things and why the supercharging
+network is better than the regular one
+that doesn't really work at the charger
+near your house and I've gone on Google
+and I've seen there's no charging
+Network near your house there's only
+supercharges I I I kind of got you don't
+I and that's the job of SASS and sales
+because we're not selling
+commodities today my guest is Jason
+Lenin Jason created and runs saster the
+world's largest community for SAS and
+B2B Founders he also runs two of the
+biggest town conferences every year one
+in the bit area which attracts over
+15,000 people and one in Europe with
+over 3,000 SAS Executives Founders and
+entrepreneurs before saster Jason was
+the CEO and co-founder of echosign which
+he grew to over 100 million ARR and then
+sold to Adobe where he ended up as a
+vice president of their web services
+business if you follow Jason on Twitter
+or LinkedIn you know how much wisdom he
+has to share about all aspects of
+building a successful SAS business in
+our conversation we focused on what find
+most product leaders have the least
+experience in building a sales team we
+get very practical and tactical on how
+long you should wait to hire your first
+salesperson what your one to two first
+hire should look like why you should
+actually hire two salespeople not just
+one initially how to comp them how to
+interview them when it's time to hire a
+vpf sales how to avoid your salespeople
+flaming out and burning through all your
+cash we also get into how to make the
+product and sales relationship healthier
+including how to push back on sales and
+feature requests why your head of
+product should be super involved in your
+sales process how long you should make
+your trials why you should avoid annual
+contracts and so much more Jason also
+shares advice for running a conference
+which I found super interesting this
+episode went long because I just
+couldn't stop asking Jason questions but
+as a result I'm excited to bring you
+this incredibly Rich episode on building
+your sales team if you enjoy this
+podcast don't forget to subscribe and
+follow this podcast in your favorite
+podcasting app or YouTube this helps
+tremendously and I really appreciate it
+with that I bring you Jason Lenin after
+a short word from our
+sponsors let me tell you about command
+bar if you're like me and most users
+I've built product for you probably find
+those little in product pop-ups really
+annoying want to take a tour check out
+this new feature and these pop-ups are
+becoming less and less effective since
+most users don't read what they say they
+just want to close them as soon as
+possible but every product Builder knows
+that users need help to learn the ins
+and outs of your product we use so many
+products every day and we can't possibly
+know the ins and outs of everyone
+command bar is an AI power toolkit for
+product growth marketing and customer
+teams to help users get the most out of
+your product without annoying them they
+use AI to get closer to user intent so
+they have search and chat products that
+let users describe what they're trying
+to do in their own words and then see
+personalized results like customer
+walkthroughs or actions and they do
+popups too but their nudges are based on
+in-product behaviors like confusion or
+intent classification which makes them
+much less annoying and much more
+impactful this works for web apps mobile
+apps and websites and they work with
+industry-leading companies like gustto
+freshworks hashy Corp and launch Darkly
+over 15 million end users have
+interacted with command bar to try out
+commandbar you can sign up at commandbar
+docomond per month for any plan that's
+commandbar dcom
+Lenny this episode is brought to you by
+vanta helping you streamline your
+security compliance to accelerate your
+growth thousands of fast growing
+companies like Gusto Comm Kora and
+modern treasury trust vanta to help
+build scale manage and demonstrate their
+security and compliance programs and get
+ready for audits in weeks not months by
+offering the most in demand security and
+privacy Frameworks such as sock 2 ISO
+2701 gdpr Hippa and many more vant helps
+companies obtain the reports they need
+to accelerate growth build efficient
+compliance processes mitigate risks to
+their businesses and build trust with
+external stakeholders over 5,000 fast
+gring companies use vanta to automate up
+to 90% of the work involved with sock 2
+and these other Frameworks for a limited
+time Lenny's podcast listeners get
+$1,000 off vanta go to v.com Lenny
+that's V
+n.com Lenny to learn more and to claim
+your discounts get started
+today Jason thank you so much for being
+here welcome to the podcast I'm so
+excited long time what's the expression
+long time fan first time dial in or
+something first time caller yeah first
+time caller I don't know if that exists
+in 2024 or not but yeah that's me so
+thank you so much for letting me come
+it's absolutely my pleasure I feel like
+you're the kind of guy that I knew would
+be on this podcast eventually and I'm
+glad that we're finally doing this I
+also feel like we can go in so many
+directions I feel like you have so many
+insights on so many parts of building a
+business especially a B2B business but I
+thought it would be most interesting to
+dive deep into building your sales team
+essentially trying to help people figure
+out how to start their sales team scale
+their sales team and all the elements
+that go into it how does that out I
+think it's great I think it's it's an
+evergreen topic but I think there's
+remains a consistent set of confusion
+fears around how to build the sales team
+and it's it's Evergreen the tools change
+and the the the pace has changed but the
+issues are like I I love to dig into
+them because we keep making the same
+mistakes as Founders and Executives
+again and again and again 100% agree
+it's such a blackbox to me sales I've
+never done sales and I'm always just
+like I have no idea what's going on here
+and so this is how I learn from folks
+like you yes you touched on this now and
+I wasn't gon to get on this but I think
+it'd be interesting just this question
+of does everyone need a sales team will
+you need a sales team if you're
+listening as a Founder yes is is it simp
+is it simply if you're a B2B business
+you'll need a sales team how should
+people think about like will I need a
+sales team if you truly build a
+self-served product you can either never
+have a sales team or like slack defer it
+or like canva really defer it okay canva
+didn't really build a sales team until
+they were well north of 500 million in
+Revenue because it's epic self- sered
+right slack started all self-served and
+by the time they went public the
+majority of their revenue was Enterprise
+sales so you can sequence things you can
+have Hybrid models like you know a third
+of aun's Revenue is still from self-
+serve and two-thirds are from a selfs
+serve motion so there's all different
+hybrid things the most important thing
+though I've found is however you get
+those first 10 15 20 customers be
+honest be honest and if they and if
+you've talked to them as a founder and
+you know that they need a sales type
+motion they need effort to deploy it
+they have questions about security they
+have questions about competition they
+they have onboarding requirements and
+you say hey I don't like sales so I'm
+going to do a self plg motion you will
+you'll fail one of the things that I've
+done with so many Founders over the
+years and and it it it it shocks some at
+first is your first 10 15 50
+unaffiliated customers the ones that
+find you from The Ether they are like
+the next 50 100 200 1,000 and you can
+either embrace them or run for them and
+too many producty Founders find that hey
+gosh I'm gonna have to do sales and and
+they and they exit it they exited and
+I'll tell you a company I invested in 18
+months ago when things were easier right
+maybe 20 months ago they were doing five
+million in Revenue growing over 100%
+with the sales life motion things got
+harder things got harder as they did for
+many of us and they decided to fire the
+whole sales team and now they're doing
+less than one from five million with
+beloved customers belove if I told you
+the logos your jaw would drop over 5
+million 20 months ago to 1 million today
+because they fired the sales team
+because the founders didn't like sales
+they thought it was icky they didn't
+want to do it they were tired of doing
+it and I can tell you several stories
+like this so you got to be honest about
+the sometimes we get it just right on
+Day Zero sometimes we know exactly how
+our company is going to work or Len's
+podcast is going to work we we we can
+predict the future perfectly but I find
+in
+B2B a lot of times the industry we end
+up winning in the segment of the
+industry the type of customer is not
+what we initially thought and either
+lean into it and be a success or run
+from it because sales is icky and risk
+risk failure when you talk about being
+honest is the what you need to be honest
+about is that you need sales help to
+close customers be honest about that
+just be honest about yes the motion that
+it will take to get those first 10 15 20
+customers and if they were able to find
+you by putting a credit card and no one
+had to talk to them then that's your DNA
+today it doesn't mean you won't go up
+Market later like a slack or a canva but
+if you can get them all to do that and
+you never have to talk to them then get
+really good at viral Loops get really
+good at almost B Toc type motions get
+really good at this kind of stuff and
+hire growth hackers and do the whole B
+to almost B to cish motion which we have
+it self- serve um but if your first 10
+customers come in and say you know what
+Lenny I'll pay you $5,000 but you got to
+solve this problem I have with online
+video that is not a self- serve
+motion it is not a self- serve motion
+and even worse sometimes worse is your
+first 10 customers F five of them sign
+up online but it takes a huge amount of
+effort for for 19 bucks a month and then
+five say they'll pay you $5,000 a month
+and some Founders are like I'm going to
+work on the five that pay us 20 bucks a
+month not the five that'll pay us $5,000
+a year and I find too many folks that
+don't like sales too many folks that
+have not had any life experience in a
+sales L environment flee from those
+those customers and I've never seen that
+lead to success we're surprised who our
+Niche is some we talk about nailing our
+Niche but sometimes we're surprised the
+niche that finds us there's a lot of
+startups I've invested in that start off
+product lead growth and quickly realize
+this is just isn't working and many of
+them move to we you to actually hire
+salespeople and start to go top down and
+it can be most companies are a hybrid
+right even big folks that are even
+there's Weird Hybrids like there's folks
+like and snowflake has a
+well maybe is a much better
+example has a a free low-end
+version and you know there's open source
+too it's a little confusing and then
+they there's not a lot in the middle and
+then there's a lot of big right there's
+all different ways to combine a product
+Le or self- sered motion with sales Le
+and and too many Founders in the
+beginning think it's either
+or it's not either or so I think the big
+takeaway here is sales is is not a
+question of if you're going to need a
+sales team it's a matter of when uh the
+can of examples is crazy maybe that's
+but they but they still have one they
+still have one I think notion I think at
+10 million ARS when they hired their
+first salesperson okay that makes sense
+so I think the question that leads to is
+what is a sign that you should start to
+hire your first sales person even if you
+hate sales even if you think it's icky
+even if you don't like it as a fatter
+you've 95 times out 100 you've got to
+find a way at least to close the first
+10 customers yourself you've got to find
+a way and we could dig into how to do
+that if you don't like sales that the
+hack though is that even if you don't
+like sales customers love to talk to the
+CEO they the customers love it and
+here's the other thing as a Founder
+you're really good at the product in the
+market hopefully even in the early days
+so what I mean so what's important is
+even if you don't know how to do
+outbound even if you don't know how to
+send a cold email even if you don't know
+how to do any of this stuff and even if
+you don't know how to ask for a check
+even if you don't know how to open or
+close almost all founders are A+
+middlers A+ middlers a plus middlers
+right and before we started you and I
+talked about podcast and content and
+immediately it was an A+ conversation
+okay maybe you you don't know how to
+close a big sponsor okay I'm just I'm
+just making that up and maybe you don't
+know how to find one but once you have
+someone in your spider web letting the
+conversation you and I just had was A+
+and any founder can should be there by
+day one right by day one and and
+Prospects love it they they don't if I
+if I want to buy CRM I don't get to talk
+to Yaman at HubSpot or Mark Benny off
+but I get to talk to you in your CRM
+company it's like magical for early
+adopters right so bear in mind no matter
+how bad you think you are as a Founder
+you're pretty good at the middle part of
+sales so find a way to get any prospects
+get really good at the middle and then
+work up your courage
+work up your courage and find how to ask
+for next steps and and money what would
+it take Lenny how can we get going on
+Riverside what would it take we would
+love to have you right what would it
+take to get you going next week you got
+to learn that little motion but you
+don't have to learn all the stuff you
+think is smarm me other than had to go
+from middle to just ask for how we can
+get going I like this term middlers so
+just to make sure I understand what that
+means like in the middle of the convers
+you're not great at initiating you're
+not great at closing but you could like
+talk about it yeah and this is where
+sales reps are terrible most sales reps
+once you go beyond the five basic
+questions they can't tell you how a
+database works or or or or you know how
+how to eliminate hallucinations from
+your product or how to do or how to do
+payroll in eastern Southern Guam like
+the the sales rep uh uh we can talk
+about this they need help right they
+need help from the founders in the early
+days they need help from sales Engineers
+or product people which is my favorite
+place to get the help as you scale but
+they need help the beauty to Founders is
+they don't need help in the middle and
+you can be 10 times better in the middle
+than any sales rep at your bigger at at
+your bigger competitor you if you're
+running I'm just making up CRM but if
+you're running a new CRM startup you can
+run circles around 98% of the sales reps
+at Salesforce or HubSpot right they have
+the brand they have the partners they
+have the Integrations but they cannot
+answer the questions you can answer okay
+so you closed the first 10 customers
+what are other signs that okay now is
+really the time we need to start hiring
+sales I think as soon as you've got
+those 10 customers and more than 20% of
+your time is booked up with customers
+you need
+leverage you need leverage you've got to
+get if you do it too early if you're not
+spending 20% of your time in sales and
+20% of your time in recruiting you're
+failing as a Founder you need 20% of
+each 20% in sales and 20% recruiting
+nothing else really matters um at some
+level as a CEO maybe not as Founders but
+as CEOs but once you cross the 20% you
+need leverage or your calendar will die
+so you need to hire one rep and you've
+got to hire two because otherwise
+there's no AB test you have to AB test
+humans you have to AB test humans um
+you've got to hire two as hard as it is
+and there's just one sheet code to those
+first
+two there's one sheet code I talked to
+so many Founders that screwed up their
+first sales hires and they always nod
+when they hear it those first couple
+reps have to be people you would buy
+your own product
+from that's it now we can talk about
+other criteria we can talk about nor
+normalizing for deal size we can talk
+about industry expertise we can talk
+about all this kind of stuff but when
+you go out as a first-time founder and
+interview 30 reps and you're going to
+have to interview 30 okay and and 20 are
+just going to break your brain because
+they don't do any work and they don't do
+any prep and they didn't even go to your
+website and then and then eight of the
+eight of the next 10 are sort of okay
+but you know it's not really going to
+work but you might hire them if you get
+tired and if you're lucky one or two of
+them they're like magicians they like
+they they ask the right questions which
+we could talk about then take a pause
+and say look no matter how how strange
+their background was whatever they did
+it's not the right background it's not
+our same deal size it's not our industry
+they actually weren't very good at their
+last job they got let go at their last
+job but I would buy from Lenny I know
+I've been doing this for a year I've
+been every day I would buy from Lenny
+because Lenny just explained to me my
+product and my customers's problems in a
+way that I actually believe forget about
+what's on her LinkedIn or his LinkedIn I
+would buy from Lenny that rep always
+works because you can trust them with
+those
+leads almost every first time founder
+fire hire someone because they worked at
+tulo or Cloud flare or wherever and they
+talk the talk and they can say ACV and
+nrr and and and and they can talk all
+these acronyms none of which matter none
+of which matter and they get so we all
+get attracted to logos on our resume and
+but in our gut I always asked him did
+you know that Jason was gonna did you
+would you buy from Jason like you're
+right I wouldn't have bought I wouldn't
+have bought from Jason but he worked at
+twio like so just wait wait and
+interview 30 sales wraps however you
+find them through Linkedin through use
+recruiters use contingent recruiters
+it's exhausting do everything work your
+network and then be flexible in the
+beginning we're looking for pirates and
+Romantics in the early days we are not
+looking for folks with massive sales
+operations teams and enablement teams
+you're looking for someone you're
+looking for that quirky one that's got a
+few extra IQ points that for reasons
+that make no sense has fallen in love
+with your little product that is so
+feature poor and does nothing but they
+love it they love it they love it okay
+and my first rep had like this back in
+the day he had gotten Let Go by a prior
+startup and he was struggling and he was
+living in his brother's garage at the
+time okay this was not your number one
+person at snowflake but of all the 30 he
+came in and and what's now Adobe sign
+Echo sign he described the whole problem
+he described how we would solve the
+problem for customers in the early days
+of this category right and it was clear
+whatever it took we needed him and
+whenever we needed to backfill the
+garage or whatever this was the only one
+that could sell the product and and he
+did it for a decade closed our first
+five figureure deal first six figure
+deal first seven figure tcv deal didn't
+scale completely right inside of adobe
+was harder to scale inside of a 20,000
+person company than it was in a six
+person company but he was still there he
+still made that far to the journey but
+he was the only one that I knew could
+actually that I would buy my product
+from not that I would buy something from
+but I would buy my product from and and
+leads are so precious in the early days
+right it's so hard to find leads
+that's the problem you hire this perfect
+person from Snowflake and you have three
+leads a month and you give him two and
+he doesn't close them H your company's
+gonna
+die leads are so precious that's what
+folks don't get and so wait and I know
+it's painful and I know most Founders
+have hired this person with the right
+LinkedIn that they wouldn't buy their
+product from just keep interviewing just
+keep you need that quirky pirate romatic
+that loves your product and can sell it
+they're out there amazing advice wow
+there's so much there I'm going to
+follow a couple threads there okay in
+terms of the level I know a lot of
+people make the mistake of going with a
+VP of sales pretty quickly what's your
+advice I know you talked about General
+attributes but what's your advice for
+kind of the level and seniority of this
+these first two hires two things one
+that's Evergreen and one that's maybe
+especially appropo for today's
+environment the Evergreen one
+um which I've talked about for over a
+decade and I think folks that have been
+through it will see it which is you need
+to sales reps hitting quota closing
+deals before you're ready to hire a
+manager for them almost all VPS of sales
+their job is to take you from rep 3 to
+300 to take you from 3 to 300 to take
+something that's just just starting to
+repeat okay a script that's just
+starting to work leads that are just
+starting to come in and then take Lenny
+and Jason the two reps I have as Quirky
+as they are they're crushing it okay and
+then I'm going to hire a more
+heterogeneous type of person going
+forward I'm going to hire the person
+from cloud flare into I'm G to they
+can't all be like lendy and Jason
+they're pretty quirky but at least I can
+learn from them what's working what are
+the objections right how do we get
+around that feature Gap like we're one
+year we're two years old we' got a lot
+of feature gaps okay our product we we
+our this integration doesn't quite work
+how do we box around those issues how do
+we sell our 10x feature like because if
+you're a startup your product isn't very
+good your software is not very good and
+you have a competitor but you have some
+10x feature that is driving people to
+buy you something you're doing that does
+not exist in the market Marketplace and
+the really good reps get insanely good
+at selling that and the folks off the
+street the new VPS often doesn't even
+understand the 10x feature it's too
+subtle it's too subtle why the fact that
+your product is localized in Portuguese
+magically means you can win these deals
+or I'm making up something that doesn't
+quite make sense but so you need two
+reps that are hidden quota and then you
+hire VP sales if you hire it before then
+you're you're you're doing a hell
+Mary it ain't going to work it never
+ever never ever ever never ever Works
+you're asking them to find product
+Market fit to be the first rep to be the
+second rep and scale it all at the same
+time it's mission impossible to do all
+four at the same time right so that's
+the biggest mistake is I I Lenny I can't
+get sales going at my company I can't do
+it but I raised $4 million in my seed
+plus round I'm going to go out out and
+hire the VPS sales that vpa sales will
+not be there in eight months and you
+know what else two million of the four
+will be gone because they'll never
+understand the product they will never
+understand and if there was one thing
+that there's so things we could talk
+about but if there's one thing I could
+reinforce for this audience it's that
+you know that early sales team they've
+got to be product gurus for your product
+audience they've got to be product
+experts and later as you scale they
+can't be or you can't
+scale you know when I started when I
+came out of my own startup and started
+interviewing other folks I remember I
+would interview a lot of folks at places
+like GitHub back in the day I'd be like
+are do you have a technical background
+like are you an engineer have you ever
+built any software they're like no I
+don't I don't know I don't know and I
+like I I was curious how you could do it
+but GitHub was so well established that
+it's 10 questions it's 10 questions and
+grab a sales engineer it's 10 questions
+and grab so you got to be really good at
+10 then you grab a sales you grab that
+doesn't work in the real estate startups
+so you got to find these sales folks
+that are a bit of products of ons and
+dropping a VP a sales in that isn't a
+product seant which is a big issue
+that's all Mis or misprocessed this is
+the issue they're all Mis or
+mispress okay so the second point I
+wanted to make and I was on the fence
+for years of when you hire a VP sales do
+they need to carry a bag do they need to
+sell themselves or not does it matter
+does it and I wasn't sure for a long
+time and the reason I wasn't sure for a
+long time it's not that you don't want a
+VP of sales carrying a bag and I do
+think a VP of Engineering also should
+commit code we can talk car a bag
+meaning uh close sales themselves yeah
+not just be a boss not just be a boss
+yeah have a and the reason I was on the
+fence was because I was like well listen
+in theory it's great but let's say
+you're a hot startup and you want to go
+from two to six this year okay so I want
+to add 4 million in new bookings and
+let's say I'm I can do 400k in um quota
+per rep that means I got to have 10 reps
+she walks in with two I I got I'm at a
+race aren't I I gotta hire eight in the
+next six months to hit my plan and I got
+to put numbers on the board if I'm GNA
+out there as an individual contributor
+sales rep I'm never going to hire eight
+people am I it's never going to happen
+so I used to say I don't know if it
+matters but what I've learned the last
+18 to 20 months when everyone has gotten
+lazy Lenny everyone in Tech has gotten
+lazy
+is I see way too many VPS to sales that
+come in and never have any idea how to
+sell the product never never they only
+want to be managers now whether they
+carry a bag or whether what they do is
+they join calls with the Reps right they
+back whether they back fill the Reps you
+want your VP of sales in deals 20 30
+hours a week when they start and I see
+VPS of sales today start they're in no
+deals I'll go to a board meeting and uh
+BPS Sal will be there two three months
+and they'll have a logo on the word I'm
+like how's it how's it going with it
+there BNB and they'll be like I don't
+know I got to ask John doesn't know
+because isn't isn't even in the
+deal isn't even in the deal so I see
+this too often another company I'm on
+the board on I I really like this VP of
+sales a lot he joined and six months in
+you know sales were down from where the
+new bookings were down from where they
+were six months before and as he he was
+honest he like the biggest problem is I
+feel like I didn't have time to learn
+this product it's a complicated product
+it's more complicated than the product I
+last sold and I just didn't have time
+Jason this conversation is going exactly
+how I'd hoped there's so much actionable
+advice here let me try to summarize a
+little bit of the things you've said and
+then keep going so let me know what I'm
+missing here I'm going to try to just
+highlight some of the important things
+you mentioned so in terms of when it
+makes sense to start hiring your first
+salesperson couple things you shared is
+you've closed the first 10 customers on
+your own as Founders and if you're
+spending more than 20% of your time on
+sales and you need to start creating
+more leverage uh I'll throw in one
+another thing I've heard and just to
+tell me if this is also true that
+there's kind of a repeatable process if
+you created like you can sell
+consistently enough or you can tell
+someone here's how I've been selling is
+that is that right yeah if you hire a
+vpa sales before then is approaching
+100% chance of failure I see so you can
+hire the first two reps before you're
+like here's a pretty good process that
+has worked for me a number of times yeah
+I mean listen it's hard as hard as it is
+for a lot of Founders to even get their
+arms around the reason is is you've got
+to be that crummy first head of sales
+them you've got to manage those reps
+you've got to be in the field with them
+you've got to be figuring it out before
+you can hire the person you just have to
+even if you're terrible at it because
+you're still going to be a good
+Midler you're still gonna be a good
+Midler okay a few more things that stood
+out to me one is hire two sales reps
+immediately not just one these reps you
+need to interview about 30 people eight
+will be like pretty good 20 will be
+terrible two are going to be these are
+people you can see selling your product
+and you would buy from them and they're
+often very quirky uh and not maybe a
+traditional sales background they've
+never been VPS of sales essentially
+they're more like a and things like that
+historically or maybe not even
+salespeople historically is that is that
+right I think you will regret it if you
+don't hire these first couple sales reps
+that have a couple years of experience
+if you're in B2B with B2B sales they
+need a couple of years of experience and
+they need a certain amount of maturity
+and maturity is a real issue in these in
+any early hire because we just have time
+to babysit people there's no onboarding
+there's no training so they need a
+couple years of experience ideally
+something close to your deal size we
+could chat about why that would be nice
+and enough maturity that you can trust
+them with that lead you can trust them
+with your customer right okay and then
+you hire a vpf sales once you're ready
+to go from three to 300 reps your advice
+is also give the vpf sales a bag SL aota
+SL they need to be doing sales
+themselves in today's world at least at
+least for a little while and and more
+importantly I if they don't want to I
+think to in today's world you got to run
+from them exactly whether they fully
+carry a quota a half quota whether they
+back fi the sales team you want a
+salesperson and here's the thing Lenny
+you want a s this is going to sound
+silly but it's not this trust me on this
+for anyone watching listening you want a
+head of sales that actually wants to do
+sales and I gotta tell you and I'm still
+struggling with this myself after the
+last three years or so
+so many folks in all functions we could
+talk about other functions too okay but
+especially in sales don't want to do
+sales
+anymore they don't want to do it they
+don't want to do it 2021 was crazy
+because everything was too too crazy
+there's too much money too much going on
+2022 was the knife falling that was
+crazy too 2023 was just hard okay and
+whether it's burnout or whatever out or
+just too much of a too much change I
+would say I've probably interviewed for
+different reasons 50 VPS of sales in the
+last 12 months I would say the majority
+don't want to do sales it's my first
+screening question and that's why they
+got to carry a bag because it proves
+they actually still care about the crap
+and the best sales folks love sales it's
+a craft they love money yes they love
+money and that does matter do not hire a
+sales rep that doesn't like money trust
+me on this one that there's zero% chance
+they'll work out either but they also
+like the craft they like honing the
+script they like beating the competition
+they like figuring out the counter fud
+they like figuring out the weapon and
+the 10x feature they like working on a
+team they like hunting they love it but
+then sometimes I just think burnout is
+is always a reality but I just think
+that the last three years have been so
+yo-yoed that folks are just they're
+out they're out and don't hire them no
+matter how smart they are and that's the
+test that I I'll tell you I talked with
+a really great vpa sales candidate that
+had worked with a top 10 tech company
+and I asked him what he wanted to do in
+this next role and he's like yeah I got
+a great team I've got eight eight people
+that I can bring with me we're ready to
+Lock and Load I'm like okay well let me
+tell you one of my views in today's
+world is that you've got to actually
+visit more customers now not less in a
+distributed world that's more important
+to visit
+customers and he lived in the East Bay
+in Pleasanton in the East Bay which is a
+maybe 20 minutes uh east of Oakland he
+said I'm willing to visit customers but
+I won't go as far as the peninsula in
+San
+Francisco
+he's just happy at home he's happy at
+home Lenny and he don't want to sell and
+this guy has the best linkon and the
+best references but you don't want to
+sell anymore he needs a job he wants to
+be a VP sales and I see this across the
+industry and I'm struggling to find
+answers and I think the biggest hiring
+we tal we talked about a lot of tactical
+hiring mistakes that you can make today
+in sales the biggest strategic mistake
+you can make today in sales because
+there's so many veterans there's so many
+folks that worked at T and and
+wherever pick any great company you want
+right there's so many veterans out there
+you just can't hire the ones that don't
+actually want to sell anymore and
+there's too many there's too many you
+mentioned that you actually just asked
+them in the interview the first question
+is do you actually want to sell what
+other questions do you ask for either
+let's go through both you said you have
+these questions that you ask uh for the
+early hires and then the VPS sales what
+are some tips for people when they're
+interviewing these folks it's
+interesting vpa sales and vpa product I
+look for the same answer one of the
+Columbo style questions I ask him I mean
+I mean this is so it's it's barely even
+count as the question is what do you
+what do you want to do your first 30
+days what do you want to do actually I
+usually ask what do you want to do your
+first two
+weeks and in B2B if I don't hear from
+the VP sales or the VP product that I'm
+going to go meet customers out I'm out
+there's too many VPS of product too
+Lenny that don't want to meet customers
+anymore either the majority of VPS of
+products that I interview they don't
+they don't say meet customers every
+single great vpa product Chief product
+officer I've ever worked with in my
+entire career you know what the first
+thing they do in the first two weeks
+they like leave me alone I'm going to go
+talk to 20 customers leave me alone
+leave me alone I'm going to go talk they
+don't want to sit out on meetings and
+look at prds and talk out of their Naval
+on endless internal meetings all the
+best ones they say they just leave they
+literally say some leave me alone I will
+see you in two weeks I'm GNA go meet
+with 20 classs and that's what product
+should do sales whether it's prospects
+or existing customers it can vary right
+but they should be like I'm my first I
+want to join five
+calls and when you hear that story of I
+don't want to travel out of Pleasanton
+or they say I here's what you're going
+to hear from the wrong person for
+anything even up to 50 million in
+Revenue I'm going to spend that first
+month working on
+process I'm going to spend that first
+month getting getting Salesforce up and
+running I'm gon to send the first month
+on territory planning L because we
+really with our three reps I really want
+to make sure we've nailed territories
+right ly will do the South will do the
+East Jason will do the West when you
+hear process process process from any
+from marketing product sales customer
+success too boy it's the death of
+customer success it's just people and
+it's not that you don't need process
+it's it's just it's even worse than it
+was than a few years ago because it and
+I know this is going to trigger some
+people but the truth is they don't want
+to
+work they don't want to work they don't
+want to work I literally just got this
+this LinkedIn in email to work with me
+at saster from this from this person who
+reading this saster for eight years
+you're like I want to run account
+management customer success for you
+here's what's you're doing wrong here's
+how to do it I'm like oh this is this is
+pretty good right and I and I and I dm'
+her back I'm like great to be honest you
+realize though you're actually going to
+have to talk to customers and sponsors
+yourself in the beginning no
+response just out just out and that was
+the best one I got the last 30 days that
+was the best inbound that I personally
+got so I know it sounds triggering or
+critical but as Founders we have to be
+honest that there's this vast pool of of
+veterans with great LinkedIn and great
+resumés that are so burnt out Lenny and
+let's not blame them I know it sounds
+like I'm blaming them or being negative
+and and I'm trying to not be negative I
+I'm empathetic I am empathetic to the
+burnout but don't H you can't hire these
+there's too many the the industry is
+littered with the burnt out they're
+littered with it and if you hear a touch
+of cynicism if you hear anger if you
+hear I don't want to meet customers and
+any and I'm going to say any VP role
+product sales marketing customer say if
+they don't want to meet customers their
+first for let's make it a 14-day test
+you know they're never going to want to
+be
+customers these folks that don't want to
+do sales that are VPS of sales I imagine
+when you're further along that's more
+okay because you don't need them to be
+doing sales right they want to manage
+optimize no I see you shaking your head
+I mean okay you think okay there's an
+element let's call it north of 50 or 100
+million where for what's sometimes
+called commercial sales SNB sales it's
+it really is all process
+okay so for sure I agree but you know at
+Salesforce they're trying to close
+hundred million plus deals you think
+that this the sales leadership doesn't
+need to be in those
+deals you think they can just hit
+Refresh on the dashboards and track them
+from home no Mark benof today is still
+flying to meet customers he said the
+other day you know why does Mark benof
+go to Davos right he sits and I've never
+been a Davos he sits at the same place
+at the top of some staircase okay and
+Salesforce drops milli of dollars and he
+waits to meet customers prospects and
+partners in person all day because it's
+efficient because it's efficient because
+he can do 50 or 100 customer or Prospect
+meetings a day at Davos he's still doing
+it at 30 something Mill billion in
+Revenue right so this idea that is there
+some truth at at at like for example
+when I worked at Adobe back in the day
+there it is true that adobe which was
+you know the parts of the business you
+know sales literally was not dashboards
+like I get it okay at 4 billion 10
+billion in Revenue but most of your
+audience is not ready to hire at 4
+billion or 10 billion in Revenue they're
+not ready to hire that person um don't
+hire them right I don't know maybe SAA
+is listening you never know I think and
+I think I but I I think on the sales
+side of the business um they're they're
+flying out to the big deals to close the
+loop on this thread uh when you're
+interviewing the early sales reps those
+first two cor key folks what are some
+questions and ways to know if there may
+be a good you mentioned one of like you
+feel like you would buy from them okay
+the one the really the simplest one and
+and early in my career I thought this
+was silly or hated it this Glen Gary
+Glen Ross I don't know if it's Glen Gary
+Glen Ross with that that that toxic um
+Leo movie about sales which is still
+entertaining but what yeah one way
+another Lenny it's got to be sell me
+this pen but it's not sell me this pen
+it's sell me this
+app so I don't like surprises I don't
+like games I like to do this in a second
+interview or whatever give them time
+time and I don't like to judge too
+harshly but it whether it's the first
+interview or the second they got to sell
+you this pen they've got to put in the
+30 minutes of work and maybe it's two
+hours but here's the thing today's world
+you can go on YouTube or someone's
+website there's an explainer video for
+every product under the sun isn't there
+I am shocked how many salespeople I have
+met Lenny from SDR to SCB of sales that
+by the time and I I'm doing an interview
+for like a portfolio company this isn't
+a screener interview they haven't even
+watched watched an explainer video yet I
+could be the fifth or eighth interview
+and they don't know how the product
+works they have not even gone to the
+effort of searching YouTube or the
+homepage and watching it and forget
+about explainer video is enough but so
+many companies do webinars now and they
+publish them on the like really good
+stuff customer testimonials right if
+you're a sales rep you don't actually
+have to know how the web hooks work or
+how to provision an API key but you need
+to know the product as well as that
+webinar that's on
+YouTube and 98 out of 100 folks won't
+bother an interview they won't bother
+they're just going to click on apply on
+the on the ATS and tell you hey I
+recently stumbled upon whatever it looks
+like you have time to discuss right but
+that one that actually does enough work
+and watches the video and then can sell
+it to you and they're going to make
+mistakes they're not going to get it
+right but they have enough confidence
+with the core problem to be solv because
+here's the mistake that 99% of Founders
+and sales reps make we're not selling in
+B2B we're solving
+problems and this is why so many people
+are struggling in 2024 because they
+can't Sol their products they as sales
+reps as companies they can't solve big
+problems anymore our job as sales reps
+in SAS is to not sell a used car okay we
+are selling a Tesla Model 3 Performance
+it has competition I might not need it
+this week okay but it's pretty darn good
+okay and I'm going to help you
+understand Lenny because you're in the
+market for the car why this is the best
+one I'm going to be honest about where
+it's not I'm G to answer all your
+questions I'm such an expert and then
+I'm ask you Lenny when when is that that
+how you have 280,000 miles on the Civic
+what let me help you get you into that
+model 3 Performance today and I've even
+got a special discount for the end of
+this month and let me just help you and
+I've spent four calls answering all your
+questions and I've explained to you all
+the things and why the super charging
+network is better than the regular one
+that doesn't really work at the charger
+near your house and I've gone on Google
+and I've seen there's no charg Network
+near your house there's only
+supercharges I I kind of got you don't I
+and that's the job of sassin sales
+because we're not selling
+commodities we're not and that's why the
+best reps will also tell reps when not
+to buy their product as as painful as
+that seems in tougher times in 2024 the
+best reps say no you know we're not
+there yet we're not the right if you
+need this feature if you need this
+integration I want you back in six
+months when you use this big product
+that isn't that great but today we're
+not the right solution for for you
+that's the best ones do that they have
+the confidence to know to close it and
+the rest of the world thinks this is
+like some sort of adversarial
+transactional thing and it's
+not right software I I think hopefully
+all your audience would agree when it's
+done right software is magical it solves
+incredible problems incredible problems
+what Airbnb does what Uber does what
+sasive things Sol I can track my
+customers I can manage I can automate my
+communications it's magical you
+shouldn't have to use Boiler Room
+tactics and use card tactics when you
+have something but it doesn't sell
+itself except for a little while in 20
+late 2020 early
+2021 that screwed the whole world up
+when products actually sold
+themselves I feel like this is a
+separate podcast we should do of just
+how to get better at sales and how to
+sell but uh I feel like that's its own
+hour of conversation I did a great
+episode with April Dunford where I don't
+know if you follow her stuff but she
+essentially describes exactly your
+approach of help people understand the
+market like help them understand the
+entire landscape and then talk about
+your problem so anyway we'll link to
+that episode has a lot of good advice
+there in terms of this interview selling
+me a pen approach to give people
+something very concrete to do like how
+do you actually set this up is it like
+sell me your product and then they put
+together a pitch for your team and like
+they pitch you on the product I'll tell
+you until like the boom until everyone
+in late 2020 got so desperate to hire
+anyone with a pulse almost everyone in
+sales had to come and they had during an
+interview process they actually had to
+do the pitch they would come and you
+used to do it in person with this screen
+you can do it on Zoom now it really
+doesn't matter but do it for real do it
+for real and everyone would
+see and everyone in recruiting changed
+people stopped doing reference checks
+they stopped doing these tests and they
+would just hire Warm Bodies late 2020 I
+can tell you a funny story in a second
+and it was okay until it wasn't and our
+our our hiring processes have not
+reverted back to pre-march 2020 and I
+think it's failing Founders left and
+right feeling I can't tell you I would
+say 95% of the hiring I see out there
+people don't do reference checks anymore
+Lenny and we can talk about when they
+work and when they don't but no one does
+them no one does them no how you're
+going to invest so much and forget about
+the the the salary it doesn't really
+matter so much time your your your time
+your leads your everything's so precious
+to bring Jason into your company and
+you're going to go through all this
+recruiting process and you're not even
+to do any reference
+checks people don't even do reference
+checks and they don't they stopped doing
+do me this demo because they were so
+worried that rep would go to Gusto would
+go to deal or would go to remote there
+was no time I got to get like this SDR
+has 50 offers Lenny we got to hire this
+SDR with three weeks of experience we've
+got to decide today and that's the way
+and hiring does not come back and you
+just those if those highers bounce not
+only is it bad for you but it it's a
+service to the to the it's worse for the
+higher I mean that cloud that poor
+cloudflare woman that blew up right with
+the with the thing like there's so many
+issues there we could dig into but um it
+it's all Cloud Flair's fault for hiring
+her okay let's forget about that she
+didn't close a single deal okay so
+objectively in sales should you retain
+your job if you in sales if you can't
+close a single deal like I don't want to
+get into some of the triggering things
+but remember if you hire someone and
+they fail it's all your fault she didn't
+know what she was getting herself into
+you're no candidates can do enough
+diligence ever there's not enough time
+there isn't enough time and and this is
+true all the way to the top right and so
+when as an investor a board member it's
+funny when I do interviews I do this
+thing at the I try to be the last
+interview sometimes and the founders
+don't want me to do it they want me to
+to to sell right I want to be the last
+one and what I want to do is when Lenny
+you've decided to join Ellen at her
+startup right at the end I said look
+lady you got I've talked to Ellen she
+loves you you have the job you've got
+the job what I don't you do Lenny is
+bouncing three months after so let's
+slow down let's talk about the questions
+you have on your mind and let's have a a
+safe space where we can make sure you're
+going to be happy and successful there
+right and sometimes even the founders
+get mad at me for doing this because
+sometimes the candidate
+bails but I'm like I know you're mad at
+me today but this is the you know you it
+is your fault 100% your fault if any of
+your hires fail don't blame them and I
+I'm guilty of this I get upset when when
+people start and they don't give it
+their all right or they don't do it or
+you know um I mean uh you know what If
+you hired someone for your podcast and
+they decided you know I don't want to do
+the podcast the podcast this week I'm
+I'm tired I'll do it next you're so mad
+at them but you you should have seen it
+during the hiring process right so tying
+it back that's why you've got to do the
+S me this pen you've got to before you H
+hire the salesperson have them sell your
+product for do the demo and if they need
+more time give them more time let them
+watch another demo don't don't don't
+have them feel like it's a trap or spook
+them treat them the way you would like
+to be treated but if you skip this step
+I mean you know it's it's it's what's
+the point you're not helping them what I
+love about this process is it connects
+exactly to what you recommended you look
+for in these hires is would I buy my
+product from these people so this makes
+a lot of sense and you give them this
+assignment at home and they do work on
+this and they come in right it's not
+like come to the office if you talk to a
+great transactional VP sales that's
+hiring tons of reps to do it like
+they'll make them they'll make them do
+if they're still if they're still doing
+this they'll make them do sell the pen
+fast in the process they don't have time
+they're doing 20 interviews a week 30
+interviews a week you got to sell me
+this pen but if you're a founder and you
+and I'm talking about you've already
+talked to a bunch of candidates you're
+down to one or two make them tell them
+look this isn't a trick I'm not that
+great at selling my product you're
+myself right but we I got to know that
+you're going to be happy and successful
+here so do a demo for me and if they
+won't do it they're not a
+salesperson they're not and too many
+people went into sales not the other
+weird thing about speed to be sales in
+Good Times is actually a lot of these
+folks are not really what what you might
+think of sales people they can't do out
+pound they can't pick up the phone all
+they know how to do is to manage leads
+that come in and say I want to buy today
+and you need those people too okay and
+all I'm not saying you don't need those
+people too but that's not always what we
+think of as sales another black box for
+me and I think a lot of people with
+sales is comp and quota had actually set
+up their comp for your early hires and
+then had actually decide on quota what
+advice do you have for figuring that out
+early on like what percentage is
+commission what percentage is salary all
+that stuff yeah everyone gets this
+wrong um we worry look at at scale when
+you're extremely mature extremely mature
+and very profitable you really got to
+tweak this stuff very carefully okay we
+could talk about that if that's relevant
+but in the beginning we get this all
+wrong what matters is can a sales rep
+close more than they than they take
+home in the very beginning that's all
+that matters it's just you selling right
+the first three months of a new rep
+you're you're lucky if they can close as
+much as their Pome pay is their OT okay
+and so in the really early days my early
+early day comp plan is look your first
+three months you you keep 100% of what
+you close that of course that's not
+profitable for the business but you got
+to invest in them right you keep a 100%
+of what you close and if if you have
+enough going on your business usually
+that's enough to put to put supper on
+the on the stove and that's without a
+salary no no you pick an OT a salary but
+you gotta okay let's step back for a
+minute you got to pay
+Market you got to pay market and this in
+the early days if you're bootstrapped or
+really this stresses folks out like I I
+just talked to this great rep blendy but
+but he wants 150k OT right and in fact
+it's a step down he had 170k at slack
+but he knows this isn't a startup he
+wants 100 he might take 140 okay is
+total comp overall total comp and the
+founder panics I don't have a i me I'm
+only making 60 how can I pay 140 well
+let's break it down for a minute first
+of all let's be tactical it's usually
+50/50 right 50% base 50% bonus for a
+sales rep so they're really only taking
+home a 70k base trying to make another
+70 okay and then 70 divided by 12 help
+me do my math um it's not quite 6K a
+month well maybe with taxes it is you're
+really only paying 6K a month for a
+couple months to see if this exper works
+out you're investing 20,000 you don't
+have $20,000 to do sales then don't do
+sales if you can't find $20,000 so
+people freak out too much about this
+Topline number this this this base and
+bonus the On Target earnings o and
+they're not more practical about what am
+I committing to cash upfront two you
+need a plan where it's a win-win so if
+you this person makes 140 but ultim
+ultimately a sales rep's got to bring in
+four to five times what they take home
+okay so that 140 got to
+be 500 600 or more the more Enterprise
+you are the bigger the multiple has to
+be and the and the higher the comp but
+it's got to be three to 5x at a minimum
+three 3x for small businesses 4X for
+mid-market 5x you got to get there but
+you don't have to be there in day one
+and two when you get there the rep
+should be a creative shouldn't they be
+if they make 150 and they bring in 450
+unless your marketing costs are out of
+control which can happen but that's not
+sales fault is it if your marketing
+costs are reasonable and you pay a sales
+rep up 150 for closing 450 if you
+engineer your plan right you should be
+smiling not frowning where it gets tough
+is when you have a ton of folks not
+closing when you have a lot when you
+have a ton of folks not closing and you
+have extremely high marketing costs then
+it all breaks your CAC breaks your your
+payback period breaks but if you have
+inbound leads if you have demand and you
+have sales reps that can sell you this
+pen they're going to be a creative
+lending because of that math and don't
+take the pressure off don't make them
+close 5x they take on their first
+quarter make them close 1X let them put
+points on the board let them eat and so
+negotiating here's the point if you
+think about it negotiating someone down
+from a 150k ot to 130 it's not going to
+make any difference you want them to
+close 600 or 700 it's not going to
+matter at scale does it matter for
+maybe right maybe but you want what you
+care about is how much can they how how
+much more can they close than they bring
+in and then you that's why you want them
+to make a lot of money you want them to
+be rich you want them to take home a lot
+for a whole bunch of reasons and so
+don't freak out about the acronym OT
+what they take home figure out what it's
+really going to cost you and would you
+buy from them and if you would they're
+probably going to bring in more than
+they take home right and on the
+marketing side like in the other days
+you're lucky if you can find a marketing
+channel that is that ACC
+creative amazing okay so just to
+summarize you start a salesperson with
+say 7 75k in salary and then say 75k in
+expected sales and they take bonus bonus
+bonus bonus from sales yeah bonus from
+sales and the idea there is they take
+100% initially of their sales for the
+first month or two just to make it feel
+amazing they're making money y see how
+they're doing don't put a lot of
+pressure on them and then the plan is
+over time get it to a point where
+they're bringing into the business four
+to five times what they're taking home
+in terms of yeah do you I said every
+month or two we were going to or is it
+every quarter we're going to revisit
+your comp and quot it and
+adjust if you get it right you never
+have to revisit it not for years I mean
+I'm using the same sales comp plan I
+have for a lot of years it still works
+the listen you can make tweaks okay and
+you've got to listen and we're all human
+beings and people and again remember
+your sales team has to eat they've got
+to eat okay and you've got to be
+somewhat competitive but there's only so
+much you can tweak Lenny I mean they
+have to bring clothes more than they
+bring home right and so you can make
+tweaks at the margin the problem is if
+you make too many tweaks to this model
+you burn up all the cash you're you're
+you're trying to plug a leaky boat
+there's no point there's no point
+there's no point and remember related to
+this for a long time for most folks
+unless you're even if you're hyperf
+funded you're better off with fewer
+better reps than more reps there is a
+stage when you get big enough where this
+concept of capacity planning really does
+matter Lind if I got to go from 50 to
+100 this year okay I'm G add 50 million
+if each of my reps can do 500k I need
+100 don't I okay and literally if you
+have 20 you you mathematically cannot
+hit the plan so there's a certain Truth
+at scale in the early days it's this is
+a a rookie error like I'd much rather
+have two reps each closing to million
+right then 20 reps struggling to close
+100K each like culturally it's terrible
+that there's no domain knowledge in the
+company everyone's miserable everyone's
+fighting what you want to do in the
+early days is concentrate your leads in
+your best closers at the same time
+bringing new people up but you've got to
+concentrate your leads your best closers
+and that means year two year three year
+four they should be making a lot of
+money lot of money sometimes too much I
+remember the first investment I ever
+made was a company called pipe Drive
+which sold for a billion and a half um
+you know SNB CRM and I put in the first
+sales rep there he used to work for me
+and the founders got mad at him they got
+mad at him because in three months he
+was making more than any of the founders
+they they were pissed I'm like guys I
+know we're we're have different
+backgrounds and cultures but this is
+what you
+want but it took him a long time
+culturally as self- serve because pip
+Drive was 100% self- serve at the time
+they'd never had a sales drive and I put
+the guy in and what he did was he went
+he looked all these self- served
+customers he's like it was this was the
+company was at about two million Revenue
+at the time and he's like okay who's
+bought more than one seat he just did a
+reverse sort and he called them I
+remember he called AOL back in the day
+and he's like you guys have 20 seats of
+pipe drive would you like to buy more
+for your sales team they're like thank
+you very much we'll take 100
+SE and he just went down the list from
+the top to the bottom and he took home
+like 20% of those deals now that
+difference that extra 80 seats at AOL he
+brought it in so Kim keeping 20% of that
+is a great deal for the company right
+but he was pretty good at it and he was
+the only person for a while so he made
+hundreds and hundreds of thousands of
+dollars when the poor company the
+founders were paying themselves like
+50 so your advice there is don't be sad
+if your salesperson is making tons of
+money a good if you architect the simple
+sales F we talked about and they're
+making a lot of money you're making a
+lot of money and your Equity is worth a
+lot of money y your Equity is worth a
+lot of money right when do you make that
+switch from they're taking home 100% of
+what they're selling to smaller
+percentage look some people are gonna
+think it's goofy what I said about 100 I
+just view it as a simple ramp you could
+do I think you do it for one quarter Max
+one quarter the the problem is if you
+let this go for too long more than a
+quarter like if you make it too easy for
+long a quarter the problem is the
+mediocre ER lean into it too much and
+that doesn't help not only does it not
+help you it doesn't help them you don't
+want you don't want to make Mish hires
+they're so damn I mean you could have a
+whole podcast ly just on Mish hires like
+it's probably the single most important
+thing in scaling startups is not hires
+it's Mish hires but if if it it's a
+tragedy if you m hire rent but you don't
+want them there six months it's not good
+for them either you want to you want to
+support them you want to help them find
+a place where they're successful and
+here's the quirky thing on the Mish
+hires and this is why that first guy I
+hired was mid pack at that like it less
+than mid pack here's the thing about
+sales is you know someone can be very
+good in certain sales environments and
+completely fail in other ones completely
+fail it's probably more binary than any
+other function and so you got to find it
+before you hire them and but you also
+got to root it out fast because those
+leads are too precious and it doesn't
+mean they won't go on to another company
+and be wildly successful but you you
+could utterly fail and the one related
+point I'll give if I had to be if I had
+to throw one hint on this first any of
+these reps first 10 or V and VP sales
+one hint more more than anything else
+trust you gotta hire someone whose last
+product was harder to sell this is so
+important this is a recipe for utter
+disaster if you take someone in sales
+and their last product
+was easier to sell they will have none
+of the skills to sell your product but
+this is the M and I'll give you a St an
+example in a second if you hire someone
+from something that was just a smidge
+harder a smidge harder to sell and they
+come into your company it's like they're
+on Mars it's like weight has been
+released from their feet like they
+learned how to sell a harder product and
+get it
+done and then they come to you and the
+first example I had the first SDI hired
+was a guy named Sam blonde who went on
+to be um cero at brex and um and then uh
+now is a partner at Founders fund and we
+we worked together from the very
+beginning first SDR and he came before
+that he was an SDR at a company called
+intact which was bought for a billion
+which was online financials okay and
+back in the day no we know what the one
+thing people didn't want to put in their
+Cloud was their their financial
+statements okay it just wasn't trusted
+that there are some things you would
+trust to the cloud like a CRM but they'd
+be like these are my crown jewels I
+can't put these so he went from
+desperately trying to convince folks to
+do to move a business processing Cloud
+they had no interest and he came to us
+and it was hard but it wasn't that hard
+and he instantly was number one he went
+from SDR to sbae to midmarket AE to
+director of sales to to head of this
+whole sale because I mean there are many
+reasons he was great but he came to me
+and I said Sam why are you why are you
+crushing it when everyone else here is
+struggling he's like this is much easier
+than intact
+y so hire someone like that and don't
+make it no matter how much you like them
+the S me this pen thing will control for
+it a bit okay but when we give we give
+we give in the hiring process right we
+never get what we want be very very
+careful if the last product was easier
+to sell I love this advice what is a
+heuristic that the last product was
+harder to sell than yours what tells you
+that that's probably true be very
+careful if it was more
+technical very technical it's some folks
+can go from a from from a from a like a
+business process sale they can go from
+selling a gong or a sales offer an
+Outreach and they can go sell a
+complicated API to VPS of engineering or
+VP a product but most can't okay so more
+technical is a tough is a tough turistic
+more competitive uh is a positive what
+really works Lenny is if you hire
+someone from the number four in a space
+and they did
+well you take someone that number four
+in the space and then you're number two
+in the space you think number two is
+really hard because number one's
+crushing you but they at number four in
+a space where no one can tell the
+difference between these products that
+that's a great one right so more more a
+space that's more competitive um a space
+that is uh is a positive more technical
+um the other one related to technical on
+the pure B2B side is much more
+complicated business process okay I see
+folks fail in B2B when they've sold a a
+a yeah it's hard but they've sold a simp
+a simple business process they go
+something that's got a lot of
+Integrations a lot of complexity and a
+lot of business process change and and
+they just melt because it's too
+complicated they just they just melt
+right like there's a company I invested
+in it's it's doing over 20 million today
+and for some reason to simplify what
+they do which is pretty complicated they
+called it the gong for X okay the gong
+for x and it's great for V to get a VC
+meeting and and a few but it's not even
+on their homepage okay it doesn't really
+make sense and the co had me listen to
+this to this senior sales exec he hired
+and the only thing he could tell the
+prospect was that they were gong for
+x and the prospect had asking well how
+do this deep integration with with this
+business process flow and zenes works
+and how does this go over to Salesforce
+is like well we're gong for
+x that that $600,000 deal was
+lost right but maybe that works in some
+space right I mean um and gong's hard to
+sell today too don't get me wrong but
+but you see my point it's just that that
+Simplicity it's too it's too complicated
+right and I know it's not the perfect
+turistic other than this technical thing
+but the technical one man trust me right
+um the the too many B say B2B type reps
+melt in b2d they just they just melt
+they just selling to venge is a
+different it's the same beast but they
+don't suffer fools do they not the VP
+I'm clo they don't suffer fools I
+haven't heard this term beat a d before
+business to to the developers it stands
+for oh interesting I haven't heard that
+term before okay let me zoom out a bit
+and I want to move on to a different
+topic but before we do that so we've
+talked about kind of these early days of
+hiring your first two reps getting your
+vpf sales to help scale out the team to
+give people a sense of where this goes
+as the business scales what is the org
+Evolution look like you have these two
+reps doing sales on their own then you
+have a manager what does it look like
+over the next couple phases of the sales
+org look it to to simplify um there's
+rules of eight so in sales I'm actually
+not sure what the typic heuristic is in
+product because product teams are leaner
+at least I hope I like it when they're
+leaner but in sale the thing about sales
+is there's no um there's no efficiency
+like if you have a sales Leed motion
+half your company's going to be in sales
+at 10 millionaire half your compan is
+going to be in sales at 50 half company
+is going to be in sales at 100 it's it's
+one of the tough parts of the software
+model is that there's no um there's
+actually uh almost anti-e efficiencies
+and sales the the the public companies
+are actually less eff they have the
+higher CS in startups believe it or not
+um because they have so much Market
+penetration but so you're gonna need a
+lot of people and it's rules of eight
+eight sdrs outbound reps need one
+manager eight AES eight sales exx need a
+director above them and then when you
+really scale you know eight eight
+directors you don't really ever going to
+have eight directors but eight directors
+could have a VP or eight reports and so
+there's rules of eight if you want to
+build an organization on it it's all
+rules of eight for a while for sdrs
+thinking this was this High Velocity
+entry level position people pushed it to
+12 but I but the more folks I talk to
+today um the more I hear everyone's
+reverted to eight like I'd rather have
+fewer sdrs having better conversations
+and so it's just you can build your
+whole or with eights that is way too
+easy of an answer so the idea there is
+hire this vpf sales then you hire six
+more a uh sales reps AES so what happens
+next you hire another got to start
+hiring maner manager got it and then you
+scale eight more reps yeah and once you
+have eight AES scaled um you know you
+you you almost always are going to start
+a VP is going to already a good vp's
+already be hunting two directors two
+directors whether they're just split up
+normally whether they're East West is a
+classic way another way depend like you
+might have smaller and larger customers
+that's pretty standard right commercial
+and Enterprise but a good VP of sales
+once you have once she or he has eight
+reports will'll be bringing in two two
+directors or maybe two VPS if they're an
+SVP maybe there's a lot of title
+inflation today which doesn't bother me
+nearly as much as a lot of other things
+we've chatted about I don't care what
+your title is if you'll actually do
+sales or do work but but yeah you need
+to bring in managers at eight and folks
+that can't also a related point is a lot
+of Founders wor when will my I really
+love my my head of sales but she's a
+stretch like most of them should be
+stretches
+if you hire the seasoned one they're not
+going to work so for 95 out of a 100 of
+us our first head of sales should be a
+stretch VP of sales and what that means
+is usually they were a director before
+that or a senior director or sort of a
+VP okay but you should be cautious about
+hiring your first VP of sales for their
+first third VP of sales gig they're not
+willing to do the job anymore you need a
+stretch and it's it's worth it for their
+career growth it's worth it for their
+personal growth it's worth it for the
+equity right so you're going to hire a
+stretch that's a that's an important tip
+right there but then you're going to be
+a little worried how how well how far
+can Lenny go how far can because is you
+know I love wenny but he was a director
+for two years before this and this is
+his first rule and he did so good last
+year but I'm worried Lenny's gonna break
+right I'm worried Lenny's gonna break
+and related to this qu the simple answer
+is Lenny will break if if he can't
+Source those directors under him you can
+scale forever as a sales leader if you
+can hire better managers under you and
+that's true of any functional area but
+what you'll see in sales is you'll see
+your stretch VP sales drown when they
+never can hire better managers under
+them right they'll end up doing some
+weird internal promotions which you want
+you want to do internal promotions my
+rule is you want to promote 50% from
+within and and and higher 50% without
+for your managers but if you're if
+you're really the only people you can
+promote are just Junior people on their
+team and you can't find leaders you
+can't you can't scale right and so I do
+see this happen too frequently is a
+first- Time head of sales does it and
+then they're like here are my managers
+Lorraine and Jason but they really were
+just Reps for two years and they don't
+know how to do it so you have a whole
+bunch of people who don't know how to do
+it that's when the organization
+cracks imagine a place where you can
+find all your potential customers and
+get your message in front of them in a
+cost-efficient way if you're a B2B
+business that place exists and it's
+called LinkedIn LinkedIn ads allows you
+to build the right relationships Drive
+results and reach your customers in a
+respectful environment two of my
+portfolio companies webflow and census
+are LinkedIn success stories census had
+a 10x increase in Pipeline with a
+LinkedIn startup team for webflow after
+ramping up on LinkedIn in Q4 they had
+the highest marketing Source Revenue
+quarter to date with LinkedIn ads you'll
+have direct access to and can build
+relationships with decision makers
+including 950 million members 180
+million senior execs and over 10 million
+se- level Executives you'll be able to
+drive results with Target getting and
+measurement tools built specifically for
+B2B in Tech LinkedIn generated a 2 to 5x
+higher return on at spend than any other
+social media platforms audiences on
+LinkedIn have two times the buying power
+of the average web audience and you'll
+work with a partner who respects the B2B
+world you operate in make B2B marketing
+everything it can be and get $100 credit
+on your next campaign just go to
+linkedin.com /od Lenny to claim your
+credit that's linkedin.com slod Lenny
+turn terms and conditions apply there's
+these terms that we throw around account
+executive reps it might be helpful just
+to give people a sense of like what does
+this actually mean when someone's an
+account executive is that they're just
+sitting there calling and doing sales
+directly whatever the key terms are for
+like the roles or the title might be
+helpful to quickly summarize yeah I
+think the two ones that are probably
+less obvious for folks that are new are
+SDR sales development representative and
+a account executive great and SDR is
+generally although I wish it wasn't it
+is generally an entry-level position
+often fresh out of school generally paid
+on the order of 60 to 80k OT in SAS and
+us-based SAS and their job is to email
+for dollars dial for dollars and to and
+in many cases to screen to screen
+inbound leads it's entry level and their
+job is to pass on a lead to a sales
+executive an account executive an AE and
+so not all companies have sdrs it's it's
+a it's a longer topic but uh pretty much
+all the best teams have some type of SDR
+function now so that because we've
+learned we want to specialize we want
+openers opening and we want closers
+closing and so that's the rough idea of
+of sdrs are openers in some cases and
+account executives are the more seasoned
+folks closing and you know it varies a
+compensation from account Executives
+that are us-based could be anywhere from
+like 90k to 200k depending on that's B
+with Bas and bonus split at 5050
+depending on whether they're hunting
+tiny deals uh or big ones that's the way
+to account executive works and I think
+what doesn't happen today which made so
+those are the acronyms SDR a I think you
+can figure people can figure out VP
+sales that's Vice President of Sales I
+think a thing that's gone on in the
+industry that Founders expect now
+because there's so much discussion of it
+on LinkedIn and social media but I
+haven't found worked is that an account
+executive will magically be full stacked
+they will do outbound themselves they
+will develop they'll go use zoom info
+and Apollo and develop a list themselves
+they will manage that outbound list
+themselves if if they don't have enough
+inbound or enough in their free time you
+know what they'll do anyting in their
+free time they'll just do more outbound
+it doesn't you know what sales reps do
+in their free time today they sell real
+estate or courses okay there is no if
+you want a tip for Founders I know you
+want this full stack AE and and they do
+exist when they're micromanaged in
+certain high performance sales
+organizations but they don't exist in in
+real life right they're specialized so
+most AES say want to be closers they
+want to be handed a lead I contact me a
+lead they want to work the lead and
+close the lead and and you you hire some
+sdrs to help generate more
+demand and so those are the those are
+the those are the basic acronyms um what
+what's hard for most Founders most
+here's the tough part most
+Founders have enough stamina to manage a
+couple these AES these count Executives
+these folks who work the leads most
+Founders do not have the stamina to
+manage 10 kids fresh out of college that
+need to be micromanaged on an hourly
+basis to call leads so very very few
+Founders themselves can manage a team of
+SCS but if you can it's like a
+superpower that was really helpful I did
+not know what exactly these terms
+represented and when you're hiring those
+first two reps they should be the count
+executive level yes yeah and they'll do
+some outbound and they'll do some of
+this SDR work it's just ultimately
+people end up specializing what is the
+title for someone above the account
+executive as a director of sales yeah
+there's really no you know it's it's a
+metat topic I I wish there were another
+career path for these I's mhm okay this
+does exist in product it does exist in
+engineering okay it should exist in
+sales but the truth is it does there is
+no senior SDR and for for this outb and
+for this AE this this person closing yes
+you can go more Enterprise and make more
+money but there isn't really a senior AE
+track but there should be it's
+unfortunate it should be uh too many of
+these folks are looking for they they
+look to go into management for promotion
+when what they really should look for is
+to be a super IC and it's a shame that
+that more folks don't try to implement a
+super IC role in sales but that's
+basically it the career path is to in
+management right and that's why another
+tip another mistake that Founders often
+make is they hire the number one account
+executive at a hot company to be their
+head of sales it's not the same
+skills most sales Executives should not
+be managers they don't want to be
+managers they want to be individual they
+want to be highly paid individual
+contributors these days that mostly work
+from home and make a lot of money
+working 30 hours a
+week that's not does not lead that does
+not naturally breed Great management
+skills I want to shift directions a
+little bit and talk about product and
+sales a lot of listeners of this podcast
+or product managers or Founders Building
+Products how involved should product
+managers be in sales and vice versa how
+involved should sales be in the road map
+and what's being built I think in the
+bestr Run B2B organiz ganizations that
+I've worked with in my own as well the
+great at least the head of product the
+VP of products are deeply involved in
+sales deeply involved in sales deeply
+involved in sales um I a company I
+invested in that's just crossing 60
+million they just had a meeting with who
+will be their largest customer okay and
+the head of product was there is that
+the Boardman is like thank God I was
+there because what they want to do with
+our product we sorted
+to
+we sorted that the product does do it
+but what they want to basically do is
+deconstruct the product okay they don't
+actually want to use the back end and
+analytics and some other pieces but they
+don't really need the front end of the
+product if the head of product hadn't
+been there that deal would have been
+lost would have been lost an AE doesn't
+know that even if an AE did know that a
+sales rep did know that even if the VPS
+sales didn't know a VPS sales would not
+be empowered enough to stand up in a
+meeting and say I know what you want we
+we can launch tomorrow on this and in 90
+days we'll we'll tweak the UI so it does
+exactly what you want you want that in
+your big deals if you have that that
+that magical VP a product that truly
+owns the road map owns it and has the
+gravitas for that meeting they become
+like the mini CEO in these meetings a
+lot of cosos at scale I've talked to I
+was just talking with uh Daniel cha at
+Greenhouse he does this they're over 200
+million when they have that head of
+product they they divide and conquer
+with the big customers and the co can do
+some right and the VP of product can do
+others and sometimes the VP event if
+they're very producty can also do that
+role too like sometimes you get this
+this three these three weapons in the
+old days sometimes your vpf customer
+success could do this but unfortunately
+and I know this is going to trigger some
+people I don't see customer success
+stepping up for this pseudo product role
+anymore and I see them shrinking more
+and more into process but that magical
+VP product they they they give you that
+scale that Co level scale can a product
+manager or director do that in my
+experience the best ones absolutely
+abolutely
+the the M mid pack ones that are working
+on the color of the pixel uh I'd rather
+not have them in the deal they're that
+you have to be Empower you have to be
+utterly fluent in the product the entire
+product right you have to be the one
+that knows how to connect the pieces
+that don't uto always connect themselves
+right and you have to have the gravitas
+to work with a large customer to to to
+make commitments right and so that that
+that deep knowledge and commitment like
+it's hard below the VP Lev but if it
+does exist I I love it they become they
+become one of the greatest strategic
+weapons of a B2B compan is bringing the
+product team because the vpa sales never
+quite goes that deep and can't make the
+commits right and the co can't be
+everywhere the bane of many product
+managers existence is the flip side of
+sales's involvement in product do you
+have any advice for how you've seen the
+best s companies handle requests from
+sales going into product how product
+team should think about requests from
+sales and making that work I think this
+one is so simple and I'm surprised
+people make a so
+complicated okay I know we all release
+28 times a day okay but the reality is
+software still goes on quarterly release
+Cycles no matter what we say Okay
+business business your customers cannot
+process 88 releases a day okay the
+maximum a customer can process is two
+big releases a year and maybe quarterly
+right so let's let's simplify because
+that's how customers think don't forget
+about how we build software every
+quarter give your head of sales a
+certain budget whether it's story points
+or 10% of the pie chart however you do
+it give them a budget and when you do
+this things will radically change they
+radically change because even the best
+VPS of sales uh they change like the
+wind okay on Monday what they really
+need is the HubSpot integration and like
+they like oh my God like you know we
+weren't going to do that for two years
+but I guess we could change everything
+on Monday but then on Wednesday a New
+Prospect comes in and you know we need
+sap like but but we just spent two days
+specking out the you you need sap and
+then on Monday it's Salesforce right and
+it's not that sales isn't honest it's
+just the big deals the big ones always
+the the Tails wagging the dog and it's
+it's it burns out the organization okay
+even with the best sales leaders I find
+it burns out especially because the
+stressful deals like they overreact and
+they're not pro as good as they are
+they're not product people so they don't
+really know how to prioritize and Force
+rank if you say Okay Lenny my vpsl is
+great HubSpot sap whatever you want
+you've got 10% of the budget you've got
+100 story points whatever metric or
+fistic you use but you got to decide now
+each
+quarter and if you want a if you want to
+change during the course of if you want
+to disrupt our whole engineering product
+team you can do it but other understand
+there's a high cost and the later you do
+in the quarter the less successful it's
+going to be because we already started
+the HubSpot integration like not only
+will it demoralize the team but we're
+going to run out of like you already
+used your budget so when each if if you
+as a product I just don't see enough
+product leaders being objective here
+saying listen here's your budget you get
+it period no one can take it from you no
+you know I guess the co can steal it if
+she really wants to but it's yours vpa
+sales and it will they they will they
+will do the load balancing across their
+team they will do it they will listen
+and they'll say maybe I don't need that
+hubot integration after all maybe right
+because what a vpsl should be doing is
+taking look a VPS you can't the product
+has to look like Co has to look five
+years into the future product has to
+look about two years into the future and
+you really can't ask a vpsl to look more
+than 12 months into the future because
+that's that's where they're next on the
+line but a good one will load balance
+feature requests across the year and
+they will listen to all the because
+they'll actually be in sales they'll
+actually be in deals and they'll be
+listening they'll realize look even
+though we're going to lose this deal to
+HubSpot I've gotten four sap requests
+last I'm I'll I'm gonna take that bet
+even if I'm wrong I'm gonna take that
+bet you got to give them that and and
+you got to talk about it every week and
+say look here's your budget Jane here's
+your story points your whatever your 10%
+this is what we're currently this is
+what we're building now for you
+objectively and this is what we're
+currently planning for the next two
+quarters would you like to change the
+ones for the next two quarters because
+we haven't committed any code yet and if
+you really want change what's in process
+you can't otherwise it's going to be
+hyper disruptive right but you got to at
+least pretend to be objective for sales
+if you're too emotional about it you
+break your organization you've got to
+say listen I know we've already written
+80% of the subside integration if you
+really need us to put us on the shelf
+and drop everything for a million dollar
+deal we that we're startup we'll do it
+but understand just is just really
+really what you want and if you involve
+them every week as a stakeholder it it
+magic happens but I see I just don't see
+this H I don't see the VP as a product
+that I work with I don't maybe I'm not I
+know on all the staff meetings but the
+meetings I'm in and the board meetings I
+don't I don't see this this back and
+forth happening this might be the same
+exact answer you just gave but say
+you're pm and a salesperson comes to you
+hey we're about to close this deal we
+just need this one feature can we just
+get this on the road map what's the best
+way to help that salesperson understand
+why it's not happening help them feel
+like okay I get it is it exactly what
+you said like okay we could change
+everything here's the story points you
+have this quarter well are you assuming
+are you assuming that PM is the head of
+product or or empowered enough to make
+the decisions I'd say yeah that PM could
+put something on the road map if they
+think it's important the the reason I'm
+a little confused just but I want to get
+it right is I'm hearing what I'm hearing
+which maybe isn't what what you said
+what I'm hearing is a j an Junior IC rep
+is talking to kind of a more mid-level
+product person about the road map that's
+a bro as and that's you want to have
+that that's like one of the reasons we
+actually go to the office because those
+discussions don't happen on Zoom Ling
+they don't happen and you want those
+discussions to happen but you don't
+actually want them empowered you want
+them to say listen I will talk to my
+boss that's the right answer it's too
+confusing this stress between product
+and sales is a good thing it's a it's a
+sign of a well-run B2B company when
+there is stress between product and
+sales it's a good sign it is a good if
+there's no stress you're not you're not
+in enough deals you're not in enough
+deals if there's no stress but the
+stress has to have enough process even
+in a startup that it doesn't break
+because as your question the fact it can
+break organizations again and again
+again right people get people resented
+on either side right and so you this is
+one thing where the answer has to be
+look we can chat about it over lunch we
+can chat about this and and and and
+actually you've got a good idea you
+you're individual contributor I'm gonna
+tell my boss on Monday that I think we
+should do I'm gonna I'm gonna use a
+little social say we should do but you
+got to push the decisions up that's as
+far as in go make recommend otherwise
+instead of that one one stressful
+conversation at the vpl love you've got
+a hundred you've got 10 times 10 times a
+100 and again they're fun lunch
+conversations but they they wreck you so
+the advice there is basically let talk
+to your manager I'll talk to my manager
+they need to Hash this out it's not my
+call I think you got to push it up and I
+think you got to force the VP of sales
+and the VP of product to have this
+weekly meeting about the budget and that
+will force them to have enough just
+enough organization on their team so
+that it can all be surfaced up because
+that means they each have to have a
+meeting with their team for 30 minutes
+each week and say I'm going to put up on
+the Whiteboard guys to my sales team I'm
+going to put up on the white like the
+sales team's going to say and I've been
+in many of these meetings where Force
+the sales team to Force rank what they
+want and you you end up I can tell you
+Lenny 100% of the time in the sales
+meeting when you force do a whiteboard
+Force rank you end up walking out with
+very different uh outputs than when you
+start the meeting in sales 100% of time
+on the product side you need to do the
+convers just say we owe sales 10% of our
+points so we're going to put in a weekly
+in our team meeting we're going to put
+in 15 minutes of our team meeting and
+we're going to make sure we have the
+priorities right from the sales team
+let's go over what I got from Linda this
+is what she says is she wrong should we
+do something how can we help the sales
+team be even more sucessful and what
+inputs is the team hearing and they can
+raise their hand and they say look I
+just had this hallway conversation with
+Bobby but honestly Lenny I can build a
+Subs spot integration in a day what I
+thought it I thought it was really hard
+now I did to my last company and listen
+actually we can actually Outsource it to
+Bob and Linda at this agency I know for
+20 grand they'll build it next week I'm
+like that's a magical moment right
+that's a magical moment but you got to
+each have these parallel meetings or
+it's just it's just it's just that the
+good thing that tension can become a can
+become debilitating right you you we've
+all seen the fights those almost fights
+that break out and they come from the a
+place of passion right but you got to
+have structure great advice another
+Trend I've been noticing is that product
+teams are taking on p&l responsibilities
+and revenue goals what's your sense of
+is that good is that bad how do you
+think about that for product teams you
+want everyone to be aligned on the big
+picture with for Revenue goal for the
+end of the year is the question you mean
+having Financial bonuses and stuff tied
+to hitting the plan more that their kpi
+guys in their okrs are essentially like
+this much revenue you need to drive this
+much revenue from your experiments from
+your product launches as you can see I
+have a lot of opinions on on things here
+that are data driven they're live
+experience this one I don't I need
+another year in the oven and I'll tell
+you why I'll tell you why what happened
+the last 18 months is in customer
+success which is a which is you know in
+the old days it was related to product
+now it's it's less so which is I think
+is unfortunate in customers in the last
+18 months this happened all across the
+industry it 24 months ago customer
+success's goal was happy customers
+measured in retention sometimes nrr like
+net retention with UPS sales sometimes
+with grr like just logos how many logos
+say that was your only job happy
+customers happy customers then things
+got harder in many areas of B2B and
+every customer success team last year
+their goal was Revenue you need to bring
+in more revenue from existing base and
+it destroyed customer relationships it
+had there is a leading public company I
+will not name them I'm a positive guy I
+will tell you a company we all we' used
+for years and loved okay and they did
+this to their customer success team and
+they came to us last year we paid $299 a
+month for this product for our team they
+asked us for $50,000 up front or said
+they would turn it off that
+day that week maybe was that week
+$50,000 that's what happens when you
+weaponize and so customer success I know
+this is going to trigger some people but
+it is true when I talk to leaders
+customer success got weaponized and I
+don't like it okay I don't like it as a
+product as a all founders are product
+people I think I don't like it as a
+product because I think it's bad for
+customers that experience I got was
+horrific wasn't it that 50,000 to being
+told and it got walked back and the fact
+that it got walked back is almost even
+worse because it wasn't true right it
+was a threat right and so do I want to
+weaponize the product team I want the
+product team aligned with Revenue this
+is these are tough decisions for
+Founders right but but I think we're
+going to regret to some extent
+weaponizing teams that we don't need to
+weaponize having said that I will tell
+you and again no knock on Adobe but when
+I was a VP Adobe and it was a long time
+ago when product was in another building
+in some cases that was not great okay
+and I love Scott and the whole team like
+it was a great experience but I can just
+tell you what I learned is that did not
+work for me as an agile guy like having
+groups that would like do this work in
+isolation and the problem was they would
+never talk to a customer right so I know
+I want product constantly talking to the
+customer I know I want the VP of product
+with a lot of equity wanting to hit the
+bookings number for the year do I want
+your average PM weaponized forced to
+bring in revenue from an experimental
+feature when everyone agreed it's the
+the the test we're going to run like we
+only can run so many like you say should
+we should they have revenue for like new
+feature launches for new product
+expansions for new things yes but
+everyone's got to make that decision
+there aren't that many of us that have a
+thousand extra Engineers sitting around
+with nothing to do these are very even
+the smallest experiment no matter what
+it says on the internet again that we
+release 100 times a day I would argue
+bringing any product extension to
+markets very expensive and risky because
+because you're taking away from
+something else right these are expensive
+decisions and I were if you punish
+people from for the mistakes in product
+right this is something that big
+companies are actually better at than
+startups which is they don't fire you if
+the new initiative fails right because
+then KN one at a big company would ever
+join the new initiative right there are
+exceptions but no one at Adobe or Google
+would work on the new product if it if
+it if you got fired if it didn't hit 100
+million its first
+year so one thing I saw that was very I
+I don't know how to bring the startups
+at my big company experience was it's
+liberating to some extent to let people
+fail uh up to a point right it's
+liberating because the cost of failure
+in a startup's so high isn't it it's
+just it's just so high so I know that's
+not what the exact question I and I
+asked me in the year but I but I my
+advice is just be careful that you don't
+weaponize
+functions I probably should have
+clarified I think this is mostly true in
+plg companies where most of the growth
+is coming from product but I imagine the
+advice is still the same as like be
+careful putting too much pressure on the
+product team to focus on well that's how
+you get dark stuff I mean back in the
+day I remember my sister worked at Vista
+Print for online business cards and her
+entire job was to hide was to force
+people to buy upsell of additional
+products on the checkout page they
+didn't want to buy that was her whole
+job and she was paid a large variable
+comp to get people to buy thirdparty
+products without realizing in their
+checkout and it worked like that's all
+she did for three years was figure out
+dark stuff I mean darkish grayish stuff
+so that when I bought my
+business card I also bought GoDaddy and
+11 things that I didn't didn't want it
+works but uh I you know they they it
+doesn't create a high NPS does it the
+thing is here's the thing that you have
+to think
+about you know what's crazy ly now and
+and talk to lot these folks is there's
+so many SAS companies at a billion or
+more in Revenue I just wrote up I you
+know there's just uh pror which is SAS
+for construction I just wrote it just
+cross a billion in Revenue right so many
+folks are at a billion cloud players
+cost a billion and only way you can do
+that is if your Revenue
+compounds your revenue and I just I in
+fact I I just myself I just interviewed
+Matt Mullen Wick from WordPress 20 years
+he's been doing this and he said the
+number one thing he didn't understand at
+WordPress at automatic was the power of
+compounding so when you do these things
+that are customer hostile and we're a
+lot of us were under stress this last 12
+days to hit the numbers right this is
+your job as Founders you got to load
+balance the fact that the ca the cash
+has to last and my investors are mad
+with me but
+nothing matters in B2B that it compounds
+and some of this dark stuff you talk
+about on plg it anti-c
+compounds right and I would say and I
+would let me flip it around so the
+magical thing at the high levels of the
+compounds if you have a self-service
+model a plg model I actually think the
+number one most important metric is
+churn going to this churn churn churn
+churn and when I meet any startup like
+for investing or anything if the churn
+is not top deile for for a low-end
+product I'm always out I it's almost
+solvable it's almost unsolvable this 3
+to 4% a month churn rate that a lot of
+SB stuff it's it's almost unsolvable so
+you know I I think that's where the
+energy should go is relentlessly
+bringing down churn so that you 20 years
+from now we all have billion dollar air
+our companies that's what we want I have
+kind of a rapid fire set of questions
+before actually the lightning round so
+we'll see if we have time for all these
+things so I'm just I have a bunch of
+random questions I'm gonna fire Ian see
+what comes up sound good okay cool gotb
+okay uh what is just one thing a founder
+or product leader can do to become
+better at sales the number one thing
+they can do and this is very tactical at
+the end of each meeting because again
+both of them are good middlers the head
+of product and the founders are good M
+demos they're good at talking shop
+they're good at talking the industry
+they're good at talking workflows learn
+this is the only school you have to
+learn even if you're not comfortable
+asking for money learn to ask for what's
+the next step leny this is what all
+great sales people have learned to do
+actually mediocre sales people are
+terrible at this the best sales people
+never leave a meeting without a Next
+Step The Next Step does not have to be a
+check okay if that's don't break the
+relationship but what's the next meeting
+and the next meeting might be Lenny is
+there someone else at your company that
+I could do a demo for people are lazy
+they don't want to do multiple demos but
+in 2024 we all have to demo multiple
+stakeholders in 2021 it was one
+stakeholder now it's a four stakeholder
+sale so if you don't know what to ask at
+the end of the call ask who else can I
+have who else Lenny is there someone
+else I know you're excited to buy our
+product but who else is there someone
+else the organization I can can I help
+you can I just do a demo a demo is not
+threatening right whatever the next step
+is right can we do can we get what's the
+next step we can get on our books right
+and listen and um the best salespeople
+March deals step by step by step by step
+and then they put in the time they've
+done the demos they've done the pilot if
+they need to they've helped them get
+going they've helped them see the value
+and then that if it takes six steps to
+say okay Lenny now we've got five Folks
+at the organization using it it seem
+here's the deal they they they love it
+right what can we do Lenny to get going
+can we get can we get a contract signed
+so we can get going on February 1 it's
+just very natural and Founders just end
+the
+[Laughter]
+zoom they just add the zoom and they
+wait they wait in their inbox for the
+next step to come but it doesn't it
+rarely comes on its own that's the
+number one tip is make sure yourself and
+log it in your CRM that you always have
+a next step after you don't have to be
+great at sales as long as you're moving
+the ball down the field then get it into
+the Red Zone and then figure out how to
+ask for the money but you don't have to
+ask for the money until it's in the Red
+Zone amazing
+while while we're on this topic is there
+like a book or a course or anything that
+you just recommend folks go to get
+better at sales just like is there some
+tactical go read this thing it'll help
+you or is it just it's hard you're not
+going to figure it out reading a book I
+am a vicious reader if I only wanted to
+plug myself right and I I usually
+wouldn't two things that we have um we
+have something called saster University
+s. University it's free there's a pretty
+good course on getting learning about
+sales it's not perfect um but it's
+pretty good it just organizes a lot of
+the stuff we're talking about about and
+it's free so I I think it's pretty
+helpful we actually wrote a book called
+from impossible to inevitable that sold
+about 100,000 copies oh W I did almost
+none of the work although it's a lot of
+it's my content Aaron Ross did it it's
+actually really good and it interviews a
+lot of top sales leaders and goes
+through a lot of stuff we did so I I
+don't usually hype it but for 15 bucks I
+think this and actually I've never made
+one doll I've never even gotten a check
+for these 100,000 copies but I do think
+it's actually the second edition is
+pretty good so uh I think if you like
+what we're talking about the SAS
+University and the others I would say
+the I would very c i i i just hyped my
+own course which is free like I don't
+think I'm selling something that it's
+free the book I don't make a dollar on
+I'd be very cautious and this is tough
+maybe there's something we can work on
+together because I there's so many
+courses and so many people selling stuff
+the last two years just be cautious just
+be cautious the last thing I will say is
+there is a another Community um called
+Pavilion and I do think it's great
+Pavilion uh it it does have a lot of
+networking and stuff for sales and
+connecting sales with founders and I I
+am a super fan of what they're doing
+that that one's worth investing but be
+careful about Bob and John's sales
+courses on the internet there's just too
+there's too many awesome all right we'll
+link to all those things in the show
+notes next question uh what is the ideal
+trial length for free trial for sales
+team is it like 14 days a month years
+what do you recommend I'm Tomas tangas
+did a whole saster presentation just on
+free trials and free trial legs it was
+really good but it was the one thing he
+didn't know which I know just being an
+oldtime is the reason one of the reasons
+we have for day trials on the Internet
+is in the old days the Salesforce sales
+team when they were S&B focused one to
+close deals that month so they forced
+Salesforce to move from 30 to 40 days
+there was no evidence it was better for
+the customer there was no evidence that
+it got usage going or people they just
+wanted to close deals the same month and
+so by by real so so that's something to
+be cautious about the these metrics and
+be cautious that they're since we're
+talking to product folks be cautious
+that they're customer Centric you know
+the the you know that's a Salesforce and
+sales St is very Enterprise now but in
+the old days it pushed it to 14 days so
+the sales reps could make Clos deals
+faster what we learned from slack in
+Zoom until recently was infinite trials
+work pretty good so does canva slack and
+canva and until recently Zoom were okay
+waiting four years to convert and those
+are epic companies those are epic
+companies and these are one of the
+things that only Founders can make these
+decisions I I wrote this post years ago
+saying who's your VP of
+free because who's got a VP of free do
+you know anybody that has a VP free I
+got a VP of growth I got a VP product
+but who if you have this massive free
+base who's your VP of free I know almost
+no one that has a vpf free right and
+usually it's some kind of collaboration
+between product and the CEO right
+they're the VP of free but even then you
+need a vpf free we don't have one and so
+just think I don't there's no perfect
+answers but in a world where we're
+tightening nooses everywhere on Trials
+we're tightening noses everywhere be
+careful the advice you get be careful
+the short-term advice for example
+another related terrible piece of advice
+VC's give you is switch to annual
+contracts this is terrible advice
+terrible advice Lenny terrible advice
+from people who have never built
+products and aren't in the field going
+to annual contracts on a spreadsheet
+looks great on a spreadsheet it looks
+great you know what's better letting
+customers pay they want to
+pay if it's you or me buying for
+ourselves leny you know we're still
+going to put it on a credit card aren't
+we if it's our own personal and we want
+to pay monthly usually we don't know
+even if it's a we usually want to just
+try it monthly big companies want to pay
+annually because they have procurement
+departments why force people to go the
+way they don't want to go so just start
+this is this is a product audience
+product needs to be the voice of the
+customer it's not so much customer
+success as it used to be it's not so
+much sales you've got to be the voice of
+the customer together with the founders
+and push these things think about I
+would do the longest possible trial that
+is still customer Centric and understand
+there's
+tension understand there's tension right
+I say anytime I'm in a board meeting
+where someone wants or some BC says says
+let's do annual for an S&B I'm like no
+show me the money show me the evidence
+that this is better for the customer
+right how many times have you gone to
+buy something for yourself and it's like
+19 bucks a month and that's annoying
+because it's an un credit card charge
+but do you want to pay 240 up front I
+mean maybe you do it for a Riverside or
+something you use all the time but some
+random product you just discovered
+you're just GNA ounce yeah so who's
+going to show the data in the balce
+right a related point for like in sales
+no one does enough uh everyone does win
+loss meeting but no one talks enough
+about the deals they lost everyone talks
+about the deals they won all the lore
+the tribal lore in sales is how we won
+the deal people should be spending more
+time talking about Deals they lost than
+Deals they
+won right and same thing for this plg
+motion is if you make your yes I know
+what I'm I give everyone a pass for
+2023 everyone whose growth plummeted and
+did things they
+shouldn't did price increases they
+didn't earn cut the free trials hid the
+their free editions I'm going to give
+you look you got to give your team a
+little stress relief right so I'm giving
+every every person I work with every
+portfolio everyone a onee pass but the
+pass is in the past we got to get back
+to being customer Centric and building
+businesses that have that builds one
+billion AR on their own because they're
+wonderful businesses that are product
+Centric right that that recur and every
+time you rip a customer off you you lose
+you lose that relationship's damaged
+isn't it
+and and you know a controversial thing I
+say to the product team but I think this
+is the right thing if you're going long
+is look everyone raised prices last year
+as you know right everyone raised
+prices the question I ask folks is did
+you earn
+it what feature did you sh did if you
+raised prices 8% last year did you add
+30% more value to your product you know
+in the old days pre pre this these crazy
+years the answer usually was yes people
+would wait up they would wait a couple
+years right and that this the whatever
+product from four years ago was so much
+better it really was really had earned
+1995 instead of last year no one earned
+their price
+increases no one came out with an
+amazing New Edition and amazing new
+functionality that earned it they just
+sent you an email saying you know you're
+paying
+more so we get one pass but earn it earn
+your price increase have the longest
+free trial possible own it and and this
+VP a free thing like it's got to be
+Founders working with product because no
+one else cares about the free you can't
+expect the sales team to care about free
+can you you can't expect the marketing
+team to care about free not unless they
+can immediately monetize them right
+unless they can Ram them into conversion
+people uh ignore abuse their longtail in
+the last 18 months but your long tail is
+your is the these are your even if they
+don't convert that much they're your
+Advocates I mean how many people read
+your newsletter 500,000 people right
+almost 600,000 okay 600,000 now not all
+of them convert do they no no that's
+exactly how I look at it it's kind of
+the okay b b about what about the
+590,000 of them that love Lenny that
+don't convert right if you over monetize
+them then your whole then then Lenny's
+Empire Lenny's Community doesn't exist
+if you over monetize them but who but
+when you bring in a VP of sales for
+Lenny and a VP of growth and a like you
+can't expect them to to to care much as
+much about that long taale as you right
+I love your passion around this so what
+I'm hearing partly is you're a big fan
+of Premium essentially right and the
+benefits of product leg growth where
+there's something you could just use
+indefinitely or do you still think it's
+a trial whether needs to end at some
+point or is it just like no freemum is
+great in a lot of cases listen I'm a big
+fan of long Tales when they work they
+don't always work for Enterprise
+Products I'm a a big fan of delivering
+more value than you take out for your
+customers and I I'm a big fan overall of
+free because and I know you'll agree
+with me this every founder figures this
+out at some point free products are
+better
+software products that cannot offer a
+free addition cut Corners because they
+they don't have to be good at
+onboarding the products that do not have
+a free addition have human beings that
+bridge the gap between buying and
+deployment and that's okay at service
+now and that's okay in certain products
+but the products are the best products H
+invest the the engineering Cycles to
+have a free addition whether that's
+truly free whether it's an extended free
+trial whether it's a long tail or a
+medium Tale the amount of all of your
+product is better if people can actually
+if you have a free edition all of your
+all your customers benefit even your
+Enterprise customers benefit they all
+benefit this idea of vpf free I think
+technically it's probably the head of
+growth for a plg company or the person
+leading the self-served part of the
+business but even there in even in the
+organizations I work with that have
+those structures that that person is
+focused on monetizing that that tail who
+who stands up for the 590,000 other
+readers of of Lenny who who's their
+Champion yeah and you're you're 100% %
+rate that's exactly how I think about
+the newsletter there's this free
+audience and ideas over time they get
+convinced this is worth my money and
+let's give it a shot yeah so yeah and
+your V and your growth person like let's
+say 1% converts I'm just making that up
+going from one to 1.1 actually is a big
+deal at that at that scale or 1.2 right
+that that's okay but but you've got to
+nurture the 490,000 not spend all the
+calories just ramming the paid Edition
+through right this but only it's it's a
+fun thing because once you hit a little
+bit of scale
+th this is part of your job as Founders
+and product leaders is who's going to be
+this vpf free like it's not growth I
+don't think it's the growth team or
+something they're to their their focus
+is they got to hit their their goal I
+their goal is to get another half
+million out of the newsletter this year
+that's their and and they get that's
+their bonuses tied to it you think
+they're going to work on the free ones
+no chance makes sense oh man there's so
+many things I can go into and want to go
+into I also want to let you go so with
+that as is there anything else Jason
+that you wanted to share before we get
+to our very exciting lightning round
+anything you want to leave listeners
+with I think just make this the year of
+the customer guys and I really think
+that uh sales has been under so much
+pressure the last 18 months customer
+success has changed product teams have
+to step step up this is your time to do
+great things this year as product people
+be the voice of the customer be the VP
+of free be the whatever be the champion
+stick your neck out work harder folks
+work harder the funnest part of anything
+in startups is working hard but in
+product it's extra fun by working harder
+you have the more fun conversations find
+the Delight in the Delight in product is
+making customers happy it's not worth it
+otherwise it's otherwise it's drudgery
+and it's it's endless prds and Gant
+charts and Mindless discussions make
+your customers happier this year you
+will be happy this is the year of
+product and we we all get a pass for
+whatever whatever bad Deeds we did or
+mediocre Deeds we did in 2023 get back
+and be the Vanguard in your companies
+startups need and and bigger companies
+they need someone to inject energy again
+in many cases energy has been lost and
+it would be great if product can do it
+and say listen let's do something like
+even if we're not exactly sure how to
+get more leads okay even if we're not
+exactly sure what to do there's one
+thing under our control is the code we
+write and the product we ship let's do
+some three great things this year let's
+just do them not good great let's do
+three great and what you will find is
+the whole company will respond including
+including marketing including if we
+start shipping great things few things
+Inspire teams more than when you're
+shipping great products so be if you
+weren't the leaders the last two years
+if you were being forced to to weaponize
+your customer base somehow be the ship
+three great things this year that's my
+challenge ship three great things I love
+this this is the year of product that
+might be the title of this
+podcast Jason we've reached our very
+exciting lightning round I've got six
+questions for you are you ready okay I'm
+worried about the first one but go for
+it they're very nons surprising because
+they're always the same uh what are two
+or three books you recommended most to
+other
+people uh that's the one I just want to
+take a pass on I know they're the same I
+I I read I I read more than anybody else
+in the but I don't I wish I had those
+two great great books that have changed
+my mind the last 12 months but I I
+hopefully I've added some value but this
+one I I think I got to take a mulligan
+on I acceptable answer uh is there a
+favorite movie or TV show that you
+really enjoyed oh the terminal list the
+terminal list the terminal list the
+terminal list yeah I'm not into the
+Chris Pratt I'm not into that that goofy
+s goofy superhero movies he does and I
+know people like it but the terminal
+list is pretty it's I I got it it's it's
+a it's written by this x Navy SEAL that
+like like I think tech people don't read
+the everyone but outside of tech reads
+this author but Amazon did this thing
+the terminal list and I think it's it
+the reason to grip me it's it's like
+this post it's like a lot of tech is
+right now is like
+we're trying to do the right things but
+are we doing the right
+things it's just confusing so this one
+this one I I couldn't I couldn't put
+down the terminal list that was my
+favorite show the other one you know the
+one I liked I that I couldn't believe if
+you want the second one you'll be even
+though as product people Maverick and
+I'll tell you why this movie Maverick
+okay you wouldn't you wouldn't think I'd
+be a Maverick guy but the quality of
+this product here's what was so high and
+what's interesting you remember Maverick
+was supposed to come out before covid
+right and it was and Tom Cruz said no
+he's like this is G this is such a good
+product we're going to wait years for
+this thing to come out I'm like I'm not
+gonna like this this this this I mean
+cocktail was pretty good but I'm not
+gonna but but as a product when I
+watched this movie three times from a
+product perspective and to what just
+like software when something is done
+that well like every no wasted calories
+no like you see everything tied together
+that's the kind of software we love
+right it it just Delights us when it
+works better than we expected so those
+are my two he also did all his own
+stunts which I think is a good metaphor
+for the VP product maybe being involved
+in Sal actually do do the work yeah
+exactly oh man I'm stretching it okay
+next question you answered a few of
+these already but do you have a favorite
+interview question that you like to ask
+when you're interviewing salespeople
+especially I I answered it but I'll
+bring it up again in case you do it
+again is um what do you want to do your
+first 14 days toe a product or head a
+sales what do you want to do your first
+14 days it's not a technical 30-day plan
+six you don't have to do 28 slides it's
+what I call a Columbo question not that
+I really watch Columbo but Columbo was
+this old detective on TV who I don't
+know if you ever he would ask these dumb
+questions right and then and then the
+the the murderer would as thought
+Columbo was so dumb but by the end of
+the episode it would always incriminate
+himself because the question so when I
+interview I always do Columbo questions
+they're never tough ones right they're
+always they're always nice I don't know
+if I'm nice I'm honest but but the
+interview but then I what so so ly what
+would you do your first 14 days as VP
+product here and um they don't want to
+visit customers don't hire them for
+either all sales or product just don't
+hire them I've got the answer now that's
+exactly what I was going to
+say next question what is a favorite
+product that you have recently
+discovered that you really like my two
+aren't really amazing but I'll answer
+them the one I I I ear I love this Opus
+clip app for making clips from video I
+know you have a whole team so you
+probably don't need it but I produce a
+lot I mean a lot of us do content
+marketing right whoever does it and we
+produce a I produce a lot of content I
+don't have enough time to do this so the
+only AI tool that I found helpful so far
+is Opus clip which takes all of the
+incredible amount of YouTube content we
+have force ranks it and turns it into 59
+second clips and I'm a case study on the
+website I tried the early products they
+were almost there right but it's it's
+not is it as good as a clip team right
+is it no but literally in 60 seconds it
+can what's interesting is it can do
+something I don't have time to I could
+never make YouTube clips I could never
+make Instagram shorts I could never make
+I couldn't it just would never happen
+right it would never happen and the fact
+that one product enables you to do
+something at a minimum viable qu quality
+you couldn't do before like I'm I'm a
+super fan it's it's it's uh it's pretty
+interesting so that's my favorite and my
+other one is H is this one this is the
+this is the fully phone that's finally
+as good as a normal phone see there's
+the terminal list that I've got fold it
+up and it just works that's wild weighs
+the same as an iPhone and so the reason
+it's cool is this has changed the way I
+do
+productivity OnePlus it's the OnePlus
+OnePlus
+yeah it's the first one that's the same
+form factor same weight same so there's
+really no there's no loss right and I
+just when you know you can use I can use
+my normal phone here like I'm using it's
+it's it's a little funky but it's the
+same and then to be able to do content
+to be able to check to be able to do
+full email full caling full everything
+like like an iPad we see your Tesla
+where it's going think it's parked
+that's uh very cool so it's basically
+like an iPad plus a phone in one yeah I
+probably use this 50% of the time of the
+iPad wow so that that's that's it that
+is it the other ones sense to me yeah
+it's Android amazing I had not seen that
+that is extremely cool very cool two
+more questions do you have a favorite
+life motto that you often come back to
+share with friends or family find useful
+in work or in life it's be
+kind when I reflect on my career right
+mistakes um the it's when I I don't I
+don't think I'm mean I I actually think
+I care more than most people on the
+planet I like to I've helped a lot of
+people um but it's not taking the time
+to be kind at times and um not taking
+time to be kind when things don't work
+out not taking time to be kind when you
+leave a situation not taking time to be
+kind when maybe someone's done the wrong
+thing right not taking time to be kind
+to a customer that leaves right I
+remember in the early days of adobe sign
+of echo sign we had a top Tech customer
+and we I killed myself to close this
+customer right famous huge huge tech
+company today
+and then our champion changed right
+Champion changed a big issue with in
+sophomore product and came in and
+brought in docu sign instead of us and
+man I was just so mad I just tore into
+this guy this guy had actually had
+dinner at my house right and he did it
+he actually never he just did it because
+it was good for his his own career right
+and I was so mad but I like broke the
+relationship forever right that's just
+one random example and I just think
+there's so much advice to to fire fast
+and to to be relentless and do all these
+things right but you've interviewed so
+many people Lenny right I mean so many
+great leaders uh I haven't done what
+you've done but I've talked to almost
+all the top CEOs and SAS okay and
+they're they're kind it doesn't mean
+that they're soft they're not soft okay
+they make tough decisions every day but
+they are they're kind they and and so in
+this world where everyone feels like
+they're getting ripped off or they're
+not paid enough or I want you know
+founder pay for founder work this motto
+really it's troubling founder everyone
+is founder pay for founder like you want
+me to work more than 30 hours ly I need
+I need I need 30% of the company I need
+I need founder pay for founder work it's
+like I hear you but you will find that
+by being totally committed going 110%
+but and also finding a way to be kind
+that will like endure across your whole
+career so I know it's TR but because I'm
+I think I'm good but not always kind
+it's how I challenge myself all the time
+be kinder in that conversation and the
+big Epiphany we already talked about it
+the big EP it shouldn't have taken me
+this long to realize that any time an
+employee fails it's your fault be kind
+you hired them they never knew what they
+were getting themselves into if the
+job's too hard if they're they if they
+lack the skills if there's not enough
+budget if there's not enough people if
+it requires too many hours of work you
+should have known that not them be kind
+be kind to every single person on your
+team that doesn't work out that's not
+just putting together an email
+spreadsheet and sending it out try try
+harder be there for them be
+kind be kind I love this I uh know that
+you actually your username on Twitter is
+includes be kind in your it's a reminder
+it's a reminder so you really back this
+up amazing okay final question you're on
+a giant conference saster yes first of
+all just talk about what it is so people
+know and explore it and check it out but
+the actual question is what would
+surprise people most about running a
+conference like this things that they
+don't think about goes into running a
+conference like this any business no
+matter how weird it is that's at scale
+like the best one in it like it's always
+interesting I think for case studies
+right the best what pick anything the
+best the best cup maker whoever it is
+whoever makes the best like this is not
+an interesting business the Starbucks
+cup on his own but the best person I I
+pretty much guarantee you there's a good
+good story there right saster is a
+community as well like you have we
+started this really early in 2011 2012
+for B2B Founders back when that seemed
+like a weird thing to do now it doesn't
+see seem so weird so we built a lot of
+content and and we started doing events
+and meetups I never did a Meetup you do
+a lot of meetups but when I did meet up
+I'd never actually even been to one so I
+did meetups in 2012 and 2013 but like a
+thousand people came to the meetups like
+that will make sense to you today but a
+decade ago for B2B it was pretty like
+people were like why are all these
+people here we thought there was six of
+us that cared about B2B so then we did a
+big event we did a one day SAS annual in
+2015 and 3,000 people came including the
+evening and so we just kept going so we
+get about 10 to 12,000 people together a
+year what that means is changed it's no
+longer novel I'm not the only person
+producing d content anymore I'm not the
+only founder that sold their company
+like in the old days there's plenty of
+much more successful Founders and better
+I certainly don't I don't do many very
+many podcasts because I'm not a tenth
+100th as good as you I do like one a
+quarter for example but the but the
+events have become this meeting place
+for Founders that have hit scale that
+are somewhere between 1 million and 20
+million and especially folks that aren't
+in Silicon Valley especially folks that
+aren't sitting in Hayes Valley orever
+that don't have a community and that
+surprised me in the beginning how many
+International folks would fly all the
+way to the Bay Area I remember this
+founder came from Perth Australia for
+the first s I'm like thanks for coming
+but this is a lot of work for he's like
+I didn't come for you I came because
+there's no one like me and
+per so it's taken on a life of its own
+there's a lot of learnings I think I you
+know it was it I didn't intend to do
+Mass scale events I intended to just do
+meetups because I had a community like
+you do meetups so it was not it was
+absolutely an accident the learnings are
+it's extremely expensive it's extreme
+and it it has this weird curve okay has
+this weird curve where if and and this
+is important because I think actually
+all founders all all startups should be
+doing events for their own customers at
+least steak dinners I you should have
+get your customers if you get your
+customers and Prospects together you
+sell more get your customers and it does
+not need to be a million dollar or $1
+million dollar event it can be Roots
+prises it can be whatever does not even
+be fan just get them together has to be
+steak though yeah well no but steak does
+work I mean I'm not a big steak guy it
+could be any just something nice where
+they want to go just where they want to
+go your customers will sell your
+prospects for you your customers will do
+the selling for you putting them
+together
+um when you when you do it really small
+it's cheap because how much does that
+back room cost at the steakhouse right
+and even it cost it's worth it if you
+get one big deal out of it right and
+then you graduate and then you'll do
+like a Meetup and like you'll do it at
+like someone's office some tech company
+they'll give it to you for free they
+have an extra office that costs nothing
+right and then you're like well that one
+well we got 100 200 people came to to
+Lenny's thing a digital ocean and then
+and then you say you know I'm GNA I'm
+going to do an event and then and then
+you w like a theater a disuse and these
+theaters are actually kind of cheap
+because like they're dark during the day
+like there's not a lot going on in a lot
+of like not movie theaters but like uh
+you know music so those are cheap and
+but then like you're like well there's
+only one stage and it smells like beer
+so like then then the next year you do a
+hotel and a hotel is pretty expensive
+it's like half million 800,000 and I
+hated hotels but you know what I learned
+from business model it's turn key Lenny
+so your marketing manager can call up
+the Hilton in any City and in two weeks
+spool up uh some mediocre AV some
+mediocre chicken wings and drinks okay
+and you you and I don't like to go to
+the Hilton that much the B the ballroom
+C we don't like to go to events but it
+turns out your customers don't care
+they're just they want to be together
+and talk about your app right and then
+if you do community like you do you
+could probably charge a couple hundred
+dollars for tickets and get some
+sponsors and bring in some Revenue right
+and but then after Hilton ballroom B it
+costs like $2 million to turn the lights
+on and saster annual so so our Europa
+event in London in early June June 4th
+to 5th please come if you want that cost
+$2 million to turn the lights on in
+London to turn the lights on in the Bay
+Area for 12,000 people in September in
+the bear which is the most expensive
+place right it's $10 million to turn the
+lights on holy it's $10 million to
+turn the lights on now I'm being a
+little expansive in what I mean by turn
+the lights on but this is what it's
+going to cost you it's going to cost you
+about ,000 per attendee in the Bay Area
+or Las Vegas to have a mass scale event
+not smaller not one day in Grand
+Ballroom B but but a multi-day event
+right the AV is 1.5 million the food and
+beverage is 1.5 million I the tenting is
+$800,000 I keep going so once you get to
+like 20 30 40 million in Revenue quietly
+there's public companies out there they
+actually become they have software like
+margins at that scale but before that
+it's brutal right and when I started
+doing these events I interviewed the
+head of it back before March 2020 when
+tech companies did their own events
+they've pretty much given up which is an
+interesting side topic big like big ones
+like big not small ones ones but I
+interviewed the head of events at
+everyone right at twio and maretto and d
+and they all be like well how much how
+how'd the event go it all be the same we
+brought in about 1.5 million Revenue oh
+okay and we lost two million everyone
+lost two million every single one lost
+two million and you can see in the
+financial even zoom in scale just
+announced how much money they lose at
+zoomtopia so it's a terrible business it
+has just what I like to say is that it's
+dis economies of scale the Lenny's
+little free Meetup cost zero right and
+then the one at Cloud players office
+cost zero and the one at Hilton at
+Hilton B maybe cost $200 but then it
+costs $11,000 per person at scale right
+even more like Moscone like in San
+Francisco is probably the most you're
+approaching $22,000 per person because
+you have to buy about 15 to20 million
+dolls of Hotel nights to do an event in
+Moscone right so I don't know if that's
+we could do I mean it's a side topic
+lending side podcast of people that care
+but this dis economies of scale but
+there are a handful of public companies
+that do like Lions money 2020 shop talk
+a few others that are at SAS scale and
+they Cobble together these very
+profitable public companies but they all
+got to do at least 20 to 30 million
+because you got to get over a 10 and
+it's intimidating to get over A10
+million do nut right and so what it
+means is we have to spend like 14 to 16
+months each year planning for saster
+annual because it's not that fun if you
+fall six or eight million doll behind
+that's what happened in March 2020 we
+were the first major event to be
+canceled by Co in March 2020 the first
+one all a happened for security the week
+before then we got canceled so we lost
+$10 million in one day and it took a
+long time to dig out of that hole uh
+ladyy uh especially since we monetized
+like nothing it took a long time but
+they're worth
+it they're wor and you I know you don't
+do traditional events but you do do
+meetups in your community and I know
+they're worth it I know they're worth it
+bringing your customers together
+bringing your community together the the
+and we talked about this offline before
+we started second tier third tier events
+I do not think are worth it because they
+do not attct the best people they it's
+just a fact we don't most people it
+turns out from our from our Founders are
+our core ICP they go to two events a
+year on average two events a year okay
+and they'll do other Stak dinners so if
+you go to one of the two that they're at
+you just might bump into Jeff Lawson or
+Eric Juan or whoever the next one they
+might be there that might be one of
+their two but they don't go to number
+three through 10 they don't go to the so
+so find my role in general is people
+wonder should I go to events is it worth
+my time it's a waste of time I know you
+thought about it my ad and and I the
+irony is even though we produce events I
+used to think that I didn't want to do
+events I just wanted to do meetups right
+I just wanted I was shy I just wanted to
+do meetups but then I learned over time
+that the best events bring the best
+vendors the best Executives the best
+everything together so pick the one or
+two best events in your industry and
+even if you're antisocial try to go to
+one or two a year go long it pays off it
+it pays off but don't maybe don't bother
+with the rest even if they're ski slopes
+or they're fun that the sub subscale
+just doesn't work for meeting and
+marketing the people it just doesn't
+work I said at the top of this podcast
+that there's a billion things that we
+could talk about and I think that's
+exactly what happened we can go in so
+many directions and that alone was
+extremely interesting because people
+want me to run a conference and I really
+don't and I really enjoy the meetups
+that we have now and we actually do have
+sponsors that cover drinks and food and
+things like that and they're very chill
+and I really love what happens at those
+things um but yes this is really good
+information
+Jason I have two more questions for you
+that I ask everyone I think we went
+through a couple of these things but
+just real quick where can folks find you
+if they want to reach out and maybe
+follow up on some of the stuff you
+talked about and well how can listeners
+be useful to you in general just go to
+this cookie URL saster
+sr.com that's a way to access a lot of
+what we're talking about um if they want
+to reach me to be transparent I get a
+lot of impound like I'm sure you do it
+is be be be honest guys it is hard to
+process the amount of inbound that folks
+get right but it but I'll give you an
+Insider tip like I do see almost all of
+it so if you want to reach me if you
+just want like an hour of my time
+randomly I don't have I'm sorry honestly
+I'm sorry I don't have that hour of time
+okay but if you want to interact lightly
+every I mean I I'm on Twitter all most
+days at jjason LK I'm on LinkedIn
+LinkedIn a lot uh just search for me
+Jason Lyin linkedin's pretty cool I have
+260,000 followers we have really good
+conversations and I will tell you if if
+if you have a question like you really
+need some help in your business or you
+want to do a pitch if you send me the
+world's best email pitch I will read
+100% of them like track it put it in
+mixmax put it in HubSpot put it you will
+see I will open that email if the
+title's good it doesn't mean I can
+respond I'm sorry I know lendy can't
+respond but realize it is going to be R
+if you need a favor like a help if you
+ask the question super discreetly like
+Jason here's the LinkedIn I'm I'm Lenny
+I'm trying to hire this person I'm at 4
+million AR doubling should I hire her
+there's a chance I'll look at that
+linked and I can tell you or if it's one
+question but if it's an hour or coffee
+it isn't going to work but it is going
+to get red so do that by email do it
+even by LinkedIn I didn't used to read
+those LinkedIn emails but if it's really
+good I will read it and I probably
+respond to five or six of them a day I
+give free extent it's helpful free
+answers free advice I not that I charge
+for anything but but make it good don't
+ask for coffee so many folks have
+written this the most important people
+in the world read email it's an open
+medium right and a subset of the SS
+actually read their social media even
+Elon Musk reads his you know before he
+bought Twitter he read it PE you can
+access almost anyone in this industry
+just be super strategic about how you do
+it put again put yourself in your shoes
+would you answer this would you do this
+but I would say half the stuff gets open
+to Red so I know that's a rambly answer
+but for we talked about sales you can
+reach anybody in the world via email
+it's magical I'm sorry for the many
+emails you might get from this podcast
+that is actually really good advice
+resonates deeply with me as well Jason
+thank you than you so much for being
+here thank you for all the time L I'm a
+super fan it's great great to be here
+and let me know anything I can do to
+support you or your community going
+forward I really appreciate that and the
+same in
+Reverse bye
+everyone thank you so much for listening
+if you found this valuable you can
+subscribe to the show on Apple podcast
+Spotify or your favorite podcast app
+also please consider giving us a raing
+or leaving a review as that really helps
+other listeners find the podcast you can
+find all past episodes or learn more
+about the show at lenp podcast.com see
+you in the next
+episode

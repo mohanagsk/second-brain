@@ -1,0 +1,2256 @@
+what I say to people at stripe in our
+onboarding I used to run a session I was
+like if you're not sure who the decision
+maker is one it's probably you and I'd
+rather you
+act that way than not because you're
+gonna like slow the whole company down
+follow a process and get it done and
+don't forget to actually make a decision
+and if you don't know who decision maker
+is and you're worried it's not you just
+ask like don't get stuck too many people
+get stuck and it makes your like work
+terrible right I mean what do we all
+care about progress impact momentum
+I mean if if anything I would say about
+like
+advice to people generally is be a force
+for positive momentum and it will it
+will be actually a real career maker
+foreign
+podcast where I interview world-class
+product leaders and growth experts to
+learn from their hard-won experiences
+building and growing today's most
+successful products today my guest is
+Claire Hughes Johnson Claire was most
+recently Chief Operating Officer at
+stripe for the past seven years where
+she helped scale them from a small
+startup to the legendary company that it
+is today before that she spent about 10
+years at Google where she was a VP of
+self-driving cars mipi of global online
+sales director of sales and Ops for
+Gmail YouTube Google Apps and AdWords
+before that she was in politics she's
+also on the board of HubSpot and the
+Atlantic and this week she's releasing
+an incredible book called scaling people
+which in my opinion should be and likely
+will be on every Founder's bookshelf in
+our conversation we dig into many of the
+meaty topics that her book covers
+including building your operational
+Cadence defining your company and
+personal operating principles your
+company's operating system also tons of
+tactical advice around saying things
+that you can say building self-awareness
+distinguishing management from
+leadership so much more I say this a
+couple times in our conversation if you
+enjoyed my newsletter and podcast and
+the fact that it's very tactical and
+full of templates and Frameworks you
+will love Claire's book and you will
+love learning from Claire I had such a
+good time chatting with Claire and I
+know you'll learn a lot from this
+conversation with that I bring you
+Claire Hughes Johnson after a short word
+from our wonderful sponsors
+this episode is brought to you by linear
+let's be honest the issue tracker that
+you're using today isn't very helpful
+why is it that it always seems to be
+working against you instead of working
+for you why does it feel like such a
+chore to use well linear is different
+it's incredibly fast beautifully
+designed and it comes with powerful
+workflows that streamline your entire
+product development process from issue
+tracking all the way to managing product
+roadmaps linear is designed for the way
+modern software teams work what users
+love about linear are the powerful
+keyboard shortcuts efficient GitHub
+Integrations cycles that actually create
+progress and built-in project updates to
+keep everyone in sync in short it just
+works linear is the default tool of
+choice among startups and it Powers a
+wide range of large established
+companies such as versel retool and cash
+out see for yourself why product teams
+described using linear as magical visit
+linear dot app slash Lenny to try a
+linear for free with your team and get
+25 off when you upgrade that's linear
+dot app slash Lenny
+this episode is brought to you by vanta
+helping you streamline your security
+compliance to accelerate growth if your
+business stores any data in the cloud
+then you've likely been asked or you're
+going to be asked about your sock 2
+compliance sock 2 is a way to prove your
+company is taking proper security
+measures to protect customer data and
+builds trust with customers and partners
+especially those with serious security
+requirements also if you want to sell to
+the Enterprise proving security is
+essential sock 2 can either open the
+door for bigger and better deals or it
+can put your business on hold if you
+don't have a sock 2 there's a good
+chance you won't even get a seat at the
+table beginning a society report can be
+a huge burden especially for startups
+it's time consuming tedious and
+expensive enter vanta over 3 000 fast
+growing companies use vanta to automate
+up to 90 of the work involved with stock
+2. vanta can get you ready for security
+audits in weeks instead of months less
+than a third of the time that it usually
+takes for a limited time Lenny's podcast
+listeners get one thousand dollars off
+vanta just go to avanta.com Lenny that's
+v-a-n-t-a.com Lenny to learn more and to
+claim your discount get started today
+Claire welcome to the podcast
+thank you Lenny so you wrote this book
+it's called scaling people it's coming
+out this week I actually read a preview
+copy and it's incredible everyone
+listening to this should buy it
+especially if you're a fan of this
+podcast it's full of Frameworks and
+templates and guides and all these
+things that I try to do with my
+newsletter and podcast and so if you
+like what I do you're going to love this
+book and I can't imagine how much work
+it must have taken to write a book like
+this so my first question just how
+relieved are you that you're done with
+this book and you can move on with your
+life I'm so relieved Lenny it was the
+writing this book was not my idea uh
+Patrick and John Carlson Stripes
+co-founders really sort of pushed me
+into it and I'm glad they did I will
+admit that but as I am with most things
+they push me into but it it was a lot
+more work than than I thought it would
+be and it's very reward I mean very
+rewarding to have it have it done of
+course though I've been re-looking at it
+and realizing there are things I want to
+add information or tweak what I
+originally said but maybe we'll have to
+do a second edition we'll see that's the
+benefit of a newsletter I can just edit
+things and they're immediately live
+yes I want to talk about John and
+Patrick a little bit but before that
+yeah something I wanted to ask is I I
+find that when I write stuff I am able
+to better understand and crystallize my
+own thinking and I'm curious having
+written this book what is it that you
+are able to better understand and
+crystallize in your own thinking through
+that process it's true and it's funny
+because if you asked me I would have
+said I crystallize more by talking and
+speaking but whenever I do write
+something down I'm glad I did so I
+probably do more crystallizing my
+writing than I would admit but maybe I'm
+just lazy and I just like to talk
+there's a part of the book I think it's
+toward the end of the third chapter
+which is about hiring and that's a
+really long chapter turns out I had a
+lot to say about hiring and hiring
+leaders and processes and what you want
+to set up and and as I got to the end of
+the chapter I found myself saying to the
+reader
+you maybe have read this and thought is
+this is is she like for real like you
+need to do all this work you need to put
+all of this in and I had to say well
+look I started the chapter saying if you
+believe that Talent you know is
+everything then your hiring process is
+everything and so yes you do need to put
+that work in but I think Lenny to your
+point when you see all the templates and
+the Frameworks and the examples and the
+advice from my career and you know I was
+at Google for almost 11 years I joined
+Google when it was about 1800 people
+pre-ipo and left when it was about 60
+000 I had like eight different jobs
+while I was there and then joining
+stripe when it was about 160 people and
+now we're over 7 000 people like yeah I
+have a lot of examples
+but really what's crystallized is how
+much work it is to build to build a
+company you know this and there's not
+really I mean I hope this book is a bit
+of a shortcut but there are no shortcuts
+it I hope it will accelerate people's
+knowledge so that they can get down to
+work with their product and with their
+customers there's a story you share at
+the end of the book I think it's an
+acknowledgments about how people went
+and took like John Collison out for
+dinner and were just like picking his
+brain on how did you scale stripe how
+did you build this amazing machine of a
+company and he often came back from
+these dinners and he's just like Claire
+they just want to talk to you you did
+all these things not me and it sounds
+like that kind of encouraged you to
+write things down and then led to this
+book one is that true and then two I'm
+curious what else did you learn from
+John and Patrick Olsen they that have
+stuck with you imagine there's a lot but
+kind of what stands out no that's
+absolutely I I think it is true that
+it's right we're fortunate where we have
+so many users customers who are
+themselves Founders or interesting
+companies growing up around the world
+whether at scale like Amazon or scaling
+you know I've I've spent time with
+Discord and toast and you know all kinds
+of interesting companies that are
+growing up around us
+and a lot of their questions are not
+necessarily about Stripes products
+always they're really about well how do
+you guys do this thing or we're having
+this challenge are you having this
+Challenge and John yeah would often come
+back from trips he would travel more and
+he is often probably meets with more
+customers than anyone in the stripe
+leadership team maybe other than our
+sales leaders and they would ask about
+scaling and he he would joke he's like
+we need Claire in a box
+so I think the book is you know Claire
+in a box I guess but Patrick also would
+have that same experience and when I
+contributed a chapter to elad gills high
+growth handbook even though if you look
+at high growth handbook which I also I
+really do recommend not just because I'm
+in it I'm probably the least
+I don't know celebrity participant in
+his chapters and my chapter got a lot of
+traction because I think it was very
+specific it was very tactical and
+um a lot actually helped me to realize
+like look examples and details and
+Frameworks my working with Claire
+document is in there is like he said
+it's catnip and I think that is also
+what inspired Patrick to push me to to
+do basically a longer version of that
+chapter that I did with a lot but I've
+learned a lot from both of them you know
+I used to think that I was like my
+parents are teachers Lenny I used to
+think I was like very curious and I'm a
+learner and I'll seek out information
+and like I grew up in a very educatory
+environment right well once I met the
+Collison like the two of them are huge
+sponges like seeking out knowledge
+constantly but also anytime we we're
+confronted with anything even things I
+felt I'd done before like that I had the
+experience and I was gonna we were gonna
+build it you know they were like well
+who have you talked to or what have you
+read or you know and it was really good
+I mean I I learned I don't think I made
+enough phone calls in my earlier career
+and asked people's advice and asked for
+help and you know found the person who
+did that thing five years ago and found
+out what they learned and I think that's
+probably my biggest lesson from working
+with both of them is how much it pays to
+seek out Knowledge from others
+because we're all just learning all the
+time
+is there a story an example of that
+comes to mind that was really beneficial
+where you actually ended up following
+that advice and reached out to someone
+talked to someone and I changed the way
+you think change the way you operate
+there are two things that just jumped
+into my mind the first one is early on
+at stripe you know I joined we were
+about 160 people I started bringing in
+some leaders we were building out go to
+market we were starting to stabilize our
+support operations building out
+recruiting and HR all the things we were
+really growing and it became very
+apparent that we needed to put in some
+kind of job structure like levels and
+ladders is what you would call it right
+which is there are different levels of
+pay and they have to do with your
+experience and your impact and their
+expectations of those different levels
+right as an engine you know there's an
+engineering ladder and this stuff is
+probably making some people listening
+like their skin start to crawl because
+it's never fun or easy to Define all
+that and it's not perfect like you're
+immediately getting into something that
+feels pretty sub-optimal but it is worse
+to have nothing because it starts to
+feel very unfair in the environment
+especially if you have to start to
+change up compensation and reward or
+reward systems right so I realized oh my
+gosh we're gonna have to put this in
+place we didn't know HR people so I I
+basically ran a project
+and the first thing I did though thanks
+to Patrick and John is I went and talked
+I talked to square I talked to Airbnb
+and I talked to like two or three other
+companies but those two conversations
+I'm not gonna say who said this but one
+of them the person said oh you're that's
+a bloodbath
+they were not encouraging about what we
+were about to go through and another one
+said you know what I'm so impressed that
+you're doing that so early we waited too
+long and actually that's what a lot of
+my book is about is like when should you
+start to think about this thing that you
+might need right and it's sooner than
+you think and so
+putting in levels of letters felt like
+ripping the Band-Aid off honestly but I
+was glad I wasn't coming I talked to
+wait until they were like 800 people and
+it was apparently not fun
+because people don't like to be who
+likes to be categorized you know yeah
+and put at a level that maybe they're
+not happy with right they're like Oh I
+thought it was a lot more senior than
+that yep yeah exactly it's not easy it's
+a form of change that's that's
+challenging and I would not say we did
+it perfectly but I'm glad we did it I
+think that that's that example uh was
+definitely one of them another was like
+we were really strong like we wanted to
+roll out you know 24 7 support in
+multiple channels email phone chat
+multiple languages and getting from like
+where we were to where we wanted to be
+as quickly as possible not many
+companies have done at the scale right
+because stripe has millions of customers
+like we're B2B but we're B2B at a very
+high scale which actually Google uh was
+as well and so that was beneficial to me
+coming into the stripe environment
+because I'd done parts of that for
+Google and again that's an example of
+something I thought I knew how to do
+sort of
+but we certainly didn't do it perfectly
+and and it's certainly different when
+you're talking about payments right
+that's people's money that is a business
+is like if they don't know how to
+contact you and they have a problem that
+is a huge issue and so I did seek out a
+lot of advice
+and and I would say
+you know I did anything change
+dramatically what we did I think if
+anything the advice pushed me to go
+faster
+on some of my intuitions about for
+example using vendors and Outsourcing
+parts of the model
+and I realized like we're not going to
+scale all this internally especially not
+at the speed that we're going
+but it's hard to start to use outside
+sort of contractors if you haven't
+figured out all your tools and processes
+right so that balance uh was you know
+sort of freaking me out but you just got
+to push through it
+there's a couple directions I want to go
+but I'll go and an unexpected Direction
+at stripe you're kind of Infamous for
+your titles like when I I created this
+yeah it's like everyone's product
+manager they're like a VP or product
+potentially it's like product manager
+what's the rationale behind that and is
+that
+what I guess and what's the benefit of
+that and but yeah you don't have to go
+too far down the road I'm just curious
+so this is something that Patrick and I
+actually really agreed on without a lot
+of discussion which you know is not
+always the case it has to do with a
+combination of optionality as you scale
+and grow and also culture right and so
+they're sort of the minute you start
+titling a lot you're signaling hierarchy
+and Authority
+and the culture piece to stripe still
+today which is I think we could use more
+strong at least more overt trappings of
+structure because it can get confusing
+and I'll be the first to tell you that
+and I admit that this might have carried
+on too far but but early on you know at
+stripe there's a real belief it's not a
+particularly hierarchical company and if
+you're the person who has the knowledge
+like you are the expert on the thing you
+better be in the room one in the room
+helping make the decision and two
+driving helping to drive the decision
+and I don't care how senior you are
+right and that was that was the cultural
+signal that was important
+um which was about Mutual ownership and
+also expertise not sitting in hierarchy
+and then the optionality thing is
+probably a little more obvious which is
+like you can't don't make somebody the
+CMO or even the head of marketing if
+your marketing team is two people right
+like yeah you might make the right
+choice but two years later your
+marketing team's probably gonna be more
+than two people say it's 20 like and and
+are you gonna have to layer somebody or
+have too many titles it just and then
+someone feels like they're losing
+something right it goes back to the
+levels and Ladder segments worse because
+you've given something and then you're
+sort of taking it away and that's just
+not organizationally you want more
+flexibility honestly I also I'll say my
+final thing which is I have a little bit
+of a knit where you meet an a company I
+mean I get what's happened which is like
+in order to hire this person they had to
+sort of say I'll make you the VP of
+sales or the VP of this but the
+company's like 25 people and there's
+seven VPS
+you know if you're like a customer or
+you're evaluating it you know you're
+kind of like really like
+it just doesn't it's not it's a little
+incongruous with the scale so we we kind
+of like more flexible we had a lot of
+you know growth like ahead of this or
+growth lead I know you you're you're all
+about growth money well we we definitely
+took growth and find that very broadly
+but the other thing I've said to people
+internally sorry you can really get me
+going on this one I bet you didn't think
+that is if you're a stripe and you're
+going out into the market actually
+speaks to the same thing which is you're
+going and trying to sell to a customer
+who's a lot bigger than you
+I'm not saying make up a title like
+don't say you're the VP of sales but you
+can
+be creative about how you represent your
+scope because you probably have really
+big scope because you're one of the only
+people helping to sell the product and
+that will help you because a lot of more
+established mature companies are trying
+to do that hierarchy match
+we're like well bring your SVP because
+my SVP is coming to the meeting and we
+could be like we don't really have that
+it just gives you a little more selling
+flexibility too
+I like that I like that combo where you
+can like just like say something that
+fits in this situation even that's not
+your technical term yes you can say oh
+yeah I actually am I'm in charge of
+optimization for our payments product
+I'm sure you are I'm sure that's what
+you do coming back to something you
+talked about with the career ladder and
+I had a question around this you talked
+about how often times people do it too
+late and I'm curious why it's so
+important to think about the stuff that
+you wrote about in this book so early in
+your company's life cycle I think in the
+book you mentioned that it's oftentimes
+as important to get your operational
+structure and cultural structures in
+place and correct as like finding
+product Market fit or finding your first
+few customers which I think would
+surprise a lot of people can you talk
+about why you found that to be so
+important not only can I talk about it
+already I wrote a whole book about it
+um so let's try to restrain me but
+here's what I would say
+obviously product Market fit is the most
+important and what I do say in the book
+is focus on that and don't don't get too
+far like this my book is definitely not
+zero to one it's more like one and a
+half or maybe 0.5 to 1.5 or one to two
+because I do think when you're smaller
+and focused on product Market fit and
+and finding your user and getting that
+traction that is that shapes a lot of
+how you work and your goals and who you
+hire and that all makes sense
+I think the thing that happens though is
+one some companies don't quite realize
+they're hitting it and they start to get
+behind on actually building the company
+part because guess what it turns out
+product Market fit is just the product
+and that is not a company
+and that will not scale I mean to a
+point like the thing that's you know you
+see these companies that sort of fall
+over and like there's sort of a bad
+article about them and it's often it's
+not the product it's the fact that they
+didn't actually build the company very
+well and that started to harm in fact
+harm the product and harm the Enterprise
+like the the mission you have this
+Vision you're going to solve this
+problem with this product and all of a
+sudden you can't solve it because you
+didn't scale the org properly you didn't
+you didn't keep the cultural fabric
+strong as you grew right and so that's
+why I think it's so important and then
+so let's say you are hitting traction
+and hopefully you do notice it because I
+think a lot of Founders you know you're
+kind of paranoid like stripe I don't
+think Patrick and John's fully embraced
+that they needed to start scaling maybe
+until I showed up and that was part of
+hiring me I was like yeah this is it
+it's happening like look at the you know
+it's not just look at the numbers it's
+like look at the inbound support demand
+look at the inbound sales leads like I
+just did the math and I was like this
+company should be
+probably twice the number of people it
+is right now which of course freaked
+everybody out but it was very obvious to
+me because I was coming in outside with
+that perspective but more importantly
+not just scaling things like sales and
+support and you know as you probably
+know if you work in payments you've got
+a lot of other functions that are very
+important around risk and compliance and
+you name it or you know the machine
+learning models and that that help you
+do those things but for
+the the sort of structures and operating
+processes that I talk about in the book
+I I really I do have this analogy which
+I think you picked up on to like
+building a house right which is you have
+the supporting beam you know say it's a
+post and beam structure you you need the
+posts and the beams and then you're
+gonna have to do the Mechanicals right
+there's gonna have to be some amount of
+wiring in order for you I don't know if
+you have your solar panels but you got
+to bring in the heat you got to bring in
+uh the cooling and and plumbing and then
+you have like foundational stuff that
+you have to build or the whole structure
+will fall over and I think of putting in
+the posts and beams and the Mechanicals
+and the foundation as actually essential
+to scale because if you do those things
+well
+you build them in such a way this is
+almost like a Russian doll kind of thing
+but you build them so that they're
+replicable right so the way that you do
+goals as a company can start at the
+company level and this is how okrs were
+so beautiful for Google and they can
+replicate down to the individual and the
+same common structure allows that to
+happen at really different levels of
+scale and that's what you're looking for
+is what are these common things we do
+not a lot of them by the way you can't
+you don't want to mandate a lot you
+don't want to put too much structure in
+place but enough that everyone can play
+with it up and down what I would think
+of as the stack of the company and if
+you don't start putting those things in
+early people will just invent those
+things and then you'll have you know
+picture picture a house that got added
+on to 17 times and it's not even two
+years old it looks you know not super
+stable and then you're going to find
+yourself having to do a tear down
+which I think we've all seen companies
+do that
+I definitely want to get into that uh
+that house structure and all the
+components of it but before we get there
+just if you're like a found early stage
+founder just like looking for product
+Market fit maybe the skipping ahead a
+little bit but like what which elements
+do you think are the most important that
+they need to do now because they're you
+know they're going to read your book
+which gives them so much advice on all
+the things you can do yeah if you're
+like after if you have to pick a couple
+things that you have to like nail when
+you're just starting out before product
+Market fit what what do you think is
+most important I think really that early
+keeping it very simple and and being
+focused on that goal of product Market
+which is like what is the problem you're
+trying to solve what's your vision I
+mean everything you have to do for an
+investor pitch deck matters not just for
+the investors by the way people forget
+this a lot of the story you tell
+to investors the early ones especially
+is the story you should be telling
+internally to anybody you hire
+why do we exist what problem are we
+trying to solve what early customers
+have we attracted sort of and and what's
+their feedback like that that's what you
+mostly need but you need to remember to
+share it and don't just use it for
+fundraising or don't just use it for a
+board meeting or an investor meeting use
+it internally and I think you can get
+pretty far actually with that core
+content as you start to I mean the first
+thing you're probably putting in place
+is a little bit of hiring process
+and I think that's going to matter
+sooner than you think don't just be
+tempted to hire people you know and your
+friends think about what you need what
+capabilities you need to build even
+pre-pmf right and so there's as I said
+there's like a chapter about that but I
+think some of the simplest versions of
+it is how do we evaluate talent what
+kind of talent are we looking for where
+do we go look for talent you know figure
+that out and sort of train people a bit
+internally on interviewing I think
+interviewing is not a skill that comes
+naturally people think it does it does
+not and there's really basic easy tips
+and tricks you can find even on the
+interwebs about interviewing and I
+really recommend
+uh and my book has examples of like
+rubrics questions you can use how do you
+really get at because it's hard to
+really evaluate someone in 30 minutes or
+45 minutes so I think interviewing some
+of your fundamental early investor kind
+of content you need but then when you
+start to get some traction then you're
+starting to codify and actually document
+what I call more foundational content
+because
+if your pre-product Market fit you're
+probably small enough that you just can
+tell everybody all the things you don't
+have to send them the packet or have
+them sit in the onboarding but the
+minute that you're starting to get any
+kind of hiring speed you're going to
+want to have documented more
+and you're going to want to start to put
+some very lightweight processes of how
+you get things done in place because
+again you're trying to replicate
+velocity it's easy when you're all in
+one room and everyone knows like oh this
+is the most important thing to get done
+today hack hacking hacking away but then
+uh pretty quickly that is not going to
+be the case I definitely want to go one
+layer deeper on that but there's this
+area I wanted to get to before we dive
+into some of the into the weeds around
+that which is I found it really
+interesting that you started your book
+with this idea of personal operating
+principles versus like here's how the
+company should work it starts with like
+here's how you should think about
+yourself so I want to go there's four of
+them but before I get into them can you
+just describe like what is the idea of a
+personal operating principle and why is
+that important remember the book is
+about sort of two things company
+building and Company structures and all
+that replicating all that good stuff and
+management
+so the other thing that the book is
+really about is management tactical
+guides to
+I mean it would be easy to build
+companies if there weren't humans
+involved right but there's humans and
+they're complicated and I'm complicated
+and you're complicated and there are
+things that motivate us there are things
+that demotivate us they're not the same
+things so Lenny and I I think you and I
+have some things in common but point is
+the book starts
+with you and I think a lot of people
+think management starts with the team
+or even the company
+uh and actually I think Founders make
+this mistake Founders say Well it starts
+with my product
+and yeah
+I mean but it actually starts with you
+and so the book starts with sort of my
+belief system which is self-awareness
+which is the first operating principle
+uh self-awareness to build Mutual
+awareness is actually the most
+fundamental thing you need to crack if
+you're going to succeed at company
+building or management in my opinion but
+I would say I'm not I'm one of those
+people who has strong opinions that are
+pretty loosely held this one is a strong
+opinion strongly held which is the more
+that you can seek feedback seek to
+understand your motivators your
+strengths your blind spots your
+Tendencies and and take that on board
+and and expose it to others you're going
+to be a much more effective uh company
+Builder and manager so it starts with
+you and those operating principles that
+I articulate are sort of mine but
+they're also foundational to the content
+of the whole book I do think authentic
+leaders tend to have their own right
+Lenny you probably have a few that you
+you maybe have not articulated them all
+out loud but I do have mine and they're
+in the book but I think you would also
+find that some of them you could adopt
+if you were looking for if you were
+looking for some to start to use as a
+leader I would I would hope that I've
+put forward a couple that might be
+useful I want to talk about these four
+but um while you're on that topic what
+are ways to help crystallize your own
+operating principles like what advice
+would you give people to yes because to
+your point people probably have them in
+their head but they haven't really been
+ridden them out that's right they
+haven't the book has an exercise that I
+recommend in it that's a little bit more
+about crystallizing your personal values
+but that's kind of the place you want to
+start and it's essentially there's a
+whole menu and you can find these online
+of like say 70 or 80 different values
+and but by values I mean uh family
+ambition impact competition like people
+value education people value different
+things differently by the way and
+there's no judgment like you might value
+you know being a very competitive person
+and I might value collaboration above
+competitiveness and that's fine we
+probably would both be very effective in
+a team for different reasons right so
+basically if you take a list of values
+and you say okay if I had to pick 10 of
+these that matter to me then if I had to
+pick five of them and then you really
+force yourself if I had to only pick
+three of them and it's actually good to
+have this in a dialogue with someone
+that you've worked with or you know well
+and you sort of had to explain well like
+why why when I'm really pushed do I have
+to have to hold on to say education or
+learning as a value or why do I have to
+hold on to Integrity as a value and I
+tell a story in the book about a manager
+I worked with where transparency was a a
+very important value to him and the
+thing is you usually have a story behind
+that value right and in the book I I use
+the name Eli for him
+Eli ends up sharing this story at this
+off site that we had
+and the transparency value actually was
+a little bit problematic to manage
+because Eli would tell everyone
+everything including his team even when
+we weren't finished with the plan right
+but Eli got up and told a story of being
+younger like seven or eight and
+realizing his mother was very sick and
+no one really told him what was going on
+and then unfortunately watching the
+process of her her dying and then being
+taken out to lunch by by his stepfather
+and said and told your mother is gone
+and okay well this doesn't like your
+whole world view kind of explodes when
+you hear that and you're like oh okay
+this transparency thing is really real
+this was a formative
+experience for him and it has changed
+how he operates and it will probably
+have changed it for his whole life
+and if you can get to that point on your
+own of telling yourself what was the
+story what was the thing that made this
+so important to me then you're starting
+to be in a mode of self-discovery
+and then you're starting to document
+okay if these are my three top values
+and here's why
+uh and then I think what you want to
+look for are what are my what I would
+call my work style Tendencies and and so
+you get your values and then you sort of
+go on a I'm sorry I could go on about to
+say I warned you I wrote a book about
+this but basically all these work style
+assessments Myers Briggs disk
+Enneagram you name it and I I by the way
+I would take all of them because I find
+that very good day I mean some of it you
+know it's just data you're just taking
+on data but a lot of them come down to
+are you introverted or extroverted are
+you more introverted or extroverted like
+where are you on that Continuum and are
+you more tasked if you kind of picture a
+horizontal and a vertical are you more
+task or people oriented and so I would
+take your values and then I would plot
+yourself like am I a more extroverted
+task-oriented person which means you're
+kind of a director get you know what
+done kind of person or am I a more
+extroverted people oriented person which
+might mean actually you're probably
+great at uh being very charismatic and
+buildings followership and maybe selling
+a vision very a lot of sales people are
+very extroverted people oriented people
+and then you start to see okay if this
+is my sort of tendency in my default and
+this is my value system like what are
+what are the ways that I operate that
+really make up who I am right and and
+sort of becomes almost a belief system
+and my operating principles in the book
+you know one is the build self-awareness
+to build Mutual awareness another one is
+say the thing you think you cannot say
+I think that I've come to believe that
+often your biggest strength one is also
+your weakness but two is something that
+you don't know is a big strength because
+it's almost like breathing right like
+for me saying something actually fairly
+openly and directly but in a
+non-threatening way is is a is a thing I
+do
+uh John Carlson actually once said to me
+he's like it's so interesting when you
+give feedback that can be like actually
+pretty brutal I leave feeling really
+optimistic
+but but like you know I mean
+I I don't mean to be brutal but I think
+I can sort of unpack and say this thing
+like here's my observation here's what's
+going on and it's not judgmental it's
+not threatening it's actually opening up
+an opportunity for people so say the
+thing you think you cannot say you would
+actually find that more of us can do
+that and then I come back to you know
+distinguish between being a leader and a
+manager which is something early in my
+career I did not do well Lenny which
+before we get to that one actually just
+to briefly uh ask you a follow-up
+question because I I love that you're
+getting through all four here this is
+great but I was gonna ask is there
+something so clearly really good at
+saying the thing you cannot say and I
+love that many people are not good at
+this do you have any tactical advice for
+someone that is not good at this for how
+to actually say something uncomfortable
+I think the the main thing is
+and Fred Kaufman has this in his book
+conscious business this concept of a
+left hand he calls it the left-hand
+column which is you're in a dialogue
+with me or you're watching a meeting
+happen and you've got a running
+commentary in your head and honestly
+some of that stuff is pretty harsh right
+like you do not want to open your mouth
+and just say that thing
+but what Fred says is like learn how to
+detoxify the left hand column I would
+say think about a way to say that thing
+that you think you can't say like you
+you've filtered yourself out which I
+don't like and I want you to think okay
+how can I and I think that the here are
+the tricks a couple of
+one is ask a question
+right a question is not threatening
+by the way the question could even be is
+there something we're not talking about
+it feels like to me and then you own so
+the next trick is you own it this is
+your observation this is your perception
+this is not a judgment I am not saying
+Lenny I think you really botched that
+interview
+that's not useful if I said Lenny you
+know what I feel like I wonder if you
+missed an opportunity in that interview
+did you feel like you missed like an
+area that you know and then you're kind
+of curious you're like what do you mean
+you know I'm like well I'm kind of
+looking at this with you and I'm
+standing next to you and I'm observing
+it right like that's less threatening so
+one ask a question two make an
+observation that you own so if I said I
+feel like there's something we're not
+talking about
+and I wonder oh I own it I wonder if
+it's the fact that these two teams both
+seem to have the exact same project
+uh I talk in the book about a meeting I
+was in where it was like very clear that
+we had two teams in conflict
+and no one was saying the thing that was
+really pretty bad I was like this is
+pretty bad we have two teams that seem
+like they both own a piece of work and
+are in conflict with one another
+but I would say if you do those two
+things ask a question own the
+observation yourself don't pass a
+judgment you will get way farther than
+you would have ever thought sharing and
+by the way that sharing one there's
+probably other people who just haven't
+can't get out of their head and you have
+our opened up a door that a lot of
+others could probably walk through
+you're not alone you have this framework
+I think you call it being an Explorer
+not a lecturer is that is that what you
+just described is that how you describe
+it is and it to me what I just talked
+about was more of a meeting or a
+conversation scenario but I think that
+this I'm glad you brought that up I
+think this is actually a very
+fundamental management framework of mine
+which is in a one-to-one interaction
+like your job as the manager first of
+all too many people think your job as a
+manager is to be the expert and tell
+people what to do no actually your job
+is to enable people to be their very
+damn best on your team and you have to
+create an environment and a context and
+provide them information and then you
+need to provide them a form of coaching
+now again I think people sometimes think
+coaching is lecturing like let me coach
+you how to make this Excel model
+you know and sometimes they do sometimes
+someone comes to you and says can you
+exactly show me how to do this thing
+fine but most of management is actually
+exploring with someone it is being
+curious it is saying I have seen this
+pattern of your work have you seen this
+pattern is there something like I I have
+a whole other framework which is about
+hypothesis based coaching so instead of
+I think intuition as a word gets kind of
+a bad rap and I kind of get why look
+especially if you work with a lot of
+Engineers which I do it's not
+particularly always data driven but
+guess what
+guess what a scientific hypothesis is
+it's a well-informed piece of intuition
+and I think too many managers wait until
+they have a million pieces of data to
+make an observation to someone about an
+area for improvement instead I would say
+take some data form a hypothesis and
+then explore it with the person because
+if you're well intended which I think
+any good manager is I'm bringing up this
+thing because I'm trying to help you see
+it and tell me if it's true so that we
+can both help make it more effective
+better like I mean one very light
+example could be you know
+I I felt like in that meeting how did
+you feel that presentation went and the
+person sort of says I it's fine you know
+I think I got through the I got through
+the material you say yeah I I felt like
+you were maybe a little bit nervous I'm
+just exploring were you and by the way
+the person could say oh no no no no no
+no no and and then then you're gonna you
+could back off or you could say oh well
+maybe it was just me but I noticed some
+physical like you your leg was shaking a
+little bit your voice you know you were
+kind of repeating yourself and they're
+going like what and you're all you're
+doing is holding up a mirror you're
+saying Ma and you and you have to own it
+you have to say my experience of you in
+that meeting was that you seemed nervous
+to me
+maybe you were not but actually maybe
+this is just a physical coaching thing
+right have you ever had that I have a
+few people on my teams who do this weird
+thing this is like pre-virtual world but
+like when they're sort of getting it
+uncomfortable in a meeting they put back
+their chair up
+the table right like sort of exit the
+circle
+and that is a very physically big
+statement
+and they had no idea Lenny they had no
+idea I'm just watching the meeting and
+I'm like oh my gosh you're like four
+feet from the rest of the group because
+you do not like this topic
+and what I need to explore with you is
+how do you vocalize that instead of
+physically exiting the room or exiting
+the circle right these are just examples
+sorry I could keep going but I really
+think that that attitude of exploration
+and mutual sort of collaborative let's
+discover some things about you and by
+the way it can be mutual they can go
+right back at you and say well I observe
+this
+great great I mean one of my favorite
+I've interviewed a lot of people for the
+book different leaders and managers from
+lots of different fields but one of them
+was Reid Hoffman who's a more typical
+but read we were talking about the other
+operating principle which is management
+versus leadership and Reed was like
+pretty honest he's like look I'm more of
+a leader I'm not a manager it's like I'm
+not a great manager and then he told me
+the story he's like he had in his first
+company that he was building uh he had a
+guy that he hired who was more
+operational
+and read uh read was like sort of making
+an observation to him about something
+they should do and the guy goes to him
+read I wouldn't hire you to manage
+McDonald's
+and Reed was like okay good so tell me
+what we need to do so we can fix this
+thing but what actually reads operating
+principle interestingly when I unearth
+that whole thing was that he Pride some
+like it's very important to him to
+create an environment of open feedback
+uh he said what I love about that story
+yeah is it's funny and embarrassing but
+actually that that guy was comfortable
+saying to me I wouldn't trust you to
+manage a McDonald's and and I think that
+actually I found inspiring because I
+don't think everybody who founded a
+company or who's managing someone has
+created an environment with that much
+trust in it right and that's how Reed
+thinks he gets a lot of stuff done is
+people just come right back at him with
+the feedback
+this episode is brought to you by
+dovetail the customer insights platform
+for teams that gets you from data to
+insights fast no matter the method
+there's so much customer data to get
+through from user interviews to NPS
+sales calls usability tests support
+Tickets App reviews it's a lot and you
+know that if you're building something
+hidden in that data are the insights
+that will lead you to building better
+products and that's where dovetail can
+help dovetail allows you to quickly
+analyze customer data from any source
+and transform it into evidence-based
+insights that your whole team can access
+if you're a product manager who needs
+insights to motivate your team a
+designer validating your next big
+feature or a researcher who needs to
+analyze fast dovetail is the
+collaborative insights platform your
+whole team can use go to dovetailapp.com
+learning to get started today for free
+that's dovetailapp.com Lenny
+so we've done three of the operating
+principles that you personally use which
+I love I love that you're gonna go
+through distinguish between management
+and Leadership is the third one yep and
+then the just to summarize real quick
+the second one was to say the thing that
+you cannot say the first one was say the
+thing you think you cannot say yeah and
+then first build self-awareness to build
+Mutual awareness yep and and what's cool
+is you're sharing all these Amazing
+Stories and tactics in the book you
+actually have like templates to do each
+of these things for yourself which so
+like a lot of this is pointers to like
+if you actually want to do this go check
+out the book and you can actually do
+this it's not just you know a bunch of
+high-level stuff and then the fourth is
+come back to the operating system
+um let's talk about it so this one is
+sort of like I was talking about
+Touchstone documents that you might
+create for your company like this is our
+operating principles or our values this
+is my Touchstone which is
+I think that especially high growth
+environments but every environment you
+operate in can get really chaotic and
+there's a lot of ambiguity there's a lot
+of stuff you don't know and it's kind of
+easy to get paralyzed or to sort of give
+in to the chaos and you're like oh my
+gosh I don't know what this day is going
+to bring I'm just going to randomly
+assign some stuff and I'm just gonna get
+through it and all you're doing in a lot
+of those moments is creating more chaos
+and I think a really important role of
+definitely managers but some leaders too
+is to create a
+a stability when there doesn't feel like
+there's a lot that's stable
+and where stability comes from is in
+ritual and in common practices that you
+share so we set quarterly goals or
+monthly goals I don't you know and
+that's a ritual and that's a thing we do
+and it's actually a source of stability
+and yeah it feels like a process it
+might feel like a way of managing but it
+also has like a Cadence to it and I
+think one of the things that happened is
+like you picture yourself sort of
+spinning out of control you think how do
+I come back to this is the order I do
+things this is how I get decisions made
+this is how we make plans this is how we
+make decisions those touchstones are not
+processes to run the thing they're
+actually stable if they're done well
+they're stabilizing because they're a
+common way of approaching that everybody
+has so they can at least hold on to that
+even when all the other stuff is going
+haywire like you've got a customer
+churning and you've got a big launch
+happening the next day like oh my God oh
+my God like come back what's our launch
+how do we launch products we have a way
+of doing that we do not need to spin out
+of control and reinvent the wheel here
+right and that's that's a stabilizing
+thing and and the other thing on come
+back to the operating system for me was
+as my career scaled as I went from a
+Mana like an individual contributor to
+managing a small team to managing a
+bigger team to managing multiple teams
+to managing managers you get it I
+realized actually and I started to have
+multiple functions right so I was
+context switching between like at Google
+there was a point where I had like some
+product people industrial design
+operations like really BD really
+different functions
+actually how I fundamentally ran them at
+the Bare Bones at the house architecture
+level was the same
+and that gave me a stability as a leader
+where I would like dive into a meeting
+I'd be like all right let's look at the
+metrics that matter we all had we had
+them for every team let's look at the
+the goals we said you know and that also
+helps you stabilize when you're context
+switching between you know seven
+different projects or seven different
+teams uh and so I wouldn't say it's the
+operating principle that I talk about
+the most but I think if you were like
+what's your sort of how do you scale
+yourself
+I would say well I actually have a
+common operating system like a computer
+you know and that and that is how I
+maintain a sense of stability
+perfect segue to the next kind of broad
+area I want to spend time on which is
+this house metaphor and the three
+components of it that you talked about
+and this is kind of like the core of the
+book can you talk about again the three
+kind of pillars of this house structure
+and then let's just go through each of
+these things
+yeah I mean it's definitely the
+beginning of the book is about company
+building and the company structure
+chapter is all about the sort of
+supporting beams the Mechanicals and
+then the foundational stuff and
+interestingly it's sort of well I guess
+when you build a house you build the
+foundation first so one is the founding
+documents that you might create which
+I'm happy to talk about and then another
+of these supporting structures which are
+some of the ways you do things right we
+talked to like quarterly business
+reviews or okrs or how you use planning
+to create a structure that everyone and
+then the Mechanicals are what I might
+call the operating Cadence which is
+essentially the rhythm of how you work
+right we all like just the calendar the
+year that we all experience tends to
+dictate a little bit how we work Mondays
+feel different than Sundays right well
+companies have that same kind of a
+Cadence which is often also calendar
+driven but also can be event driven I
+mean I I've we we've talked often at
+stripe about how our customer event
+which we have called stripe sessions is
+as important internally as it is for the
+customers because it's a forcing
+function right for our Cadence how we
+plan our products what we want to have
+achieved by that point what we want to
+demonstrate and that's true for a lot of
+companies but we actually use it in our
+thinking about our Cadence of the year
+and actually we've built this other
+event that I usually help run which is
+an internal event that happens generally
+about six months before that which is
+great because you can demo the stuff you
+think you want to demo internally you
+know like you sort of create a Cadence
+of we're going to push ourselves to do
+some crazy like wild stuff internally
+demonstrate it and then see if we can
+externalize it you know by the time we
+hit the customer event but that is a
+Cadence you know quarterly business
+reviews are part of your Cadence Etc so
+that that's the fundamental but but
+really what I'm trying to do is say one
+I don't think this stuff is super hard
+you know this it's kind of hard work
+it's just like putting it in place and
+then
+actually using it
+I think where a lot of leadership teams
+go wrong especially of young companies
+is they experiment with different
+vehicles to try this stuff and then they
+either don't actually follow them or
+they throw them out the window after
+like they haven't tried it for very long
+and it creates a lot of chaos so I would
+say do very few things consistently and
+try to do them well and then see if
+they're working for you and then you
+know once a year maybe think about a
+revision but don't keep throwing out new
+things you heard that other companies do
+and it turns into like a weird grab bag
+of operating operating stuff I don't uh
+you're nodding because you've seen this
+too yeah I think a problem I've seen is
+people think there's going to be this
+perfect system and process that's gonna
+not have any flaws and they're always
+like oh it's not perfect we get optimize
+it further and what I find is it's
+always just like this is the best one
+you can come up with at the time that's
+the best idea you have now there's gonna
+be flaws just work around those flaws
+but just know there's never going to be
+the one thing that works there is no one
+there's no perfect org structure there's
+no perfect operating approach there's no
+perfect yeah performance and management
+and level system but having one and
+committing to it is good and don't let
+the perfect be the enemy of the good
+there's another point you mentioned that
+I thought would be fun to talk about
+that it's often chaotic at a company I
+imagine people think about straight from
+the Out Center like oh they've got it
+all figured out so smooth just runs like
+a machine and I think people look at
+other successful companies and they're
+like man things are so crazy at our
+company this this isn't normal but I
+think you tell me if I'm wrong most
+places are crazy and chaotic internally
+for long for a long time and often right
+yeah I mean they're different kinds of
+chaos but
+um it's so true I mean what is that
+there's like a saying you know don't
+don't ever believe your best press or
+your worst press
+it's never as bad as whatever someone's
+saying is Never As Good it's just normal
+is
+you know not pretty like it's a lot and
+that is true it's happening everywhere I
+used to have a friend who was building a
+company
+um we would see each other we both were
+from the Boston area and it's a long
+story but we'd end up on the same flight
+often a red eye like coming back to
+Boston occasionally for stuff for family
+and we'd be in the we'd be getting
+yelled at by the passengers could we be
+in like the uh in the aisle of the
+airplane comparing notes about stuff
+that was broken and we had this
+expression it's like oh and then I
+picked up the Rock and oh under that
+rock were some really ugly creepy
+crawlies you know but that's just like
+the way it is is it's never perfect but
+I guess I would go back to what I just
+said about having some stabilizing ways
+of doing things because that can create
+I don't know I'm not trying for a
+perception that the thing runs like a
+machine but more of a like that is a
+well-run thing
+right and how do you create that
+perception because you adhere to some
+ways of running things and that are
+consistent and it feels better even to
+the outside
+even if there's a lot of chaotic stuff
+going on coming back to the founding
+documents could you just talk about like
+what are in this group of founding
+documents and I think even more
+interestingly what's a sign that you
+should invest more time in this area as
+a startup very classic stuff is in here
+nothing that you haven't seen or
+examples of so one is I think it's good
+to have a mission
+uh when I joined stripe we did not it
+came to be apparent that to increase the
+GDP of the internet
+was probably the mission but because
+people kept repeating that back to us uh
+and Patrick had written it on some
+website copy early on but it was
+interesting that candidates and
+customers kind of grabbed it it was very
+striped because it's a little bit
+intellectual and pointy-headed and
+aspirational but also it is the GDP does
+involve economic progress which we're
+all about right we're building
+infrastructure for Commerce and payments
+for not just the internet actually but
+anyway point is have a mission or at
+least the beginning of you know what's
+your one line of what you're you're
+seeking to accomplish and then I really
+think I'm a big fan of writing sort of
+what what we at stripe called our
+long-term goals which were just not our
+short distance but our longer distance
+like why did we exist and so the mission
+is one line so you need a little more
+meat behind that right and and actually
+I think if you looked at our long-term
+goals which by the way I thought would
+be like a three to five year goal I
+would say they're still relevant today
+but one of stripes on term goals
+is
+to advance the state of the art in
+developer tools which would not be
+something that everybody especially
+every customer of stripe would initially
+call out but when you think about it
+Lenny you just did it you think about it
+for a minute you're like yeah like the
+API and the docs and a lot of stuff that
+we've open sourced like stripe cares
+like our forever user is fundamentally a
+developer it's the person who's
+integrating Stripe Right at any by the
+way simple integration complex
+integration anywhere in between we
+really care about their experience and
+we care that the tools are excellent
+because how are you going to increase
+the GDP of the internet if you don't
+Advance the state of the art of
+developer tools right anyway point is
+that that articulating that because
+until I said that to you and I could
+talk about it with you and say you came
+to work at stripe you might not
+understand why we invested in certain
+things or why it meant so much to us in
+terms of our user experience and the
+mission so articulate those things and
+some of them might be a little bit
+aspirational but they should feel at
+least real enough that you can have that
+conversation about like I mean I look at
+anyone who works in a company what they
+choose to do all day with their time
+should be guided by things like what are
+we trying to accomplish what are our
+long-term goals so if they don't know
+them how are they going to make the
+right choices so that's one and then
+another is is a lot of companies write
+company values or stripe we wrote
+operating principles I think you had AKA
+demiliano on and she talked about these
+and we even sort of took a version of
+ours and put them out for candidates so
+that they could evaluate do I want to
+join this company because I kind of want
+to know what it's like to work there and
+I think that's really valuable to do
+because not every company is right for
+every candidate and the more you can
+mutually match the better but having
+some operating principles matters I
+think you can go farther than that but
+that's where I would sort of start is
+those three things awesome I like the
+Simplicity oh and how do you know you
+don't have enough how you know is people
+are asking you especially new new hires
+are asking you a lot of questions
+about like what's important or why do we
+do it this way or you know like I mean
+you said it yourself at the beginning
+doesn't writing something down
+crystallize it
+time to write it down and crystallize it
+for everybody who works there
+and just to summarize it was a mission
+your operating principle slash values
+what was the third one yeah uh long-term
+goals long-term goals sort of more
+details on why you exist what are you
+really trying to accomplish interesting
+and are those like numbers in your
+experience or is that like a story of
+like what those are a little bit more I
+think headlines and and I think your
+shorter term goals have numbers against
+them right so if you looked at your
+long-term goal which might be another
+one of Stripes is is about accelerating
+globalization
+and if you thought about what would that
+require that would require us to be in a
+lot of markets that would require us to
+have uh
+users and customers in a lot of Market
+you know like and also to eliminate
+friction across borders so those things
+which is a very high friction thing
+unfortunately in payments and and moving
+money which it shouldn't be if you want
+to advance globalization accelerate it
+right and so that can then become
+numerical goals and short-term goals
+like basically objectives and then yeah
+it's sort of like the longer term
+objective and then the key results part
+is early is shorter term but actually if
+you're having trouble writing your
+company goals actually zooming way out
+and being like well what are we really
+gonna if we're gonna meet this Mission
+what do we have to accomplish in the
+long term you can then walk back from
+that and be like oh yeah every goal we
+ever have probably fits in these three
+to five buckets
+bam like and then you write your
+short-term goals actually more easily
+because you know there's always going to
+be one about say International expansion
+there's always going to be one about
+additional products because we're trying
+to do X you know you can't do it with
+one product or whatever you can imagine
+the example awesome and I know your book
+has actual examples a lot of this stuff
+so yeah again pointer to that okay so
+that's the founding documents the next
+piece is operating system maybe we go
+there just like what fits into an
+operating system for a company like what
+are the components of that I mean I
+think a lot of the components we've sort
+of touched on which is do you have some
+sort of goals this is now goes back what
+we're just talking about like for stripe
+we have an annual set of numeric targets
+that we put together we have a system of
+goals or okrs objectives and key results
+but sort of like what is your structure
+for setting Milestones that you want to
+achieve whether they're numeric or or
+more like a binary we got this thing
+launched we didn't and then
+qbr so quarterly business reviews how do
+we review parts of the business what is
+the Cadence you know well first what is
+the form by which we do that which would
+be this I I share examples in the book
+of like this might be the template you
+fill out if you're a team and you're
+reporting on how it's going versus your
+strategy and your goal and then there's
+also sort of getting into metrics and
+dashboards what are things that you look
+at internally to measure progress the
+input metrics and the output metrics and
+I give some examples of that and and
+then
+mostly I mean I think there are other as
+I said there could be less frequent
+forms you use like a user event or a
+launch or way of launching products Etc
+but it's really simple it's mostly like
+goals and how do you review the business
+planning I talk a lot about planning
+which is I mean you you said this
+earlier and you and I think both agree
+which is there's no perfect process to
+plan for the next year or the next two
+years but you still need to fight your
+way through having something especially
+after a certain stage and every CEO I
+meet with we like sort of ring our hands
+together we're like oh planning and
+everyone hates us like two burdensome
+but like you still gotta keep trying you
+gotta do it
+um and so we talk about planning
+processes and what they might look like
+and how you set them up and then that's
+how you'd use goals and Oak and qbrs to
+measure against the plan right so those
+are some of the operating systems and
+then the Cadence is just
+how often do you do these things
+actually one of our big lessons
+I think companies that are moving
+quickly and that are younger tend to
+resist some of the calendar-based
+cadences of more mature companies
+because they seem slow you're like
+really you're going to just achieve that
+goal in like three months or like are
+you artificially restricting yourself
+right to some lowest common denominator
+of time and so I get that fear and I
+would say your Cadence doesn't have to
+be one quarter or one sixth month or
+even 12 months it could be like stripe
+we did sort of six-month processes for a
+while so instead of a year we did it in
+six months or you know we CH I mean
+still there were things that took by the
+way a year or longer but I think that
+play around with the time frame and
+don't feel restricted by what other
+companies do but one of our lessons on
+the qbrs was sometimes those quarterly
+because that stands for quarterly right
+those quarterly business reviews were
+were too infrequent especially for new
+product areas that were still in
+development that we're still getting a
+lot of feedback launching a lot and so
+we just said okay they're not they're
+not quarterly anymore they're like every
+six week business reviews fine
+change your Cadence the point is to have
+one
+because then it's predictable for teams
+they know what they're marching toward
+they know when they're going to be
+reporting out and they can set their
+goals in a way that makes sense to make
+progress in that time
+one quick question there what's a sign
+that your Cadence is off like what's a
+yeah what's this flag that like oh we
+should go shorter or longer well
+everyone usually complains about these
+things but I think if the one nothing
+like you said it's probably too fast if
+not enough progress is being made in
+between whatever your review or your
+reporting function is and it's probably
+too slow if the content you're reviewing
+seems stale
+and you're like well we knew this or
+like we already did that thing or like
+yeah we already had the meeting where we
+talked about that that's another thing
+that's interesting is like some
+companies will have a pretty frequent
+metrics review Cadence and then an
+infrequent
+strategy review Cadence and what happens
+is the metrics review becomes the
+strategy review because you don't you're
+not talking about the strategy often
+enough and so you're talking about it
+through the data and so then by the time
+you get to the strategy review you're
+like we already had this meeting right
+and that's just a sign that some things
+are just off and it's just to me it's
+about like
+timeliness and freshness of the content
+but also that there's actually new
+content if there's not new content
+you're you're creating work for people
+by the way give them time to work and so
+I think that don't fool yourself that
+thinking having more frequent checks on
+things is going to actually make things
+run faster
+I would say that the opposite can be
+true and so be very wary
+of actually slowing velocity down by
+creating overhead I mean one thing we
+try to do at stripe is if we're looking
+at metrics let's just look at your
+dashboard live let's not create a
+special presentation
+like I actually just share your screen
+please on your dash right which is a
+good discipline
+because one that means you have to have
+a really good dashboard that's real Time
+That's web accessible you know like no
+one had to pull or massage the data
+right that's a good sign but it's also
+you're not wasting people's time
+prepping all that information which
+happened even by the way at stripe
+even when we put that in place we still
+ended up with versions of that problem
+yeah AKA I think mentioned that I think
+there's a term for it like data
+something where you randomly get chosen
+every week and someone has to like
+present your data from your meeting yes
+yeah it's like the next day you're gonna
+have to share your meetings and yeah we
+call it the spin the wheel the spin the
+wheel on who gets to present but you
+know that that has a logic in it which
+is don't over prepare because then
+you're not working
+to just prepare it right that's awesome
+I love that policy
+there's so much more I want to chat
+about there's like chapters on hiring
+self-development personal development
+all these things theme development yeah
+what was that there's a yeah intentional
+there's a team building team building
+and Performance Management yeah it's
+like okay so we could go through all
+that stuff instead I want to talk about
+the CEO role broadly yes I asked on
+Twitter preparing for this chat uh what
+people wanted me to ask you about and
+most of the questions ended up being
+about the CEO role and things like that
+so I just have a few questions lined up
+here for you sure okay so Amir soliff
+handic with a little accent at the end
+there he has just at what point do
+companies need a CEO and how would you
+judge if someone is a fantastic CEO oh
+yeah
+well I would first say I most companies
+if you looked at the universe of all
+companies do not have a CLL I think it's
+like fewer than 20 uh it's definitely
+fewer than 30. and I think that's
+something to know that I don't think
+it's an automatic role to have or hire
+and I think you see it in more
+prevalently
+in earlier stage or high growth
+companies you also by the way see it in
+certain
+business models I actually think Apple
+was an interesting version of this right
+where where Steve Jobs was oriented in
+terms of product and design but also
+that Apple has like it's like very
+intense to manufacture software and
+Hardware that then works together I
+learned that when I worked on
+self-driving cars at Google and you need
+a very intensely operational detailed
+manufacturing hit the marks hit the
+timelines person and that's like so I
+think some businesses that have a very
+deeply operational say a manufacturing
+component that role might be more
+prevalent but point is it's not an
+automatic I think it's useful in a high
+growth in an environment where you're
+having think about the founder CEO of a
+company that is achieving product Market
+fit and also having to build a company
+and hire all the leaders that is a lot
+because you are building the product and
+the business you are building the
+company and you are building all the
+people like bringing them all in and
+that is where I think a COO type of role
+can give you leverage right which is
+essentially it's a layer that takes some
+of those functions and helps build them
+with you and on your behalf and also in
+some cases bring some experience in in
+you know maybe there's a particular
+function like go to market that needs to
+be built and I think that's where you
+see it come up what I've said to some
+people recently is I'm a little worried
+just like there's a mythical founder
+that there's some mythical Silver Bullet
+CEO higher that everyone's like I'll
+just find that person and first of all
+we're all human beings I'm not perfect
+like I'm I certainly did some things
+well when I joined stripe and other
+things not as well and and I think and
+I'm working on my self-awareness of what
+those things are but I would say
+one lower risk strategy could be to
+bring in say a a head of business
+operations or a role that sort of coo
+like and try a couple of functions with
+someone and see if they scale with a
+company and with the role and then maybe
+you decide they're a CEO or I mean I
+mentioned Stripes business operations
+team you could hire a business Ops
+leader and sort of say hey build this
+team to help be the Swiss army knife to
+help scale the company and then maybe
+that turns into more or there's some
+CFOs that are quite operational they
+could they could take on more scope
+sometimes but I think there are other
+paths to getting that leverage and there
+are also ways to de-risk the higher
+because you could end up searching
+forever right and I I worry that it's
+become
+too much of a Panacea on the in people's
+minds right like somehow they're gonna
+find and people will call me and they're
+like I just need to find you and I'm
+like you know one I may not be right for
+your company but two that was like a lot
+of work and I think we actually in the
+end maybe got pretty lucky on how would
+you know someone is fantastic
+someone said something very smart to me
+which was I was in a meeting it was me
+and Patrick so Patrick is the co-founder
+and CEO of stripe and they said that
+having just the right amount of tension
+in our relationship was how you knew it
+was working for the company
+and it it like gave us both a little bit
+of pause but we end up having quite a
+good conversation after that meeting
+which is there has to be
+like Mutual understanding and trust and
+an ability for Patrick to say hey can
+you go do this thing and then believing
+I will do it at the level of quality and
+and intensity and intentionality that he
+would like but there also has to be some
+friction where I would maybe say no I'm
+not going to prioritize that I don't
+think that's important for the company
+or I'm going to give you feedback that I
+don't think we're doing this well or
+he's giving me feedback the customer
+experience is suffering you're all your
+scale stuff is is degrading this thing
+right like that so so fantastic
+is not all hunky-dory fantastic CEO is
+just the right amount of friction and
+tension with forward momentum and mutual
+trust because then the whole is greater
+than the sum of its parts right that's
+what you're looking for I was actually
+going to say I've worked with some
+Founders and they have this concept that
+they hire a CEO and it would just solve
+all these cultural issues they're having
+these like relationship issues and
+sounds like that's exactly what you're
+saying is that that is not often the
+solution to somebody's deepest right
+well that would be the other problem is
+actually believing I mean I was getting
+recruited Lenny and people would
+essentially I felt like the founders
+were saying to me I'm gonna give you all
+of the things I don't like doing as your
+job
+and I was like um even if I'm by the way
+not qualified
+to do all those things number one and
+two
+is you know sometimes that list would be
+quite long and that would make me
+nervous I was like do you really not
+like running a company actually is that
+what's going on here and really I think
+they weren't confronting
+elements of their work that needed to
+evolve and change and what I loved about
+joining stripe was I think people also
+think like I'm just gonna hand all the
+stuff to this person and like I'd love
+to say I took all this off of the
+Collison's plate and and Billy and John
+and the other people who were there at
+the time and no we actually were more
+collaboratively worked together and I
+think it helped
+well one you don't feel is isolated
+because you're in a team but also
+there's more joint work than people
+realize I think in at least in the
+companies I'd like to work for
+for our final uh tennis minutes we have
+together and they have to run I was
+thinking I could go through just like a
+rapid fire set of tactical questions and
+see like maybe one piece of advice you
+would share with someone that's maybe
+struggling with this thing okay and the
+first is from uh also Twitter person uh
+manual Bruce Bruce brewski and he just
+had a question around as you're scaling
+keeping alignments strong is challenging
+what would be something you'd recommend
+to someone that's scaling quickly and
+trying to keep people aligned
+well a lot of what we talked about right
+having common
+codified documents of what we believe in
+how we work and then using communication
+practices very intelligently never think
+that one communication meaning an email
+or in all hands reaches the audience you
+have to be smart about how you
+communicate
+awesome amazing and a different podcast
+we talked about how the leaders often
+the repeater in Chief just having to
+repeat the same thing again and again
+yes and use different just like a
+marketer use different channels some
+people read emails some people watch
+videos some people attend the meeting
+repeat
+love it that'll be your own clip to take
+away from this
+um I was watching an interview with you
+and you talked about the value of
+off-sites for creating cohesion within
+the team can just talk about like why
+off-sites are so important to a company
+and team I think offsite is really a
+vehicle the concept is the following
+which is When You Yank people out of
+their day-to-day routine
+you create space and and also you
+imprint memory and so if you say we're
+going to do a very different thing with
+your time today or the next two days
+we're not going to do our emails we're
+going to do our regular meetings we are
+going to sit and work together we're
+gonna brainstorm like you're basically
+activating new parts of their brain and
+then you're also having a group
+experience that cements a belief system
+usually or a set of plans and it also
+helps bring people along like we formed
+this thing together like it's very it's
+not effective if I say I locked myself
+in a room for three hours and then I
+came out and here's the plan you want to
+lock yourselves as a group as a team in
+a room for three hours like how do you
+do that and so that's why I think it's
+valuable it's just out of time in a way
+like you're taking it out of your
+day-to-day time and I I can't I've not
+found a good substitute for that on a
+different topic one of the most common
+questions I get from product managers
+and just Founders that I haven't tackled
+yet and I'm curious what your take is is
+around just keeping the company updated
+on what's Happening broadly what have
+you found works for just keeping people
+informed on what's Happening across the
+company and having really smart
+communication practices is something
+that I think a lot of companies don't
+invest in early and it's partly because
+it feels like extraneous
+but it's a lot of time like if you're
+going to communicate well you have to
+invest in you know your intranet site
+and what's on it like ideally everyone
+logs in and sees information on the home
+page of your of your company internally
+do you have a newsletter do you have
+Founders do like a message or a quick
+video whether that's on slack or email
+like there's a lot of Smart Tools you
+can learn a lot from social media right
+in some ways but you actually need a
+strategy for it and you need a set of
+people who help make sure it happens so
+that again it creates stability and
+Cadence and if I want to find
+information about X this is where I go
+and I think there's also that if you do
+it well it can replicate down to teams
+right which is well we have our weekly
+snippet stock
+that everybody can see the important
+news or whatever it is but you need to
+create those things because they won't
+just they'll start to spring up but then
+you'll have a million of them and you
+won't you won't be able to point people
+to the core messages but it is
+not a thing to be taken lightly and I
+think having someone who really not
+focuses on internal marketing I'm
+talking about just good
+here's what's important here's what you
+need to know sales teams actually do
+this really well
+because they have to because they have
+to keep this the sellers up to date on
+the product and up to date on how to how
+to pitch it and so it actually is worth
+talking to Smart sort of sales leaders
+who scaled and saying what do you do
+that keeps everyone on the same page as
+you're talking I realized AKA who we
+mentioned a couple times she is working
+she left ritual and she's working on a
+startup that is trying to solve this
+problem I think it's cool it is it is a
+lot about what they're working on and
+it's because it is again an unsung thing
+that is critical and that I don't think
+people naturally come to next question
+what are like one to two or maybe three
+things that people can do to run more
+effective meetings I saw you give this
+like master class on running more
+effective meetings and just to boil down
+what are like a couple things people
+could probably change I do have a video
+on YouTube about running an effective
+meeting but I think the number one thing
+is
+the work of a meeting is not calling the
+meeting calling a meeting is easy
+in fact that is a problem the barrier is
+very low and it should be higher what
+you really want to know people need to
+know why are we meeting and what is the
+point of like what's the objective of
+this meeting is it to make a decision is
+it to share information who needs to be
+here like just be one of my favorite
+things to say is make the thing that's
+implicit explicit too many meetings are
+implicitly about something
+and not explicit enough and I'm like no
+no I want to know why I'm here are we
+making a decision who's making the
+decision
+and how
+and and even better you say like does
+anyone not need to be here because we'll
+just send you a note afterwards about
+what happened right make it more
+efficient but be really explicit about
+the point of the meeting and really
+inquire like do some inquiry on whether
+it's important whether it's needed
+maybe a final question is around
+decision making so product managers who
+are a lot of the audience of this
+podcast have to one make a lot of
+decisions get people to alignment but
+they also don't classically have
+authority over anyone
+what advice do you have for aligning and
+decision making I love product
+management so much accountability so
+little authority like such a hard job
+what a fun what a fun everyone's like I
+want to be a product manager I'm like
+man that is like one of the hardest jobs
+in Tech yeah but anyway how do you get
+people to a decision yeah
+actually it's exactly you know and I
+mentioned in my book gokul's Spade
+framework but which you can look up he
+has like a coda on it but
+actually it's the same thing that I said
+about meetings which is making it very
+explicit that there is a decision to be
+made who is making the decision the
+criteria by which the decision is going
+to be made who will be informed you know
+there's all these models there's racy
+and radar and like there's a million
+different decision models just pick one
+make it explicit explain that's what's
+happening and get people through it like
+follow the model and do it and I think
+and and by the way you can always have
+like an asterisk which is if we want to
+revisit this decision this is what we do
+but I think too many teams get paralyzed
+because they're afraid like well maybe
+they're I'm not the decision maker or
+maybe what I say to people at stripe on
+our onboarding I used to run a session I
+was like if you're not sure who the
+decision maker is one it's probably you
+and I'd rather you
+act that way then not because you're
+gonna like slow the whole company down
+but really I I think the other thing is
+in the framework in the book I talk
+about this framework that Bezos uses
+type 1 type 2 decisions like is it high
+impact is it irreversible is it not like
+really evaluate what kind of decision is
+this how hard is it and then follow a
+process and get it done and don't forget
+to actually make a decision and if you
+don't know who the decision maker is and
+you're worried it's not you just ask
+like don't get stuck too many people get
+stuck and it makes your like work
+terrible
+right I mean what do we all care about
+progress impact momentum
+I mean if if anything I would say about
+like
+advice to people generally is be a force
+for positive momentum and it will it
+will be actually a real career maker
+I love that I might maybe we'll make
+that the title of this interview with
+that Claire I know you have to run
+anyone listening you gotta buy this book
+like I've said at the beginning if you
+like my newsletter it's exactly my
+newsletter but as a book about
+operations oh thank you scaling people
+scaling people is there a website they
+can go to to go check it out Amazon or
+is there they can they can go to
+press.stripe.com forward slash scaling
+Dash people or Amazon just search
+scaling people on Amazon but thank you
+Lenny I appreciate it absolutely uh just
+do final questions where can folks find
+you if they want to maybe ask you
+questions follow up reach out and then
+to any other way people can be helpful
+to you other than maybe pre-ordering the
+book well definitely pre-ordering the
+book and giving me feedback on that I I
+guess Twitter is probably the best place
+to find me I'm at see Hughes Johnson on
+Twitter but honestly I I do hope hope
+you'll consume the book in some form and
+and interact with it because the goal is
+to make it use we talked about this
+Lenny your podcast my book is just
+trying to be abuse and and I hope it is
+a positive a positive force for positive
+momentum and I really appreciate the
+opportunity absolutely thanks for making
+time for this thank you
+thank you so much for listening if you
+found this valuable you can subscribe to
+the show on Apple podcast Spotify or
+your favorite podcast app also please
+consider giving us a rating or leaving a
+review as that really helps other
+listeners find the podcast you can find
+all past episodes or learn more about
+the show at lennyspodcast.com
+see you in the next episode

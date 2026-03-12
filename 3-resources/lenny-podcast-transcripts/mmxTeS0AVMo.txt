@@ -1,0 +1,2522 @@
+there's a lot of different ways that we
+are beginning to use AI to do more with
+less basically
+the effect ultimately that we've seen
+from a human capital point of view is
+displacement we have more people now
+than we've ever had but the nature of
+the work that they do is more strategic
+it's more about modeling validation
+asking the right questions being focused
+around creative levers and less so the
+like trench work of implementation and
+bid modifiers at the keyword level on
+Google Search and some of the like
+really hardcore manual analysis we had
+to do on our Creative Group we can come
+up with mock-ups in literally like one
+percent of the time that it took and so
+you still have to understand what
+questions to ask of the AI and be
+capable of iterating but these like
+rough drafts that you might show like
+the artwork of you know to a client to
+say like do we like this more or do we
+like this more that's AI generated it's
+really interesting
+welcome to Lenny's podcast where I
+interview world-class product leaders
+and growth experts to learn from their
+hard-won experiences building and
+growing today's most successful products
+today my guest is Jonathan Becker
+Jonathan is a legend and an OG in the
+world of Performance Marketing on this
+podcast we've done deep dives into the
+many aspects of growth including SEO
+sales conversion optimization retention
+product-led growth product LED sales but
+this is the first episode where we get
+super deep on paid growth for the past
+decade plus Jonathan and his team have
+planned built and executed more than
+three and a half billion dollars in paid
+acquisition budgets for companies like
+uber Asana Square Master Class
+Tempur-Pedic and many more and they've
+built their agency Thrive digital into
+one of the preeminent independent
+digital marketing agencies in our
+conversation we get real deep into all
+things paid growth including what's
+changed with recent privacy shifts why
+focusing on creatives is the new biggest
+opportunity within paid growth how to
+think about attribution and what's
+changed there what to look for in people
+you hire to run paid growth for you how
+AI is already changing how paid growth
+teams operate and so much more enjoy
+this episode with Jonathan Becker after
+a short word from our sponsors
+this episode is brought to you by
+braintrust where the world's most
+Innovative companies go to find Talent
+fast so that they can innovate faster
+let's be honest it's a lot of work to
+build a company and if you want to stay
+ahead of the game you need to be able to
+hire the right Talent quickly and
+confidently Brain Trust is the first
+decentralized talent Network where you
+can find hire and manage high quality
+contractors in engineering design and
+product for a fraction of the cost of
+agencies braintrust charges a flat rate
+of only 10 percent unlike agency fees of
+up to 70 percent so you can make your
+budget go four times further plus
+they're the only Network that takes zero
+percent of what the talent makes so
+they're able to attract and retain the
+world's best tech Talent ticket from
+doordash Airbnb clad and hundreds of
+other high growth startups that have
+shaved their hiring process for months
+to weeks at less than a quarter of the
+cost by hiring through braintrust
+network of 20 000 high quality vetted
+candidates ready to work whether you're
+looking to fill in gaps up your staff or
+build a team for that dream project that
+finally got funded contact Brain Trust
+and you'll get matched with three
+candidates in just 48 Hours visit
+usebraintrust.com Lenny or find them in
+my show notes for today's episode that's
+usebraintrust.com Lenny for when you
+need talent yesterday
+today's episode is brought to you by
+assembly AI if you're looking to build
+AI powered features in your audio and
+video products then you need to know
+about assembly AI which makes it easy to
+transcribe and understand speech at
+scale what I love about assembly AI is
+you can use their simple API to access
+the latest AI breakthroughs from Top
+tier research Labs product team that
+startups and Enterprises are using
+assembly AI to automatically transcribe
+and summarize phone calls in Virtual
+meetings detect topics in podcasts
+pinpoint when sensitive content is
+spoken and lots more all of assembly
+ai's models which are accessed through
+their API are production ready so many
+PMS I know are considering or already
+building with AI and assembly AI is the
+fastest way to build with AI for audio
+use cases now is the time to check out
+assembly AI which makes it easy to bring
+the highest accuracy transcription plus
+valuable insights to your customers just
+like Spotify call rail and writer do for
+theirs visit assemblyai.com to try their
+API for free and start testing their
+models with their no code playground
+that's assemblyai.com Lenny
+thank you
+Jonathan welcome to the podcast thank
+you it's a pleasure to be here it's my
+pleasure so what we're going to be doing
+with this episode is we're going to be
+digging real deep into all things paid
+growth which we've never done on this
+podcast yet and normally I actually skip
+this part but I thought it'd be actually
+helpful for you to spend a little bit of
+time to give us a little bit of
+background on your experience in the
+space of Performance Marketing AKA paid
+growth AKA paid ads you tell us what the
+right term is for this genre but yeah
+just tell us what you've been up to in
+this in this area over the past decade
+and a half I think sure no that's a
+great way to kick things off and again
+thank you for for having me here if I
+think about it my experience goes back
+about 15 years into this space I started
+off as a web developer
+and as I built and structured websites
+for people I would became pretty
+obsessed and fascinated with the fact
+that you could build uh landing pages or
+home pages or whatever it was basically
+the content on a website and structure
+it in a manner where you had the chance
+to surface in organic so SEO you know
+results more prominently and as I became
+kind of a practitioner of SEO SEO really
+being my first love you know of
+marketing uh I started you know
+attracting attention and people wanted
+to hire me on as a freelancer and what I
+noticed is that as people uh started
+asking me questions like you know what
+was the ROI of our SEO campaign or you
+know how do I scale this or whatnot the
+answers to their questions ended up
+being a lot more aligned with
+what then was the biggest driver in the
+paid acquisition world uh which was paid
+search and so I started experimenting
+with paid search and what I found was
+that it was a tangible format and lever
+through which we could basically give
+people the types of results they were
+expecting from SEO but that were
+obfuscated in terms of you know Google's
+analysis algorithm from an organic point
+of view being somewhat intangible and
+Google slowly kind of removing a lot of
+the data early on that allowed you to
+kind of guess and test more easily so 10
+plus years later you know what started
+off as this freelancer consultancy that
+I you know started running in a walk-in
+closet in my old apartment became 130
+people and we manage about 500 million
+dollars a year in ad spend for
+small and large companies including Uber
+Asana Tempur-Pedic we've worked with
+Lululemon very exciting companies mostly
+from the United States even though we
+randomly happen to be based in Vancouver
+Canada there's a number of threads I'm
+going to pull on there over the course
+of our chat but you mentioned Uber and
+you told me that you had a crazy story
+about how you actually landed Uber as a
+customer could you share that I had been
+running Thrive for a couple years and it
+was a very excellent Regional agency in
+Canada with really cool local clients in
+2013 I got invited to go down to the Ted
+conference which was in Long Beach
+California and my friend Andrew
+Wilkinson asked me to join him at a
+dinner that night I didn't know anybody
+from the Ted community at the time so we
+have dinner and then afterwards
+as it goes you know at conferences
+there's an after party and so
+essentially I hop into a taxi everybody
+else kind of sped off in their cars or
+you know however which way they were
+getting there and as we're talking to
+the driver saying hey we're going to you
+know this place you know can you take us
+there's a knock on the window and the
+person outside says hey I think I'm
+heading to the same destination do you
+mind if I hop in this car with you and
+so we're like of course
+and I turned to him and I'm kind of like
+I'm Jonathan you know I run a 10 person
+agency out of Vancouver and he says hey
+I'm Garrett Camp uh I started a company
+called Uber and so ironically I meet the
+founder of uber the company that is in
+the process of disrupting the entire
+taxi industry worldwide in the back of a
+taxi cab and what happened next
+basically changed my career forever we
+end up at this party at the time I was
+kind of spamming or Uber's referral
+program so kind of a long story but
+essentially I was using paid search to
+camp out on their branded keywords and
+as people would sign up with my
+confusingly similar snippet to Uber's
+organic snippet I was essentially
+siphoning off you know uh referral
+credits so I would get twenty dollars
+every single time someone signed up and
+I ended up making like tens of thousands
+of dollars doing this and so fast
+forward you know I'm getting a drink at
+the bar next to Garrett and in my head
+I'm kind of like
+should I tell him about this maybe I can
+land them as a client this would be
+really interesting and essentially I
+tell him
+I'm like hey I'm doing this I'm adding
+zero value but this is a loophole in
+your Marketing System and you know
+someone should close it he essentially
+is like I need to report this to the
+board but you know here's my card write
+me what you're doing and we'll contact
+you and so I get contacted by a bunch of
+his lieutenants if you've read the book
+super pumped like all the people that we
+dealt with at the time you know are in
+the book included watch the show
+yeah exactly and uh they were kind of
+like hey this is bad you have to stop
+doing this but can we hire you to solve
+the problem and so what started off as
+me you know running projects for like
+local bars you know in Vancouver or
+clothing stores or whatever it was
+turned into me Landing early stage Uber
+as a client and really graduating us
+from like
+competent you know professionals to like
+leaders in our sector and so it was a
+fascinating you know project and we
+worked with Uber for 10 years
+that is an incredible story I love the
+Arbitrage game you're running there it's
+basically siphoning VC money out of uber
+and I guess the lesson there a little
+bit is just like sometimes you know like
+it's like this interesting combination
+of hustle in terms of China just like
+make some money and also taking
+advantage of this opportunity kind of
+were plopped into
+yeah I think you know people often talk
+about entrepreneurs who have been
+successful and they they comment that
+they're lucky whereas I actually look at
+that situation and I think that you have
+to make your own luck so I could have
+been like oh cool I met this guy in the
+back of a taxi and that was it but I
+decided to take a risk you know being
+that I could get embarrassed or nothing
+could happen or they could shut down
+like this referral you know gimmicky
+thing that I was doing I had like you
+know very little to lose I guess
+ultimately but a lot of people just
+don't make these moves in life because
+they're nervous or they're worried too
+much about what the downside might be
+and so I very much was like I'm gonna
+shoot my shot here and uh
+you put yourself in situations where
+everybody has luck but you have to
+capitalize on it basically and so that
+was
+an example of you know uh being willing
+to take a risk and it paying off like
+pretty big time I think
+also being content that seems like a
+good move
+networking paying off I love that he was
+in a taxi that's hilarious I was gonna
+ask about that and uh literally uh he's
+doing some research I mentioned yeah
+so let's uh let's start diving into the
+world of paid growth and if you think
+about just like paid growth and again
+actually what do you refer to this area
+as paid growth Performance Marketing
+paid ads there's a lot of
+interchangeable terms Performance
+Marketing is a common term paid
+acquisition is a common term some people
+think of those two things as growth
+marketing whereas I see growth marketing
+as a bigger practice area within which
+Aid acquisition sits and then of course
+there's subsets there's social ads
+there's paid search there's programmatic
+and so there's a lot of different ways
+of saying the same thing I'm going to
+use Performance Marketing I kind of like
+that term because it really describes
+what it is it's like marketing with you
+can measure performance
+so let's see how that goes so as a
+channel it's such an interesting mix of
+on the one hand it's this incredible
+growth lever that allows basically any
+company to spend money and and
+understand the ROI and acquiring users
+this thing that they never existed
+before essentially Facebook and Google
+created these platforms on the other
+hand there's this like sense that it's
+this like drug that you start
+and then you get hooked on and you can
+never leave and there's a lot of advice
+of just like avoid paid growth that's
+just like not a good healthy way of
+growing especially as a startup and so
+my question to you is just how do you
+think about that element of it and then
+even more specifically what kind of
+products do you find paid growth as a
+channel is right for and not right for
+yeah it's a really great question and so
+I think there's a couple different
+things that need to be unpacked here so
+paid acquisition or Performance
+Marketing everyone's marketing like I
+can call it can be seen as a drug I
+suppose when you are entirely reliant on
+it to fuel the revenue of your business
+and so the analogy that I try and use
+here is that it would be very dangerous
+if I was advising you with your life
+savings and I told you to put it all in
+a single stock in the stock market
+stocks can be volatile
+instead and as a result of that you know
+your net worth would fluctuate quite a
+bit in the short term and the long term
+based on a lot of things that you don't
+control like the external markets or
+like things that are happening within
+the performance of that you know
+particular company that you invested in
+when I think about
+all of the marketing mix so email Direct
+Mail linear television Performance
+Marketing whatever it is I think about
+it as investing Capital with the
+expectation of a return and in the same
+manner that I would not take all of your
+life savings and dump it into a single
+stock I don't recommend putting all of
+your money into a single you know
+Performance Marketing Channel and then
+somewhat exposing you to the volatility
+of fluctuating cpcs or changing market
+conditions and so I would agree with you
+that it is a drug in a sense if you have
+all of your eggs in one basket and that
+basket takes you on a very intense
+roller coaster in terms of performance
+but when I think about the fact that
+thrive manages you know 500 million
+dollars a year I think of myself to an
+extent as like a fund manager we are
+managing people's money with the
+expectation of a return and part of the
+strategy is to diverse apply across
+channels and so we decrease the Reliance
+of any individual project on a singular
+Channel and its performance and
+similarly I always say to people that
+the first rule of Performance Marketing
+is not to forget about offline marketing
+and the classic marketing that works for
+organizations so in other words Direct
+Mail can really work email marketing
+Works beautifully SEO can really work
+like there's all of these like wonderful
+things at your disposal and so I think
+the comments like The Real Crash and
+Burn scenarios that I've seen are these
+like
+not fly by night Brands but brands that
+you know figured out just like with Uber
+I figured out this weird tie-in where I
+could like make you know free money from
+their referral you know system sometimes
+people find kind of like shortcuts hacks
+if you will to scale rapidly because of
+one specific Nuance of like of the
+Facebook ad platform or something like
+that and what they fail to see is that
+those loopholes come and go and so if
+they scale massively and their entire
+you know business is predicated on the
+performance of this one loophole that
+they found or like you know investing
+everything in a single Channel and then
+the conditions change they're not going
+to be very happy and the business will
+suffer dramatically and so when I think
+about this it's you know a responsible
+Channel mix diversity and and and
+understanding that you can't be overly
+reliant on Performance Marketing for the
+success or failure of your business
+what about the second part of that
+question of when you think about when
+companies come to you what do you look
+for to help you understand this is going
+to be a really good fit for Performance
+Marketing and this is going to give them
+a lot of opportunity to grow versus like
+Maybe not maybe there maybe it'll be a
+small sliver but it's not like going to
+be a massive success for them yeah so I
+would say that that the answer to that
+question is different at different
+stages of a company's life cycle so
+early stage you know look at what the
+company is doing look at your own
+company do you how do you establish
+product Market fit so is this an idea
+that has yet to be tested and are they
+entirely looking to Performance
+Marketing to scale you know everything
+so are they at risk of it becoming like
+an over-reliance on Performance
+Marketing at a later stage we look at uh
+you know certain criteria that they
+might or might not possess and so
+typically that will come down to
+resourcing so the question at a later
+stage is not does it work but to what
+scale can it work and so we're looking
+at things like do they have adequate
+creative resources and buy-in that does
+does creative resourcing tie into
+performance and can we create a feedback
+loop there around testing I'll talk to
+you about that in a bit do they have
+professional marketers on staff so are
+there people who have experience you
+know doing what we do that that speak
+our language so to speak or is part of
+this an organizational educational you
+know and creating buy-in through
+stakeholders process that needs to take
+place do they have Technical Resources
+if we say hey tracking an attribution is
+broken here's how to solve that can you
+implement it and so on and so forth and
+so there's no you know one magic formula
+for what works or what type of company
+will be successful on Performance
+Marketing channels I think like just as
+evidence of this Google which I think
+had a down quarter recorded sales this
+week and it was 70 billion dollars in
+three months and Facebook similarly I
+think just recorded yesterday evening
+and it was 32 billion dollars and so
+that's a hundred billion dollars on just
+Google and Facebook in three months and
+the majority of that revenue is from ads
+and so like this works really well for
+lots of different companies it's just a
+question of at what scale
+just to pull that thread a little bit
+more something I've heard from other
+guests is that paid ads are best for
+products where you get basically payback
+really quickly basically to feed the
+flywheel of spend so that you're not
+sitting around waiting for someone to
+buy something in the future or it's like
+a small trickle of pay how important is
+that I guess like do you find that you
+could just do paid for oath for any
+company it doesn't matter their business
+model or is there something you're like
+okay this needs to exist for you to
+invest for serious resources and you can
+hire that team that you just talked
+about it's always nice when there's a
+quick turnaround on investment and
+return and that's wonderful for like d
+to C or e-commerce style businesses
+where they're essentially taking the
+revenue to fuel additional inventory and
+operating costs however not all
+businesses work that way and so in a B
+to C or B to B lead generation scenario
+we have to undertake pretty
+sophisticated modeling around these
+abstract Concepts like lifetime value
+which is difficult because like that's
+you know most business businesses are
+relatively new that we work with and so
+the idea of lifetime value is kind of a
+misnomer like they don't know what that
+is yet but we have to model things like
+LTV to CAC so cost per acquisition costs
+versus lifetime value and the period
+within which the payback occurs you end
+up getting to a pretty sophisticated
+place where you can build out things
+like a lead scoring model which
+predictively can determine in a
+statistically significant way the
+likelihood that one lead will convert to
+revenue over another and so there are
+ways around these slower payback period
+that still end up
+being pretty accurate based on what
+you're bidding on today versus the
+latent Revenue that will be accrued to
+those campaigns through attribution
+do you have any just rules of thumb for
+someone listening and trying to decide
+like has paid a real model first like
+either on LTV or CAC or payback period
+or something just like here's what you
+probably should have
+especially early stage for it to be
+worth free to feel like paid growth is
+going to be a great lever for you to use
+and maybe a primary lover product Market
+fit
+if you know that your business sells
+into audiences let's say you are social
+media influencer or you had a really
+strong email marketing game or
+organically your content surfaces within
+Google search results or you did a lot
+of direct mail and linear television and
+and billboard advertising and that
+worked if other things work it is highly
+likely that paid acquisition will work
+the issue for most companies is in this
+incorrect assumption that
+the data that is provided through paid
+channels allows you to have full
+end-to-end understanding of like
+attribution which is wrong it's never
+been that way and the other aspect of
+this is the patience to understand that
+every business is unique and these these
+metrics that we know are important are
+different for every business lifetime
+value like propensity to repurchase roas
+which is return on amount spent CPA CAC
+like all of these different things are
+different for every business even if I
+worked with two hotels in the same city
+they would have different results based
+on the nuances of their budget their
+brand the market that they sit within
+the services that they offer and so on
+and so forth and so I think that like
+everything else the main problem here is
+that nobody should expect an overnight
+turnaround with Performance Marketing it
+is a very difficult channel to manage
+and that's why people hire experts like
+us to to help them with it because it's
+a never-ending problem with constantly
+changing issues it's always been like
+that that's not a new thing since
+pandemic or whatever and uh it's not you
+know it will take some time to work out
+what works I have this kind of framework
+of there's these four growth channels
+basically growth engines is what I call
+them there's paid slash Performance
+Marketing there's SEO there's reality in
+their sales and
+essentially there's some companies whose
+growth is almost primarily paid so a few
+that come to mind are booking.com which
+we know well at Airbnb it's just like
+almost all paid growth Driven Credit
+Karma comes to mind as a classic paid
+Performance Marketing I keep coming to
+pay growth as my term so I'm just going
+to stick with it tick tock and initially
+was very Performance Marketing paid
+growth oriented wish was another one I
+think about
+and I want to talk about how much things
+are changing within this realm but
+before we get there
+do you think there's still an
+opportunity for startups to emerge where
+they get to scale almost exclusively
+through Performance Marketing and this
+question actually came from Twitter
+someone tweeted this randomly the other
+day and I was like oh that's a great
+question for Jonathan and by the way her
+name is Liz Georgie asked this question
+so there you go I'll put it this way
+every unicorn from like the you know
+2010s era
+that that scale did Performance
+Marketing but not everyone during that
+time who did Performance Marketing
+scaled so I want to remove the bias here
+that just because all the successful
+organizations did this didn't mean that
+it was like a magical channel for
+everyone we had plenty of projects that
+we worked on that flatlined you know
+during that period and so the sense that
+there was a period of time where this
+was easy or you know it worked on any
+project is is not correct in in my
+opinion with that said we see you know
+companies that are spending millions of
+dollars a month on Performance Marketing
+channels like Google and meta still
+despite all the ups and downs that
+they've faced and they do so profitably
+and I think there's some really great
+examples of companies that have scaled
+you know in relatively recent times
+almost exclusively through paid like
+grammarly is a really good example of
+this they have been good at solving for
+this
+problem that exists around like
+understanding the cost per acquisition
+versus lifetime value like how sticky
+customers are predicting how much
+revenue can come from a customer and
+backing out into therefore how much we
+can pay you know per per click and per
+lead and and so on and so forth
+athletic greens is another good example
+so athletic greens is actually a pretty
+old company I think they've been around
+for 10 years I think they have retail
+distribution I think they you know have
+done a lot of the like more classic
+marketing things that are that are
+important in terms of developing that
+channel mix but I think the
+amplification of that brand really
+really gained traction quite recently
+where now everybody knows what athletic
+greens is and that's because they're
+buying loads of ads on Tick Tock they're
+buying loads of ads on other social
+channels like Facebook they're investing
+in podcasting Partnerships and but this
+is all digital paid acquisition right
+and so uh it had a wonderful effect on
+this like really interesting business
+that they had already built so so yes
+it's still doable we still people see
+people doing it and I think that there's
+been a bit of a reckoning in the
+Performance Marketing
+industry pertaining to things like
+privacy and the changes that Apple made
+and people being very you know creeped
+out at how their data is being used
+rightfully so and then you know
+obviously the economy in 2022 we had
+a terrible you know macro economic shift
+where interest rates rise and
+inflation's out of control and so the of
+course the first thing that people cut
+are you know typically marketing budgets
+and we see Facebook and Google and other
+you know ad channels directly suffering
+from that so all of that said these
+storms pass and so you know when the
+economy improves generally speaking I
+imagine people will you know go back to
+trying to find as much inventory from a
+pay-per-click point of view that they
+can purchase as possible and figuring
+out the economics of how to do that
+I was definitely going to ask about that
+I love that you touched on it just like
+clearly a lot is changing in paid growth
+slash Performance Marketing recently you
+talked about the Privacy stuff you
+talked about covid kind of shifted the
+way people spend and kind of dropped and
+then came back
+so my question is who are you finding as
+the most success these days in
+Performance Marketing and I will plant
+one seed which from the examples you
+just shared it feels like it's mostly
+companies that are very efficient like I
+think grammarly they're just like super
+efficient as a business and then I think
+athletic Green's their sponsor and I
+just like their negotiations for
+sponsoring it's just like so okay here's
+the number that makes sense for them
+financially and they're not going to go
+anywhere about that yeah because they
+know they they understand like how many
+Impressions they'll get and on average
+what the quality of impression is you
+know and how many uh how many dollars
+they can put behind that before it has a
+cliff you know in terms of Roi
+exactly so broadly who do you think is
+having the most success now with the
+changes and then generally what should
+people know about what has changed in
+the past like say a year in the space of
+Performance Marketing I'm not gonna like
+really be able to point to like this
+company is really getting it right and I
+think that you can do that but it's like
+saying you know a friend of mine
+recently on Twitter tweeted this funny
+thing where he was like you know this is
+the number that I used to win the
+lottery said every successful founder
+ever trying to give advice to other
+Founders right and so in other words
+like just because they won the lottery
+doesn't mean you're gonna be successful
+picking the same number to that extent
+there is a bit of a Playbook around you
+know modern day Performance Marketing
+and that includes everything from really
+stringent and rigorous creative testing
+and thinking about that correctly to
+understanding the subjectivity of
+attribution and its strengths and
+weaknesses doing a lot of work around
+validity of these campaigns so really
+just like the measurement and whatnot
+companies that
+can do those things and then understand
+their own marketing economics in other
+words like quite quite basically
+how much can we afford to spend in
+acquiring a customer on any channel
+before that acquisition is no longer
+profitable so really focusing on the
+profitability of the bottom line and not
+just break net growth for instance
+companies that have those capabilities
+and see the world that way tend to be
+successful
+in Performance Marketing when you were
+giving your intro you talked about how
+you initially started doing SEO
+that's where you started and then you
+moved to pay growth well how do you
+think about those two Investments as a
+Founder trying to decide which direction
+to go what would your advice be of like
+spend your time here versus there if XYZ
+when I'm asked a question of like you
+know should we put money into organic
+search or paid search my response is
+often that they're actually not mutually
+exclusive to one another so it's a great
+idea to do both and that backs into my
+strategy of diversification of channels
+so don't build up exclusively in one
+area and create volatility within your
+marketing mix essentially SEO is a
+wonderful you know marketing capability
+when it's built out correctly I think
+the issues that you run into are cause
+and effect related so one of the things
+that people really like about
+Performance Marketing theoretically is
+that we can spend a certain amount and
+then if we're modeling things correctly
+we can essentially determine how much
+revenue was generated from the actions
+that we took Finance teams love that
+c-suite teams love that they can build
+projections they can budget around it
+there's some degree of predictability
+around it if it's done properly
+search engine optimization is different
+in that the attribution can be tough
+it's difficult to determine whether you
+know ultimately the actions that you
+took contributed to a rise in organic
+traffic you have to essentially
+correlate that and the the reason is
+because when you build clusters of
+content you know and you you it's
+grouped thematically and you're
+targeting buckets of keywords whether
+they're long tail or head keywords
+whatever it may be you can publish all
+of that on your website Google still has
+to crawl it they run it through their
+analysis algorithm which is comprised of
+200 different signals of which maybe
+like 20 to 30 have been publicly
+disclosed so it's a bit of a black box
+we don't really know ultimately you know
+what Roi comes off of that unless you're
+very sophisticated like probably one of
+your other guests Ethan in terms of
+measurement whereas paid
+the ROI is still a difficult problem to
+solve but there was a lot more of a
+linear relationship as it relates to
+attribution and so
+it's paid being tangible was the reason
+why I leaned heavily into paid and
+ultimately away from SEO but I do think
+that if you do SEO properly the payoffs
+are indisputable and it is certainly an
+important part of a modern a modern
+media mix
+you mentioned this earlier and I've
+heard this more and more recently that
+one of the biggest levers these days in
+paid growth is around creatives it's not
+like tooling or like smarter data or you
+tell me if I'm wrong but it's just like
+getting creative getting better
+creatives and so I'll let you actually
+explain what our creatives there's a
+term creatives that people outside the
+industry don't really necessarily get
+and then broadly what should people be
+doing to optimize the way they approach
+creatives certainly so uh when we say
+creative we're referring to the assets
+that power typically visual programmatic
+or pay-per-click campaigns on social
+channels or display networks and so
+literally you know the Motion Graphics
+ad that you see on Facebook the user
+generated content that you see on Tick
+Tock or a static ad that you might see
+that has like a pretty picture in it or
+whatever and so I think that when we
+talk about creative as a big lever
+around efficiency and optimization and
+the underlying you know conversation
+there is that over time our industry has
+been heavily automated so a lot of the
+levers so to speak around performance
+have been automated by Google and
+Facebook over the last you know seven to
+ten years
+that's because originally when you ran
+these campaigns you needed to have like
+a rocket scientist in front of them
+there were so it was so complicated and
+there were so many different things that
+you could get wrong and their solution
+the channels like the big tech company
+solution to this is
+figuring out for you So eventually
+Google wants you to say hey I'm Google
+give me your credit card and I'll take
+care of everything else Facebook and the
+URL to point people too and then we'll
+do the rest yeah yeah
+I don't know if that's a great idea for
+consumers by the way but in the meantime
+you know there's certain things that
+have just been fully automated in the
+context of creative it's still one of
+these things that for now is not you
+know auto-generated in the world of AI
+and all the changes that we're seeing
+maybe that's something that will change
+but for now you know essentially
+creative directors and their teams are
+concepting and producing different types
+of assets and so there's a bunch of
+problems that we typically see when
+people come to us so number one
+Performance Marketing and brand
+Marketing in a lot of organizations are
+two different things and the designers
+that occupy you know brand teams
+bandwidth and whatnot often don't have a
+sense of how paid acquisition works and
+so one of the pitfalls of working with
+certain you know companies or the
+mistake that they make is the design
+team will hand off like a file full of
+you know random assets for for paid
+acquisition without any sense of like
+how the channel works and what I mean by
+that is you know we these these days you
+know we're using the analogy the classic
+analogy of the funnel to organize our
+thinking around creative assets so you
+can think about this as like generating
+intent at the top of funnel and
+capturing intent at the bottom of the
+funnel when I think about an experience
+that I want you know a consumer to have
+on Facebook
+and audience targeting and creative I
+think about us beginning a conversation
+at the top of funnel creatively with an
+audience having that conversation change
+as we say different things at the
+audience that we're targeting ultimately
+graduates through different behaviors on
+our website from one to another and then
+ultimately resulting in an end to the
+conversation where they take an action
+hopefully you know that the brand that
+we're working with is looking for and so
+there's a clear beginning middle and end
+to that and one of the major pitfalls
+that we see is that certain brands just
+dump one homogeneous message into you
+know all of their targeting you see the
+same ad over and over again it creates
+Banner blindness and it's total lack of
+efficiency the antidote to that is to
+you know have resources dedicated to
+paid and essentially iterate upon the
+creative assets themselves based on the
+data that we see coming from ad sets and
+campaigns you know in in various
+channels and so what that means is that
+you have to experiment you have to take
+a bit of a scientific approach although
+it's a bit of an art and a bit of a
+science you have to try and isolate
+variables maintain similar conditions
+across you know targeting and then
+determine which style and feature of an
+ad performs best at which stage of the
+funnel versus which audience
+and the results that we see are
+dramatically different from Brand to
+brand but if you're not undertaking
+rigorous testing in conjunction with the
+how you are driving the iteration and
+design of your ads then then you will
+not make progress essentially
+is there a specific example that comes
+to mind us here's like something we did
+that just dramatically changed the
+impact of a change to a creative or if
+you can't think of one are there just
+like specific tactics that you can
+suggest for people to improve the way
+they approach creatives yeah so I think
+from a a testing point of view let's say
+I was running ads on meta you know
+beneath the campaign level when I create
+a campaign I would have the structure
+that my testing might take uh would be
+that I would have an audience uh that a
+single audience at the ad set level and
+then I would have two nearly identical
+creatives within that ad set the only
+thing being different across those two
+creative assets is a single variable so
+it might be the copy it might be an
+image or whatnot that allows us to
+isolate a lot of variables and really
+test into One Singular change across two
+creative assets there's a lot of nuance
+to this so sometimes like the ad serving
+algorithms even when we set up a test
+structurally in that way
+will serve one ad you know a different
+number of Impressions than the other AD
+in which case we then have to say what
+is a leveling factor that allows us to
+look at these two ads equally even
+though one received dramatically more
+Impressions than the other this becomes
+where it becomes subjective in terms of
+how you want to determine success but a
+good example is looking at like the
+click-through rate which is essentially
+a ratio or a metric like Impressions
+until conversion which is a
+um you know leveling metric that allows
+us to determine even though in a
+scenario where two ads facing the same
+audience within the same campaign
+received different numbers of
+Impressions we can still measure the
+efficiency or effectiveness of one ad
+over the other using metrics like that
+and so from a testing point of view I
+think that this is one way that we might
+look at trying to assess ad performance
+so that we can gather learnings send
+that back to a creative team and say hey
+it turns out that when this copy is used
+at this stage of the funnel it
+converts you know fifty percent more
+frequently than this other copy so let's
+now take that copy use it as our base
+copy and challenge it with a different
+type of copy and see if we can
+continually iterate and refine so that's
+a very practical example of how like ad
+creative testing might work on a channel
+like uh like like meta you asked for
+specific examples where we've seen like
+an unlock there's two that come to mind
+several years ago we realized that
+highly produced ads from Brand teams and
+I'm not there's nothing wrong with brand
+teams who work with them all the time
+they do amazing work I think we're just
+trying to work as a singular unit as
+opposed to being fragmented but a lot of
+the brand guidelines of different
+companies would end up you know yielding
+these like highly polished assets and
+when you launch those on like
+Instagram you know back in the day or
+something like that what we found is
+that they would always underperform next
+to user generated assets so a brand that
+essentially you know has an influencer
+in front of it that says I I tried this
+product I love it I'm filming this ad
+for my iPhone like look check it out
+here's the product here's me I'm better
+off or whatever it is that they're
+talking about the unpolished like you
+know iPhone mobile phone creative
+suddenly we realized massively
+outperformed these other channels
+because
+there was an authenticity to it and
+rather than the you know Brands
+themselves saying like hey you know
+trust us like our product is great
+here's like a third party essentially
+validating the what is so great about
+these Brands basically so I can't speak
+to like specific clients because I'm not
+allowed to talk about like the work that
+we've done in large part
+but that would be you know one example
+and another example is we worked with a
+Furniture Company several years ago
+which scaled dramatically but they were
+having difficulty early on thinking
+through how to scale social ads and so
+you know paid search worked really well
+for them social ads again they had these
+highly produced styled rooms and one of
+the owners had their dog in the office
+all the time and so you know they have
+these models like sitting on furniture
+or whatever it was and they would take
+these beautiful styled shots of their
+Furniture in a room and one of the art
+directors was like put the dog on the
+couch and let's take some photos of you
+know dogs on on furniture which made it
+more playful and approachable that one
+change resulted in a total unlock of
+their performance on paid social
+channels it would like double or triple
+you know the roas that we were seeing
+type thing so it's these minute
+differences that you can test into that
+ultimately can drive performance
+that reminds me of Airbnb the
+photography team found and actually the
+photography team was initially including
+people in the photos of listings and
+that was like the hero images of listing
+photos and it turns out when there's no
+people in the listing photo much higher
+conversion and the theory basically
+people don't want to see other random
+strangers in the place they're going to
+sleep and that's not that was not
+expected it's a really great example and
+so the question becomes as a company and
+as a brand do you arrive at those
+learnings anecdotally by accident is it
+the Brilliance of one person on the team
+that the whole brand you know is
+predicated upon in terms of performance
+or do you put a very rigorous structure
+around testing and the iteration of
+assets and how to determine whether
+something works over another thing that
+is a process that yields the outcomes
+that you're looking for and so a lot of
+times with agencies people talk to us
+about the obvious hard skills that we
+have but the soft skills are around you
+know process that can be deployed that
+can actually be the difference between
+being highly sophisticated or
+unsophisticated internal teams do this
+too but that Airbnb example is a great
+illustration of how if you put the right
+you know testing in place you can yield
+an outcome that becomes an unlock for
+performance
+getting even more tactical with that
+idea of testing a bunch of creatives
+makes me think about a story from
+chatting with the guy from wish who's
+had a growth at wish about how they
+uploaded like hundreds of variations and
+I think wishes like the epitome of the
+opposite of brand highly polished ads or
+it's just the most ridiculous looking
+products would just banners and numbers
+and prices and crossouts and all kinds
+of stuff just like anything that would
+take to get people to click is there a
+tool or process that you can point
+people to to help them do this testing
+on creatives or is it mostly built into
+the existing tools now and there's
+nothing really fancy about it we get
+asked this a lot and I think there are
+tools for different types of functions
+that we undertake in the in the process
+of you know running paid acquisition for
+different brands but these days most of
+the testing that we do is within the
+channels themselves So Meta ads Google
+ads I keep touching on those two
+specifically because they're the most
+advanced in my opinion they're really
+they're really powerful and so when I
+the good news here is that you don't
+necessarily need some exotic tool to do
+sophisticated creative testing you can
+do it in platform
+and you can occupy you can use the
+structure that I just kind of outlined
+as a starting point
+you mentioned Google and Facebook
+what is your take on Tick Tock and
+YouTube and maybe snap just do you
+recommend people yoga there and there's
+a big opportunity do you think it's
+overblown do you think people should
+just take Google and Facebook basically
+at this point what's your general advice
+so when I say Google and I say Facebook
+I'm talking about the Google ecosystem
+of channels inclusive of YouTube and
+when I talk about Facebook I'm talking
+about you know Facebook Instagram and
+probably eventually WhatsApp which I
+think will probably launch ads later
+this year with all that said some
+interesting opportunities these days
+really exist on channels like Amazon
+as well as a number of other Challenger
+channels I think snap I'll talk a little
+bit less about because I think you know
+it really there's just fewer and fewer
+people potentially using snap there's no
+knock on snap I I use snap I like it a
+lot but at the same time you know most
+individuals or organizations tend to
+want to place ads where there's a lot of
+views and engagement and so and the king
+of this right now is definitely Tick
+Tock and so uh Tick Tock faces its own
+set of challenges and arguably there is
+as much an opportunity there as a
+barrier at the moment I love Tick Tock
+I'm a consumer of content on tiktok not
+a producer of content on Tick Tock their
+ads platform kind of reminds me of where
+Facebook ads was like six seven years
+ago it's not super sophisticated and
+attribution Is Not Great yet but you can
+get cheap cpcs because there's just
+fewer you know organizations advertising
+there are fewer companies have figured
+out how to make that work and same thing
+with Amazon Amazon is a bit of a bespoke
+channel like it doesn't work for a B2B
+SAS company it's more specific to like
+d2c I would say but essentially you know
+those channels are wonderful they're not
+at the point yet where they're kind of
+ubiquitous like every single Advertiser
+that has ever worked with us I think in
+the last 10 years is for sure on Google
+like there everybody does that and then
+the question is what else can I invest
+money in with the expectation of
+profitability and so talk and and Amazon
+and even you know if I Want to Break Out
+YouTube they tend to be a little bit
+more specific and they definitely work
+but not for everybody yet and so the
+question becomes like will Tick Tock
+become as prominent as like a social ads
+platform like like meta ads and we just
+don't know yet what we see working very
+nicely on Tick Tock by the way are these
+like founder-led Brands where the
+founder is the ambassador and they're
+doing those handheld you know videos
+with their iPhone they're talking about
+the merits of you know the products that
+they make they're talking about the
+problems that they solve they are great
+at cultivating and following their their
+content is highly engaging those types
+of organizations crush it also companies
+that got really good at partnering with
+influencers
+so we haven't talked about like partner
+marketing that much but affiliate
+marketing companies got into this early
+and then influencer marketing networks
+you know are all over this but
+essentially having these third parties
+be an ambassador you know for your brand
+in an authentic way partnering with them
+having them generate the content and
+that's you know the the nature of the
+partnership stuff like that seems to
+work quite well awesome I love those
+bullet points of just like what is
+likely to work on Tick Tock yeah just
+broadly would you say tick tock
+advertising today is underrated
+overrated or just right if you are Ecom
+based if your wholesale retail based you
+know anything like direct to Consumer
+you have to investigate Tick Tock and
+and try and figure out whether there's a
+way of promoting your products there
+basically it's it's a massive highly
+engaged audience with somewhat specific
+demographics it's
+it's a very exciting opportunity other
+brands need to pay attention to this and
+figure out what their entry point is
+going to be and just because the
+Innovation hasn't happened for B2B SAS
+yet on Tick Tock doesn't mean it won't
+tick tock wants that to happen and so
+the question becomes how and so someone
+will unlock that and they'll make you
+know a billion dollars because of it but
+I wouldn't recommend that channel to
+everybody yet and like at Thrive for
+instance we don't have a huge amount of
+people coming to us yet saying hey I'm
+spending 750 000 a month on Tick Tock
+can you help me type thing the other
+problem with Tick Tock is that it's
+extraordinarily
+creative asset dependent and heavy and
+so like you are launching net new assets
+several times per week it is hard for
+Creative teams and Brands to produce
+that much content it takes a machine and
+that's expensive and so that all factors
+into the cost of not only just the ad
+dollars but the you know creative
+resourcing and investment that's
+required to power that so it can be done
+in a more Nimble manner if you're
+spending less but you can't really get
+to like a million dollars a month on
+Tick Tock without having like a huge
+amount of creative being pushed to that
+channel awesome that's really good
+advice I want to chat about AI soon just
+because I imagine that could help with
+some of these things but you mentioned
+B2B SAS and I wanted to ask
+I imagine Google is the primary channel
+for B2B SAS and if not or if it is where
+else do you find there's value in
+spending money to drive growth for B2B
+SAS which which channels and app
+networks so I'm agnostic here in terms
+of like where people should be spending
+money I see that this world in terms of
+Impressions and clicks and does that
+conform to the marketing economics of a
+project that needs to be achieved in
+order for it to grow it's less about
+where to place your money and how to
+think about the placement of those funds
+and so the common mistake that we see as
+people build out a funnel so to speak
+for you know B2B lead gen projects or
+b2c lead gen project is they'll be
+overly reliant on the first of a
+sequence of metrics that ultimately
+yields a sale so typically it's
+something like cost per lead marketing
+qualified lead sales accepted lead there
+might be a couple more metrics there and
+then eventually like a sale occurs and
+so that the thinking is that okay for
+sales to occur I need more leads at the
+top of the funnel the more leads I have
+you know the the more marketing
+qualified leads I'll get the more sales
+accepted leads I'll get and ultimately
+the more opportunities there will be and
+the more Revenue will generate and so
+if I think about this world of lead
+generation on Performance Marketing
+platforms as a function of cost per lead
+in that sense that I just described then
+the tendency is always to want to drive
+down the cost per lead thinking that
+that's the efficiency I can get more
+cheaper leads and that will yield more
+Revenue when in fact it turns out that
+if you flip that conversation on its
+head and say not all opportunities and
+sales are equal and instead of you know
+focusing up front on a cost per lead I
+now want to focus on what is a high
+value customer so the cost per lead is
+actually higher but the ROI of targeting
+those people is also higher and so to
+get the higher quality leads it's not a
+function of CPL and so that is a very
+common Pitfall that we see when people
+come to us the antidote to this it's
+interesting so Thrive developed an ETL
+tool and extract transfer load tool
+called thrivestack it's not commercially
+available but if you wanted a
+commercially available version of this
+you can use something called super
+metrics basically super metrics is a
+data connector there's a world of
+different data connectors out there but
+it allows you to pipe via an API Revenue
+data from your CRM into a third-party
+database that can then be joined with
+data from like the channel itself you
+can build tables within a database and
+normalize them together in a manner
+where you can start to determine the
+relationship between again the audience
+that a particular cohort of
+opportunities came from and whether a
+sufficient degree of Revenue is derived
+from those opportunities and then you
+can build upon that
+what is known as a lead scoring model
+which allows you to bid in real time on
+the
+audiences that have a higher likelihood
+to convert to high Revenue generating
+customers and so the magic there we
+talked a little bit about you know rates
+of return and instant gratification in
+the Performance Marketing World lead
+generation inherently is a slow
+gratification process and so the problem
+is that if my pipeline is full of
+opportunities that yield Revenue in two
+months six months sometimes 12 months
+how do I determine how heavily to bid on
+different you know leads today in order
+to predictably have an outcome where I'm
+maximizing revenue and a lead scoring
+model basically solves for that
+today's episode is brought to you by
+Nero an online collaborative whiteboard
+that's designed specifically for teams
+like yours I have a quick request head
+on over to mymeraldboard at miro.com
+Lenny and let me know which guests you'd
+want me to have on this year I've
+already gotten a bunch of great
+suggestions which you'll see when you go
+there so just keep it coming and while
+you're on the mirror board I encourage
+you to play around with the tool it's a
+great shared space to capture ideas get
+feedback and collaborate with your
+colleagues on anything that you're
+working on for example with Miro you can
+plan out next quarter's entire product
+strategy you can start by brainstorming
+using sticky notes live reactions a
+voting tool even an estimation app to
+scope out your team's Sprints then your
+whole distributed team can come together
+around wireframes draw ideas with the
+pen tool and then put full mocks right
+into the mirror board and with one of
+miro's ready-made templates you can go
+from Discovery and research to product
+roadmaps to customer Journey flows to
+final mocks all in Miro head on over to
+miro.com to leave your suggestions
+that's miro.com Lenny
+you talked about attribution and I
+thought this would be a great time to
+get into that so the way I think about
+this is like oftentimes the biggest
+challenge in driving growth isn't like
+the actual work you do to draft growth
+it's measuring what impact your work is
+having and understanding where dollars
+are spent effectively and things are
+changing heavily in attribution land
+with privacy shifts and ATT and iOS for
+14.5.1 or maybe whatever the version was
+that came out that changed everything
+and so my question is
+what changed is one in terms of being
+able to do attribution maybe even
+explain what attribution means for folks
+they're just like what the hell are you
+even talking about and then finally just
+what do you recommend people do now to
+do attribution well and and in in this
+new environment
+yeah it's a really really great and
+pertinent question in the industry and
+it has a lot of focus on it now but
+attribution has always been a
+conversation that's been very important
+so just to kick things off
+attribution essentially is how we
+determine the relationship between what
+we did and what happened in the context
+of Performance Marketing this means what
+ads did we serve what campaigns did we
+launch and generally what was the
+revenue ultimately that was derived from
+these campaigns and so there's a funny
+quote that I love someone named John
+Wanamaker in 1919 said I know but I'm
+gonna I bet I'm gonna guess what it is
+do you want to guess it's uh
+half my marketing dollars
+uh or wasted I just don't know what you
+have exactly I love the youth I love
+that you knew that he said this in 1919.
+you know the world was a very different
+place there but oddly enough we still
+have these types of problems today and
+it's because the world of what I did and
+what happened because of what I did is
+very complicated there's so many
+variables some of which we know and then
+some of which we don't know that we
+don't know type thing and so attribution
+as it stands in our industry is still an
+incredibly subjective
+art and somewhat of a science it doesn't
+mean that it's impossible and it doesn't
+mean that there there aren't varying
+degrees of sophistication as it relates
+to attribution but but we're still in a
+place where we have to understand the
+business and its goals and then start to
+work on an attribution model an
+attribution model is probably something
+that is never solved but I'll give you a
+couple of examples so number one around
+you know attribution it's important to
+determine whether an organization a
+company a client is focused on
+profitability or growth whether I use
+one attribution lens or another will
+drive those outcomes and so these days
+for a number of different reasons we saw
+you mentioned iOS 14.5 in addition to
+you know third-party cookie deprecation
+and whatnot There's No One Way
+necessarily of approaching attribution
+the most classic and like commonly held
+version of attribution used to be a
+cookie based form of attribution called
+last click attribution meaning that the
+last Quick click in the sequence of
+clicks that yielded a conversion would
+be attributed with all the revenue from
+that conversion other models in a cookie
+based World involved first touch
+attribution so it's actually the first
+click so like I launch an ad it's in an
+audience that doesn't know about my
+service or my brand and so the first
+click that I get should be given all the
+credit for that sale
+and then there's multi-touch attribution
+which can take several different forms
+but essentially is saying it's not one
+way or the other of the two first versus
+last click options it's somewhere in
+between so I'm going to create a
+weighted attribution model where the
+first touch gets so much of the credit
+and the last touch gets so much of the
+credit this is very subjective as you
+can see I am essentially looking at my
+business model determining what my goals
+are and then I'm backing out into an
+attribution methodology that I think
+adheres to both the economics of my
+business and the capabilities of these
+platforms and again we live in a world
+where
+a single brand might do you know
+television advertising they might buy
+media in magazines they might buy
+Billboards they might get impressions
+from Facebook they might do paid search
+and so so there's a big you know
+argument over how to ultimately model
+this
+so there was something called an idfa
+that Apple allowed advertisers to use
+and essentially what that was it
+literally means ID for advertisers and
+it allowed you know Facebook Google and
+other advertisers snap Tick Tock whoever
+you know was essentially selling ads
+that were predicated on being displayed
+on a Apple you know mobile device or a
+desktop device it allowed The Advertiser
+to provide attribution metrics and
+certain times of certain types of
+customer match Master metrics in their
+own platforms and so when when Apple
+ultimately you know launches its privacy
+changes I believe in like mid 2021
+overnight it allows users to say well I
+don't want to share that information I'm
+not going to share my idfa anymore or
+yes I do want to you know share my idfa
+and so
+what you see as a result of that is less
+of the core data that Facebook in
+particular would have required to
+make attribution more airtight and
+ultimately validate its advertising and
+so because we can no longer you know
+validate attribution on Facebook as
+seamlessly we're in a situation where
+we're not sure any longer which which
+audience is to Target and we're not sure
+how to run all of our creative testing
+and ultimately we can't even determine
+you know the degree of Revenue that's
+coming from particular campaigns that
+we've launched and whatnot and so it
+created quite a stir in the world of
+attribution which is obviously like this
+core discussion too is it working or not
+people want to answer you know John
+Wanamaker's question but the modern
+methodology now is through a number of
+different approaches to validation so
+the cookie based attribution which had
+been probably the most popular you know
+version of attribution in the 2010s you
+know really up to this point is now one
+of the ways that we would look at this
+but we would also include things like
+various forms of statistical modeling
+customer surveys population surveys
+there's a number of different ways kind
+of to the same place here statistical
+modeling by the way one thing that's
+very popular these days which is I think
+was originally created in the 1950s is a
+form of statistical modeling called
+media mix modeling it's essentially
+regression analysis and it is trying to
+determine the causal relationship
+between again what you did and what the
+effect was on Revenue that's very
+topical in the industry these days if
+you're looking for a tool kind of off
+the shelf that can help with this recast
+is something that I see people using but
+a lot of organizations build these like
+highly customized bespoke models that
+ultimately feed the algorithm you know
+inside of an mmm model in a customized
+manner what is it or is there a
+recommendation of just like hey if
+you're doing you're trying to do
+attribution today
+here's like what you should do is there
+like a clear do this kind of piece of
+advice or is it super personalized
+depending on what you're trying to do
+the advice is that there's no single
+source of Truth anyone who claims that
+they are a single source of Truth
+whether it's an individual you know a
+model that they've created or a tool
+that they've created is not being
+accurate I believe that the approach
+that works to attribution is that it's
+an ongoing investigation and it never
+stops and essentially what you're doing
+is looking for evidence that validates
+the outcome of your Performance
+Marketing campaigns one way or the other
+there have been plenty of incredibly
+sophisticated attribution models that
+we've have helped build and invalidated
+with like mmm or other types of tools
+that have indicated that the campaigns
+do not work so I will repeat that we a
+very sophisticated organization have
+stood up you know campaigns that we
+measure and ultimately determine do not
+work and that is an important finding in
+terms of an organization's determination
+of whether they want to continually
+invest you know take budget out of these
+channels or invest into other other
+areas awesome you mentioned a company
+called recast I don't think you knew
+this but I'm actually an investor and so
+obviously a big fan so check it out I
+don't know what the site is recast.com
+maybe I think if you Google recast
+attribution we'll also have a link in
+the show notes but yeah they're working
+with a couple of our clients right now
+and it's interesting I like their
+approach yeah they're basically they're
+building the model as a SAS tool to your
+attribution in a really clever way
+amazing okay just a couple more
+questions one is around AI one is the
+around agencies and just how to start
+down this road
+how has AI if in any way impacted the
+work you're doing today or the work of
+paid growth Performance Marketing and
+then where do you think this will go in
+the next few years interestingly and I
+think I alluded to this earlier but our
+industry has been influenced by AI for
+over a decade so Google Facebook other
+even Microsoft these are some of the
+organizations that historically have
+been at the bleeding edge of artificial
+intelligence and their goal is always to
+automate as much as possible Within
+These platforms and so the effect
+ultimately that we've seen from a human
+capital point of view is displacement so
+we're actually we have more people now
+than we've ever had but the nature of
+the work that they do is more strategic
+it's more about modeling validation
+asking the right questions being focused
+around creative levers like some of the
+things that we've talked about and less
+so the like trench work of
+implementation and you know bid
+modifiers at the keyword level on Google
+Search and some of the like really
+hardcore manual analysis we had to do so
+I think if we are like the canary in the
+coal mine for other Industries what will
+be interesting is I assume that if you
+work in an architecture office that
+you'll be doing less of like the
+Drafting and it's kind of already been a
+change that's occurred in those offices
+but you'll be doing less of the Drafting
+and more of this strategic problem
+solving around like what kind of
+building is necessary for the the client
+in this scenario type thing and so on a
+practical level though
+some of these conversational AI like
+models are very interesting for us in
+that when I think about creative testing
+for instance we can have chat GPT come
+up with all kinds of variants of copy
+that we would not have necessarily
+thought of it can do a lot of drafting
+of things like RFP responses so we can
+feed you know chat GPT a hundred you
+know previous RFP responses that we've
+done and have it spit out you know net
+new responses to net new questions in a
+net new RFP and it's like 80 percent
+good and still requires like 10 hours of
+work to like massage to the point where
+we can send it off to a client but that
+replaces like a week of work with five
+or six people you know that it would
+have previously taken and that's already
+happening today you're saying that's
+happening now literally right now type
+thing all of what I just said and you
+know we're there's a lot of different
+ways that we are beginning to use AI to
+do more with less basically so that's
+kind of how I see it influencing not
+just our industry but other people's
+businesses as well
+that's amazing so just to repeat what
+you said your team now because of chat
+GPT is able to spend more time higher
+level and leverage specifically jet GPT
+to do this kind of and rfps are
+basically proposals people are asking
+you to pitch to work with them is that
+yeah okay yeah you know some of these
+like AI driven organizations that allow
+you to like type in a prompt and it
+spits out an image on our Creative Group
+we can we can come up with like mock-ups
+in in like literally like one percent of
+the time that it took so you no longer
+have to like draw the initial mock-ups
+for art suddenly you know what might
+have taken one person a week of work on
+a campaign takes like an afternoon type
+thing and so you still have to
+understand what questions to ask of the
+AI and be capable of iterating but like
+these like rough drafts that you might
+show like the artwork of you know to a
+client to say like do we like this more
+or do we like this more that's like AI
+generated it's really into resting
+what's the tool your team uses for that
+as a mid Journey or dolly or something
+else it's Dolly and it's mid-journey so
+you got it got it and so what you use it
+for is you're thinking about a concept
+and you just come up with a mock coming
+up with a prompt to kind of pitch what
+this could be yeah the interesting thing
+there is that these Concepts often live
+inside of someone's head and we do this
+thing as humans where we verbally
+discuss it and I try and put the image
+in my mind's eye in your mind's eye
+which is an inherently inefficient
+process and actually hurts our ability
+to be creative leaders someone might
+just see it slightly differently than
+you do now that person theoretically can
+use Dolly to Output what is inside their
+head and they can refine that easily
+through subsequent prompts in dolly or
+mid-journey or whatever it may be and
+then just say do you like this this is
+my idea and so in a way it's helped
+humans connect
+more easily in that context than we were
+capable of doing before and then in the
+context of like pitching a client on
+ideas we are capable of generating more
+ideas faster and iterating upon them
+live
+so I can I can you know have a zoom call
+with you I can present my screen and if
+you don't like the output of you know
+Dolly that I just prompted I can
+re-prompt based on your feedback in real
+time
+there's this sentiment to that AI is
+going to take away the fun stuff of jobs
+like maybe being creative and coming up
+with a new you know concept and
+photography experience like you know
+setting up a whole photo shoot whatever
+yeah do you find that your team is
+excited about offloading this to dolly
+or are they just like God damn it this
+is what I loved and I'm just sitting
+around in docks writing prompts I am not
+an incredible artist but now I can take
+those thoughts in my mind and output
+them just as well as like someone who's
+pretty skilled in artwork so in a sense
+I'm excited because this technology
+democratizes the ability to do this
+across everyone anyone who can think a
+thought can generate an image on a on an
+AI image generator
+how many scribes do you know uh zero I
+believe zero because we invented
+something called the printing press and
+the printing press you know took over
+what was a cottage industry for very
+specific individuals that allowed them
+to control the flow of information
+yet today it's not like we have fewer
+writers or creative thinkers they're
+just using different tools to arrive at
+the same place you could say the same
+thing of the Loom there used to be
+people who would Stitch your T-shirt
+together or your sweater together and
+none of those people have work anymore
+there's still people who knit I suppose
+but your you know your clothes are made
+in factories through with machines and
+the quality of the clothing is arguably
+a lot better than it was I maybe I'm
+wrong about that point but you can make
+more of it in more sophisticated
+clothing there's no question that AI is
+going to displace and replace certain
+industries of people certain roles
+I'm not going to pretend like I know
+whether that's a good or bad thing and
+I'm also not a poster child for AI I am
+really just using the technology that's
+available to us to run our business the
+best way we can we haven't let anybody
+go yet because of these efficiencies the
+people who used to do the artwork or are
+the ones using these tools and I think
+they're excited that they're more
+productive is there going to be
+Nuance around that of course are some
+people going to be sad about the changes
+yes I think human nature is that people
+generally don't like change but I think
+over time we've seen change has been a
+productive and positive thing for
+society not a negative thing awesome
+yeah so it sounds like the team is is
+excited generally and that's um yeah
+that's a good sign and that's what I
+find generally I think some people will
+be really upset most people will be like
+amazing and they never want to do this
+part this generation of people will be
+upset and then there will be a
+subsequent generation that never knew
+anything different you know so the way I
+think about this is the you know people
+growing up these days have always had
+the internet whereas you and I probably
+remember a time before the internet
+existed AI is a platform like the
+internet and just as when the internet
+was launched you couldn't conceive of
+Amazon.com or you know all these
+wonderful or social networks or whatever
+it was the permutations of what AI will
+become even in the current like gpt4
+context or Dolly context or whatever it
+may be we don't know what people are
+going to create with this and so it's
+difficult for the generation that knew
+what life was like beforehand before
+iPhone before internet before AI why but
+there will be people who know nothing
+but this eventually and to them you know
+it'll just be normal
+until we're all just replaced by Ai and
+then it's AI writing ads to get other AI
+tools to buy products from each other
+and they were just sitting around
+watching Netflix and that'll be great
+there's always this question when you're
+starting to invest in paid growth
+Performance Marketing of should we work
+at an agency should we work in-house
+should we hire someone Junior to figure
+it out should we hire someone senior
+yeah what's your general advice for say
+an early stage startup when it makes
+sense to work with an agency versus
+bringing someone in-house
+so we need people in-house to do our
+jobs properly so agencies are not
+mutually exclusive to personal in-house
+if we don't have a point of contact uh
+for instance at an earlier Stage Company
+and we're supposed to report to like the
+CEO CEOs tend to be very busy people
+um and we often just like can't get the
+information and approvals that we need
+to be successful so if you think that
+growth marketing is an opportunity and
+that Performance Marketing is a subset
+of growth marketing that you want some
+focus on
+the reality is you're going to need
+expertise and you probably should start
+in-house and then hire an agency again
+there's different stages of companies
+and different examples of like what
+makes sense at different stages and the
+nature of the work that we do at
+different stages changes very very late
+stage we're kind of doing a lot of this
+like sophisticated you know production
+work uh we're implementing sophisticated
+testing we're working on attribution
+we're building beautiful reporting but
+in a sense we're maintaining like this
+machine that already exists earlier
+stage we're doing a lot more of net new
+experimentation trying to discover what
+is working and what sequence of audience
+targeting versus creative asset display
+you know will work what channel mix
+works and all of that and so a lot of
+times the body of work that's required
+to nail that and the inputs to like
+literally like out front like what
+questions to be asking isn't something
+that a small in-house possesses and so
+they will work with an agency to scale
+faster to get where they're going
+quicker to bring in more resources uh
+you know quickly basically and then
+later stage sometimes it's a permutation
+of the same thing or you know we're
+really just managing a whole bunch of
+different
+capabilities that they have because it's
+very complicated and difficult to staff
+that is really interesting so it's not
+like agency versus in-house full-time
+person it's Unique both is what you're
+finding I don't think we have any
+projects that we're working on where
+there's not like a professional you know
+marketing person as our POC and
+generally the people that we report to
+have a background in what we do whether
+they ended up doing something different
+and now they're like a VP or a director
+level and not directly managing channels
+themselves is one thing or another but
+yeah I mean we we work with people that
+have in-house expertise all day long I
+see so sometimes it could just be a
+generalist marketing person that becomes
+your point of contact they don't have to
+be experienced in paper there's one more
+thing so as agencies we're constantly
+solving people's problems in the market
+and as a result of that I have a fairly
+large team of 130 people that think
+about you know Performance Marketing all
+day long it's the first thing we think
+about when we have our morning coffee
+and it's the last thing we think about
+is we're like leaving the office kind of
+we have very sophisticated and built out
+capabilities is where as well as all
+kinds of software and you know processes
+and capabilities I guess that we've
+created that most in-house teams just
+don't have because they're smaller or
+newer or you know someone might be
+really sophisticated but they don't have
+the resources to implement it and stuff
+and so in the same way that a really
+sophisticated organization might go to
+Boston Consulting Group or McKinsey to
+say hey like we did this but you do more
+of this all day long and we need advice
+on how to be more efficient people come
+to thrive saying hey we we're top of our
+game we have really strong people you
+know they absolutely know what they're
+doing which is always the case by the
+way but we're looking for extra you know
+sophistication and additional
+capabilities that are very difficult to
+create in an in-house organization
+it's why we worked with Uber for 10
+years it was tough to replace us
+yeah that's quite the retention 10 years
+uh 10 years going imagine they are our
+net dollar retention has gone up too
+yeah when you're looking to hire someone
+full-time to drive the paid growth
+Channel and or work with an agency what
+do you recommend people look for
+specifically especially things maybe
+they're not likely to think about when
+they're hiring someone that people often
+miss
+so there's a couple of competencies that
+I think are very important I found that
+so I was like a nerd as a child if you
+can't tell I don't know super nerdy
+geeky kid I would like
+I would take apart my parents computers
+I try and rebuild them I you know was
+fooling around with bulletin boards you
+know before websites existed stuff like
+that and then I became a web developer
+and as I transitioned into a you know a
+Performance Marketing role I realized
+that being Technical and having
+technical aptitudes was extraordinarily
+helpful in terms of being on the front
+line of what we were doing and solving
+problems so if you're making your first
+hire you probably want them to be to
+have the Ingenuity and capability to
+solve a lot of the problems that you're
+going to run into within the context of
+tracking attribution data visualization
+and then campaign management so number
+one do they have a technical background
+that can be multi-disciplinary at Thrive
+you know we have someone who is is a a
+nuclear physicist that left you know
+that discipline and became a performance
+marketer we have people who have left
+mathematics and become performance
+marketers people who left Finance full
+stack engineering like all kinds of
+stuff those are technical Fields where
+people tend to be good at math and good
+at problem solving and so that's like a
+strong piece of evidence that they might
+have a strong aptitude for Performance
+Marketing and managing this
+another thing is just you know uh
+literally do they have experience in
+this discipline so like have they
+managed on any level you know meta ads
+Google ads Tick Tock Amazon some of the
+things we talked about do they have an
+appreciation for some of the inputs that
+we just discussed today that you know
+ultimately make
+um for create the conditions for Success
+within a Performance Marketing
+environment so do they understand the
+role of creative do they understand the
+role of proper attribution and are they
+capable of understanding the mechanics
+of your business and so on and so forth
+so I would say just fundamentally those
+are some of the areas that you know when
+we are interviewing we're looking for as
+an agency too we are looking for
+the ability to work with people and be
+excellent at client services and so one
+of the you know questions we might ask I
+actually borrowed a Jeff Bezos question
+from early stage Amazon where I asked
+people you know without much warning in
+an interview I'll ask them whether it's
+okay to do a bit of a thought experiment
+together and whether they are
+comfortable you know asking a logic or
+responding to a logic question and I'll
+ask the question of how many windows are
+there in New York City and so there's
+two things that I look for in this in
+this scenario one is can they think on
+their feet so I'm not actually looking
+for the correct answer it's a pretty
+difficult question to solve but like
+number one do you realize that windows
+are not just building windows and you
+know windows are also in cars and trucks
+and stuff like that so there's more than
+one type of window and then can you just
+do the arithmetic of saying like you
+know there's so many buildings per
+hectare or square mile or whatever it is
+and you know it's division
+multiplication type stuff but also from
+a client services point of view I'm
+trying to see whether in a scenario
+where I've asked them something that
+they obviously probably weren't prepared
+for that is a strange thing to ask and
+probably makes them feel a little bit
+uncomfortable how they react in that
+situation so do they remain composed or
+do they lose their composure to get
+frustrated or even angry you know that I
+ask them something that's pretty weird
+to ask their reaction there is often a
+good leading indicator of whether or not
+in a client scenario working with our
+clients they can you know compose
+themselves in a difficult situation
+very tactically what level of experience
+do you recommend people look for in
+their first Performance Marketing hire
+like year two four or five years longer
+I've seen people who have like 10 years
+of experience in the industry not be
+that great and then I've seen people who
+have like one year of experience be
+absolutely phenomenal so I would say
+that like again like you know the years
+of service under their belt is
+one clue or piece of evidence to their
+potential aptitude but really you know
+uh you want someone who can clearly
+demonstrate to you that they can
+confidently run the channels I suppose
+if if what you're asking is like
+literally like at the level where
+someone is like managing you know
+pay-per-click and programmatic media
+buying then yeah then you want to make
+sure that they can just do that and I
+would say it's less about like the years
+of experience a lot of times people only
+want to do those types of jobs for a
+couple years before they're like hey
+what's your plan for me like I'm tired
+of running ads and building campaigns I
+want to manage the people who do that
+now and so you know the people who tend
+to really do that are often somewhat
+earlier on in their careers and so
+that's just a reality that we see
+one more very technical question what do
+you recommend the title for this role be
+growth marketer something else I've seen
+so many different you know names for
+this so I think again if the intention
+is to grow out a growth marketing
+capability which again is not exclusive
+to Performance Marketing then you're
+looking for a manager role of you know
+growth marketing manager I've seen paid
+acquisition Specialists for people
+who've just manage channels I've seen
+paid acquisition manager Performance
+Marketing Manager meteor media planner
+and buyer I've seen all kinds of
+different roles but
+when we are launching a new role these
+days there's such wonderful tools like
+everything from Glassdoor to LinkedIn to
+pay scale you know where you can
+essentially just look at what other
+people are calling it and borrow from
+their role descriptions and then you
+know create your own role description
+and then determine what role is
+Meaningful in the context of your own
+organization
+awesome
+last question we started with the story
+of how you landed Uber and I know you
+also have an interesting story which I
+haven't heard of how you land in snap
+snap Snapchat as a client so maybe tell
+that story it's a fun story and I think
+it's about ultimately you know
+confidence and knowing your craft and so
+I believe it was like 2015 or 2016.
+we're essentially contacted to
+participate in an RFP down in Los
+Angeles and rfps are difficult processes
+and essentially you know a department of
+a company is saying we we want
+Performance Marketing and hear all the
+questions that we're going to ask you
+and exercises you need to complete in
+order to vet you as to whether you're
+the right partner or not and so
+sometimes rfps are incredibly thoughtful
+and they're run by people who have
+either done a lot of rfps in the context
+of what we do or they know specifically
+you know what the outcome is and then in
+other cases they're very like
+experienced marketing department with
+senior people and an approach that they
+may take is like every stakeholder
+within that department gets to submit
+one or two questions you know to a long
+list of questions and the you know the
+the respondents have to like respond to
+all of this and so the the RFP process
+for SNAP was somewhat complex and they
+asked a range of different questions and
+we find ourselves
+in La at a hotel the night before
+it's two o'clock in the morning my
+business partner and I and another team
+member that we had brought down are
+sweating and we're like how are we going
+to build a presentation out of this like
+they're asking so many well-meaning but
+difficult questions that are zigging and
+zagging and like you know in a pitch
+situation you want to tell a story it's
+important and that story has to have a
+beginning middle and end and it was just
+difficult and yet here we were and we
+had worked with like all these really
+cool organizations and I was very
+confident that we knew precisely what we
+were doing and I kind of had
+this Eureka moment where I was like
+here's what we're gonna do it was it was
+uh Brent McArthur my business partner
+and I kind of arrived at this together
+but we're kind of like here's what we're
+gonna do
+we're gonna have a completely you know
+unique take on how to respond to this
+and we're going to build a deck you know
+that's bespoke around like X Y and Z and
+so
+we work till like six in the morning I
+think we get a couple hours of sleep and
+then by like 10 o'clock we're sitting in
+their offices
+and essentially the pitch is something
+like this I stand there in front of
+about 20 different Executives from their
+organization and I say
+you have thoughtfully curated an RFP for
+us to respond to today and you have
+asked us to respond to about 20 to 30
+different questions
+with the utmost respect I am not going
+to answer any of your questions today
+I'm standing here because
+you are looking for a marketing partner
+and you need expertise in this area and
+instead of telling you the answers to
+the questions that you asked I'm going
+to tell you what I think you need to do
+to get where you want to go and if you
+agree with me and my logic and what I
+talk to you about here today then you
+should hire us and if you do not agree
+with my logic and you think that we're
+out to lunch then you should not hire us
+everybody you could hear a pin drop in
+the room my own team I think was a
+little bit surprised we had a whole
+bunch of like technical difficulties
+that day like someone who's supposed to
+zoom in like couldn't make it and so I
+have to like ad-lib part of the pitch
+that I wasn't prepared for like lots of
+Zig and zags
+they thank us for our RFP response lots
+of handshakes and smiling faces but we
+don't know whether we're going to land
+the client or not and then about two
+hours later I was driving to San
+Francisco with a friend immediately like
+leave La for SF because I had a bunch of
+follow-on meetings and I get a phone
+call and they were like we loved your
+approach congratulations you're hired
+and so you know these days I think snap
+is still a really interesting
+organization but at the time they were
+kind of bringing the future of
+a social platform or what a social
+platform could be in the same way that
+we think about Tick Tock right now Tick
+Tock you know wasn't on the scene yet
+and Facebook was very worried about snap
+and there was tons of engagement on
+snacks so snap so this was like like you
+know the it client of the day and it
+felt amazing and essentially you know
+the lesson was that you have to trust
+yourself and understand your strengths
+and weaknesses and in situations where
+someone is well-meaning but may not
+understand
+you know what they need be brave and
+tell them what they need rather than
+just conforming to what they're asking
+for because sometimes inadvertently that
+leads you down the wrong path and so we
+took a big risk and it had a wonderful
+payoff and we have in addition to this
+story you know we had a wonderful
+relationship with them for a couple
+years
+I love that story I love how dramatic
+all your new customers uh your way of
+acquiring customers and yeah I imagine
+not all of them are this dramatic
+and all of them are this dramatic but
+there have been some pretty dramatic
+ones and I think you know part of
+running a business and running an agency
+has been the curation and experience
+around all these fun crazy stories that
+have accumulated as we run this really
+interesting Services business
+awesome well with that we've reached our
+very exciting lightning round I've got
+six questions for you are you ready for
+um ready let's do it okay great looking
+very excited okay first question what
+are two or three books that you've
+recommended most to other people
+so as a marketer story worthy by Matthew
+Dix is a wonderful book he is like a
+world-class Storyteller I don't know if
+you know him and he wrote this book
+about how to structure and think about
+The Art of Storytelling and every
+marketer should read story worthy it was
+a huge contributor to how I think about
+you know what we do at Thrive as an
+entrepreneur I love startup stories so
+shoe dog which is the startup story of
+Nike it's basically you know Phil Knight
+talking about all the ups and downs and
+it's it's crazy like Nike shouldn't be a
+company at this you know based on all
+the turmoil and challenges that they
+overcame and so you know fascinating
+read about taking risk and doing what
+you think is right and ultimately you
+know succeeding and building Nike and
+then a book by Nick Bilton it's called
+American Kingpin which is the story of
+the startup of the Silk Road which was
+like this dark web you know Mark
+Marketplace for some pretty bad stuff
+but it is half Tech story you know
+startup story and half gangster kind of
+Kingpin story it honestly should be a
+Hollywood movie it reads like a
+Hollywood thriller so awesome great book
+favorite recent movie or TV show I don't
+know how recent it is but I love The Big
+Short just love it not recent at all but
+it's still great it's still great and
+the reason why I like it is because
+someone found truth in the data they
+were analyzing and then capitalized on
+it which is really an analog for what we
+do in Performance Marketing
+and then recently I have fallen in love
+with White Lotus for no particular
+reason it's just raw entertainment
+what's something you've
+changed in the way that you all operate
+that's been relatively minor in terms of
+how hard it was to change but that had a
+tremendous impact on your ability to
+execute as a team or a company the tools
+that we use in Performance Marketing
+change constantly so the channels
+themselves change and therefore what
+problems exist and what you know SAS
+companies or different types of
+platforms offer as solutions to problems
+change and so I don't think it's one
+thing necessarily this might be a bit of
+a roundabout answer here but I mentioned
+that change itself earlier is something
+that humans seem to not love whereas in
+our industry and I don't think we're
+alone here but there's a culture of
+change and so a welcoming of change
+aptitude around change implementing you
+know having a playful mindset with new
+technology and tools rather than being
+upset about the fact that you know AI
+exists or third-party cookies are being
+deprecated or iOS 14 removed idfa and
+then trying to be creative around those
+types of solutions has been like a
+constant for us so it's not I'm kind of
+sidestepping the question a little bit
+but it is the the cultural willingness
+to adapt that I think has been a strong
+suit for us as a company speaking of
+tools final question what is your
+favorite most underrated tool for
+Performance Marketing work it's
+thrivestack so it's a tool that we built
+in-house that allows us to Hype
+third-party data and customer anonymized
+customer level data into a database and
+then ultimately visualize it in a format
+like data Studio Google data Studio
+which I think now is called looker
+Studio that has been a profoundly
+powerful
+platform from which we're capable of
+delivering insights that are built upon
+the data as opposed to just regurgitated
+data if that makes sense we have not
+released this this technology yet it's
+basically a tool we use in-house with
+our clients but to a certain extent I
+mentioned super metrics which is another
+ETL and has some of the same
+capabilities but isn't quite as powerful
+amazing Jonathan this is by far the
+deepest I've ever gone into the world of
+paid growth I really appreciate you
+making time and sharing all of your
+wisdom with us two final questions where
+can folks find you online if they want
+to learn more reach out to ask some
+questions maybe and how can listeners be
+useful to you thank you for having me
+again by the way this was a lot of fun
+so I'm available through Thrive so
+thrivedigital.com you can contact us
+through our site by accessing the con
+the contact form personally I'm on
+LinkedIn under my name Jonathan Becker
+or Twitter Jay Z Becker and then and you
+know things that would be interesting
+from the audience always looking for
+feedback in terms of whether people
+agree or disagree you know with thoughts
+and feelings that we have about what we
+do and obviously always looking for
+amazing people you know ultimately to to
+join our team at Thrive so if you're a
+practitioner of growth marketing or
+Performance Marketing and you're looking
+for a top place you know to spend some
+time would love to talk to you and also
+I suppose if you need some help you know
+making this stuff work within the
+context of your own organization we love
+to be at your service awesome and what
+is the URL again
+thrivedigital.com Sweet and yes for
+feedback be careful what you wish for we
+get some hilarious C2 comments let's see
+we'll see what comes in on this one
+sounds good Jonathan thank you so much
+for being here pleasure thanks Lenny
+thanks for having me bye everyone
+thank you so much for listening if you
+found this valuable you can subscribe to
+the show on Apple podcast Spotify or
+your favorite podcast app also please
+consider giving us a rating or leaving a
+review as that really helps other
+listeners find the podcast you can find
+all past episodes or learn more about
+the show at lennyspodcast.com
+see you in the next episode
